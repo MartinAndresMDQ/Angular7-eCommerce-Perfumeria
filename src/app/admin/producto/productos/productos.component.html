@@ -1,0 +1,242 @@
+<div class="row">
+  <div class="col-md-12">
+
+
+
+    <section class="login-page section-b-space">
+      <div class="container">
+        <div class="row">
+          <h3>Productos</h3>
+          <div class="theme-card">
+
+
+            <!-- <nb-card>
+      <nb-card-header>
+        Productos
+      </nb-card-header>
+      <nb-card-body> -->
+
+            <ng-template #content let-modal>
+
+              <div class="modal-header">
+                <h4 class="modal-title pull-left">Editar Producto</h4>
+              </div>
+              <div class="modal-body">
+
+                <!-- <nb-card>
+                <nb-card-header>Editar Producto</nb-card-header>
+                <nb-card-body class="col-md-12"> -->
+                <div class="col-md-12 text-center">
+                  <kendo-buttongroup [selection]="'single'">
+                    <button kendoButton [toggleable]="true" [primary]="edit.category=='Perfume'" (click)="edit.category='Perfume'">Perfume</button>
+                    <button kendoButton [toggleable]="true" [primary]="edit.category=='Ropa'" (click)="edit.category='Ropa'"
+                      [disabled]="true">Ropa</button>
+                    <button kendoButton [toggleable]="true" [primary]="edit.category=='Otro'" (click)="edit.category='Otro'"
+                      [disabled]="true">Otro</button>
+                  </kendo-buttongroup>
+                </div>
+                <div class="col-md-12">
+                  <kendo-textbox-container floatingLabel="Codigo">
+                    <!-- <p style="margin-bottom: 0px;">Codigo</p> -->
+                    <!-- <label>Codigo</label> -->
+                    <input kendoTextBox [(ngModel)]="edit.code" />
+                  </kendo-textbox-container>
+                </div>
+
+                <div class="col-md-12">
+                  <kendo-textbox-container floatingLabel="Nombre">
+                    <input kendoTextBox [(ngModel)]="edit.name" />
+                  </kendo-textbox-container>
+                </div>
+
+                <div class="col-md-12">
+                  <kendo-textbox-container floatingLabel="Detalles Cortos">
+                    <input kendoTextBox [(ngModel)]="edit.shortDetails" />
+                  </kendo-textbox-container>
+                </div>
+                <br />
+                <div class="col-md-12">
+                  <kendo-textbox-container floatingLabel="Descripcion">
+                    <textarea kendoTextArea [(ngModel)]="edit.description"></textarea>
+                  </kendo-textbox-container>
+                </div>
+
+                <div class="col-md-12">
+                  <kendo-textbox-container floatingLabel="Cantidad en Stock">
+                    <input kendoTextBox type="number" [(ngModel)]="edit.stock" />
+                  </kendo-textbox-container>
+                </div>
+
+                <div class="col-md-12">
+                  <p>Genero</p>
+                  <kendo-dropdownlist [data]="listGenero" [(ngModel)]="edit.gender">
+                  </kendo-dropdownlist>
+                </div>
+
+
+                <div class="col-md-12">
+                  <p>Tipo</p>
+                  <kendo-dropdownlist [data]="listTipo" [(ngModel)]="edit.type" [textField]="'description'"
+                    [valueField]="'id'">
+                  </kendo-dropdownlist>
+                </div>
+
+                <div class="col-md-12">
+                  <p>Marca</p>
+                  <kendo-dropdownlist [data]="listMarca" [(ngModel)]="edit.make" [textField]="'description'"
+                    [valueField]="'id'">
+                  </kendo-dropdownlist>
+                </div>
+
+                <div class="col-md-12">
+                  <kendo-textbox-container floatingLabel="Contenido (ml)">
+                    <input kendoTextBox type="number" [(ngModel)]="edit.content" />
+                  </kendo-textbox-container>
+                </div>
+
+                <div class="col-md-12">
+                  <kendo-textbox-container floatingLabel="Precio">
+                    <input kendoTextBox type="number" [(ngModel)]="edit.price" />
+                  </kendo-textbox-container>
+                </div>
+
+                <div class="col-md-12">
+                  <kendo-textbox-container floatingLabel="Precio de Venta">
+                    <input kendoTextBox type="number" [(ngModel)]="edit.salePrice" />
+                  </kendo-textbox-container>
+                </div>
+
+                <div class="col-md-12">
+                  <kendo-textbox-container floatingLabel="Descuento">
+                    <input kendoTextBox type="number" [(ngModel)]="edit.discount" />
+                  </kendo-textbox-container>
+                </div>
+                <br />
+
+                <div class="modal-header">
+                  <h4 class="modal-title pull-left">IMAGENES</h4>
+                </div>
+                <div class="modal-body">
+
+
+                  <div class="col-md-12">
+                    <label class="btn btn-block btn-primary">
+                      Seleccionar Foto&hellip; <input type="file" (change)="uploadFile($event)" style="display: none;" />
+                    </label>
+
+                    <ngb-progressbar class="progress" [value]="uploadPercent | async" [max]="100" type="info"></ngb-progressbar>
+                    <!-- <nb-progress-bar *ngIf="uploadPercent" [value]="uploadPercent | async" [status]="'info'"
+                      [displayValue]="true"></nb-progress-bar> -->
+
+                    <h3 *ngIf="mostrar">
+                      Recuerde Guardar...
+                    </h3>
+                  </div>
+
+                  <div class="img-container">
+                    <img *ngFor="let image of imagenes" [src]="image | async" class="img-thumbnail product-img" />
+                  </div>
+
+                  <!-- <div class="input-group">
+                      <label class="input-group-btn">
+                          <span class="btn btn-primary">
+                              <input type="file" (change)="uploadFile($event)" style="display: none;"/>
+                          </span>
+                      </label>
+                      <input type="text" class="form-control" readonly>
+                  </div> -->
+                  <!-- <input type="file" ngFileSelect (uploadOutput)="onUploadOutput($event)" [uploadInput]="uploadInput"
+                    name="file" multiple required> -->
+
+                </div>
+              </div>
+              <div class="modal-footer">
+                <div class="float-right">
+                  <button class="btn btn-hero-warning" (click)="modal.close('Save click')">Cerrar</button>
+                  <button class="btn btn-hero-danger" *ngIf="idEdit && edit.show" (click)="Disabled()">Dejar de
+                    Mostrar</button>
+                  <button class="btn btn-hero-primary" *ngIf="idEdit && !edit.show" (click)="Enabled()">Mostrar</button>
+                  <button class="btn btn-hero-success" (click)="Guardar()">Guardar</button>
+                </div>
+              </div>
+            </ng-template>
+
+            <div class="row col-md-5">
+              <kendo-textbox-container style="width: 100%;" floatingLabel="Buscar...">
+                <input kendoTextBox style="width: 100%;" (keyup)='updateFilter()' [(ngModel)]="buscar" autofocus />
+              </kendo-textbox-container>
+            </div>
+            <br />
+
+            <kendo-grid #grid *ngIf="cargando" [filterable]="false" [data]="gridView" [pageSize]="pageSize" [skip]="skip"
+              [pageable]="pageable" [height]="height" [sortable]="sortable" [sort]="sort" (sortChange)="sortChange($event)"
+              [selectable]="true" (cellClick)="onEdit(content,$event)" (add)="addHandler(content,$event)" (pageChange)="pageChange($event)">
+
+              <ng-template kendoGridToolbarTemplate>
+                <button kendoGridAddCommand type="button">Agregar</button>
+              </ng-template>
+              <kendo-grid-column title="Codigo" field="code" [width]="150" filter="text" [headerStyle]="{'text-align': 'center'}">
+                <ng-template kendoGridCellTemplate let-dataItem>
+                  <p class="text-center">
+                    {{dataItem.code}}
+                  </p>
+                </ng-template>
+              </kendo-grid-column>
+
+              <kendo-grid-column field="name" title="Nombre" [width]="200" filter="text" [headerStyle]="{'text-align': 'center'}">
+                <ng-template kendoGridCellTemplate let-dataItem let-rowIndex="rowIndex">
+                  <p class="text-center">
+                    {{dataItem.name}}
+                  </p>
+                </ng-template>
+              </kendo-grid-column>
+
+              <kendo-grid-column title="Descripcion" field="description" filter="text" [headerStyle]="{'text-align': 'center'}">
+                <ng-template kendoGridCellTemplate let-dataItem>
+                  <p class="text-center">
+                    {{dataItem.description }}
+                  </p>
+                </ng-template>
+              </kendo-grid-column>
+
+              <kendo-grid-column title="Precio" field="price" [width]="150" filter="text" [headerStyle]="{'text-align': 'center'}">
+                <ng-template kendoGridCellTemplate let-dataItem>
+                  <p class="text-center">
+                    {{dataItem.price }}
+                  </p>
+                </ng-template>
+              </kendo-grid-column>
+
+              <kendo-grid-column title="Precio de Venta" field="salePrice" [width]="150" filter="text" [headerStyle]="{'text-align': 'center'}">
+                <ng-template kendoGridCellTemplate let-dataItem>
+                  <p class="text-center">
+                    {{dataItem.salePrice }}
+                  </p>
+                </ng-template>
+              </kendo-grid-column>
+
+              <kendo-grid-column title="Descuento" field="discount" [width]="150" filter="text" [headerStyle]="{'text-align': 'center'}">
+                <ng-template kendoGridCellTemplate let-dataItem>
+                  <p class="text-center">
+                    {{dataItem.discount }}
+                  </p>
+                </ng-template>
+              </kendo-grid-column>
+
+              <kendo-grid-column title="Mostrar" field="show" [width]="150" filter="text" [headerStyle]="{'text-align': 'center'}">
+                <ng-template kendoGridCellTemplate let-dataItem>
+                  <p class="text-center">
+                    <span *ngIf="!nuevo " [ngClass]="dataItem.show | trueFalse "></span>
+                  </p>
+                </ng-template>
+              </kendo-grid-column>
+
+            </kendo-grid>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- </nb-card-body>
+    </nb-card> -->
+  </div>
+</div>

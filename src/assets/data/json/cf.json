@@ -1,0 +1,11 @@
+[
+  {
+    "id": 5001,
+    "nombre": "C.A.B.A.",
+    "codigopostal": "0",
+    "provincia": {
+      "id": 2,
+      "nombre": "Capital Federal"
+    }
+  }
+]

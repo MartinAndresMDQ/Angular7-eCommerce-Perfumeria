@@ -1,0 +1,36 @@
+<!-- blog section start-->
+<section class="blog p-t-0">
+  <div class="container">
+    <div class="row">
+      <div class="col">
+        <div class="title1 section-t-space">
+          <h4>Recent Story</h4>
+          <h2 class="title-inner1">from the blog</h2>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-12">
+          <ngx-slick-carousel class="no-arrow" #slickModal="slick-carousel" [config]="blogSlideConfig">
+          <div class="col-md-12" ngxSlickItem *ngFor="let bg of blog">
+            <a [routerLink]="'/blog/details'">
+              <div class="classic-effect">
+                <img [src]="bg.image" class="img-fluid" alt="">
+                <span></span>
+              </div>
+            </a>
+            <div class="blog-details">
+              <h4>{{bg.date}}</h4>
+              <a [routerLink]="'/home/one'">
+                <p>{{bg.title}}</p>
+              </a>
+              <hr class="style1">
+              <h6>by: {{bg.by}} , 2 Comment</h6>
+            </div>
+          </div>
+        </ngx-slick-carousel>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- blog section end -->

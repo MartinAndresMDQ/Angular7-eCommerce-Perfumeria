@@ -1,0 +1,6392 @@
+[
+  {
+    "id": 11293,
+    "nombre": "10 DE MAYO",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17358,
+    "nombre": "2 DE MAYO",
+    "codigopostal": "3722",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17501,
+    "nombre": "9 DE JULIO",
+    "codigopostal": "3714",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11133,
+    "nombre": "AGUA BUENA",
+    "codigopostal": "3714",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 19128,
+    "nombre": "ALDEA FORESTAL",
+    "codigopostal": "3530",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11312,
+    "nombre": "ALELOY",
+    "codigopostal": "3703",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 19045,
+    "nombre": "ALMIRANTE BROWN",
+    "codigopostal": "3701",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11219,
+    "nombre": "AMAMBAY",
+    "codigopostal": "3718",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11419,
+    "nombre": "ARBOL SOLO",
+    "codigopostal": "3513",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11080,
+    "nombre": "ARROYO QUINTANA",
+    "codigopostal": "3505",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11324,
+    "nombre": "AVANZADA",
+    "codigopostal": "3540",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11258,
+    "nombre": "AVIA TERAI",
+    "codigopostal": "3706",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18432,
+    "nombre": "BAJO HONDO",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18487,
+    "nombre": "BAJO VERDE",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11369,
+    "nombre": "BARRANQUERAS",
+    "codigopostal": "3503",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11199,
+    "nombre": "BARRIO GRAL JOSE DE SAN MARTIN",
+    "codigopostal": "3700",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11200,
+    "nombre": "BARRIO SARMIENTO",
+    "codigopostal": "3700",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11374,
+    "nombre": "BASAIL",
+    "codigopostal": "3516",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18488,
+    "nombre": "BERLIN",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 19080,
+    "nombre": "BOCAS",
+    "codigopostal": "3536",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18489,
+    "nombre": "BOLSA GRANDE",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11134,
+    "nombre": "BOTIJA",
+    "codigopostal": "3714",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18907,
+    "nombre": "CABA",
+    "codigopostal": "3703",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11212,
+    "nombre": "CABEZA DE TIGRE",
+    "codigopostal": "3540",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17930,
+    "nombre": "CABRAL",
+    "codigopostal": "3730",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11145,
+    "nombre": "CABRAL CUE",
+    "codigopostal": "3518",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11375,
+    "nombre": "CACUI",
+    "codigopostal": "3514",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18490,
+    "nombre": "CALIFORNIA",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11376,
+    "nombre": "CAMPO DE GALNASI",
+    "codigopostal": "3501",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11295,
+    "nombre": "CAMPO DE LA CHOZA",
+    "codigopostal": "3514",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11296,
+    "nombre": "CAMPO ECHEGARAY",
+    "codigopostal": "3514",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18491,
+    "nombre": "CAMPO EL AIBAL",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11273,
+    "nombre": "CAMPO EL BERMEJO",
+    "codigopostal": "3509",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11215,
+    "nombre": "CAMPO EL JACARANDA",
+    "codigopostal": "3733",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18492,
+    "nombre": "CAMPO EL ONZA",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11360,
+    "nombre": "CAMPO FELDMAN",
+    "codigopostal": "3530",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17940,
+    "nombre": "CAMPO FERRANDO",
+    "codigopostal": "3730",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18493,
+    "nombre": "CAMPO GRANDE",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11259,
+    "nombre": "CAMPO LARGO",
+    "codigopostal": "3716",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18173,
+    "nombre": "CAMPO LAS PUERTAS",
+    "codigopostal": "3541",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17063,
+    "nombre": "CAMPO MORENO",
+    "codigopostal": "3734",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18175,
+    "nombre": "CAMPO NUEVO",
+    "codigopostal": "3541",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18494,
+    "nombre": "CAMPO OVEROS",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11274,
+    "nombre": "CAMPO WINTER",
+    "codigopostal": "3509",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11116,
+    "nombre": "CAMPO ZAPA",
+    "codigopostal": "3722",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11146,
+    "nombre": "CANCHA LARGA",
+    "codigopostal": "3518",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11409,
+    "nombre": "CAPITAN SOLARI",
+    "codigopostal": "3515",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17504,
+    "nombre": "CASTELLIN",
+    "codigopostal": "3714",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11185,
+    "nombre": "CERRITO",
+    "codigopostal": "3730",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11420,
+    "nombre": "CHARADAI",
+    "codigopostal": "3513",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11192,
+    "nombre": "CHARATA",
+    "codigopostal": "3730",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11216,
+    "nombre": "CHOROTIS",
+    "codigopostal": "3733",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11275,
+    "nombre": "CIERVO PETISO",
+    "codigopostal": "3515",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11260,
+    "nombre": "CNIA AGRICOLA PAMPA NAPENAY",
+    "codigopostal": "3706",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17506,
+    "nombre": "COLOMBIA",
+    "codigopostal": "3714",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17065,
+    "nombre": "COLONIA ABATE",
+    "codigopostal": "3732",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11102,
+    "nombre": "COLONIA ABORIGEN",
+    "codigopostal": "3531",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11111,
+    "nombre": "COLONIA ABORIGEN CHACO",
+    "codigopostal": "3531",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18908,
+    "nombre": "COLONIA ALELAY",
+    "codigopostal": "3703",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11201,
+    "nombre": "COLONIA BAJO HONDO",
+    "codigopostal": "3700",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11377,
+    "nombre": "COLONIA BARANDA",
+    "codigopostal": "3505",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17954,
+    "nombre": "COLONIA BARRERA",
+    "codigopostal": "3730",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11076,
+    "nombre": "COLONIA BENITEZ",
+    "codigopostal": "3505",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18814,
+    "nombre": "COLONIA BERMEJO",
+    "codigopostal": "3509",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11198,
+    "nombre": "COLONIA BERNARDINO RIVADAVIA",
+    "codigopostal": "3701",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11103,
+    "nombre": "COLONIA BLAS PARERA",
+    "codigopostal": "3531",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17066,
+    "nombre": "COLONIA BRAVO",
+    "codigopostal": "3732",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18496,
+    "nombre": "COLONIA CABEZA DE BUEY",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17415,
+    "nombre": "COLONIA CABRAL",
+    "codigopostal": "3518",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18860,
+    "nombre": "COLONIA CODUTTI",
+    "codigopostal": "3513",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11346,
+    "nombre": "COLONIA CORONEL BRANDSEN",
+    "codigopostal": "3536",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11276,
+    "nombre": "COLONIA CORONEL DORREGO",
+    "codigopostal": "3511",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11117,
+    "nombre": "COLONIA CUERO QUEMADO",
+    "codigopostal": "3722",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17067,
+    "nombre": "COLONIA DRYDALE",
+    "codigopostal": "3734",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11297,
+    "nombre": "COLONIA ECHEGARAY",
+    "codigopostal": "3514",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17068,
+    "nombre": "COLONIA ECONOMIA",
+    "codigopostal": "3732",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11112,
+    "nombre": "COLONIA EL AGUARA",
+    "codigopostal": "3534",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18497,
+    "nombre": "COLONIA EL ALAZAN",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18816,
+    "nombre": "COLONIA EL CIERVO",
+    "codigopostal": "3509",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18177,
+    "nombre": "COLONIA EL CURUPI",
+    "codigopostal": "3541",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18817,
+    "nombre": "COLONIA EL FISCAL",
+    "codigopostal": "3509",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 19130,
+    "nombre": "COLONIA EL PARAISAL",
+    "codigopostal": "3530",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11077,
+    "nombre": "COLONIA EL PILAR",
+    "codigopostal": "3505",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11325,
+    "nombre": "COLONIA EL TIGRE",
+    "codigopostal": "3541",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17069,
+    "nombre": "COLONIA EL TRIANGULO",
+    "codigopostal": "3732",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11410,
+    "nombre": "COLONIA ELISA",
+    "codigopostal": "3515",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18498,
+    "nombre": "COLONIA ESPERANZA",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18818,
+    "nombre": "COLONIA ESPERANZA",
+    "codigopostal": "3509",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 19235,
+    "nombre": "COLONIA FLORENCIA",
+    "codigopostal": "3500",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18499,
+    "nombre": "COLONIA FORTUNI",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11118,
+    "nombre": "COLONIA GENERAL NECOCHEA",
+    "codigopostal": "3722",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 27770,
+    "nombre": "COLONIA GENERAL PAZ",
+    "codigopostal": "3530",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17314,
+    "nombre": "COLONIA GUALTIERI",
+    "codigopostal": "3534",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11089,
+    "nombre": "COLONIA HAMBURGUESA",
+    "codigopostal": "3732",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11348,
+    "nombre": "COLONIA HERRERA",
+    "codigopostal": "3536",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11349,
+    "nombre": "COLONIA HIPOLITO VIEYTES",
+    "codigopostal": "3536",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18500,
+    "nombre": "COLONIA INDIGENA",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11261,
+    "nombre": "COLONIA JOSE MARMOL",
+    "codigopostal": "3700",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18501,
+    "nombre": "COLONIA JUAN JOSE CASTELLI",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11326,
+    "nombre": "COLONIA JUAN JOSE PASO",
+    "codigopostal": "3540",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11186,
+    "nombre": "COLONIA JUAN LARREA",
+    "codigopostal": "3730",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11119,
+    "nombre": "COLONIA JUAN LAVALLE",
+    "codigopostal": "3722",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11221,
+    "nombre": "COLONIA JUAN PENCO",
+    "codigopostal": "3514",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18985,
+    "nombre": "COLONIA LA AVANZADA",
+    "codigopostal": "3540",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18819,
+    "nombre": "COLONIA LA FILOMENA",
+    "codigopostal": "3509",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18502,
+    "nombre": "COLONIA LA FLORIDA CHICA",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18503,
+    "nombre": "COLONIA LA FLORIDA GRANDE",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11113,
+    "nombre": "COLONIA LA LOLA",
+    "codigopostal": "3534",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17070,
+    "nombre": "COLONIA LA MARIA LUISA",
+    "codigopostal": "3734",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17071,
+    "nombre": "COLONIA LA TOTA",
+    "codigopostal": "3734",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18988,
+    "nombre": "COLONIA LAS AVISPAS",
+    "codigopostal": "3540",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 27771,
+    "nombre": "COLONIA LEANDRO N ALEM",
+    "codigopostal": "3534",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 19001,
+    "nombre": "COLONIA LOS GANZOS",
+    "codigopostal": "3540",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18977,
+    "nombre": "COLONIA LOTE 10",
+    "codigopostal": "3540",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18979,
+    "nombre": "COLONIA LOTE 12",
+    "codigopostal": "3543",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18981,
+    "nombre": "COLONIA LOTE 3",
+    "codigopostal": "3543",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18863,
+    "nombre": "COLONIA LUCINDA",
+    "codigopostal": "3513",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11262,
+    "nombre": "COLONIA MALGRATTI",
+    "codigopostal": "3716",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11263,
+    "nombre": "COLONIA MARIANO SARRATEA",
+    "codigopostal": "3706",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11327,
+    "nombre": "COLONIA MATHEU",
+    "codigopostal": "3540",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11222,
+    "nombre": "COLONIA MIXTA",
+    "codigopostal": "3514",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18504,
+    "nombre": "COLONIA MONTE QUEMADO",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17077,
+    "nombre": "COLONIA NECOCHEA SUD",
+    "codigopostal": "3732",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 19236,
+    "nombre": "COLONIA PALMIRA",
+    "codigopostal": "3500",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11298,
+    "nombre": "COLONIA POPULAR",
+    "codigopostal": "3505",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 27653,
+    "nombre": "COLONIA PUEBLO VIEJO",
+    "codigopostal": "3531",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11378,
+    "nombre": "COLONIA PUENTE PHILIPON",
+    "codigopostal": "3514",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11361,
+    "nombre": "COLONIA PUENTE URIBURU",
+    "codigopostal": "3530",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 27659,
+    "nombre": "COLONIA QUEBRACHALES",
+    "codigopostal": "3733",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11147,
+    "nombre": "COLONIA RIO DE ORO",
+    "codigopostal": "3518",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11277,
+    "nombre": "COLONIA RODRIGUEZ PE",
+    "codigopostal": "3511",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18820,
+    "nombre": "COLONIA SABINA",
+    "codigopostal": "3509",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18505,
+    "nombre": "COLONIA SAN ANTONIO",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18821,
+    "nombre": "COLONIA SAN ANTONIO",
+    "codigopostal": "3509",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11350,
+    "nombre": "COLONIA SANTA ELENA",
+    "codigopostal": "3536",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17971,
+    "nombre": "COLONIA SCHMIDT",
+    "codigopostal": "3730",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11278,
+    "nombre": "COLONIA SIETE ARBOLES",
+    "codigopostal": "3509",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 27658,
+    "nombre": "COLONIA TA",
+    "codigopostal": "3733",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11379,
+    "nombre": "COLONIA TACUARI",
+    "codigopostal": "3516",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18822,
+    "nombre": "COLONIA TRES LAGUNAS",
+    "codigopostal": "3509",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11313,
+    "nombre": "COLONIA VELEZ SARSFIELD",
+    "codigopostal": "3703",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17085,
+    "nombre": "COLONIA WELHERS",
+    "codigopostal": "3732",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11411,
+    "nombre": "COLONIAS UNIDAS",
+    "codigopostal": "3515",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18506,
+    "nombre": "COMANDANCIA FRIAS",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11135,
+    "nombre": "CONCEPCION DEL BERMEJO",
+    "codigopostal": "3708",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11299,
+    "nombre": "CORONEL AVALOS",
+    "codigopostal": "3505",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11351,
+    "nombre": "CORONEL BRANDSEN",
+    "codigopostal": "3536",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11328,
+    "nombre": "CORONEL DU GRATY",
+    "codigopostal": "3541",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18507,
+    "nombre": "CORRALITO",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11220,
+    "nombre": "CORZUELA",
+    "codigopostal": "3718",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17232,
+    "nombre": "COSTA INE",
+    "codigopostal": "3505",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11421,
+    "nombre": "COTE LAI",
+    "codigopostal": "3513",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11352,
+    "nombre": "CUATRO ARBOLES",
+    "codigopostal": "3536",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 19132,
+    "nombre": "CUATRO BOCAS",
+    "codigopostal": "3530",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 19089,
+    "nombre": "CURANDU",
+    "codigopostal": "3532",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17355,
+    "nombre": "CURVA DE NOVOA",
+    "codigopostal": "3722",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18509,
+    "nombre": "DO",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17356,
+    "nombre": "DOS BOLICHES",
+    "codigopostal": "3722",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11330,
+    "nombre": "EL ",
+    "codigopostal": "3541",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17421,
+    "nombre": "EL 14",
+    "codigopostal": "3518",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18510,
+    "nombre": "EL 15",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18824,
+    "nombre": "EL 15",
+    "codigopostal": "3509",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18511,
+    "nombre": "EL AIBAL",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18512,
+    "nombre": "EL ASUSTADO",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11380,
+    "nombre": "EL BA",
+    "codigopostal": "3516",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11314,
+    "nombre": "EL BOQUERON",
+    "codigopostal": "3703",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17507,
+    "nombre": "EL CA",
+    "codigopostal": "3714",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11120,
+    "nombre": "EL CAJON",
+    "codigopostal": "3722",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11148,
+    "nombre": "EL CAMPAMENTO",
+    "codigopostal": "3524",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11264,
+    "nombre": "EL CATORCE",
+    "codigopostal": "3706",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17094,
+    "nombre": "EL CUADRADO",
+    "codigopostal": "3734",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18956,
+    "nombre": "EL CUARENTA Y SEIS",
+    "codigopostal": "3703",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11353,
+    "nombre": "EL CURUNDU",
+    "codigopostal": "3536",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18513,
+    "nombre": "EL DESIERTO",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18909,
+    "nombre": "EL DESTIERRO",
+    "codigopostal": "3703",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11242,
+    "nombre": "EL ESPINILLO",
+    "codigopostal": "3703",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11329,
+    "nombre": "EL ESQUINERO",
+    "codigopostal": "3543",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11090,
+    "nombre": "EL ESTERO",
+    "codigopostal": "3734",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17370,
+    "nombre": "EL ESTERO",
+    "codigopostal": "3722",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17508,
+    "nombre": "EL GUANACO",
+    "codigopostal": "3714",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17510,
+    "nombre": "EL INDIO",
+    "codigopostal": "3714",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11149,
+    "nombre": "EL LAPACHO",
+    "codigopostal": "3518",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11150,
+    "nombre": "EL MIRASOL",
+    "codigopostal": "3524",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11232,
+    "nombre": "EL OBRAJE",
+    "codigopostal": "3514",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11121,
+    "nombre": "EL ORO BLANCO",
+    "codigopostal": "3722",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11370,
+    "nombre": "EL PALMAR",
+    "codigopostal": "3501",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17104,
+    "nombre": "EL PALMAR",
+    "codigopostal": "3732",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17437,
+    "nombre": "EL PALMAR",
+    "codigopostal": "3518",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 19092,
+    "nombre": "EL PALMAR",
+    "codigopostal": "3536",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 19136,
+    "nombre": "EL PALMAR",
+    "codigopostal": "3531",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11316,
+    "nombre": "EL PALMAR  TRES ISLETAS",
+    "codigopostal": "3703",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17512,
+    "nombre": "EL PARAISO",
+    "codigopostal": "3714",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18825,
+    "nombre": "EL PERDIDO",
+    "codigopostal": "3509",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17981,
+    "nombre": "EL PICASO",
+    "codigopostal": "3730",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11243,
+    "nombre": "EL PINTADO",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11091,
+    "nombre": "EL PORONGAL",
+    "codigopostal": "3734",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11331,
+    "nombre": "EL PORVENIR",
+    "codigopostal": "3543",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11187,
+    "nombre": "EL PUCA",
+    "codigopostal": "3730",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17116,
+    "nombre": "EL PUMA",
+    "codigopostal": "3734",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11245,
+    "nombre": "EL QUEBRACHAL",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 19083,
+    "nombre": "EL RAIGONAL",
+    "codigopostal": "3536",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17373,
+    "nombre": "EL RECOVECO",
+    "codigopostal": "3722",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17375,
+    "nombre": "EL RECOVO",
+    "codigopostal": "3722",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18514,
+    "nombre": "EL RECREO",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11151,
+    "nombre": "EL RETIRO",
+    "codigopostal": "3522",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17122,
+    "nombre": "EL SALADILLO",
+    "codigopostal": "3734",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18515,
+    "nombre": "EL SAUZAL",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11246,
+    "nombre": "EL SAUZALITO",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18517,
+    "nombre": "EL SIMBOLAR",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 19139,
+    "nombre": "EL TACURUZAL",
+    "codigopostal": "3530",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11114,
+    "nombre": "EL TOTORAL",
+    "codigopostal": "3534",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11078,
+    "nombre": "EL TRAGADERO",
+    "codigopostal": "3505",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11320,
+    "nombre": "EL TREINTA Y SEIS",
+    "codigopostal": "3703",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11122,
+    "nombre": "EL TRIANGULO",
+    "codigopostal": "3706",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17123,
+    "nombre": "EL TRIANGULO",
+    "codigopostal": "3732",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 19399,
+    "nombre": "EL TUPI KILOMETRO 474",
+    "codigopostal": "3513",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17513,
+    "nombre": "EL VALLA",
+    "codigopostal": "3714",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18530,
+    "nombre": "EL VISCACHERAL",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 19142,
+    "nombre": "EL ZANJON",
+    "codigopostal": "3530",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11092,
+    "nombre": "EL ZAPALLAR",
+    "codigopostal": "3509",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11332,
+    "nombre": "ENRIQUE URIEN",
+    "codigopostal": "3543",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 19421,
+    "nombre": "ESTANCIA EL SABALO",
+    "codigopostal": "3513",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 19239,
+    "nombre": "ESTANCIA LA AURORA",
+    "codigopostal": "3516",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18531,
+    "nombre": "ESTANCIA LOMA ALTA",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11422,
+    "nombre": "ESTERO REDONDO",
+    "codigopostal": "3513",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18533,
+    "nombre": "EX FORTIN ARENALES",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18534,
+    "nombre": "EX FORTIN COMANDANTE FRIAS",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18535,
+    "nombre": "EX FORTIN LAVALLE",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18536,
+    "nombre": "EX FORTIN PEREZ MILLAN",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18537,
+    "nombre": "EX FORTIN WILDE",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18538,
+    "nombre": "EX FORTIN ZELAVA",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18532,
+    "nombre": "EX FORTIN ZELAYA",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11152,
+    "nombre": "FLORADORA",
+    "codigopostal": "3522",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11381,
+    "nombre": "FONTANA",
+    "codigopostal": "3514",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11354,
+    "nombre": "FORTIN AGUILAR",
+    "codigopostal": "3532",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11300,
+    "nombre": "FORTIN CARDOSO",
+    "codigopostal": "3513",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11355,
+    "nombre": "FORTIN CHAJA",
+    "codigopostal": "3536",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11265,
+    "nombre": "FORTIN LAS CHU",
+    "codigopostal": "3716",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11247,
+    "nombre": "FORTIN LAVALLE",
+    "codigopostal": "3703",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11333,
+    "nombre": "FORTIN POTRERO",
+    "codigopostal": "3540",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 19071,
+    "nombre": "FORTIN TOTORALITA LUGAR HISTOR",
+    "codigopostal": "3701",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11248,
+    "nombre": "FUERTE ESPERANZA",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11093,
+    "nombre": "GANCEDO",
+    "codigopostal": "3734",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11153,
+    "nombre": "GANDOLFI",
+    "codigopostal": "3526",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11088,
+    "nombre": "GENERAL CAPDEVILA",
+    "codigopostal": "3732",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11301,
+    "nombre": "GENERAL DONOVAN",
+    "codigopostal": "3514",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11279,
+    "nombre": "GENERAL JOSE DE SAN MARTIN",
+    "codigopostal": "3509",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11193,
+    "nombre": "GENERAL NECOCHEA",
+    "codigopostal": "3730",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11302,
+    "nombre": "GENERAL OBLIGADO",
+    "codigopostal": "3513",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11094,
+    "nombre": "GENERAL PINEDO",
+    "codigopostal": "3732",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11154,
+    "nombre": "GENERAL VEDIA",
+    "codigopostal": "3522",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11202,
+    "nombre": "GIRASOL",
+    "codigopostal": "3703",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11347,
+    "nombre": "GUAYAIBI",
+    "codigopostal": "3531",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11155,
+    "nombre": "GUAYCURU",
+    "codigopostal": "3518",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11433,
+    "nombre": "HAUMONIA",
+    "codigopostal": "3543",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11095,
+    "nombre": "HERMOSO CAMPO",
+    "codigopostal": "3733",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11223,
+    "nombre": "HIVONNAIT",
+    "codigopostal": "3514",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11423,
+    "nombre": "HORQUILLA",
+    "codigopostal": "3543",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17998,
+    "nombre": "INDIA MUERTA",
+    "codigopostal": "3730",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11412,
+    "nombre": "INGENIERO BARBET",
+    "codigopostal": "3515",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 19402,
+    "nombre": "INVERNADA",
+    "codigopostal": "3543",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18006,
+    "nombre": "IPORA GUAZU",
+    "codigopostal": "3730",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11081,
+    "nombre": "ISLA ANTEQUERA",
+    "codigopostal": "3505",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11156,
+    "nombre": "ISLA DEL CERRITO",
+    "codigopostal": "3505",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11096,
+    "nombre": "ITIN",
+    "codigopostal": "3733",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11241,
+    "nombre": "JUAN JOSE CASTELLI",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17402,
+    "nombre": "KILOMETRO 1183",
+    "codigopostal": "3714",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11203,
+    "nombre": "KILOMETRO 15",
+    "codigopostal": "3700",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11249,
+    "nombre": "KILOMETRO 184",
+    "codigopostal": "3620",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11233,
+    "nombre": "KILOMETRO 2 FCGB",
+    "codigopostal": "3514",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11104,
+    "nombre": "KILOMETRO 22",
+    "codigopostal": "3534",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11234,
+    "nombre": "KILOMETRO 22",
+    "codigopostal": "3514",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11224,
+    "nombre": "KILOMETRO 29",
+    "codigopostal": "3514",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11225,
+    "nombre": "KILOMETRO 34",
+    "codigopostal": "3514",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11382,
+    "nombre": "KILOMETRO 34",
+    "codigopostal": "3516",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11226,
+    "nombre": "KILOMETRO 38",
+    "codigopostal": "3514",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11280,
+    "nombre": "KILOMETRO 39",
+    "codigopostal": "3509",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18597,
+    "nombre": "KILOMETRO 40",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11281,
+    "nombre": "KILOMETRO 42",
+    "codigopostal": "3509",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11424,
+    "nombre": "KILOMETRO 443",
+    "codigopostal": "3513",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 19404,
+    "nombre": "KILOMETRO 474",
+    "codigopostal": "3513",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11282,
+    "nombre": "KILOMETRO 48",
+    "codigopostal": "3509",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11425,
+    "nombre": "KILOMETRO 498",
+    "codigopostal": "3543",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11227,
+    "nombre": "KILOMETRO 5",
+    "codigopostal": "3514",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11303,
+    "nombre": "KILOMETRO 501",
+    "codigopostal": "3513",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18892,
+    "nombre": "KILOMETRO 519",
+    "codigopostal": "3513",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11426,
+    "nombre": "KILOMETRO 520",
+    "codigopostal": "3543",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11097,
+    "nombre": "KILOMETRO 523",
+    "codigopostal": "3733",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18870,
+    "nombre": "KILOMETRO 523",
+    "codigopostal": "3505",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11405,
+    "nombre": "KILOMETRO 525",
+    "codigopostal": "3545",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 19423,
+    "nombre": "KILOMETRO 53",
+    "codigopostal": "3543",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11406,
+    "nombre": "KILOMETRO 530",
+    "codigopostal": "3545",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11416,
+    "nombre": "KILOMETRO 575",
+    "codigopostal": "3515",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11283,
+    "nombre": "KILOMETRO 59",
+    "codigopostal": "3509",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11213,
+    "nombre": "KILOMETRO 596",
+    "codigopostal": "3541",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11413,
+    "nombre": "KILOMETRO 602",
+    "codigopostal": "3515",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18827,
+    "nombre": "KILOMETRO 62",
+    "codigopostal": "3509",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11157,
+    "nombre": "KILOMETRO 76 RIO BERMEJO",
+    "codigopostal": "3526",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11321,
+    "nombre": "KILOMETRO 841",
+    "codigopostal": "3703",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18910,
+    "nombre": "KILOMETRO 855 ESTACION",
+    "codigopostal": "3703",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11322,
+    "nombre": "KILOMETRO 884",
+    "codigopostal": "3703",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11334,
+    "nombre": "LA ",
+    "codigopostal": "3540",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17514,
+    "nombre": "LA AGUADA",
+    "codigopostal": "3714",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17650,
+    "nombre": "LA ARGENTINA",
+    "codigopostal": "3714",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18539,
+    "nombre": "LA ARMONIA",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18540,
+    "nombre": "LA CA",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 19052,
+    "nombre": "LA CHACO",
+    "codigopostal": "3701",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17657,
+    "nombre": "LA CHINA",
+    "codigopostal": "3714",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11362,
+    "nombre": "LA CHIQUITA",
+    "codigopostal": "3701",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11304,
+    "nombre": "LA CHOZA",
+    "codigopostal": "3513",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11343,
+    "nombre": "LA CLOTILDE",
+    "codigopostal": "3701",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11383,
+    "nombre": "LA COLONIA",
+    "codigopostal": "3500",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18541,
+    "nombre": "LA COSTOSA",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18774,
+    "nombre": "LA CUCHILLA",
+    "codigopostal": "3716",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 25570,
+    "nombre": "LA CUCHILLA",
+    "codigopostal": "3734",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11417,
+    "nombre": "LA DIFICULTAD",
+    "codigopostal": "3515",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17145,
+    "nombre": "LA ECONOMIA",
+    "codigopostal": "3732",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11294,
+    "nombre": "LA EDUVIGIS",
+    "codigopostal": "3507",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11228,
+    "nombre": "LA ELABORADORA",
+    "codigopostal": "3514",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18542,
+    "nombre": "LA ENTRADA",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11235,
+    "nombre": "LA ESCONDIDA",
+    "codigopostal": "3514",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11105,
+    "nombre": "LA ESPERANZA",
+    "codigopostal": "3534",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17444,
+    "nombre": "LA ESPERANZA",
+    "codigopostal": "3518",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18543,
+    "nombre": "LA ESPERANZA",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18545,
+    "nombre": "LA ESTACION",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11311,
+    "nombre": "LA EVANGELICA",
+    "codigopostal": "3505",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18546,
+    "nombre": "LA FIDELIDAD",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18777,
+    "nombre": "LA FLECHA",
+    "codigopostal": "3716",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18547,
+    "nombre": "LA FLOJERA",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11384,
+    "nombre": "LA GANADERA",
+    "codigopostal": "3505",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18548,
+    "nombre": "LA GRINGA",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17664,
+    "nombre": "LA ILUSION",
+    "codigopostal": "3714",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18549,
+    "nombre": "LA INVERNADA",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11385,
+    "nombre": "LA ISLA",
+    "codigopostal": "3503",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11158,
+    "nombre": "LA LEONESA",
+    "codigopostal": "3518",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11240,
+    "nombre": "LA LIBERTAD",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11386,
+    "nombre": "LA LIGURIA",
+    "codigopostal": "3501",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17272,
+    "nombre": "LA LOMA",
+    "codigopostal": "3505",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18872,
+    "nombre": "LA LUCINDA",
+    "codigopostal": "3513",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11159,
+    "nombre": "LA MAGDALENA",
+    "codigopostal": "3522",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18990,
+    "nombre": "LA MANUELA",
+    "codigopostal": "3540",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11266,
+    "nombre": "LA MASCOTA",
+    "codigopostal": "3706",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11363,
+    "nombre": "LA MATANZA",
+    "codigopostal": "3531",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18912,
+    "nombre": "LA MATANZA",
+    "codigopostal": "3703",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18550,
+    "nombre": "LA MEDIA LUNA",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18551,
+    "nombre": "LA MORA",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18874,
+    "nombre": "LA NEGRA",
+    "codigopostal": "3513",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11335,
+    "nombre": "LA NUEVA",
+    "codigopostal": "3540",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11336,
+    "nombre": "LA OFELIA",
+    "codigopostal": "3540",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17670,
+    "nombre": "LA PALOMA",
+    "codigopostal": "3714",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11387,
+    "nombre": "LA PALOMETA",
+    "codigopostal": "3505",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11418,
+    "nombre": "LA PASTORIL",
+    "codigopostal": "3515",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11082,
+    "nombre": "LA PILAR",
+    "codigopostal": "3505",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17675,
+    "nombre": "LA PINTA",
+    "codigopostal": "3714",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11317,
+    "nombre": "LA POBLADORA",
+    "codigopostal": "3703",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11160,
+    "nombre": "LA POSTA",
+    "codigopostal": "3524",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17680,
+    "nombre": "LA PROVIDENCIA",
+    "codigopostal": "3714",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18876,
+    "nombre": "LA RAQUEL",
+    "codigopostal": "3513",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11161,
+    "nombre": "LA RINCONADA",
+    "codigopostal": "3524",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18552,
+    "nombre": "LA RINCONADA",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11427,
+    "nombre": "LA SABANA",
+    "codigopostal": "3513",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18553,
+    "nombre": "LA SALTARINA",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17685,
+    "nombre": "LA SARA",
+    "codigopostal": "3714",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11106,
+    "nombre": "LA SOLEDAD",
+    "codigopostal": "3534",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18554,
+    "nombre": "LA SOLEDAD",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18969,
+    "nombre": "LA SUIZA",
+    "codigopostal": "3540",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11107,
+    "nombre": "LA TAMBORA",
+    "codigopostal": "3534",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18991,
+    "nombre": "LA TAPERA",
+    "codigopostal": "3540",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11342,
+    "nombre": "LA TIGRA",
+    "codigopostal": "3701",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17692,
+    "nombre": "LA TRANQUILIDAD",
+    "codigopostal": "3714",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11236,
+    "nombre": "LA VERDE",
+    "codigopostal": "3514",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11428,
+    "nombre": "LA VICU",
+    "codigopostal": "3513",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18993,
+    "nombre": "LA VIRUELA",
+    "codigopostal": "3540",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18556,
+    "nombre": "LA ZANJA",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11305,
+    "nombre": "LAGUNA BELIGAY",
+    "codigopostal": "3505",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11306,
+    "nombre": "LAGUNA BLANCA",
+    "codigopostal": "3514",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11229,
+    "nombre": "LAGUNA ESCONDIDA",
+    "codigopostal": "3514",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11284,
+    "nombre": "LAGUNA LIMPIA",
+    "codigopostal": "3515",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11162,
+    "nombre": "LAGUNA PATOS",
+    "codigopostal": "3518",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11237,
+    "nombre": "LAPACHITO",
+    "codigopostal": "3514",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11163,
+    "nombre": "LAPACHO",
+    "codigopostal": "3518",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11356,
+    "nombre": "LAS BANDERAS",
+    "codigopostal": "3536",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18559,
+    "nombre": "LAS BLANCAS",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11123,
+    "nombre": "LAS BRE",
+    "codigopostal": "3722",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17696,
+    "nombre": "LAS CARPAS",
+    "codigopostal": "3714",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 19056,
+    "nombre": "LAS CUATRO BOCAS",
+    "codigopostal": "3701",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17378,
+    "nombre": "LAS CUCHILLAS",
+    "codigopostal": "3722",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11204,
+    "nombre": "LAS CUCHILLAS CNIA J MARMOL",
+    "codigopostal": "3701",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17698,
+    "nombre": "LAS DELICIAS",
+    "codigopostal": "3714",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17700,
+    "nombre": "LAS FLORES",
+    "codigopostal": "3714",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18561,
+    "nombre": "LAS FLORES",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11414,
+    "nombre": "LAS GARCITAS",
+    "codigopostal": "3515",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 19004,
+    "nombre": "LAS GOLONDRINAS",
+    "codigopostal": "3540",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18994,
+    "nombre": "LAS GOLONDRINAS SUR",
+    "codigopostal": "3540",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18562,
+    "nombre": "LAS HACHERAS",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17157,
+    "nombre": "LAS LEONAS",
+    "codigopostal": "3732",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17326,
+    "nombre": "LAS LOMITAS",
+    "codigopostal": "3534",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18563,
+    "nombre": "LAS MARAVILLAS",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 19242,
+    "nombre": "LAS MERCEDES",
+    "codigopostal": "3516",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18996,
+    "nombre": "LAS MORERAS",
+    "codigopostal": "3540",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11164,
+    "nombre": "LAS PALMAS",
+    "codigopostal": "3518",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17380,
+    "nombre": "LAS PIEDRITAS",
+    "codigopostal": "3722",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11165,
+    "nombre": "LAS ROSAS",
+    "codigopostal": "3518",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11429,
+    "nombre": "LAS TOSCAS",
+    "codigopostal": "3513",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18564,
+    "nombre": "LAS VERTIENTES",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11388,
+    "nombre": "LIVA",
+    "codigopostal": "3514",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11166,
+    "nombre": "LOMA ALTA",
+    "codigopostal": "3518",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18828,
+    "nombre": "LOMA ALTA",
+    "codigopostal": "3509",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18829,
+    "nombre": "LOMA FLORIDA",
+    "codigopostal": "3509",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11136,
+    "nombre": "LORENA",
+    "codigopostal": "3714",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18181,
+    "nombre": "LORO BLANCO",
+    "codigopostal": "3718",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11389,
+    "nombre": "LOS ALGARROBOS",
+    "codigopostal": "3505",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18565,
+    "nombre": "LOS BARRILES",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11130,
+    "nombre": "LOS CERRITOS",
+    "codigopostal": "3722",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11131,
+    "nombre": "LOS CHINACOS",
+    "codigopostal": "3722",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11098,
+    "nombre": "LOS FORTINES",
+    "codigopostal": "3734",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11337,
+    "nombre": "LOS FORTINES",
+    "codigopostal": "3540",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11137,
+    "nombre": "LOS FRENTONES",
+    "codigopostal": "3712",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11338,
+    "nombre": "LOS GANSOS",
+    "codigopostal": "3540",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18009,
+    "nombre": "LOS GUALCOS",
+    "codigopostal": "3730",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17707,
+    "nombre": "LOS MAGOS",
+    "codigopostal": "3714",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11390,
+    "nombre": "LOS PALMARES",
+    "codigopostal": "3516",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18566,
+    "nombre": "LOS PORONGOS",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11285,
+    "nombre": "LOS POZOS",
+    "codigopostal": "3511",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17162,
+    "nombre": "LOS QUEBRACHITOS",
+    "codigopostal": "3734",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18568,
+    "nombre": "LOS QUIRQUINCHOS",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17712,
+    "nombre": "LOS TIGRES",
+    "codigopostal": "3714",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17718,
+    "nombre": "LOS TOBAS",
+    "codigopostal": "3714",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18569,
+    "nombre": "LOS TUNALES",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 19407,
+    "nombre": "LOTE 1",
+    "codigopostal": "3543",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18971,
+    "nombre": "LOTE 10",
+    "codigopostal": "3540",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 19058,
+    "nombre": "LOTE 10",
+    "codigopostal": "3701",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17329,
+    "nombre": "LOTE 11",
+    "codigopostal": "3534",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 19061,
+    "nombre": "LOTE 11",
+    "codigopostal": "3701",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18973,
+    "nombre": "LOTE 12",
+    "codigopostal": "3543",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17334,
+    "nombre": "LOTE 14",
+    "codigopostal": "3534",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17461,
+    "nombre": "LOTE 15 ESCUELA 268",
+    "codigopostal": "3522",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 19414,
+    "nombre": "LOTE 15 LA SABANA",
+    "codigopostal": "3513",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17465,
+    "nombre": "LOTE 16 ESCUELA 204",
+    "codigopostal": "3522",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 19283,
+    "nombre": "LOTE 17",
+    "codigopostal": "3543",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 27772,
+    "nombre": "LOTE 18 POZO COLORADO",
+    "codigopostal": "3545",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17337,
+    "nombre": "LOTE 23",
+    "codigopostal": "3534",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 19412,
+    "nombre": "LOTE 23 SAMUHU",
+    "codigopostal": "3543",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 19285,
+    "nombre": "LOTE 24",
+    "codigopostal": "3543",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 19287,
+    "nombre": "LOTE 25",
+    "codigopostal": "3543",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17343,
+    "nombre": "LOTE 3",
+    "codigopostal": "3534",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17724,
+    "nombre": "LOTE 33",
+    "codigopostal": "3714",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18780,
+    "nombre": "LOTE 34",
+    "codigopostal": "3706",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 19086,
+    "nombre": "LOTE 4 COLONIA PASTORIL",
+    "codigopostal": "3536",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 19146,
+    "nombre": "LOTE 4 QUITILIPI",
+    "codigopostal": "3530",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17346,
+    "nombre": "LOTE 42",
+    "codigopostal": "3534",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 19182,
+    "nombre": "LOTE 43 ESCUELA 250",
+    "codigopostal": "3530",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18410,
+    "nombre": "LOTE 48 COLONIA MIXTA",
+    "codigopostal": "3514",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18417,
+    "nombre": "LOTE 53 COLONIA MIXTA",
+    "codigopostal": "3514",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 19291,
+    "nombre": "LOTE 7",
+    "codigopostal": "3543",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18021,
+    "nombre": "LOTE 77",
+    "codigopostal": "3730",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 19292,
+    "nombre": "LOTE 8",
+    "codigopostal": "3543",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 19415,
+    "nombre": "LOTE 9",
+    "codigopostal": "3513",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17469,
+    "nombre": "LOTE 92 LA RINCONADA",
+    "codigopostal": "3524",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18570,
+    "nombre": "LOTE OCHO",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11108,
+    "nombre": "MACHAGAI",
+    "codigopostal": "3534",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11430,
+    "nombre": "MACOMITAS",
+    "codigopostal": "3513",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17729,
+    "nombre": "MADRE DE DIOS",
+    "codigopostal": "3714",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11238,
+    "nombre": "MAKALLE",
+    "codigopostal": "3514",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11268,
+    "nombre": "MALBALAES",
+    "codigopostal": "3701",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11344,
+    "nombre": "MALBALAES",
+    "codigopostal": "3701",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11250,
+    "nombre": "MANANTIALES",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11083,
+    "nombre": "MARGARITA BELEN",
+    "codigopostal": "3505",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11391,
+    "nombre": "MARIA SARA",
+    "codigopostal": "3505",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11357,
+    "nombre": "MARTINEZ DE HOZ",
+    "codigopostal": "3536",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11194,
+    "nombre": "MESON DE FIERRO",
+    "codigopostal": "3731",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11167,
+    "nombre": "MIERES",
+    "codigopostal": "3524",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17171,
+    "nombre": "MINISTRO RAMON GOMEZ",
+    "codigopostal": "3732",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11251,
+    "nombre": "MIRAFLORES",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18571,
+    "nombre": "MIRAMAR",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18572,
+    "nombre": "MISION ANGELICANA",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11252,
+    "nombre": "MISION NUEVA POMPEYA",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18574,
+    "nombre": "MOLLE MARCADO",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18575,
+    "nombre": "MONTE CASEROS",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11115,
+    "nombre": "NAPALPI",
+    "codigopostal": "3531",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11269,
+    "nombre": "NAPENAY",
+    "codigopostal": "3706",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18920,
+    "nombre": "NTRA SE",
+    "codigopostal": "3703",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11253,
+    "nombre": "NUEVA POBLACION",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18577,
+    "nombre": "NUEVA UNION",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17733,
+    "nombre": "NUEVA YORK",
+    "codigopostal": "3714",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11431,
+    "nombre": "OBRAJE LA VICU",
+    "codigopostal": "3513",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17179,
+    "nombre": "PALMAR CENTRAL",
+    "codigopostal": "3732",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17186,
+    "nombre": "PALMAR NORTE",
+    "codigopostal": "3732",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17745,
+    "nombre": "PALO BLANCO",
+    "codigopostal": "3714",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18579,
+    "nombre": "PALO MARCADO",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11205,
+    "nombre": "PAMPA AGUADO",
+    "codigopostal": "3700",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11318,
+    "nombre": "PAMPA AGUARA",
+    "codigopostal": "3703",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11206,
+    "nombre": "PAMPA ALEGRIA",
+    "codigopostal": "3700",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18922,
+    "nombre": "PAMPA ALELAI",
+    "codigopostal": "3703",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11286,
+    "nombre": "PAMPA ALMIRON",
+    "codigopostal": "3507",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18183,
+    "nombre": "PAMPA ALSINA",
+    "codigopostal": "3718",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18037,
+    "nombre": "PAMPA AVILA",
+    "codigopostal": "3730",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17350,
+    "nombre": "PAMPA BANDERA",
+    "codigopostal": "3534",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11188,
+    "nombre": "PAMPA BARRERA",
+    "codigopostal": "3730",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17752,
+    "nombre": "PAMPA BOLSA",
+    "codigopostal": "3714",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11138,
+    "nombre": "PAMPA BORRACHO",
+    "codigopostal": "3708",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17383,
+    "nombre": "PAMPA BRUGNOLI",
+    "codigopostal": "3722",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11195,
+    "nombre": "PAMPA CABRERA",
+    "codigopostal": "3731",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17760,
+    "nombre": "PAMPA CABURE",
+    "codigopostal": "3714",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18580,
+    "nombre": "PAMPA CASTRO",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18055,
+    "nombre": "PAMPA CEJAS",
+    "codigopostal": "3730",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18830,
+    "nombre": "PAMPA CHICA",
+    "codigopostal": "3509",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18184,
+    "nombre": "PAMPA CUVALO",
+    "codigopostal": "3718",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 19064,
+    "nombre": "PAMPA DE LAS FLORES",
+    "codigopostal": "3701",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11207,
+    "nombre": "PAMPA DE LOS LOCOS",
+    "codigopostal": "3700",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17385,
+    "nombre": "PAMPA DEL CIELO",
+    "codigopostal": "3722",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18068,
+    "nombre": "PAMPA DEL CIELO",
+    "codigopostal": "3730",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11124,
+    "nombre": "PAMPA DEL HUEVO",
+    "codigopostal": "3722",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11287,
+    "nombre": "PAMPA DEL INDIO",
+    "codigopostal": "3531",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11139,
+    "nombre": "PAMPA DEL INFIERNO",
+    "codigopostal": "3708",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11270,
+    "nombre": "PAMPA DEL REGIMIENTO",
+    "codigopostal": "3706",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11125,
+    "nombre": "PAMPA DEL TORDILLO",
+    "codigopostal": "3722",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11126,
+    "nombre": "PAMPA DEL ZORRO",
+    "codigopostal": "3722",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17199,
+    "nombre": "PAMPA DOROTIER",
+    "codigopostal": "3732",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18923,
+    "nombre": "PAMPA EL 11",
+    "codigopostal": "3703",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18924,
+    "nombre": "PAMPA EL 12",
+    "codigopostal": "3703",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17766,
+    "nombre": "PAMPA EL FOSFORITO",
+    "codigopostal": "3714",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17776,
+    "nombre": "PAMPA EL MANGRULLO",
+    "codigopostal": "3714",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17784,
+    "nombre": "PAMPA EL MOLLAR",
+    "codigopostal": "3714",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18583,
+    "nombre": "PAMPA EL SILENCIO",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18078,
+    "nombre": "PAMPA FLORES",
+    "codigopostal": "3730",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11208,
+    "nombre": "PAMPA FLORIDA",
+    "codigopostal": "3703",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11209,
+    "nombre": "PAMPA GALPON",
+    "codigopostal": "3700",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18157,
+    "nombre": "PAMPA GAMBA",
+    "codigopostal": "3700",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11271,
+    "nombre": "PAMPA GRANDE",
+    "codigopostal": "3701",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18186,
+    "nombre": "PAMPA GRANDE",
+    "codigopostal": "3718",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11140,
+    "nombre": "PAMPA HERMOSA",
+    "codigopostal": "3708",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17390,
+    "nombre": "PAMPA HERMOSA",
+    "codigopostal": "3722",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11132,
+    "nombre": "PAMPA IPORA GUAZU",
+    "codigopostal": "3722",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11141,
+    "nombre": "PAMPA JUANITA",
+    "codigopostal": "3708",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 19155,
+    "nombre": "PAMPA LA PELIGROSA",
+    "codigopostal": "3530",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11099,
+    "nombre": "PAMPA LANDRIEL",
+    "codigopostal": "3731",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18831,
+    "nombre": "PAMPA LARGA",
+    "codigopostal": "3509",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 19157,
+    "nombre": "PAMPA LEGUA CUATRO",
+    "codigopostal": "3530",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11210,
+    "nombre": "PAMPA LOCA",
+    "codigopostal": "3700",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18585,
+    "nombre": "PAMPA LOS BEDOGNI",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18587,
+    "nombre": "PAMPA MACHETE",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17392,
+    "nombre": "PAMPA MITRE",
+    "codigopostal": "3722",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11272,
+    "nombre": "PAMPA OCULTA",
+    "codigopostal": "3716",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17788,
+    "nombre": "PAMPA PELADO",
+    "codigopostal": "3714",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17793,
+    "nombre": "PAMPA PEREYRA",
+    "codigopostal": "3714",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17805,
+    "nombre": "PAMPA QUIMILI",
+    "codigopostal": "3714",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17810,
+    "nombre": "PAMPA RALERA",
+    "codigopostal": "3714",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11127,
+    "nombre": "PAMPA SAN MARTIN",
+    "codigopostal": "3722",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11196,
+    "nombre": "PAMPA SOMMER",
+    "codigopostal": "3730",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18590,
+    "nombre": "PAMPA TOLOSA CHICA",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18591,
+    "nombre": "PAMPA TOLOSA GRANDE",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11319,
+    "nombre": "PAMPA VARGAS",
+    "codigopostal": "3703",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11364,
+    "nombre": "PAMPA VERDE",
+    "codigopostal": "3531",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17394,
+    "nombre": "PAMPA VILLORDO",
+    "codigopostal": "3722",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17815,
+    "nombre": "PAMPA VIRGEN",
+    "codigopostal": "3714",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17396,
+    "nombre": "PAMPA ZANATA",
+    "codigopostal": "3722",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17399,
+    "nombre": "PAMPINI",
+    "codigopostal": "3722",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18592,
+    "nombre": "PARAJE EL COLCHON",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18595,
+    "nombre": "PARAJE EL COLORADO",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17822,
+    "nombre": "PARAJE INDEPENDENCIA",
+    "codigopostal": "3714",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17831,
+    "nombre": "PARAJE KILOMETRO 77",
+    "codigopostal": "3714",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18832,
+    "nombre": "PARAJE LAS TABLAS",
+    "codigopostal": "3509",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17836,
+    "nombre": "PARAJE OJO DE AGUA",
+    "codigopostal": "3714",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17838,
+    "nombre": "PARAJE SANTA CRUZ",
+    "codigopostal": "3714",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11392,
+    "nombre": "PARALELO 28",
+    "codigopostal": "3516",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18594,
+    "nombre": "PASO DE LOS LIBRES",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11358,
+    "nombre": "PASO DEL OSO",
+    "codigopostal": "3536",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11365,
+    "nombre": "PICADITAS",
+    "codigopostal": "3530",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11084,
+    "nombre": "PILAR",
+    "codigopostal": "3505",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17473,
+    "nombre": "PINDO",
+    "codigopostal": "3518",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11100,
+    "nombre": "PINEDO CENTRAL",
+    "codigopostal": "3732",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18599,
+    "nombre": "POZO DE LA LINEA",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18600,
+    "nombre": "POZO DE LA MULA",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18601,
+    "nombre": "POZO DE LA PAVA",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18604,
+    "nombre": "POZO DE LA TUNA",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11254,
+    "nombre": "POZO DE LAS GARZAS",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18606,
+    "nombre": "POZO DE LOS SURIS",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18607,
+    "nombre": "POZO DEL CINCUENTA",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18609,
+    "nombre": "POZO DEL GATO",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18611,
+    "nombre": "POZO DEL GRIS",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11128,
+    "nombre": "POZO DEL INDIO ESTACION FCGB",
+    "codigopostal": "3722",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18612,
+    "nombre": "POZO DEL MOLLE",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18614,
+    "nombre": "POZO DEL NEGRO",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18615,
+    "nombre": "POZO DEL TALA",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18617,
+    "nombre": "POZO DEL TIGRE",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18758,
+    "nombre": "POZO DEL TORO",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18735,
+    "nombre": "POZO EL CHA",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11142,
+    "nombre": "POZO HONDO",
+    "codigopostal": "3714",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18624,
+    "nombre": "POZO LA BREA",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18625,
+    "nombre": "POZO LA OSCA",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11255,
+    "nombre": "POZO NAVAGAN",
+    "codigopostal": "3621",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11359,
+    "nombre": "PRESIDENCIA DE LA PLAZA",
+    "codigopostal": "3536",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11288,
+    "nombre": "PRESIDENCIA ROCA",
+    "codigopostal": "3511",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11211,
+    "nombre": "PRESIDENCIA ROQUE SAENZ PEÃ‘A",
+    "codigopostal": "3700",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11339,
+    "nombre": "PUEBLO CLODOMIRO DIAZ",
+    "codigopostal": "3541",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11189,
+    "nombre": "PUEBLO PUCA",
+    "codigopostal": "3730",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17401,
+    "nombre": "PUEBLO PUCA",
+    "codigopostal": "3722",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11085,
+    "nombre": "PUENTE INE",
+    "codigopostal": "3505",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11393,
+    "nombre": "PUENTE PALOMETA",
+    "codigopostal": "3505",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11230,
+    "nombre": "PUENTE PHILIPPON",
+    "codigopostal": "3514",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11231,
+    "nombre": "PUENTE SVRITZ",
+    "codigopostal": "3514",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17210,
+    "nombre": "PUERTA DE LEON",
+    "codigopostal": "3732",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11079,
+    "nombre": "PUERTO ANTEQUERA",
+    "codigopostal": "3505",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11307,
+    "nombre": "PUERTO BASTIANI",
+    "codigopostal": "3505",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11168,
+    "nombre": "PUERTO BERMEJO",
+    "codigopostal": "3524",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11170,
+    "nombre": "PUERTO EVA PERON",
+    "codigopostal": "3526",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11169,
+    "nombre": "PUERTO LAS PALMAS",
+    "codigopostal": "3518",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18626,
+    "nombre": "PUERTO LAVALLE",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11308,
+    "nombre": "PUERTO TIROL",
+    "codigopostal": "3505",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18178,
+    "nombre": "PUERTO URQUIZA",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11394,
+    "nombre": "PUERTO VICENTINI",
+    "codigopostal": "3514",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11395,
+    "nombre": "PUERTO VILELAS",
+    "codigopostal": "3503",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11289,
+    "nombre": "PUERTO ZAPALLAR",
+    "codigopostal": "3509",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18188,
+    "nombre": "PUESTO CARRIZO",
+    "codigopostal": "3718",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 19417,
+    "nombre": "PUESTO COCHERI",
+    "codigopostal": "3513",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 19419,
+    "nombre": "PUESTO MENDIZABAL",
+    "codigopostal": "3513",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11183,
+    "nombre": "PUNTA DE RIELES",
+    "codigopostal": "3518",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17285,
+    "nombre": "PUNTA DE RIELES",
+    "codigopostal": "3505",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11086,
+    "nombre": "PUNTA NUEVA",
+    "codigopostal": "3505",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17300,
+    "nombre": "PUNTA RIELES",
+    "codigopostal": "3505",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11184,
+    "nombre": "QUIA",
+    "codigopostal": "3518",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11366,
+    "nombre": "QUITILIPI",
+    "codigopostal": "3530",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11171,
+    "nombre": "RANCHOS VIEJOS",
+    "codigopostal": "3518",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18628,
+    "nombre": "REDUCC SAN BERNARDO DE VERTIZ",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18627,
+    "nombre": "REDUCCION DE LA CANGAYE",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11367,
+    "nombre": "REDUCCION NAPALPI",
+    "codigopostal": "3530",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11371,
+    "nombre": "RESISTENCIA",
+    "codigopostal": "3500",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11172,
+    "nombre": "RINCON DEL ZORRO",
+    "codigopostal": "3518",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11309,
+    "nombre": "RIO ARAZA",
+    "codigopostal": "3514",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11173,
+    "nombre": "RIO BERMEJO",
+    "codigopostal": "3524",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11174,
+    "nombre": "RIO DE ORO",
+    "codigopostal": "3518",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11143,
+    "nombre": "RIO MUERTO",
+    "codigopostal": "3712",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11432,
+    "nombre": "RIO TAPENAGA",
+    "codigopostal": "3513",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18630,
+    "nombre": "ROSALES",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11415,
+    "nombre": "SALTO DE LA VIEJA",
+    "codigopostal": "3515",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11407,
+    "nombre": "SAMUHU",
+    "codigopostal": "3543",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17850,
+    "nombre": "SAN AGUSTIN",
+    "codigopostal": "3714",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18631,
+    "nombre": "SAN AGUSTIN",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17858,
+    "nombre": "SAN ANTONIO",
+    "codigopostal": "3714",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18179,
+    "nombre": "SAN ANTONIO",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11345,
+    "nombre": "SAN BERNARDO",
+    "codigopostal": "3701",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11175,
+    "nombre": "SAN CARLOS",
+    "codigopostal": "3522",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11176,
+    "nombre": "SAN EDUARDO",
+    "codigopostal": "3522",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11177,
+    "nombre": "SAN FERNANDO",
+    "codigopostal": "3518",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17867,
+    "nombre": "SAN JOSE",
+    "codigopostal": "3714",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18632,
+    "nombre": "SAN JUANCITO",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18633,
+    "nombre": "SAN LORENZO",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17880,
+    "nombre": "SAN LUIS",
+    "codigopostal": "3714",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17890,
+    "nombre": "SAN MARTIN",
+    "codigopostal": "3714",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17307,
+    "nombre": "SAN MIGUEL",
+    "codigopostal": "3505",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17894,
+    "nombre": "SAN TELMO",
+    "codigopostal": "3714",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17901,
+    "nombre": "SANTA AGUEDA",
+    "codigopostal": "3714",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17909,
+    "nombre": "SANTA ELENA",
+    "codigopostal": "3714",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11190,
+    "nombre": "SANTA ELVIRA",
+    "codigopostal": "3731",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11214,
+    "nombre": "SANTA MARIA",
+    "codigopostal": "3541",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11109,
+    "nombre": "SANTA MARTA",
+    "codigopostal": "3534",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18634,
+    "nombre": "SANTA RITA",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17915,
+    "nombre": "SANTA ROSA",
+    "codigopostal": "3714",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11217,
+    "nombre": "SANTA SYLVINA",
+    "codigopostal": "3541",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17918,
+    "nombre": "SANTA TERESA DE CARBALLO",
+    "codigopostal": "3714",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18635,
+    "nombre": "SANTO DOMINGO",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11290,
+    "nombre": "SANTOS LUGARES",
+    "codigopostal": "3531",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11291,
+    "nombre": "SELVAS DEL RIO DE ORO",
+    "codigopostal": "3507",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18636,
+    "nombre": "SOL DE MAYO",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11178,
+    "nombre": "SOLALINDE",
+    "codigopostal": "3524",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11144,
+    "nombre": "TACO POZO",
+    "codigopostal": "3714",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11179,
+    "nombre": "TACUARI",
+    "codigopostal": "3518",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18638,
+    "nombre": "TARTAGAL",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17488,
+    "nombre": "TERMAS DEL CERRITO",
+    "codigopostal": "3518",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11372,
+    "nombre": "TIGRE",
+    "codigopostal": "3500",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11180,
+    "nombre": "TIMBO",
+    "codigopostal": "3524",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18640,
+    "nombre": "TOLDERIAS",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18999,
+    "nombre": "TRES BOLICHES",
+    "codigopostal": "3540",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11191,
+    "nombre": "TRES ESTACAS",
+    "codigopostal": "3731",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11087,
+    "nombre": "TRES HORQUETAS",
+    "codigopostal": "3505",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11181,
+    "nombre": "TRES HORQUETAS",
+    "codigopostal": "3522",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11323,
+    "nombre": "TRES ISLETAS",
+    "codigopostal": "3703",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18168,
+    "nombre": "TRES MOJONES",
+    "codigopostal": "3733",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18171,
+    "nombre": "TRES MONJES",
+    "codigopostal": "3541",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18925,
+    "nombre": "TRES NACIONES",
+    "codigopostal": "3703",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11110,
+    "nombre": "TRES PALMAS",
+    "codigopostal": "3534",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18642,
+    "nombre": "TRES POZOS",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11397,
+    "nombre": "TROPEZON",
+    "codigopostal": "3500",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11340,
+    "nombre": "TUCURU",
+    "codigopostal": "3540",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17920,
+    "nombre": "URUNDEL",
+    "codigopostal": "3714",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11182,
+    "nombre": "VELAZ",
+    "codigopostal": "3526",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18172,
+    "nombre": "VENADOS GRANDES",
+    "codigopostal": "3733",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11292,
+    "nombre": "VENEZUELA",
+    "codigopostal": "3509",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11101,
+    "nombre": "VIBORAS",
+    "codigopostal": "3734",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11398,
+    "nombre": "VICENTINI",
+    "codigopostal": "3514",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11373,
+    "nombre": "VILLA ALTA",
+    "codigopostal": "3500",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11341,
+    "nombre": "VILLA ANGELA",
+    "codigopostal": "3540",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11399,
+    "nombre": "VILLA BARBERAN",
+    "codigopostal": "3500",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11408,
+    "nombre": "VILLA BERTHET",
+    "codigopostal": "3545",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18833,
+    "nombre": "VILLA DOS",
+    "codigopostal": "3509",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11400,
+    "nombre": "VILLA EL DORADO",
+    "codigopostal": "3500",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11368,
+    "nombre": "VILLA EL PALMAR",
+    "codigopostal": "3530",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11401,
+    "nombre": "VILLA FORESTACION",
+    "codigopostal": "3503",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11310,
+    "nombre": "VILLA JALON",
+    "codigopostal": "3505",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11402,
+    "nombre": "VILLA JUAN DE GARAY",
+    "codigopostal": "3500",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11403,
+    "nombre": "VILLA LIBERTAD",
+    "codigopostal": "3500",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 19248,
+    "nombre": "VILLA PARANACITO",
+    "codigopostal": "3500",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11256,
+    "nombre": "VILLA RIO BERMEJITO",
+    "codigopostal": "3703",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 27624,
+    "nombre": "VILLA SARMIENTO",
+    "codigopostal": "3514",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17213,
+    "nombre": "WELHERS",
+    "codigopostal": "3732",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11257,
+    "nombre": "WICHI",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 17494,
+    "nombre": "YATAY",
+    "codigopostal": "3518",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 18834,
+    "nombre": "ZAPARINQUI",
+    "codigopostal": "3705",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  },
+  {
+    "id": 11218,
+    "nombre": "ZUBERBHULER",
+    "codigopostal": "3733",
+    "provincia": {
+      "id": 4,
+      "nombre": "Chaco"
+    }
+  }
+]

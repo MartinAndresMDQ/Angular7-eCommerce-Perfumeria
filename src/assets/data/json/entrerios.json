@@ -1,0 +1,10046 @@
+[
+  {
+    "id": 8952,
+    "nombre": "",
+    "codigopostal": "2821",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9224,
+    "nombre": "1 DE MAYO",
+    "codigopostal": "3263",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9044,
+    "nombre": "20 DE SEPTIEMBRE",
+    "codigopostal": "3158",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9171,
+    "nombre": "ACHIRAS",
+    "codigopostal": "3246",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18646,
+    "nombre": "AERO CLUB CANAL",
+    "codigopostal": "2823",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8907,
+    "nombre": "ALARCON",
+    "codigopostal": "2852",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8879,
+    "nombre": "ALBARDON",
+    "codigopostal": "2840",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18349,
+    "nombre": "ALBARI",
+    "codigopostal": "3183",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9172,
+    "nombre": "ALBERTO GERCHUNOFF",
+    "codigopostal": "3170",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8981,
+    "nombre": "ALCARACITO",
+    "codigopostal": "3142",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8984,
+    "nombre": "ALCARAZ 1RO",
+    "codigopostal": "3144",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8982,
+    "nombre": "ALCARAZ 2DO",
+    "codigopostal": "3138",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8985,
+    "nombre": "ALCARAZ NORTE",
+    "codigopostal": "3136",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8986,
+    "nombre": "ALCARAZ SUD",
+    "codigopostal": "3137",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19631,
+    "nombre": "ALCETE",
+    "codigopostal": "3127",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8880,
+    "nombre": "ALDEA ASUNCION",
+    "codigopostal": "2841",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8775,
+    "nombre": "ALDEA BRASILERA",
+    "codigopostal": "3101",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19636,
+    "nombre": "ALDEA CHALECO",
+    "codigopostal": "3116",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19642,
+    "nombre": "ALDEA CUESTA",
+    "codigopostal": "3116",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19649,
+    "nombre": "ALDEA EIGENFELD",
+    "codigopostal": "3116",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9075,
+    "nombre": "ALDEA MARIA LUISA",
+    "codigopostal": "3114",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8776,
+    "nombre": "ALDEA PROTESTANTE",
+    "codigopostal": "3101",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8777,
+    "nombre": "ALDEA SALTO",
+    "codigopostal": "3101",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8908,
+    "nombre": "ALDEA SAN ANTONIO",
+    "codigopostal": "2826",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 27827,
+    "nombre": "ALDEA SAN ANTONIO",
+    "codigopostal": "3117",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18180,
+    "nombre": "ALDEA SAN FRANCISCO",
+    "codigopostal": "3101",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20550,
+    "nombre": "ALDEA SAN GREGORIO",
+    "codigopostal": "3287",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20551,
+    "nombre": "ALDEA SAN JORGE",
+    "codigopostal": "3252",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19665,
+    "nombre": "ALDEA SAN JOSE",
+    "codigopostal": "3116",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18649,
+    "nombre": "ALDEA SAN JUAN",
+    "codigopostal": "2826",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19393,
+    "nombre": "ALDEA SAN MIGUEL",
+    "codigopostal": "3116",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9076,
+    "nombre": "ALDEA SAN RAFAEL",
+    "codigopostal": "3116",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18650,
+    "nombre": "ALDEA SANTA CELIA",
+    "codigopostal": "2826",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19396,
+    "nombre": "ALDEA SANTA MARIA",
+    "codigopostal": "3123",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9077,
+    "nombre": "ALDEA SANTA MARIA",
+    "codigopostal": "3123",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19679,
+    "nombre": "ALDEA SANTA ROSA",
+    "codigopostal": "3116",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18182,
+    "nombre": "ALDEA SANTAFECINA",
+    "codigopostal": "3103",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8778,
+    "nombre": "ALDEA SPATZENKUTTER",
+    "codigopostal": "3101",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8779,
+    "nombre": "ALDEA VALLE MARIA",
+    "codigopostal": "3101",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19401,
+    "nombre": "ALGARROBITOS 1RO",
+    "codigopostal": "3150",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9078,
+    "nombre": "ALMACEN CRISTIAN SCHUBERT",
+    "codigopostal": "3111",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19410,
+    "nombre": "ALMIRANTE IGLESIAS",
+    "codigopostal": "3150",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20072,
+    "nombre": "ALTAMIRANO NORTE",
+    "codigopostal": "3177",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20077,
+    "nombre": "ALTAMIRANO SUD",
+    "codigopostal": "3174",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19025,
+    "nombre": "ANAHI",
+    "codigopostal": "2846",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9239,
+    "nombre": "ANTELO",
+    "codigopostal": "3151",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20057,
+    "nombre": "ANTONIO TOMAS",
+    "codigopostal": "3125",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9079,
+    "nombre": "ANTONIO TOMAS SUD",
+    "codigopostal": "3134",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9045,
+    "nombre": "ARANGUREN",
+    "codigopostal": "3162",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18705,
+    "nombre": "ARROYO ",
+    "codigopostal": "1647",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18651,
+    "nombre": "ARROYO BALTAZAR",
+    "codigopostal": "1647",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18652,
+    "nombre": "ARROYO BALTAZAR CHICO",
+    "codigopostal": "1647",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8648,
+    "nombre": "ARROYO BARU",
+    "codigopostal": "3269",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18653,
+    "nombre": "ARROYO BICHO FEO",
+    "codigopostal": "1649",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18654,
+    "nombre": "ARROYO BOCA FALSA",
+    "codigopostal": "1647",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18655,
+    "nombre": "ARROYO BRASILERO",
+    "codigopostal": "2805",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18656,
+    "nombre": "ARROYO BRAVO GUTIERREZ",
+    "codigopostal": "1647",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18658,
+    "nombre": "ARROYO BRAZO CHICO",
+    "codigopostal": "1647",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18659,
+    "nombre": "ARROYO BRAZO DE LA TINTA",
+    "codigopostal": "1647",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18660,
+    "nombre": "ARROYO BUEN PASTOR",
+    "codigopostal": "2823",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19685,
+    "nombre": "ARROYO BURGOS",
+    "codigopostal": "3133",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18661,
+    "nombre": "ARROYO CABALLO",
+    "codigopostal": "2823",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 17099,
+    "nombre": "ARROYO CARABALLO",
+    "codigopostal": "3265",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18662,
+    "nombre": "ARROYO CARBON",
+    "codigopostal": "1647",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18663,
+    "nombre": "ARROYO CARBONCITO",
+    "codigopostal": "1647",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18664,
+    "nombre": "ARROYO CARPINCHO",
+    "codigopostal": "1647",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18665,
+    "nombre": "ARROYO CEIBITO",
+    "codigopostal": "1649",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19042,
+    "nombre": "ARROYO CEIBO",
+    "codigopostal": "3191",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 27840,
+    "nombre": "ARROYO CLE",
+    "codigopostal": "2841",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 17118,
+    "nombre": "ARROYO CONCEPCION",
+    "codigopostal": "3287",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 27845,
+    "nombre": "ARROYO CORRALITO",
+    "codigopostal": "3122",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18667,
+    "nombre": "ARROYO CORRENTOSO",
+    "codigopostal": "1647",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18669,
+    "nombre": "ARROYO CUCHARAS",
+    "codigopostal": "1649",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18670,
+    "nombre": "ARROYO CUZCO",
+    "codigopostal": "1647",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18674,
+    "nombre": "ARROYO DE LA ROSA",
+    "codigopostal": "1647",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8909,
+    "nombre": "ARROYO DEL CURA",
+    "codigopostal": "2821",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8845,
+    "nombre": "ARROYO DEL MEDIO",
+    "codigopostal": "3144",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18677,
+    "nombre": "ARROYO DESAGUAD DEL GUTIERREZ",
+    "codigopostal": "1647",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18680,
+    "nombre": "ARROYO DESAGUADERO DEL SAUCE",
+    "codigopostal": "1647",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 17628,
+    "nombre": "ARROYO EL MOCHO",
+    "codigopostal": "3212",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18683,
+    "nombre": "ARROYO GARCETE",
+    "codigopostal": "1649",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 17125,
+    "nombre": "ARROYO GRANDE",
+    "codigopostal": "3203",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18687,
+    "nombre": "ARROYO GUTIERREZ CHICO",
+    "codigopostal": "1647",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 17629,
+    "nombre": "ARROYO HONDO",
+    "codigopostal": "3216",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19046,
+    "nombre": "ARROYO HONDO",
+    "codigopostal": "3190",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18691,
+    "nombre": "ARROYO IBICUYCITO",
+    "codigopostal": "2805",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20451,
+    "nombre": "ARROYO JACINTO",
+    "codigopostal": "3101",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18692,
+    "nombre": "ARROYO LA PACIENCIA",
+    "codigopostal": "2805",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18695,
+    "nombre": "ARROYO LA TINTA",
+    "codigopostal": "1647",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 17631,
+    "nombre": "ARROYO LA VIRGEN",
+    "codigopostal": "3212",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18696,
+    "nombre": "ARROYO LARA",
+    "codigopostal": "1649",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18697,
+    "nombre": "ARROYO LAS ANIMAS",
+    "codigopostal": "1649",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9080,
+    "nombre": "ARROYO LAS TUNAS",
+    "codigopostal": "3111",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18698,
+    "nombre": "ARROYO LLORONES",
+    "codigopostal": "1649",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18699,
+    "nombre": "ARROYO LOS PLATOS",
+    "codigopostal": "2805",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18700,
+    "nombre": "ARROYO MALAMBO",
+    "codigopostal": "1647",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18701,
+    "nombre": "ARROYO MANZANO",
+    "codigopostal": "1649",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19689,
+    "nombre": "ARROYO MARIA",
+    "codigopostal": "3133",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19028,
+    "nombre": "ARROYO MARTINEZ",
+    "codigopostal": "1647",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 27847,
+    "nombre": "ARROYO MATURRANGO",
+    "codigopostal": "3133",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18702,
+    "nombre": "ARROYO MERLO",
+    "codigopostal": "1649",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20131,
+    "nombre": "ARROYO MOLINO",
+    "codigopostal": "3260",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 17632,
+    "nombre": "ARROYO MOREIRA",
+    "codigopostal": "3181",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18703,
+    "nombre": "ARROYO MOSQUITO",
+    "codigopostal": "1649",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18706,
+    "nombre": "ARROYO NEGRO",
+    "codigopostal": "1647",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20081,
+    "nombre": "ARROYO OBISPO",
+    "codigopostal": "3174",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18707,
+    "nombre": "ARROYO PACIENCIA CHICO",
+    "codigopostal": "1647",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18708,
+    "nombre": "ARROYO PACIENCIA GRANDE",
+    "codigopostal": "1647",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 17127,
+    "nombre": "ARROYO PALMAR",
+    "codigopostal": "3218",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 27846,
+    "nombre": "ARROYO PALO SECO",
+    "codigopostal": "3133",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19692,
+    "nombre": "ARROYO PANCHO",
+    "codigopostal": "3111",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18709,
+    "nombre": "ARROYO PELADO",
+    "codigopostal": "1647",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18710,
+    "nombre": "ARROYO PERDIDO CEIBO",
+    "codigopostal": "1647",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18711,
+    "nombre": "ARROYO PERDIDO MOSQUITO",
+    "codigopostal": "1647",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18712,
+    "nombre": "ARROYO PEREYRA",
+    "codigopostal": "1649",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18713,
+    "nombre": "ARROYO PIEDRAS",
+    "codigopostal": "1647",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18714,
+    "nombre": "ARROYO PITO",
+    "codigopostal": "1649",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18717,
+    "nombre": "ARROYO PLATITOS",
+    "codigopostal": "1649",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18719,
+    "nombre": "ARROYO PRINCIPAL",
+    "codigopostal": "2823",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18721,
+    "nombre": "ARROYO SAGASTUME CHICO",
+    "codigopostal": "1647",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19033,
+    "nombre": "ARROYO SAGASTUME GRANDE",
+    "codigopostal": "1647",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18725,
+    "nombre": "ARROYO SALADO",
+    "codigopostal": "2823",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18728,
+    "nombre": "ARROYO SANCHEZ CHICO",
+    "codigopostal": "2823",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18729,
+    "nombre": "ARROYO SANCHEZ GRANDE",
+    "codigopostal": "2823",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18733,
+    "nombre": "ARROYO SANTOS CHICO",
+    "codigopostal": "1647",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18734,
+    "nombre": "ARROYO SANTOS GRANDE",
+    "codigopostal": "1647",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18736,
+    "nombre": "ARROYO TIROLES",
+    "codigopostal": "1647",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 17129,
+    "nombre": "ARROYO URQUIZA",
+    "codigopostal": "3280",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18738,
+    "nombre": "ARROYO VENERATO",
+    "codigopostal": "2821",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18740,
+    "nombre": "ARROYO ZAPALLO",
+    "codigopostal": "2823",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8858,
+    "nombre": "ATENCIO",
+    "codigopostal": "3187",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9081,
+    "nombre": "AVENIDA EJERCITO PARANA",
+    "codigopostal": "3100",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8704,
+    "nombre": "AYUI PARADA",
+    "codigopostal": "3204",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19059,
+    "nombre": "BA",
+    "codigopostal": "3137",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19694,
+    "nombre": "BA",
+    "codigopostal": "3100",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9082,
+    "nombre": "BAJADA GRANDE",
+    "codigopostal": "3100",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9173,
+    "nombre": "BALNEARIO PELAY",
+    "codigopostal": "3260",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8846,
+    "nombre": "BANDERAS",
+    "codigopostal": "3190",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9255,
+    "nombre": "BARON HIRSCH",
+    "codigopostal": "3246",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9083,
+    "nombre": "BARRANCAS COLORADAS",
+    "codigopostal": "3133",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9174,
+    "nombre": "BASAVILBASO",
+    "codigopostal": "3170",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9256,
+    "nombre": "BELEZ",
+    "codigopostal": "3252",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18351,
+    "nombre": "BELLA UNION PARAJE",
+    "codigopostal": "3206",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9257,
+    "nombre": "BENITEZ",
+    "codigopostal": "3216",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8705,
+    "nombre": "BENITO LEGEREN",
+    "codigopostal": "3203",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8649,
+    "nombre": "BERDUC",
+    "codigopostal": "3285",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8910,
+    "nombre": "BERISSO",
+    "codigopostal": "2848",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8911,
+    "nombre": "BERISSO DESVIO FCGU",
+    "codigopostal": "2852",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9046,
+    "nombre": "BETBEDER",
+    "codigopostal": "3156",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8805,
+    "nombre": "BIZCOCHO",
+    "codigopostal": "3206",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19433,
+    "nombre": "BOCA DEL TIGRE",
+    "codigopostal": "3150",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19703,
+    "nombre": "BOCA DEL TIGRE APEADERO FCGU",
+    "codigopostal": "3116",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8882,
+    "nombre": "BOCA GUALEGUAY",
+    "codigopostal": "2840",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8987,
+    "nombre": "BONALDI",
+    "codigopostal": "3191",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8988,
+    "nombre": "BOVRIL",
+    "codigopostal": "3142",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8912,
+    "nombre": "BRAZO LARGO",
+    "codigopostal": "1647",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8913,
+    "nombre": "BRITOS",
+    "codigopostal": "2824",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18593,
+    "nombre": "BUENA VISTA PARAJE",
+    "codigopostal": "2840",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19726,
+    "nombre": "CA",
+    "codigopostal": "3111",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 27756,
+    "nombre": "CA",
+    "codigopostal": "3228",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8650,
+    "nombre": "CA",
+    "codigopostal": "3267",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8806,
+    "nombre": "CABI MONDA",
+    "codigopostal": "3228",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8706,
+    "nombre": "CALABACILLAS",
+    "codigopostal": "3203",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8989,
+    "nombre": "CALANDRIA",
+    "codigopostal": "3191",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 17141,
+    "nombre": "CALERA",
+    "codigopostal": "3281",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8707,
+    "nombre": "CAMBA PASO",
+    "codigopostal": "3201",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19711,
+    "nombre": "CAMINO A DIAMANTE KM 1",
+    "codigopostal": "3100",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20553,
+    "nombre": "CAMPO DE VILLAMIL",
+    "codigopostal": "3241",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 17647,
+    "nombre": "CAMPO DOMINGUEZ",
+    "codigopostal": "3212",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19442,
+    "nombre": "CAMPO ESCALES",
+    "codigopostal": "3156",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9258,
+    "nombre": "CAMPO MORENO",
+    "codigopostal": "3252",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18187,
+    "nombre": "CAMPO RIQUELME",
+    "codigopostal": "3101",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19446,
+    "nombre": "CAMPS",
+    "codigopostal": "3150",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18745,
+    "nombre": "CANAL NUEVO",
+    "codigopostal": "1647",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18750,
+    "nombre": "CANAL PRINCIPAL",
+    "codigopostal": "2823",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18754,
+    "nombre": "CANAL SAN MARTIN",
+    "codigopostal": "1647",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8651,
+    "nombre": "CANTERA LA CONSTANCIA",
+    "codigopostal": "3287",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9175,
+    "nombre": "CARAGUATA",
+    "codigopostal": "3248",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 17653,
+    "nombre": "CARPINCHORIS",
+    "codigopostal": "3183",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8780,
+    "nombre": "CARRIZAL",
+    "codigopostal": "3101",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9176,
+    "nombre": "CASEROS",
+    "codigopostal": "3262",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8859,
+    "nombre": "CATALOTTI",
+    "codigopostal": "3187",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8914,
+    "nombre": "CEIBAL",
+    "codigopostal": "2823",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8915,
+    "nombre": "CEIBAS",
+    "codigopostal": "2823",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9177,
+    "nombre": "CENTELLA",
+    "codigopostal": "3261",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19098,
+    "nombre": "CENTENARIO LA PAZ",
+    "codigopostal": "3263",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8990,
+    "nombre": "CENTENARIO PARANA",
+    "codigopostal": "3190",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9084,
+    "nombre": "CENTRO COMUNITARIO CNIA NUE",
+    "codigopostal": "3118",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9085,
+    "nombre": "CERRITO",
+    "codigopostal": "3122",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8847,
+    "nombre": "CHA",
+    "codigopostal": "3181",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8860,
+    "nombre": "CHA",
+    "codigopostal": "3187",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9086,
+    "nombre": "CHA",
+    "codigopostal": "3111",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8883,
+    "nombre": "CHACRAS",
+    "codigopostal": "2840",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8807,
+    "nombre": "CHAJARI",
+    "codigopostal": "3228",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8809,
+    "nombre": "CHAVIYU COLONIA FLORES",
+    "codigopostal": "3204",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8808,
+    "nombre": "CHAVIYU PARADA FCGU",
+    "codigopostal": "3206",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9240,
+    "nombre": "CHILCAS",
+    "codigopostal": "3162",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9047,
+    "nombre": "CHIQUEROS",
+    "codigopostal": "3158",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8861,
+    "nombre": "CHIRCALITO",
+    "codigopostal": "3187",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9259,
+    "nombre": "CLARA",
+    "codigopostal": "3252",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8708,
+    "nombre": "CLODOMIRO LEDESMA",
+    "codigopostal": "3203",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8714,
+    "nombre": "CNIA JUSTO JOSE DE URQUIZA",
+    "codigopostal": "3212",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8781,
+    "nombre": "COLEGIO ADVENTISTA DEL PLATA",
+    "codigopostal": "3103",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8652,
+    "nombre": "COLON",
+    "codigopostal": "3280",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9178,
+    "nombre": "COLONIA 1 DE MAYO",
+    "codigopostal": "3272",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 27752,
+    "nombre": "COLONIA 1 DE MAYO",
+    "codigopostal": "3265",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9179,
+    "nombre": "COLONIA 5 ENSANCHE DE MAYO",
+    "codigopostal": "3281",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9260,
+    "nombre": "COLONIA ACHIRAS",
+    "codigopostal": "3246",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8709,
+    "nombre": "COLONIA ADELA",
+    "codigopostal": "3201",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 27764,
+    "nombre": "COLONIA ADIVINOS",
+    "codigopostal": "3142",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8991,
+    "nombre": "COLONIA ALCARCITO",
+    "codigopostal": "3138",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8810,
+    "nombre": "COLONIA ALEMANA",
+    "codigopostal": "3228",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9048,
+    "nombre": "COLONIA ALGARRABITOS",
+    "codigopostal": "3156",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8653,
+    "nombre": "COLONIA AMBIS",
+    "codigopostal": "3269",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9241,
+    "nombre": "COLONIA ANGELA",
+    "codigopostal": "3151",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9087,
+    "nombre": "COLONIA ARGENTINA",
+    "codigopostal": "3118",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9180,
+    "nombre": "COLONIA ARROYO URQUIZA",
+    "codigopostal": "3281",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9130,
+    "nombre": "COLONIA AVELLANEDA",
+    "codigopostal": "3107",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8992,
+    "nombre": "COLONIA AVIGDOR",
+    "codigopostal": "3142",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 27757,
+    "nombre": "COLONIA AYLMAN",
+    "codigopostal": "3228",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8710,
+    "nombre": "COLONIA AYUI",
+    "codigopostal": "3201",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9261,
+    "nombre": "COLONIA BARON HIRSCH",
+    "codigopostal": "3246",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8654,
+    "nombre": "COLONIA BAYLINA",
+    "codigopostal": "3269",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9262,
+    "nombre": "COLONIA BELEZ",
+    "codigopostal": "3252",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20147,
+    "nombre": "COLONIA BELGA AMERICANA",
+    "codigopostal": "3244",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8811,
+    "nombre": "COLONIA BELGRANO",
+    "codigopostal": "3228",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9263,
+    "nombre": "COLONIA BERRO",
+    "codigopostal": "3128",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 27747,
+    "nombre": "COLONIA BERTOZZI",
+    "codigopostal": "3192",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8812,
+    "nombre": "COLONIA BIZCOCHO",
+    "codigopostal": "3206",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8993,
+    "nombre": "COLONIA BUENA VISTA",
+    "codigopostal": "3190",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8711,
+    "nombre": "COLONIA CAMPOS",
+    "codigopostal": "3216",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8655,
+    "nombre": "COLONIA CARABALLO",
+    "codigopostal": "3265",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9264,
+    "nombre": "COLONIA CARLOS CALVO",
+    "codigopostal": "3252",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9265,
+    "nombre": "COLONIA CARMEL",
+    "codigopostal": "3246",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9181,
+    "nombre": "COLONIA CARMELO",
+    "codigopostal": "3263",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19108,
+    "nombre": "COLONIA CARRASCO",
+    "codigopostal": "3190",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9088,
+    "nombre": "COLONIA CELINA",
+    "codigopostal": "3113",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9089,
+    "nombre": "COLONIA CENTENARIO",
+    "codigopostal": "3109",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9090,
+    "nombre": "COLONIA CRESPO",
+    "codigopostal": "3118",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9182,
+    "nombre": "COLONIA CRUCESITAS",
+    "codigopostal": "3263",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9183,
+    "nombre": "COLONIA CUPALEN",
+    "codigopostal": "3261",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8712,
+    "nombre": "COLONIA CURBELO",
+    "codigopostal": "3216",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8916,
+    "nombre": "COLONIA DELTA",
+    "codigopostal": "2805",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8813,
+    "nombre": "COLONIA DON BOSCO",
+    "codigopostal": "3204",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9160,
+    "nombre": "COLONIA DUPORTAL",
+    "codigopostal": "2845",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20575,
+    "nombre": "COLONIA EGIDO",
+    "codigopostal": "3240",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8656,
+    "nombre": "COLONIA EL CARMEN",
+    "codigopostal": "3267",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18760,
+    "nombre": "COLONIA EL POTRERO",
+    "codigopostal": "2820",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9184,
+    "nombre": "COLONIA ELIA",
+    "codigopostal": "3261",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9185,
+    "nombre": "COLONIA ELISA",
+    "codigopostal": "3260",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 17184,
+    "nombre": "COLONIA ELISA",
+    "codigopostal": "3265",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 17205,
+    "nombre": "COLONIA EMILIO GOUCHON",
+    "codigopostal": "3269",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9186,
+    "nombre": "COLONIA ENSANCHE MAYO",
+    "codigopostal": "3263",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8814,
+    "nombre": "COLONIA ENSANCHE SAUCE",
+    "codigopostal": "3208",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8782,
+    "nombre": "COLONIA ENSAYO",
+    "codigopostal": "3101",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20576,
+    "nombre": "COLONIA ESPINDOLA",
+    "codigopostal": "3252",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8657,
+    "nombre": "COLONIA F SILLEN",
+    "codigopostal": "3269",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8848,
+    "nombre": "COLONIA FALCO",
+    "codigopostal": "3188",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20578,
+    "nombre": "COLONIA FEIMBERG",
+    "codigopostal": "3252",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8815,
+    "nombre": "COLONIA FLORES",
+    "codigopostal": "3206",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8994,
+    "nombre": "COLONIA FONTANINI",
+    "codigopostal": "3191",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8816,
+    "nombre": "COLONIA FRAZER",
+    "codigopostal": "3228",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8817,
+    "nombre": "COLONIA FREITAS",
+    "codigopostal": "3229",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8917,
+    "nombre": "COLONIA GDOR BASAVILBASO",
+    "codigopostal": "2824",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8713,
+    "nombre": "COLONIA GENERAL ROCA",
+    "codigopostal": "3201",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9187,
+    "nombre": "COLONIA GRAL URQUIZA",
+    "codigopostal": "3263",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8783,
+    "nombre": "COLONIA GRAPSCHENTAL",
+    "codigopostal": "3114",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8818,
+    "nombre": "COLONIA GUALEGUAYCITO",
+    "codigopostal": "3206",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20579,
+    "nombre": "COLONIA GUIBURG",
+    "codigopostal": "3252",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9266,
+    "nombre": "COLONIA HEBREA",
+    "codigopostal": "3216",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9091,
+    "nombre": "COLONIA HERNANDARIAS",
+    "codigopostal": "3129",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9092,
+    "nombre": "COLONIA HIGUERA",
+    "codigopostal": "3138",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8658,
+    "nombre": "COLONIA HOCKER",
+    "codigopostal": "3265",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8659,
+    "nombre": "COLONIA HUGHES",
+    "codigopostal": "3281",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9267,
+    "nombre": "COLONIA IDA",
+    "codigopostal": "3246",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8918,
+    "nombre": "COLONIA ITALIANA",
+    "codigopostal": "2824",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 17681,
+    "nombre": "COLONIA JORGE FINK",
+    "codigopostal": "3181",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18357,
+    "nombre": "COLONIA LA ARGENTINA",
+    "codigopostal": "3206",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9268,
+    "nombre": "COLONIA LA ARMONIA",
+    "codigopostal": "3216",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20581,
+    "nombre": "COLONIA LA BLANQUITA",
+    "codigopostal": "3254",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8995,
+    "nombre": "COLONIA LA DELIA",
+    "codigopostal": "3190",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9269,
+    "nombre": "COLONIA LA ESPERANZA",
+    "codigopostal": "3216",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19752,
+    "nombre": "COLONIA LA GAMA",
+    "codigopostal": "3136",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8819,
+    "nombre": "COLONIA LA GLORIA",
+    "codigopostal": "3204",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9049,
+    "nombre": "COLONIA LA LLAVE",
+    "codigopostal": "3158",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 27748,
+    "nombre": "COLONIA LA MARTA",
+    "codigopostal": "3185",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8820,
+    "nombre": "COLONIA LA MATILDE",
+    "codigopostal": "3208",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8862,
+    "nombre": "COLONIA LA MATILDE",
+    "codigopostal": "3287",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8715,
+    "nombre": "COLONIA LA MORA",
+    "codigopostal": "3216",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9270,
+    "nombre": "COLONIA LA MORA",
+    "codigopostal": "3216",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20584,
+    "nombre": "COLONIA LA MORENITA",
+    "codigopostal": "3254",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20586,
+    "nombre": "COLONIA LA PAMPA",
+    "codigopostal": "3254",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8821,
+    "nombre": "COLONIA LA PAZ",
+    "codigopostal": "3206",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8996,
+    "nombre": "COLONIA LA PROVIDENCIA",
+    "codigopostal": "3137",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8716,
+    "nombre": "COLONIA LA QUINTA",
+    "codigopostal": "3216",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9271,
+    "nombre": "COLONIA LA ROSADA",
+    "codigopostal": "3252",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8822,
+    "nombre": "COLONIA LAMARCA",
+    "codigopostal": "3206",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19122,
+    "nombre": "COLONIA LAS GAMAS",
+    "codigopostal": "3190",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8660,
+    "nombre": "COLONIA LAS PEPAS",
+    "codigopostal": "3267",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20160,
+    "nombre": "COLONIA LEVEN",
+    "codigopostal": "3244",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8717,
+    "nombre": "COLONIA LOMA NEGRA",
+    "codigopostal": "3112",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9272,
+    "nombre": "COLONIA LOPEZ",
+    "codigopostal": "3218",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 17703,
+    "nombre": "COLONIA LOS SAUCES",
+    "codigopostal": "3200",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9188,
+    "nombre": "COLONIA LUCA",
+    "codigopostal": "3261",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9189,
+    "nombre": "COLONIA LUCIENVILLE",
+    "codigopostal": "3170",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9190,
+    "nombre": "COLONIA LUCRECIA",
+    "codigopostal": "3248",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8661,
+    "nombre": "COLONIA MABRAGA",
+    "codigopostal": "3283",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9093,
+    "nombre": "COLONIA MARIA LUISA",
+    "codigopostal": "3114",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19127,
+    "nombre": "COLONIA MAXIMO CASTRO",
+    "codigopostal": "3190",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19659,
+    "nombre": "COLONIA MEROU",
+    "codigopostal": "3116",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9273,
+    "nombre": "COLONIA MIGUEL",
+    "codigopostal": "3246",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9191,
+    "nombre": "COLONIA N 1",
+    "codigopostal": "3170",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9192,
+    "nombre": "COLONIA N 2",
+    "codigopostal": "3170",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9193,
+    "nombre": "COLONIA N 3",
+    "codigopostal": "3170",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9194,
+    "nombre": "COLONIA N 4",
+    "codigopostal": "3170",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8718,
+    "nombre": "COLONIA NAVARRO",
+    "codigopostal": "3201",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9094,
+    "nombre": "COLONIA NUEVA",
+    "codigopostal": "3118",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9274,
+    "nombre": "COLONIA NUEVA ALEMANIA",
+    "codigopostal": "3218",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9195,
+    "nombre": "COLONIA NUEVA MONTEVIDEO",
+    "codigopostal": "2828",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 27750,
+    "nombre": "COLONIA NUEVA NORTE",
+    "codigopostal": "3265",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8663,
+    "nombre": "COLONIA NUEVA SAN MIGUEL",
+    "codigopostal": "3267",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8662,
+    "nombre": "COLONIA NUEVA SUR",
+    "codigopostal": "3281",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 27751,
+    "nombre": "COLONIA NUEVA SUR",
+    "codigopostal": "3265",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8823,
+    "nombre": "COLONIA OFICIAL N 1 LA FLORIDA",
+    "codigopostal": "3228",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19150,
+    "nombre": "COLONIA OFICIAL N 11",
+    "codigopostal": "3190",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8997,
+    "nombre": "COLONIA OFICIAL N 13",
+    "codigopostal": "3191",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8998,
+    "nombre": "COLONIA OFICIAL N 14",
+    "codigopostal": "3191",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8999,
+    "nombre": "COLONIA OFICIAL N 3",
+    "codigopostal": "3190",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9095,
+    "nombre": "COLONIA OFICIAL N 4",
+    "codigopostal": "3134",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8719,
+    "nombre": "COLONIA OFICIAL N 5",
+    "codigopostal": "3216",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9196,
+    "nombre": "COLONIA OFICIAL N 6",
+    "codigopostal": "3261",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9000,
+    "nombre": "COLONIA OUGRIE",
+    "codigopostal": "3138",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8784,
+    "nombre": "COLONIA PALMAR",
+    "codigopostal": "3101",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8664,
+    "nombre": "COLONIA PEREIRA",
+    "codigopostal": "3272",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9197,
+    "nombre": "COLONIA PERFECCION",
+    "codigopostal": "3260",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9275,
+    "nombre": "COLONIA PERLIZA",
+    "codigopostal": "3246",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9096,
+    "nombre": "COLONIA REFFINO",
+    "codigopostal": "3114",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9097,
+    "nombre": "COLONIA RIVADAVIA",
+    "codigopostal": "3123",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8785,
+    "nombre": "COLONIA RIVAS",
+    "codigopostal": "3164",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8665,
+    "nombre": "COLONIA SAENZ VALIENTE",
+    "codigopostal": "3287",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9198,
+    "nombre": "COLONIA SAGASTUME",
+    "codigopostal": "3246",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8666,
+    "nombre": "COLONIA SAN ANTONIO",
+    "codigopostal": "3212",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9199,
+    "nombre": "COLONIA SAN ANTONIO",
+    "codigopostal": "3269",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8720,
+    "nombre": "COLONIA SAN BONIFACIO",
+    "codigopostal": "3212",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9200,
+    "nombre": "COLONIA SAN CIPRIANO",
+    "codigopostal": "3263",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 17303,
+    "nombre": "COLONIA SAN ERNESTO",
+    "codigopostal": "3254",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8667,
+    "nombre": "COLONIA SAN FRANCISCO",
+    "codigopostal": "3283",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8668,
+    "nombre": "COLONIA SAN IGNACIO",
+    "codigopostal": "3267",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9201,
+    "nombre": "COLONIA SAN JORGE",
+    "codigopostal": "3263",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9276,
+    "nombre": "COLONIA SAN JORGE",
+    "codigopostal": "3252",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8669,
+    "nombre": "COLONIA SAN JOSE",
+    "codigopostal": "3218",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9098,
+    "nombre": "COLONIA SAN JUAN",
+    "codigopostal": "3123",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 27758,
+    "nombre": "COLONIA SAN LORENZO",
+    "codigopostal": "3181",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9277,
+    "nombre": "COLONIA SAN MANUEL",
+    "codigopostal": "3246",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9099,
+    "nombre": "COLONIA SAN MARTIN",
+    "codigopostal": "3113",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8670,
+    "nombre": "COLONIA SAN MIGUEL",
+    "codigopostal": "3265",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18359,
+    "nombre": "COLONIA SAN RAMON",
+    "codigopostal": "3229",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9278,
+    "nombre": "COLONIA SANDOVAL",
+    "codigopostal": "3252",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9202,
+    "nombre": "COLONIA SANTA ANA",
+    "codigopostal": "3261",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8671,
+    "nombre": "COLONIA SANTA ELENA",
+    "codigopostal": "3269",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18361,
+    "nombre": "COLONIA SANTA ELOISA",
+    "codigopostal": "3206",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18362,
+    "nombre": "COLONIA SANTA ELVIRA",
+    "codigopostal": "3229",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9100,
+    "nombre": "COLONIA SANTA LUISA",
+    "codigopostal": "3133",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8672,
+    "nombre": "COLONIA SANTA ROSA",
+    "codigopostal": "3267",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9203,
+    "nombre": "COLONIA SANTA TERESITA",
+    "codigopostal": "3263",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8824,
+    "nombre": "COLONIA SAUCE",
+    "codigopostal": "3261",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9279,
+    "nombre": "COLONIA SONENFELD",
+    "codigopostal": "3246",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18765,
+    "nombre": "COLONIA STAUWER",
+    "codigopostal": "2820",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9204,
+    "nombre": "COLONIA TRES DE FEBRERO",
+    "codigopostal": "3265",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 27832,
+    "nombre": "COLONIA TUNAS",
+    "codigopostal": "3185",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20181,
+    "nombre": "COLONIA UBAJAY",
+    "codigopostal": "3260",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 17322,
+    "nombre": "COLONIA VAZQUEZ",
+    "codigopostal": "3267",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9280,
+    "nombre": "COLONIA VELEZ",
+    "codigopostal": "3252",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8825,
+    "nombre": "COLONIA VILLA LIBERTAD",
+    "codigopostal": "3228",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20602,
+    "nombre": "COLONIA VILLAGUAYCITO",
+    "codigopostal": "3241",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9001,
+    "nombre": "COLONIA VIRARO",
+    "codigopostal": "3142",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8721,
+    "nombre": "COLONIA YERUA",
+    "codigopostal": "3201",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9205,
+    "nombre": "CONCEPCION DEL URUGUAY",
+    "codigopostal": "3260",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8722,
+    "nombre": "CONCORDIA",
+    "codigopostal": "3200",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8849,
+    "nombre": "CONSCRIPTO BERNARDI",
+    "codigopostal": "3188",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8919,
+    "nombre": "COOPERATIVA BRAZO LARGO",
+    "codigopostal": "2823",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8826,
+    "nombre": "COOPERATIVA GRAL SAN MARTIN",
+    "codigopostal": "3228",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 27763,
+    "nombre": "CORRALES",
+    "codigopostal": "3151",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9101,
+    "nombre": "CORRALES NUEVOS",
+    "codigopostal": "3100",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8863,
+    "nombre": "CORREA",
+    "codigopostal": "3187",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8884,
+    "nombre": "COSTA DEL NOGOYA",
+    "codigopostal": "3155",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9281,
+    "nombre": "COSTA DEL PAYTICU",
+    "codigopostal": "3138",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8786,
+    "nombre": "COSTA GRANDE",
+    "codigopostal": "3101",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8787,
+    "nombre": "COSTA GRANDE DOLL",
+    "codigopostal": "3101",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8920,
+    "nombre": "COSTA SAN ANTONIO",
+    "codigopostal": "2826",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 27746,
+    "nombre": "COSTA URUGUAY NORTE",
+    "codigopostal": "2821",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18770,
+    "nombre": "COSTA URUGUAY SUR",
+    "codigopostal": "2821",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9102,
+    "nombre": "CRESPO",
+    "codigopostal": "3116",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9103,
+    "nombre": "CRESPO NORTE",
+    "codigopostal": "3118",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9050,
+    "nombre": "CRUCESITAS 3 SECCION",
+    "codigopostal": "3151",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9051,
+    "nombre": "CRUCESITAS 7 SECCION",
+    "codigopostal": "3109",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9052,
+    "nombre": "CRUCESITAS 8 SECCION",
+    "codigopostal": "3177",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19468,
+    "nombre": "CRUCESITAS URQUIZA",
+    "codigopostal": "3150",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19389,
+    "nombre": "CUARTO DISTRITO",
+    "codigopostal": "3150",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18596,
+    "nombre": "CUATRO BOCAS",
+    "codigopostal": "2840",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20090,
+    "nombre": "CUATRO BOCAS",
+    "codigopostal": "3174",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8827,
+    "nombre": "CUATRO BOCAS",
+    "codigopostal": "3185",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18775,
+    "nombre": "CUATRO BOCAS PARAJE",
+    "codigopostal": "2820",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8885,
+    "nombre": "CUATRO MANOS",
+    "codigopostal": "2841",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8886,
+    "nombre": "CUCHILLA",
+    "codigopostal": "2840",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8921,
+    "nombre": "CUCHILLA REDONDA",
+    "codigopostal": "2852",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8723,
+    "nombre": "CUEVA DEL TIGRE",
+    "codigopostal": "3201",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9206,
+    "nombre": "CUPALEN",
+    "codigopostal": "3261",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9104,
+    "nombre": "CURTIEMBRE",
+    "codigopostal": "3113",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20603,
+    "nombre": "CURUPI",
+    "codigopostal": "3240",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9002,
+    "nombre": "CURUZU CHALI",
+    "codigopostal": "3190",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9282,
+    "nombre": "DESPARRAMADOS",
+    "codigopostal": "3246",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9105,
+    "nombre": "DESTACAMENTO GENERAL GUEMES",
+    "codigopostal": "3125",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8788,
+    "nombre": "DIAMANTE",
+    "codigopostal": "3105",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 27834,
+    "nombre": "DIEGO LOPEZ",
+    "codigopostal": "3180",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20101,
+    "nombre": "DIST RAICES AL NORTE",
+    "codigopostal": "3177",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20678,
+    "nombre": "DIST RAICES AL SUD",
+    "codigopostal": "3177",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19478,
+    "nombre": "DISTRITO EL SAUCE",
+    "codigopostal": "3150",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9106,
+    "nombre": "DISTRITO ESPINILLO",
+    "codigopostal": "3107",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9107,
+    "nombre": "DISTRITO TALA",
+    "codigopostal": "3118",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8922,
+    "nombre": "DOCTOR EUGENIO MU",
+    "codigopostal": "2824",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8789,
+    "nombre": "DOCTOR GARCIA",
+    "codigopostal": "3101",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9053,
+    "nombre": "DON CRISTOBAL",
+    "codigopostal": "3164",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9054,
+    "nombre": "DON CRISTOBAL 1 SECCION",
+    "codigopostal": "3150",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9055,
+    "nombre": "DON CRISTOBAL 2 SECCION",
+    "codigopostal": "3162",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9003,
+    "nombre": "DON GONZALO",
+    "codigopostal": "3144",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8724,
+    "nombre": "DON ROBERTO",
+    "codigopostal": "3212",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8923,
+    "nombre": "DOS HERMANAS",
+    "codigopostal": "2854",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9161,
+    "nombre": "DURAZNO",
+    "codigopostal": "3177",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9283,
+    "nombre": "EBEN HOROSCHA",
+    "codigopostal": "3246",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8673,
+    "nombre": "EJIDO COLON",
+    "codigopostal": "3281",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8790,
+    "nombre": "EJIDO DIAMANTE",
+    "codigopostal": "3105",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9004,
+    "nombre": "EJIDO SUD",
+    "codigopostal": "3190",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9284,
+    "nombre": "EL AVESTRUZ",
+    "codigopostal": "3216",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8674,
+    "nombre": "EL BRILLANTE",
+    "codigopostal": "3283",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9005,
+    "nombre": "EL CARMEN",
+    "codigopostal": "3190",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20091,
+    "nombre": "EL CHAJA",
+    "codigopostal": "3174",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8850,
+    "nombre": "EL CIMARRON",
+    "codigopostal": "3188",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9006,
+    "nombre": "EL COLORADO",
+    "codigopostal": "3192",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9007,
+    "nombre": "EL CORCOVADO",
+    "codigopostal": "3142",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19224,
+    "nombre": "EL DIECISIETE",
+    "codigopostal": "3190",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8725,
+    "nombre": "EL DURAZNAL",
+    "codigopostal": "3212",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 17856,
+    "nombre": "EL EMBALSADO",
+    "codigopostal": "3183",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19016,
+    "nombre": "EL EMPALME PARAJE",
+    "codigopostal": "2846",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 27759,
+    "nombre": "EL GATO",
+    "codigopostal": "3180",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9008,
+    "nombre": "EL GAUCHO",
+    "codigopostal": "3191",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8851,
+    "nombre": "EL GRAMIYAL",
+    "codigopostal": "3144",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8887,
+    "nombre": "EL GUALEGUAY",
+    "codigopostal": "3212",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8726,
+    "nombre": "EL MARTILLO",
+    "codigopostal": "3201",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18781,
+    "nombre": "EL NUEVO RINCON",
+    "codigopostal": "2820",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8852,
+    "nombre": "EL PAGO APEADERO FCGU",
+    "codigopostal": "3212",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9108,
+    "nombre": "EL PALENQUE",
+    "codigopostal": "3122",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9109,
+    "nombre": "EL PINGO",
+    "codigopostal": "3132",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20186,
+    "nombre": "EL POTRERO",
+    "codigopostal": "2821",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9056,
+    "nombre": "EL PUEBLITO",
+    "codigopostal": "3151",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9009,
+    "nombre": "EL QUEBRACHO",
+    "codigopostal": "3192",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9110,
+    "nombre": "EL RAMBLON",
+    "codigopostal": "3109",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8727,
+    "nombre": "EL REDOMON",
+    "codigopostal": "3212",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8728,
+    "nombre": "EL REFUGIO",
+    "codigopostal": "3212",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8888,
+    "nombre": "EL REMANCE",
+    "codigopostal": "2840",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9010,
+    "nombre": "EL ROSARIO",
+    "codigopostal": "3191",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8924,
+    "nombre": "EL SARANDI",
+    "codigopostal": "3191",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18782,
+    "nombre": "EL SAUCE",
+    "codigopostal": "2823",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9011,
+    "nombre": "EL SOLAR",
+    "codigopostal": "3137",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9057,
+    "nombre": "EL TALLER",
+    "codigopostal": "3117",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19514,
+    "nombre": "EL TROPEZON",
+    "codigopostal": "3150",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8729,
+    "nombre": "EMBARCADERO FERRARI",
+    "codigopostal": "3201",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8925,
+    "nombre": "EMPALME HOLT",
+    "codigopostal": "2846",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20607,
+    "nombre": "EMPALME NEILD",
+    "codigopostal": "3240",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8675,
+    "nombre": "ENRIQUE BERDUC",
+    "codigopostal": "3118",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8926,
+    "nombre": "ENRIQUE CARBO",
+    "codigopostal": "2852",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8927,
+    "nombre": "ESCRI",
+    "codigopostal": "2828",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18329,
+    "nombre": "ESCUELA ALBERDI",
+    "codigopostal": "3114",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19827,
+    "nombre": "ESPINILLO NORTE",
+    "codigopostal": "3116",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18330,
+    "nombre": "ESTABLECIMIENTO EL CARMEN",
+    "codigopostal": "3114",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19832,
+    "nombre": "ESTABLECIMIENTO EL CIMARRON",
+    "codigopostal": "3114",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19836,
+    "nombre": "ESTABLECIMIENTO EL TALA",
+    "codigopostal": "3118",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 17345,
+    "nombre": "ESTABLECIMIENTO LA CALERA",
+    "codigopostal": "3287",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18331,
+    "nombre": "ESTABLECIMIENTO LA ESPERANZA",
+    "codigopostal": "3114",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18332,
+    "nombre": "ESTABLECIMIENTO LAS MARGARITAS",
+    "codigopostal": "3114",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 17367,
+    "nombre": "ESTABLECIMIENTO LOS MONIGOTES",
+    "codigopostal": "3287",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20464,
+    "nombre": "ESTABLECIMIENTO PUNTA ALTA",
+    "codigopostal": "3155",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20092,
+    "nombre": "ESTABLECIMIENTO SAN EDUARDO",
+    "codigopostal": "3177",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20093,
+    "nombre": "ESTABLECIMIENTO SAN EUSEBIO",
+    "codigopostal": "3177",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20094,
+    "nombre": "ESTABLECIMIENTO SAN FRANCISCO",
+    "codigopostal": "3177",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18788,
+    "nombre": "ESTABLECIMIENTO SAN MARTIN",
+    "codigopostal": "2823",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9012,
+    "nombre": "ESTACAS",
+    "codigopostal": "3191",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9013,
+    "nombre": "ESTACION ALCARAZ",
+    "codigopostal": "3188",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8828,
+    "nombre": "ESTACION GENERAL RACEDO",
+    "codigopostal": "3114",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 27843,
+    "nombre": "ESTACION RAICES",
+    "codigopostal": "3241",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18369,
+    "nombre": "ESTACION SANTA ANA",
+    "codigopostal": "3206",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20105,
+    "nombre": "ESTACION SOLA",
+    "codigopostal": "3176",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9207,
+    "nombre": "ESTACION URQUIZA",
+    "codigopostal": "3248",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9208,
+    "nombre": "ESTACION URUGUAY",
+    "codigopostal": "3260",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8730,
+    "nombre": "ESTACION YERUA",
+    "codigopostal": "3214",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20199,
+    "nombre": "ESTANCIA BELLA VISTA",
+    "codigopostal": "3272",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20214,
+    "nombre": "ESTANCIA CNIA LA PRIMAVERA",
+    "codigopostal": "3272",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20221,
+    "nombre": "ESTANCIA CNIA SANTA ELENA",
+    "codigopostal": "3272",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20229,
+    "nombre": "ESTANCIA CNIA STA TERESA",
+    "codigopostal": "3272",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20204,
+    "nombre": "ESTANCIA COLONIA EL OMBU",
+    "codigopostal": "3272",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20209,
+    "nombre": "ESTANCIA COLONIA EL TOROPI",
+    "codigopostal": "3272",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20215,
+    "nombre": "ESTANCIA COLONIA LA TAPERA",
+    "codigopostal": "3272",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20216,
+    "nombre": "ESTANCIA COLONIA PERIBEBUY",
+    "codigopostal": "3272",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20218,
+    "nombre": "ESTANCIA COLONIA SAN PEDRO",
+    "codigopostal": "3272",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20223,
+    "nombre": "ESTANCIA COLONIA SANTA ELOISA",
+    "codigopostal": "3272",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20227,
+    "nombre": "ESTANCIA COLONIA SANTA JUANA",
+    "codigopostal": "3272",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20233,
+    "nombre": "ESTANCIA EL TOROPI",
+    "codigopostal": "3272",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 27753,
+    "nombre": "ESTANCIA GRANDE",
+    "codigopostal": "3201",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18371,
+    "nombre": "ESTANCIA LA FLORESTA",
+    "codigopostal": "3206",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19841,
+    "nombre": "ESTANCIA LA GAMA",
+    "codigopostal": "3138",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20236,
+    "nombre": "ESTANCIA LOS VASCOS",
+    "codigopostal": "3272",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18373,
+    "nombre": "ESTANCIA SALINAS",
+    "codigopostal": "3229",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18374,
+    "nombre": "ESTANCIA SAN JOSE",
+    "codigopostal": "3206",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19227,
+    "nombre": "ESTANCIA SAN JUAN",
+    "codigopostal": "3190",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 27842,
+    "nombre": "ESTAQUITAS",
+    "codigopostal": "3191",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8676,
+    "nombre": "FABRICA COLON",
+    "codigopostal": "3281",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8928,
+    "nombre": "FAUSTINO M PARERA",
+    "codigopostal": "2824",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18795,
+    "nombre": "FEBRE",
+    "codigopostal": "3151",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8829,
+    "nombre": "FEDERACION",
+    "codigopostal": "3206",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8853,
+    "nombre": "FEDERAL",
+    "codigopostal": "3180",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8975,
+    "nombre": "FERNANDEZ",
+    "codigopostal": "2846",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9014,
+    "nombre": "FLORESTA",
+    "codigopostal": "3191",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18380,
+    "nombre": "FLORIDA",
+    "codigopostal": "3229",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18382,
+    "nombre": "FORTUNA",
+    "codigopostal": "3183",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8731,
+    "nombre": "FRIGORIFICO YUQUERI",
+    "codigopostal": "3203",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18383,
+    "nombre": "FRONTERAS",
+    "codigopostal": "3185",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9209,
+    "nombre": "GENACITO",
+    "codigopostal": "3272",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8929,
+    "nombre": "GENERAL ALMADA",
+    "codigopostal": "2824",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8791,
+    "nombre": "GENERAL ALVEAR",
+    "codigopostal": "3101",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8732,
+    "nombre": "GENERAL CAMPOS",
+    "codigopostal": "3216",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8889,
+    "nombre": "GENERAL GALARZA",
+    "codigopostal": "2843",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9111,
+    "nombre": "GENERAL RACEDO",
+    "codigopostal": "3122",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8792,
+    "nombre": "GENERAL RAMIREZ",
+    "codigopostal": "3164",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20240,
+    "nombre": "GERIBEBUY",
+    "codigopostal": "3248",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8930,
+    "nombre": "GILBERT",
+    "codigopostal": "2828",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9163,
+    "nombre": "GOBERNADOR ECHAGUE",
+    "codigopostal": "2845",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9058,
+    "nombre": "GOBERNADOR FEBRE",
+    "codigopostal": "3151",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9168,
+    "nombre": "GOBERNADOR MACIA",
+    "codigopostal": "3177",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9164,
+    "nombre": "GOBERNADOR MANSILLA",
+    "codigopostal": "2845",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9165,
+    "nombre": "GOBERNADOR SOLA",
+    "codigopostal": "3174",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20242,
+    "nombre": "GOBERNADOR URQUIZA",
+    "codigopostal": "3248",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9015,
+    "nombre": "GONZALEZ",
+    "codigopostal": "3191",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8890,
+    "nombre": "GONZALEZ CALDERON",
+    "codigopostal": "2841",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9210,
+    "nombre": "GRUPO ACHIRAS",
+    "codigopostal": "3246",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20249,
+    "nombre": "GRUPO PARRERO",
+    "codigopostal": "3244",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8891,
+    "nombre": "GUALEGUAY",
+    "codigopostal": "2840",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8931,
+    "nombre": "GUALEGUAYCHU",
+    "codigopostal": "2820",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8830,
+    "nombre": "GUALEGUAYCITO",
+    "codigopostal": "3204",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8892,
+    "nombre": "GUALEYAN",
+    "codigopostal": "2821",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9166,
+    "nombre": "GUARDAMONTE",
+    "codigopostal": "3177",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8831,
+    "nombre": "GUAYAQUIL",
+    "codigopostal": "3206",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8677,
+    "nombre": "HAMBIS",
+    "codigopostal": "3269",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9112,
+    "nombre": "HASENKAMP",
+    "codigopostal": "3134",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9113,
+    "nombre": "HERNANDARIAS",
+    "codigopostal": "3127",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9059,
+    "nombre": "HERNANDEZ",
+    "codigopostal": "3156",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9211,
+    "nombre": "HERRERA",
+    "codigopostal": "3272",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8733,
+    "nombre": "HERVIDERO",
+    "codigopostal": "3201",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9242,
+    "nombre": "HINOJAL",
+    "codigopostal": "3162",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20095,
+    "nombre": "HIPODROMO",
+    "codigopostal": "3174",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8893,
+    "nombre": "HOJAS ANCHAS",
+    "codigopostal": "2840",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8932,
+    "nombre": "HOLT",
+    "codigopostal": "2846",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8976,
+    "nombre": "IBICUY",
+    "codigopostal": "2846",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9285,
+    "nombre": "ING MIGUEL SAJAROFF",
+    "codigopostal": "3246",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8933,
+    "nombre": "IRAZUSTA",
+    "codigopostal": "2852",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9016,
+    "nombre": "ISLA CURUZU CHALI",
+    "codigopostal": "3190",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8934,
+    "nombre": "ISLA DEL IBICUY",
+    "codigopostal": "2823",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8935,
+    "nombre": "ISLA EL DORADO",
+    "codigopostal": "2805",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9243,
+    "nombre": "ISLA EL PILLO",
+    "codigopostal": "3101",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19228,
+    "nombre": "ISLA LA PAZ",
+    "codigopostal": "3190",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19866,
+    "nombre": "ISLA LYNCH",
+    "codigopostal": "3100",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8678,
+    "nombre": "ISLA SAN JOSE",
+    "codigopostal": "3287",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19229,
+    "nombre": "ISLAS ALCARAZ",
+    "codigopostal": "3190",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8894,
+    "nombre": "ISLAS DE LAS LECHIGUANAS",
+    "codigopostal": "2846",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 27754,
+    "nombre": "ISLETAS",
+    "codigopostal": "3164",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 27755,
+    "nombre": "ISLETAS NORTE",
+    "codigopostal": "3164",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8734,
+    "nombre": "ISTHILART",
+    "codigopostal": "3204",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 17900,
+    "nombre": "JORGE FINK",
+    "codigopostal": "3181",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8735,
+    "nombre": "JUAN B MONTI",
+    "codigopostal": "3201",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8679,
+    "nombre": "JUAN JORGE",
+    "codigopostal": "3285",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9286,
+    "nombre": "JUBILEO",
+    "codigopostal": "3254",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20509,
+    "nombre": "KILMETRO 165",
+    "codigopostal": "3153",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20257,
+    "nombre": "KILOMETRO 108",
+    "codigopostal": "3260",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 17922,
+    "nombre": "KILOMETRO 11",
+    "codigopostal": "3203",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20262,
+    "nombre": "KILOMETRO 112",
+    "codigopostal": "3260",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 17371,
+    "nombre": "KILOMETRO 114",
+    "codigopostal": "3280",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20265,
+    "nombre": "KILOMETRO 115",
+    "codigopostal": "3260",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19872,
+    "nombre": "KILOMETRO 116",
+    "codigopostal": "3132",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19876,
+    "nombre": "KILOMETRO 131",
+    "codigopostal": "3118",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19879,
+    "nombre": "KILOMETRO 147",
+    "codigopostal": "3118",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19537,
+    "nombre": "KILOMETRO 148",
+    "codigopostal": "3151",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20622,
+    "nombre": "KILOMETRO 160",
+    "codigopostal": "3142",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20106,
+    "nombre": "KILOMETRO 180",
+    "codigopostal": "3174",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20096,
+    "nombre": "KILOMETRO 183",
+    "codigopostal": "3176",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20107,
+    "nombre": "KILOMETRO 189",
+    "codigopostal": "3174",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20108,
+    "nombre": "KILOMETRO 192",
+    "codigopostal": "3174",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20109,
+    "nombre": "KILOMETRO 200",
+    "codigopostal": "3177",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20268,
+    "nombre": "KILOMETRO 208",
+    "codigopostal": "3172",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20097,
+    "nombre": "KILOMETRO 220",
+    "codigopostal": "3174",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20271,
+    "nombre": "KILOMETRO 231",
+    "codigopostal": "3170",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 17937,
+    "nombre": "KILOMETRO 24",
+    "codigopostal": "3203",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20274,
+    "nombre": "KILOMETRO 242",
+    "codigopostal": "3272",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20278,
+    "nombre": "KILOMETRO 244",
+    "codigopostal": "3272",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 17369,
+    "nombre": "KILOMETRO 25",
+    "codigopostal": "3177",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20281,
+    "nombre": "KILOMETRO 253",
+    "codigopostal": "3272",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20288,
+    "nombre": "KILOMETRO 268",
+    "codigopostal": "3263",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20294,
+    "nombre": "KILOMETRO 270",
+    "codigopostal": "3261",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20628,
+    "nombre": "KILOMETRO 279",
+    "codigopostal": "3240",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19882,
+    "nombre": "KILOMETRO 28",
+    "codigopostal": "3114",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20297,
+    "nombre": "KILOMETRO 283",
+    "codigopostal": "3263",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20632,
+    "nombre": "KILOMETRO 284",
+    "codigopostal": "3240",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20636,
+    "nombre": "KILOMETRO 285",
+    "codigopostal": "3240",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20641,
+    "nombre": "KILOMETRO 288",
+    "codigopostal": "3240",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18598,
+    "nombre": "KILOMETRO 290",
+    "codigopostal": "2841",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20300,
+    "nombre": "KILOMETRO 293",
+    "codigopostal": "3263",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18602,
+    "nombre": "KILOMETRO 303",
+    "codigopostal": "2841",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 17374,
+    "nombre": "KILOMETRO 305",
+    "codigopostal": "3265",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18605,
+    "nombre": "KILOMETRO 306",
+    "codigopostal": "2840",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20646,
+    "nombre": "KILOMETRO 306",
+    "codigopostal": "3252",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 17376,
+    "nombre": "KILOMETRO 310",
+    "codigopostal": "3280",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 17377,
+    "nombre": "KILOMETRO 311",
+    "codigopostal": "3269",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8936,
+    "nombre": "KILOMETRO 311",
+    "codigopostal": "2820",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 17945,
+    "nombre": "KILOMETRO 32",
+    "codigopostal": "3200",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 17379,
+    "nombre": "KILOMETRO 322",
+    "codigopostal": "3280",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 17381,
+    "nombre": "KILOMETRO 324",
+    "codigopostal": "3280",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20650,
+    "nombre": "KILOMETRO 325",
+    "codigopostal": "3254",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 17953,
+    "nombre": "KILOMETRO 329",
+    "codigopostal": "3212",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 17961,
+    "nombre": "KILOMETRO 33",
+    "codigopostal": "3203",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 17970,
+    "nombre": "KILOMETRO 333",
+    "codigopostal": "3212",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 17382,
+    "nombre": "KILOMETRO 336",
+    "codigopostal": "3280",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 17384,
+    "nombre": "KILOMETRO 337",
+    "codigopostal": "3269",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8937,
+    "nombre": "KILOMETRO 340",
+    "codigopostal": "2848",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 17976,
+    "nombre": "KILOMETRO 342",
+    "codigopostal": "3200",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8736,
+    "nombre": "KILOMETRO 343",
+    "codigopostal": "3216",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 17386,
+    "nombre": "KILOMETRO 344",
+    "codigopostal": "3269",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18174,
+    "nombre": "KILOMETRO 344",
+    "codigopostal": "3212",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18176,
+    "nombre": "KILOMETRO 347",
+    "codigopostal": "3200",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 17387,
+    "nombre": "KILOMETRO 353",
+    "codigopostal": "3218",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 17980,
+    "nombre": "KILOMETRO 355",
+    "codigopostal": "3216",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8938,
+    "nombre": "KILOMETRO 361",
+    "codigopostal": "2848",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18389,
+    "nombre": "KILOMETRO 37",
+    "codigopostal": "3204",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 17983,
+    "nombre": "KILOMETRO 373",
+    "codigopostal": "3214",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 17991,
+    "nombre": "KILOMETRO 376",
+    "codigopostal": "3214",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8939,
+    "nombre": "KILOMETRO 389",
+    "codigopostal": "2846",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18333,
+    "nombre": "KILOMETRO 43",
+    "codigopostal": "3116",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18390,
+    "nombre": "KILOMETRO 44",
+    "codigopostal": "3204",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 17388,
+    "nombre": "KILOMETRO 45",
+    "codigopostal": "3287",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19886,
+    "nombre": "KILOMETRO 45",
+    "codigopostal": "3116",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18392,
+    "nombre": "KILOMETRO 47",
+    "codigopostal": "3206",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 17389,
+    "nombre": "KILOMETRO 49",
+    "codigopostal": "3280",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 17391,
+    "nombre": "KILOMETRO 50",
+    "codigopostal": "3287",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18394,
+    "nombre": "KILOMETRO 51",
+    "codigopostal": "3206",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 17393,
+    "nombre": "KILOMETRO 56",
+    "codigopostal": "3285",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18002,
+    "nombre": "KILOMETRO 6",
+    "codigopostal": "3201",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18399,
+    "nombre": "KILOMETRO 84",
+    "codigopostal": "3228",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 17395,
+    "nombre": "KILOMETRO 86",
+    "codigopostal": "3285",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 17397,
+    "nombre": "KILOMETRO 88",
+    "codigopostal": "3280",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 17398,
+    "nombre": "KILOMETRO 89",
+    "codigopostal": "3285",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 17400,
+    "nombre": "KILOMETRO 99",
+    "codigopostal": "3283",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8737,
+    "nombre": "LA ALICIA",
+    "codigopostal": "3212",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20304,
+    "nombre": "LA AMIGUITA",
+    "codigopostal": "3244",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8832,
+    "nombre": "LA ARGENTINA",
+    "codigopostal": "2846",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9114,
+    "nombre": "LA BALSA",
+    "codigopostal": "3113",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19894,
+    "nombre": "LA BALSA PARANA",
+    "codigopostal": "3113",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20309,
+    "nombre": "LA BARRACA",
+    "codigopostal": "3260",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18406,
+    "nombre": "LA BLANQUEADA",
+    "codigopostal": "3224",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8833,
+    "nombre": "LA CALERA",
+    "codigopostal": "3272",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8940,
+    "nombre": "LA CALERA",
+    "codigopostal": "2823",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18798,
+    "nombre": "LA CAPILLA",
+    "codigopostal": "3246",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8680,
+    "nombre": "LA CARLOTA",
+    "codigopostal": "3218",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8941,
+    "nombre": "LA CHICA",
+    "codigopostal": "2824",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18799,
+    "nombre": "LA CHILENA CANAL",
+    "codigopostal": "1647",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8681,
+    "nombre": "LA CLARITA",
+    "codigopostal": "3269",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9060,
+    "nombre": "LA COLINA",
+    "codigopostal": "3158",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9115,
+    "nombre": "LA COLMENA",
+    "codigopostal": "3134",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8738,
+    "nombre": "LA COLORADA",
+    "codigopostal": "3212",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19539,
+    "nombre": "LA CORVINA",
+    "codigopostal": "3150",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8942,
+    "nombre": "LA COSTA",
+    "codigopostal": "2852",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8739,
+    "nombre": "LA CRIOLLA",
+    "codigopostal": "3212",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8943,
+    "nombre": "LA CUADRA",
+    "codigopostal": "2823",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9017,
+    "nombre": "LA DILIGENCIA",
+    "codigopostal": "3142",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8740,
+    "nombre": "LA EMILIA",
+    "codigopostal": "3212",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9287,
+    "nombre": "LA ENCIERRA",
+    "codigopostal": "3144",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8944,
+    "nombre": "LA ESCONDIDA",
+    "codigopostal": "2826",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8864,
+    "nombre": "LA ESMERALDA",
+    "codigopostal": "3187",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9288,
+    "nombre": "LA ESTRELLA",
+    "codigopostal": "3254",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9061,
+    "nombre": "LA FAVORITA",
+    "codigopostal": "3158",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19549,
+    "nombre": "LA FLORENCIA",
+    "codigopostal": "3151",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8945,
+    "nombre": "LA FLORIDA",
+    "codigopostal": "2824",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18427,
+    "nombre": "LA FRATERNIDAD Y SANTA JUANA",
+    "codigopostal": "3228",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20312,
+    "nombre": "LA GOYA",
+    "codigopostal": "3260",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8741,
+    "nombre": "LA GRANJA",
+    "codigopostal": "3212",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8865,
+    "nombre": "LA HIERRA",
+    "codigopostal": "3183",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19552,
+    "nombre": "LA ILUSION",
+    "codigopostal": "3150",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8742,
+    "nombre": "LA INVERNADA",
+    "codigopostal": "3212",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20653,
+    "nombre": "LA JOYA",
+    "codigopostal": "3244",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9116,
+    "nombre": "LA JULIANA",
+    "codigopostal": "3134",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8946,
+    "nombre": "LA LATA",
+    "codigopostal": "2820",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9062,
+    "nombre": "LA LLAVE",
+    "codigopostal": "3158",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19557,
+    "nombre": "LA LOMA",
+    "codigopostal": "3151",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9212,
+    "nombre": "LA MARIA LUISA",
+    "codigopostal": "3261",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9063,
+    "nombre": "LA MARUJA A",
+    "codigopostal": "3151",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8743,
+    "nombre": "LA NOBLEZA",
+    "codigopostal": "3212",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8744,
+    "nombre": "LA ODILIA",
+    "codigopostal": "3212",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20120,
+    "nombre": "LA OLLITA",
+    "codigopostal": "3174",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9289,
+    "nombre": "LA PAMPA",
+    "codigopostal": "3254",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9018,
+    "nombre": "LA PAZ",
+    "codigopostal": "3190",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8745,
+    "nombre": "LA PERLA",
+    "codigopostal": "3216",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9117,
+    "nombre": "LA PICADA",
+    "codigopostal": "3118",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9118,
+    "nombre": "LA PICADA NORTE",
+    "codigopostal": "3118",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8746,
+    "nombre": "LA QUERENCIA",
+    "codigopostal": "3212",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8747,
+    "nombre": "LA QUINTA",
+    "codigopostal": "3216",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8748,
+    "nombre": "LA ROSADA",
+    "codigopostal": "3201",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 17511,
+    "nombre": "LA S DIEZ CASAS",
+    "codigopostal": "3269",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18411,
+    "nombre": "LA SELVA",
+    "codigopostal": "3185",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20313,
+    "nombre": "LA SESTEADA",
+    "codigopostal": "3260",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18413,
+    "nombre": "LA SOLEDAD",
+    "codigopostal": "3229",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 17509,
+    "nombre": "LA SUIZA",
+    "codigopostal": "3280",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9213,
+    "nombre": "LA TIGRESA",
+    "codigopostal": "3260",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8866,
+    "nombre": "LA VERBENA",
+    "codigopostal": "3185",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9119,
+    "nombre": "LA VIRGINIA",
+    "codigopostal": "3134",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9214,
+    "nombre": "LA ZELMIRA",
+    "codigopostal": "2820",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 27838,
+    "nombre": "LAGUNA BENITEZ",
+    "codigopostal": "3183",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9244,
+    "nombre": "LAGUNA DEL PESCADO",
+    "codigopostal": "3155",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20659,
+    "nombre": "LAGUNA LARGA",
+    "codigopostal": "3241",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8834,
+    "nombre": "LAMARCA",
+    "codigopostal": "3206",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 27760,
+    "nombre": "LAMBARE",
+    "codigopostal": "2841",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8947,
+    "nombre": "LARROQUE",
+    "codigopostal": "2854",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8854,
+    "nombre": "LAS ACHIRAS",
+    "codigopostal": "3281",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8895,
+    "nombre": "LAS BATEAS",
+    "codigopostal": "2840",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8835,
+    "nombre": "LAS CATORCE",
+    "codigopostal": "3228",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8896,
+    "nombre": "LAS COLAS",
+    "codigopostal": "2841",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 27761,
+    "nombre": "LAS COLONIAS",
+    "codigopostal": "3254",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8794,
+    "nombre": "LAS CUEVAS",
+    "codigopostal": "3101",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9120,
+    "nombre": "LAS GARZAS",
+    "codigopostal": "3136",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9167,
+    "nombre": "LAS GUACHAS",
+    "codigopostal": "3174",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8867,
+    "nombre": "LAS LAGUNAS",
+    "codigopostal": "3187",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9019,
+    "nombre": "LAS LAGUNAS",
+    "codigopostal": "3191",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8948,
+    "nombre": "LAS MASITAS",
+    "codigopostal": "2828",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8949,
+    "nombre": "LAS MERCEDES",
+    "codigopostal": "2854",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9215,
+    "nombre": "LAS MERCEDES",
+    "codigopostal": "3272",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8749,
+    "nombre": "LAS MOCHAS",
+    "codigopostal": "3216",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9216,
+    "nombre": "LAS MOSCAS",
+    "codigopostal": "3244",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8868,
+    "nombre": "LAS MULITAS",
+    "codigopostal": "3191",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20661,
+    "nombre": "LAS PAJITAS",
+    "codigopostal": "3240",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8836,
+    "nombre": "LAS PE",
+    "codigopostal": "3206",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9217,
+    "nombre": "LAS ROSAS",
+    "codigopostal": "2828",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8750,
+    "nombre": "LAS TEJAS",
+    "codigopostal": "3201",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9020,
+    "nombre": "LAS TOSCAS",
+    "codigopostal": "3191",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9121,
+    "nombre": "LAS TUNAS",
+    "codigopostal": "3111",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9064,
+    "nombre": "LAURENCENA",
+    "codigopostal": "3150",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8897,
+    "nombre": "LAZO",
+    "codigopostal": "2841",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8751,
+    "nombre": "LESCA",
+    "codigopostal": "3200",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9218,
+    "nombre": "LIBAROS",
+    "codigopostal": "3244",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19020,
+    "nombre": "LIBERTADOR GRAL SAN MARTIN",
+    "codigopostal": "2846",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18334,
+    "nombre": "LIBERTADOR SAN MARTIN",
+    "codigopostal": "3103",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9219,
+    "nombre": "LIEBIG",
+    "codigopostal": "3281",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20327,
+    "nombre": "LINEA 19",
+    "codigopostal": "3244",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20329,
+    "nombre": "LINEA 20",
+    "codigopostal": "3244",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20334,
+    "nombre": "LINEA 24",
+    "codigopostal": "3170",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20338,
+    "nombre": "LINEA 25",
+    "codigopostal": "3170",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20343,
+    "nombre": "LIONEL",
+    "codigopostal": "3244",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18835,
+    "nombre": "LOBOS ARROYO",
+    "codigopostal": "1649",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 27835,
+    "nombre": "LOMA LIMPIA",
+    "codigopostal": "3188",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8752,
+    "nombre": "LOMA NEGRA",
+    "codigopostal": "3212",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8837,
+    "nombre": "LOMAS BLANCAS",
+    "codigopostal": "3185",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8950,
+    "nombre": "LOS AMIGOS",
+    "codigopostal": "2828",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8753,
+    "nombre": "LOS BRILLANTES",
+    "codigopostal": "3212",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18335,
+    "nombre": "LOS BURGOS APEADERO FCGU",
+    "codigopostal": "3116",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 27828,
+    "nombre": "LOS CEIBOS",
+    "codigopostal": "3261",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8754,
+    "nombre": "LOS CHARRUAS",
+    "codigopostal": "3212",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8838,
+    "nombre": "LOS CONQUISTADORES",
+    "codigopostal": "3183",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9245,
+    "nombre": "LOS GANSOS",
+    "codigopostal": "3101",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9122,
+    "nombre": "LOS NARANJOS",
+    "codigopostal": "3134",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9290,
+    "nombre": "LOS OMBUES",
+    "codigopostal": "3241",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9065,
+    "nombre": "LOS PARAISOS",
+    "codigopostal": "3158",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18414,
+    "nombre": "LOS PARAISOS",
+    "codigopostal": "3228",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18101,
+    "nombre": "LOS SAUER",
+    "codigopostal": "3200",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9066,
+    "nombre": "LUCAS GONZALEZ",
+    "codigopostal": "3158",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9067,
+    "nombre": "LUCAS NORESTE",
+    "codigopostal": "3216",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20662,
+    "nombre": "LUCAS NORTE",
+    "codigopostal": "3241",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9291,
+    "nombre": "LUCAS SUR 1RA SECCION",
+    "codigopostal": "3241",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9298,
+    "nombre": "LUCAS SUR 2DA SECCION",
+    "codigopostal": "3240",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18842,
+    "nombre": "LUCIENVILLE 1",
+    "codigopostal": "2828",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18845,
+    "nombre": "LUCIENVILLE 2",
+    "codigopostal": "2828",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18847,
+    "nombre": "LUCIENVILLE 3",
+    "codigopostal": "2828",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18849,
+    "nombre": "LUCIENVILLE 4",
+    "codigopostal": "2828",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9220,
+    "nombre": "MAC DOUGALL",
+    "codigopostal": "3244",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8869,
+    "nombre": "MAC KELLER",
+    "codigopostal": "3187",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9021,
+    "nombre": "MANANTIALES",
+    "codigopostal": "3191",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18416,
+    "nombre": "MANDISOVI",
+    "codigopostal": "3228",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9221,
+    "nombre": "MANGRULLO",
+    "codigopostal": "3248",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9123,
+    "nombre": "MARIA GRANDE",
+    "codigopostal": "3133",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9124,
+    "nombre": "MARIA GRANDE PRIMERA",
+    "codigopostal": "3111",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9125,
+    "nombre": "MARIA GRANDE SEGUNDA",
+    "codigopostal": "3133",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9022,
+    "nombre": "MARTINETTI",
+    "codigopostal": "3191",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8682,
+    "nombre": "MARTINIANO LEGUIZAMON",
+    "codigopostal": "3285",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9292,
+    "nombre": "MAURICIO RIBOLE",
+    "codigopostal": "3216",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8951,
+    "nombre": "MAZARUCA",
+    "codigopostal": "2846",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8977,
+    "nombre": "MEDANOS",
+    "codigopostal": "2848",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8870,
+    "nombre": "MESA",
+    "codigopostal": "3187",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20663,
+    "nombre": "MIGUEL J PERLIZA",
+    "codigopostal": "3246",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9023,
+    "nombre": "MIRA MONTE",
+    "codigopostal": "3191",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20664,
+    "nombre": "MOJONES NORTE",
+    "codigopostal": "3241",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20667,
+    "nombre": "MOJONES SUR PRIMERO",
+    "codigopostal": "3241",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20670,
+    "nombre": "MOJONES SUR SEGUNDO",
+    "codigopostal": "3241",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20098,
+    "nombre": "MOLINO BOB",
+    "codigopostal": "3174",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9246,
+    "nombre": "MOLINO DOLL",
+    "codigopostal": "3101",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18418,
+    "nombre": "MONTE CHICO",
+    "codigopostal": "3206",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 27841,
+    "nombre": "MONTE REDONDO",
+    "codigopostal": "2840",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18420,
+    "nombre": "MONTE VERDE",
+    "codigopostal": "3228",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9024,
+    "nombre": "MONTIEL",
+    "codigopostal": "3191",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9068,
+    "nombre": "MONTOYA",
+    "codigopostal": "3150",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9247,
+    "nombre": "MONTOYA",
+    "codigopostal": "3151",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9126,
+    "nombre": "MORENO",
+    "codigopostal": "3122",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 27839,
+    "nombre": "MULAS GRANDES",
+    "codigopostal": "3187",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9222,
+    "nombre": "NICOLAS HERRERA",
+    "codigopostal": "3272",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9069,
+    "nombre": "NOGOYA",
+    "codigopostal": "3150",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20362,
+    "nombre": "NOVIBUCO PRIMERO",
+    "codigopostal": "3170",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8755,
+    "nombre": "NUEVA ESCOCIA",
+    "codigopostal": "3201",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18422,
+    "nombre": "NUEVA VIZCAYA",
+    "codigopostal": "3212",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9025,
+    "nombre": "OMBU",
+    "codigopostal": "3190",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9127,
+    "nombre": "ORO VERDE",
+    "codigopostal": "3100",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8756,
+    "nombre": "OSVALDO MAGNASCO",
+    "codigopostal": "3212",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8795,
+    "nombre": "PAJA BRAVA",
+    "codigopostal": "3101",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8871,
+    "nombre": "PAJAS BLANCAS",
+    "codigopostal": "3187",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9248,
+    "nombre": "PAJONAL",
+    "codigopostal": "3101",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9223,
+    "nombre": "PALACIO SAN JOSE",
+    "codigopostal": "3262",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8953,
+    "nombre": "PALAVECINO",
+    "codigopostal": "2820",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8683,
+    "nombre": "PALMAR",
+    "codigopostal": "3285",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8684,
+    "nombre": "PALMAR YATAY",
+    "codigopostal": "3287",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8872,
+    "nombre": "PALO A PIQUE",
+    "codigopostal": "3191",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9128,
+    "nombre": "PARACAO",
+    "codigopostal": "3100",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8757,
+    "nombre": "PARADA YUQUERI",
+    "codigopostal": "3214",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9293,
+    "nombre": "PARAJE GUAYABO",
+    "codigopostal": "3240",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18853,
+    "nombre": "PARAJE PALAVEROI",
+    "codigopostal": "2805",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9129,
+    "nombre": "PARANA",
+    "codigopostal": "3100",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8954,
+    "nombre": "PARANA BRAVO",
+    "codigopostal": "2805",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8978,
+    "nombre": "PARANACITO",
+    "codigopostal": "2846",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 17550,
+    "nombre": "PARQUE NACIONAL EL PALMAR",
+    "codigopostal": "3280",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18883,
+    "nombre": "PASAJE TALAVERA",
+    "codigopostal": "2804",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19966,
+    "nombre": "PASO DE LA ARENA",
+    "codigopostal": "3118",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19970,
+    "nombre": "PASO DE LA BALZA",
+    "codigopostal": "3113",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20672,
+    "nombre": "PASO DE LA LAGUNA",
+    "codigopostal": "3241",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20673,
+    "nombre": "PASO DE LA LEGUA",
+    "codigopostal": "3240",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19972,
+    "nombre": "PASO DE LAS PIEDRAS",
+    "codigopostal": "3118",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20525,
+    "nombre": "PASO DEL ABRA",
+    "codigopostal": "3153",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8955,
+    "nombre": "PASO DEL CISNERO",
+    "codigopostal": "2846",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18122,
+    "nombre": "PASO DEL GALLO",
+    "codigopostal": "3212",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20369,
+    "nombre": "PASO DEL MOLINO",
+    "codigopostal": "3260",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 27836,
+    "nombre": "PASO DUARTE",
+    "codigopostal": "3181",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19245,
+    "nombre": "PASO GARIBALDI",
+    "codigopostal": "3192",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18129,
+    "nombre": "PASO MARGARI",
+    "codigopostal": "3200",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19249,
+    "nombre": "PASO MEDINA",
+    "codigopostal": "3190",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19252,
+    "nombre": "PASO POTRILLO",
+    "codigopostal": "3127",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19255,
+    "nombre": "PASO PUERTO AUGUSTO",
+    "codigopostal": "3190",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18139,
+    "nombre": "PASO SOCIEDAD",
+    "codigopostal": "3181",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19263,
+    "nombre": "PASO TELEGRAFO",
+    "codigopostal": "3194",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8956,
+    "nombre": "PASTOR BRITOS",
+    "codigopostal": "2826",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8758,
+    "nombre": "PEDERMAR",
+    "codigopostal": "3203",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8759,
+    "nombre": "PEDERNAL",
+    "codigopostal": "3203",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8957,
+    "nombre": "PEHUAJO NORTE",
+    "codigopostal": "2821",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8958,
+    "nombre": "PEHUAJO SUD",
+    "codigopostal": "2854",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8959,
+    "nombre": "PERDICES",
+    "codigopostal": "2823",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8685,
+    "nombre": "PERUCHO VERNA",
+    "codigopostal": "3283",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18898,
+    "nombre": "PESQUERIA DIAMANTINO",
+    "codigopostal": "2820",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 27844,
+    "nombre": "PICADA BERON",
+    "codigopostal": "3190",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9026,
+    "nombre": "PIEDRAS BLANCAS",
+    "codigopostal": "3129",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9027,
+    "nombre": "PILOTO AVILA",
+    "codigopostal": "3190",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8686,
+    "nombre": "POS POS",
+    "codigopostal": "3285",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9028,
+    "nombre": "PRIMER CONGRESO",
+    "codigopostal": "3142",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20099,
+    "nombre": "PRIMER CUARTEL",
+    "codigopostal": "3174",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18578,
+    "nombre": "PRIMER DISTRITO",
+    "codigopostal": "2840",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9225,
+    "nombre": "PRONUNCIAMIENTO",
+    "codigopostal": "3263",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9070,
+    "nombre": "PUEBLITO",
+    "codigopostal": "3164",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9249,
+    "nombre": "PUEBLITO NORTE",
+    "codigopostal": "3155",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8983,
+    "nombre": "PUEBLO ARRUA EST ALCARAZ",
+    "codigopostal": "3138",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9131,
+    "nombre": "PUEBLO BELLOCQ",
+    "codigopostal": "3136",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9132,
+    "nombre": "PUEBLO BRUGO",
+    "codigopostal": "3125",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8687,
+    "nombre": "PUEBLO CAZES",
+    "codigopostal": "3269",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8688,
+    "nombre": "PUEBLO COLORADO",
+    "codigopostal": "3281",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20674,
+    "nombre": "PUEBLO DOMINGUEZ",
+    "codigopostal": "3246",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9029,
+    "nombre": "PUEBLO ELLISON",
+    "codigopostal": "3142",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8760,
+    "nombre": "PUEBLO FERRE",
+    "codigopostal": "3216",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8796,
+    "nombre": "PUEBLO GENERAL BELGRANO",
+    "codigopostal": "2821",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9133,
+    "nombre": "PUEBLO GENERAL PAZ",
+    "codigopostal": "3123",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8689,
+    "nombre": "PUEBLO LIEBIG",
+    "codigopostal": "3281",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9134,
+    "nombre": "PUEBLO MORENO",
+    "codigopostal": "3122",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8960,
+    "nombre": "PUEBLO NUEVO",
+    "codigopostal": "2820",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20383,
+    "nombre": "PUEBLO NUEVO",
+    "codigopostal": "3170",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 27762,
+    "nombre": "PUEBLO PRIMERO",
+    "codigopostal": "3174",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18906,
+    "nombre": "PUENTE ",
+    "codigopostal": "2823",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19985,
+    "nombre": "PUENTE CARMONA",
+    "codigopostal": "3118",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 17569,
+    "nombre": "PUENTE DE GUALEGUAYCHU",
+    "codigopostal": "3265",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18336,
+    "nombre": "PUENTE DE LAS PENCAS",
+    "codigopostal": "3101",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20675,
+    "nombre": "PUENTE DE LUCAS",
+    "codigopostal": "3216",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19988,
+    "nombre": "PUENTE DEL CHA",
+    "codigopostal": "3111",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18339,
+    "nombre": "PUENTE DEL DOLL",
+    "codigopostal": "3101",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20100,
+    "nombre": "PUENTE OBISPO",
+    "codigopostal": "3174",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8961,
+    "nombre": "PUENTE PARANACITO",
+    "codigopostal": "2823",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18608,
+    "nombre": "PUENTE PELLEGRINI",
+    "codigopostal": "2840",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9250,
+    "nombre": "PUENTE VICTORIA",
+    "codigopostal": "3153",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8898,
+    "nombre": "PUERTA DE CRESPO",
+    "codigopostal": "3155",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18424,
+    "nombre": "PUERTO ALGARROBO",
+    "codigopostal": "3206",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19280,
+    "nombre": "PUERTO ALGARROBO",
+    "codigopostal": "3127",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 17574,
+    "nombre": "PUERTO ALMIRON",
+    "codigopostal": "3281",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18610,
+    "nombre": "PUERTO BARRILES",
+    "codigopostal": "2840",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19288,
+    "nombre": "PUERTO CADENAS",
+    "codigopostal": "3192",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20389,
+    "nombre": "PUERTO CAMPINCHUELO",
+    "codigopostal": "3261",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 17578,
+    "nombre": "PUERTO COLORADO",
+    "codigopostal": "3280",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8979,
+    "nombre": "PUERTO CONSTANZA",
+    "codigopostal": "2846",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9135,
+    "nombre": "PUERTO CURTIEMBRE",
+    "codigopostal": "3113",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18341,
+    "nombre": "PUERTO DIAMANTE",
+    "codigopostal": "3105",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20531,
+    "nombre": "PUERTO ESQUINA",
+    "codigopostal": "3155",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19023,
+    "nombre": "PUERTO IBICUY",
+    "codigopostal": "2846",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19294,
+    "nombre": "PUERTO LA ESMERALDA",
+    "codigopostal": "3190",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18342,
+    "nombre": "PUERTO LAS CUEVAS",
+    "codigopostal": "3101",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20535,
+    "nombre": "PUERTO LOPEZ",
+    "codigopostal": "3101",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19036,
+    "nombre": "PUERTO MARQUEZ",
+    "codigopostal": "3190",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8962,
+    "nombre": "PUERTO PERAZZO",
+    "codigopostal": "2846",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8899,
+    "nombre": "PUERTO RUIZ",
+    "codigopostal": "2840",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8963,
+    "nombre": "PUERTO SAN JUAN",
+    "codigopostal": "2846",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8964,
+    "nombre": "PUERTO UNZUE",
+    "codigopostal": "2820",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19989,
+    "nombre": "PUERTO VIBORAS",
+    "codigopostal": "3129",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19991,
+    "nombre": "PUERTO VIEJO",
+    "codigopostal": "3100",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20393,
+    "nombre": "PUERTO VIEJO",
+    "codigopostal": "3260",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19994,
+    "nombre": "PUERTO VILLARRUEL",
+    "codigopostal": "3127",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8761,
+    "nombre": "PUERTO YERUA",
+    "codigopostal": "3201",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19301,
+    "nombre": "PUERTO YUNQUE",
+    "codigopostal": "3190",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8900,
+    "nombre": "PUNTA DEL MONTE",
+    "codigopostal": "2840",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18159,
+    "nombre": "PUNTAS DE MOREIRA",
+    "codigopostal": "3181",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8690,
+    "nombre": "PUNTAS DEL GUALEGUAYCHU",
+    "codigopostal": "3269",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8691,
+    "nombre": "PUNTAS DEL PALMAR",
+    "codigopostal": "3280",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20538,
+    "nombre": "QUEBRACHITOS",
+    "codigopostal": "3153",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18161,
+    "nombre": "QUEBRACHO",
+    "codigopostal": "3212",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19997,
+    "nombre": "QUEBRACHO",
+    "codigopostal": "3109",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9136,
+    "nombre": "QUINTAS AL SUD",
+    "codigopostal": "3100",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9251,
+    "nombre": "QUINTO CUARTEL VICTORIA",
+    "codigopostal": "3153",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8901,
+    "nombre": "QUINTO DISTRITO",
+    "codigopostal": "2843",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8797,
+    "nombre": "RACEDO",
+    "codigopostal": "3114",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20676,
+    "nombre": "RACHEL",
+    "codigopostal": "3246",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9294,
+    "nombre": "RAICES OESTE",
+    "codigopostal": "3241",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9137,
+    "nombre": "RAMBLON",
+    "codigopostal": "3109",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9138,
+    "nombre": "RAMON A PARERA",
+    "codigopostal": "3118",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20126,
+    "nombre": "RINCON DE LAS GUACHAS",
+    "codigopostal": "3174",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9295,
+    "nombre": "RINCON DE MOJONES",
+    "codigopostal": "3241",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20541,
+    "nombre": "RINCON DE NOGOYA",
+    "codigopostal": "3155",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18918,
+    "nombre": "RINCON DEL CINTO",
+    "codigopostal": "2826",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9252,
+    "nombre": "RINCON DEL DOLL",
+    "codigopostal": "3101",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8965,
+    "nombre": "RINCON DEL GATO",
+    "codigopostal": "2821",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18620,
+    "nombre": "RINCON DEL NOGOYA SUR",
+    "codigopostal": "2840",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20679,
+    "nombre": "RINCON LUCAS NORTE",
+    "codigopostal": "3241",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20680,
+    "nombre": "RINCON LUCAS SUD",
+    "codigopostal": "3241",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18648,
+    "nombre": "RIO AGUILA",
+    "codigopostal": "2805",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18930,
+    "nombre": "RIO ALFEREZ NELSON PAGE",
+    "codigopostal": "2805",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18931,
+    "nombre": "RIO CEIBO",
+    "codigopostal": "2805",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18938,
+    "nombre": "RIO PARANA GUAZU",
+    "codigopostal": "2805",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18861,
+    "nombre": "RIO PARANACITO",
+    "codigopostal": "1647",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18878,
+    "nombre": "RIO PASAJE AL AGUILA",
+    "codigopostal": "2805",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18941,
+    "nombre": "RIO SAUCE",
+    "codigopostal": "2805",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18947,
+    "nombre": "RIO TALAVERA",
+    "codigopostal": "2805",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8799,
+    "nombre": "RIVAS",
+    "codigopostal": "3164",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9226,
+    "nombre": "ROCAMORA",
+    "codigopostal": "3172",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9169,
+    "nombre": "ROSARIO DEL TALA",
+    "codigopostal": "3174",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9296,
+    "nombre": "ROSPINA",
+    "codigopostal": "3246",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20006,
+    "nombre": "RUTA 138 KILOMETRO 1",
+    "codigopostal": "3100",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8762,
+    "nombre": "RUTA 14 KM 443",
+    "codigopostal": "3201",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9227,
+    "nombre": "SAGASTUME",
+    "codigopostal": "3246",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18950,
+    "nombre": "SAGASTUME",
+    "codigopostal": "2823",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8902,
+    "nombre": "SALADERO ALZUA",
+    "codigopostal": "2840",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8763,
+    "nombre": "SALADERO CONCORDIA",
+    "codigopostal": "3200",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8903,
+    "nombre": "SALADERO SAN JOSE",
+    "codigopostal": "2840",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8692,
+    "nombre": "SAN ANSELMO",
+    "codigopostal": "3281",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8966,
+    "nombre": "SAN ANTONIO",
+    "codigopostal": "2826",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9030,
+    "nombre": "SAN ANTONIO",
+    "codigopostal": "3191",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9139,
+    "nombre": "SAN BENITO",
+    "codigopostal": "3107",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8764,
+    "nombre": "SAN BUENAVENTURA",
+    "codigopostal": "3212",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9228,
+    "nombre": "SAN CIPRIANO",
+    "codigopostal": "3263",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8693,
+    "nombre": "SAN FRANCISCO",
+    "codigopostal": "3265",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8800,
+    "nombre": "SAN FRANCISCO",
+    "codigopostal": "3101",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9031,
+    "nombre": "SAN GERONIMO",
+    "codigopostal": "3191",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8694,
+    "nombre": "SAN GREGORIO",
+    "codigopostal": "3203",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9032,
+    "nombre": "SAN GUSTAVO",
+    "codigopostal": "3191",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8839,
+    "nombre": "SAN JAIME",
+    "codigopostal": "3185",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8840,
+    "nombre": "SAN JAIME DE LA FRONTERA",
+    "codigopostal": "3185",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8765,
+    "nombre": "SAN JORGE",
+    "codigopostal": "3212",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8695,
+    "nombre": "SAN JOSE",
+    "codigopostal": "3283",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8873,
+    "nombre": "SAN JOSE DE FELICIANO",
+    "codigopostal": "3187",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9033,
+    "nombre": "SAN JUAN",
+    "codigopostal": "3191",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8766,
+    "nombre": "SAN JUAN LA QUERENCIA",
+    "codigopostal": "3212",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8904,
+    "nombre": "SAN JULIAN",
+    "codigopostal": "2841",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9229,
+    "nombre": "SAN JUSTO",
+    "codigopostal": "3260",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9071,
+    "nombre": "SAN LORENZO",
+    "codigopostal": "3158",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8874,
+    "nombre": "SAN LUIS SAN JOSE FELICIANO",
+    "codigopostal": "3187",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9230,
+    "nombre": "SAN MARTIN",
+    "codigopostal": "3111",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20012,
+    "nombre": "SAN MARTIN",
+    "codigopostal": "3113",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8696,
+    "nombre": "SAN MIGUEL",
+    "codigopostal": "3269",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8697,
+    "nombre": "SAN MIGUEL NRO 2",
+    "codigopostal": "3269",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8841,
+    "nombre": "SAN PEDRO",
+    "codigopostal": "3212",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9034,
+    "nombre": "SAN RAMIREZ",
+    "codigopostal": "3191",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 27833,
+    "nombre": "SAN ROQUE",
+    "codigopostal": "3228",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8698,
+    "nombre": "SAN SALVADOR",
+    "codigopostal": "3218",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9297,
+    "nombre": "SAN VICENTE",
+    "codigopostal": "3252",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8875,
+    "nombre": "SAN VICTOR",
+    "codigopostal": "3191",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8801,
+    "nombre": "SANATORIO ADVENTISTA DEL PLATA",
+    "codigopostal": "3103",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18344,
+    "nombre": "SANATORIO APEADERO FCGU",
+    "codigopostal": "3101",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8842,
+    "nombre": "SANTA ANA",
+    "codigopostal": "3208",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9231,
+    "nombre": "SANTA ANITA",
+    "codigopostal": "3248",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9035,
+    "nombre": "SANTA ELENA",
+    "codigopostal": "3192",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8699,
+    "nombre": "SANTA INES",
+    "codigopostal": "3285",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19318,
+    "nombre": "SANTA INES",
+    "codigopostal": "3191",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8767,
+    "nombre": "SANTA ISABEL",
+    "codigopostal": "3203",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 27837,
+    "nombre": "SANTA LUCIA",
+    "codigopostal": "3183",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9140,
+    "nombre": "SANTA LUISA",
+    "codigopostal": "3133",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9036,
+    "nombre": "SANTA MARIA",
+    "codigopostal": "3191",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8905,
+    "nombre": "SANTA MARTA",
+    "codigopostal": "2840",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9232,
+    "nombre": "SANTA ROSA",
+    "codigopostal": "3248",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 17611,
+    "nombre": "SANTA ROSA",
+    "codigopostal": "3252",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9141,
+    "nombre": "SANTA SARA",
+    "codigopostal": "3134",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8843,
+    "nombre": "SARANDI",
+    "codigopostal": "3228",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8967,
+    "nombre": "SARANDI",
+    "codigopostal": "2821",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9037,
+    "nombre": "SARANDI CORA",
+    "codigopostal": "3190",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9072,
+    "nombre": "SAUCE",
+    "codigopostal": "3150",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8855,
+    "nombre": "SAUCE DE LUNA",
+    "codigopostal": "3144",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9142,
+    "nombre": "SAUCE MONTRULL",
+    "codigopostal": "3118",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18166,
+    "nombre": "SAUCE NORTE",
+    "codigopostal": "3183",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20102,
+    "nombre": "SAUCE NORTE",
+    "codigopostal": "3174",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9143,
+    "nombre": "SAUCE PINTO",
+    "codigopostal": "3107",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18965,
+    "nombre": "SAUCE RIO",
+    "codigopostal": "1649",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9170,
+    "nombre": "SAUCE SUR",
+    "codigopostal": "2845",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9073,
+    "nombre": "SECCION URQUIZA",
+    "codigopostal": "3109",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9144,
+    "nombre": "SEGUI",
+    "codigopostal": "3117",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20103,
+    "nombre": "SEGUNDO CUARTEL",
+    "codigopostal": "3174",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18581,
+    "nombre": "SEPTIMO DISTRITO",
+    "codigopostal": "2840",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19392,
+    "nombre": "SEPTIMO DISTRITO",
+    "codigopostal": "3150",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18629,
+    "nombre": "SEXTO DISTRITO",
+    "codigopostal": "3155",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 17616,
+    "nombre": "SEXTO DISTRITO COLON",
+    "codigopostal": "3287",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9038,
+    "nombre": "SIR LEONARD",
+    "codigopostal": "3142",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9145,
+    "nombre": "SOLA",
+    "codigopostal": "3176",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20104,
+    "nombre": "SOLA",
+    "codigopostal": "3176",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9146,
+    "nombre": "SOSA",
+    "codigopostal": "3133",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9299,
+    "nombre": "SPINDOLA",
+    "codigopostal": "3252",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8802,
+    "nombre": "STROBEL",
+    "codigopostal": "3101",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18169,
+    "nombre": "SUBCENTRAL SANTA MARIA",
+    "codigopostal": "3180",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18430,
+    "nombre": "SURST",
+    "codigopostal": "3228",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8768,
+    "nombre": "TABLADA NORTE CONCORDIA",
+    "codigopostal": "3200",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8769,
+    "nombre": "TABLADA OESTE CONCORDIA",
+    "codigopostal": "3200",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9147,
+    "nombre": "TABOSSI",
+    "codigopostal": "3111",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9039,
+    "nombre": "TACUARAS YACARE",
+    "codigopostal": "3190",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9233,
+    "nombre": "TALITA",
+    "codigopostal": "3261",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9148,
+    "nombre": "TALITAS",
+    "codigopostal": "3136",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8968,
+    "nombre": "TALITAS GUALEGUAYCHU",
+    "codigopostal": "2852",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8876,
+    "nombre": "TASES",
+    "codigopostal": "3187",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 27749,
+    "nombre": "TATUTI",
+    "codigopostal": "3229",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9149,
+    "nombre": "TEZANOS PINTO",
+    "codigopostal": "3114",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9150,
+    "nombre": "TIRO FEDERAL",
+    "codigopostal": "3100",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9234,
+    "nombre": "TOMAS ROCAMORA",
+    "codigopostal": "3261",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20429,
+    "nombre": "TRES ALDEAS",
+    "codigopostal": "3170",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8906,
+    "nombre": "TRES BOCAS",
+    "codigopostal": "3155",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9253,
+    "nombre": "TRES ESQUINAS",
+    "codigopostal": "3156",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18976,
+    "nombre": "TRES ESQUINAS",
+    "codigopostal": "2820",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9151,
+    "nombre": "TRES LAGUNAS",
+    "codigopostal": "3113",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8856,
+    "nombre": "TTE PRIMERO BRIGIO CAINZO",
+    "codigopostal": "3212",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8700,
+    "nombre": "UBAJAY",
+    "codigopostal": "3287",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8969,
+    "nombre": "URDINARRAIN",
+    "codigopostal": "2826",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9300,
+    "nombre": "VERGARA",
+    "codigopostal": "3252",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9152,
+    "nombre": "VIALE",
+    "codigopostal": "3109",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8877,
+    "nombre": "VIBORAS",
+    "codigopostal": "3187",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9254,
+    "nombre": "VICTORIA",
+    "codigopostal": "3153",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8803,
+    "nombre": "VILLA AIDA",
+    "codigopostal": "3103",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20548,
+    "nombre": "VILLA ANGELICA",
+    "codigopostal": "2000",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8970,
+    "nombre": "VILLA ANTONY",
+    "codigopostal": "2820",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9040,
+    "nombre": "VILLA BOREILO",
+    "codigopostal": "3191",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9301,
+    "nombre": "VILLA CLARA",
+    "codigopostal": "3252",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8971,
+    "nombre": "VILLA DEL CERRO",
+    "codigopostal": "2821",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8844,
+    "nombre": "VILLA DEL ROSARIO",
+    "codigopostal": "3229",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9302,
+    "nombre": "VILLA DOMINGUEZ",
+    "codigopostal": "3246",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18998,
+    "nombre": "VILLA ELEONORA",
+    "codigopostal": "2820",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8701,
+    "nombre": "VILLA ELISA",
+    "codigopostal": "3265",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8972,
+    "nombre": "VILLA FAUSTINO M PARERA",
+    "codigopostal": "2824",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9153,
+    "nombre": "VILLA FONTANA",
+    "codigopostal": "3114",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9154,
+    "nombre": "VILLA GOB LUIS ETCHEVEHERE",
+    "codigopostal": "3114",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9155,
+    "nombre": "VILLA HERNANDARIAS",
+    "codigopostal": "3127",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20549,
+    "nombre": "VILLA LIBERTAD",
+    "codigopostal": "3228",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8804,
+    "nombre": "VILLA LIBERTADOR SAN MARTIN",
+    "codigopostal": "3103",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8973,
+    "nombre": "VILLA LILA",
+    "codigopostal": "2820",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9235,
+    "nombre": "VILLA MANTERO",
+    "codigopostal": "3272",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8980,
+    "nombre": "VILLA PARANACITO",
+    "codigopostal": "2823",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8857,
+    "nombre": "VILLA PERPER",
+    "codigopostal": "3188",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8878,
+    "nombre": "VILLA PORTE",
+    "codigopostal": "3191",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8974,
+    "nombre": "VILLA ROMERO",
+    "codigopostal": "2824",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20437,
+    "nombre": "VILLA SAN JUSTO",
+    "codigopostal": "3262",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9236,
+    "nombre": "VILLA SAN MARCIAL",
+    "codigopostal": "3248",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9237,
+    "nombre": "VILLA SAN MIGUEL",
+    "codigopostal": "3272",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9156,
+    "nombre": "VILLA SARMIENTO",
+    "codigopostal": "3100",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9074,
+    "nombre": "VILLA TRES DE FEBRERO",
+    "codigopostal": "3150",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9238,
+    "nombre": "VILLA UDINE",
+    "codigopostal": "3262",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9157,
+    "nombre": "VILLA URANGA",
+    "codigopostal": "3100",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9158,
+    "nombre": "VILLA URQUIZA",
+    "codigopostal": "3113",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8770,
+    "nombre": "VILLA ZORRAQUIN",
+    "codigopostal": "3201",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9303,
+    "nombre": "VILLAGUAY",
+    "codigopostal": "3240",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9304,
+    "nombre": "VILLAGUAY ESTE",
+    "codigopostal": "3244",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9305,
+    "nombre": "VILLAGUAYCITO",
+    "codigopostal": "3218",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18170,
+    "nombre": "VILLAMIL",
+    "codigopostal": "3181",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9306,
+    "nombre": "VIRANO",
+    "codigopostal": "3142",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9041,
+    "nombre": "VIZCACHERA",
+    "codigopostal": "3127",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8771,
+    "nombre": "WALTER MOSS",
+    "codigopostal": "3216",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9042,
+    "nombre": "YACARE",
+    "codigopostal": "3190",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8772,
+    "nombre": "YAROS",
+    "codigopostal": "3212",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8703,
+    "nombre": "YATAY",
+    "codigopostal": "3281",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8773,
+    "nombre": "YERUA",
+    "codigopostal": "3214",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 9043,
+    "nombre": "YESO",
+    "codigopostal": "3190",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 19349,
+    "nombre": "YESO OESTE",
+    "codigopostal": "3190",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 8774,
+    "nombre": "YUQUERI",
+    "codigopostal": "3214",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 18800,
+    "nombre": "ZANJA LA CHILENA",
+    "codigopostal": "1647",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 20687,
+    "nombre": "ZENON ROCA",
+    "codigopostal": "3240",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  },
+  {
+    "id": 27600,
+    "nombre": "ZONA DELTA GUALEGUAYCHU",
+    "codigopostal": "2820",
+    "provincia": {
+      "id": 8,
+      "nombre": "Entre Ríos"
+    }
+  }
+]

@@ -1,0 +1,11261 @@
+[
+  {
+    "id": 21277,
+    "nombre": "20 DE FEBRERO",
+    "codigopostal": "4425",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11793,
+    "nombre": "ABLOME",
+    "codigopostal": "4421",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 27811,
+    "nombre": "ABRA DE ARAGUYOC",
+    "codigopostal": "4633",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16691,
+    "nombre": "ABRA DEL GALLO",
+    "codigopostal": "4411",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21573,
+    "nombre": "ABRA GRANDE",
+    "codigopostal": "4530",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11669,
+    "nombre": "ACAMBUCO",
+    "codigopostal": "4568",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16692,
+    "nombre": "ACAZOQUE",
+    "codigopostal": "4411",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11832,
+    "nombre": "ACHARAS",
+    "codigopostal": "4434",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11732,
+    "nombre": "ACOSTA",
+    "codigopostal": "4425",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 12052,
+    "nombre": "ACOYTE",
+    "codigopostal": "4651",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11575,
+    "nombre": "AGUA NEGRA",
+    "codigopostal": "4415",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11436,
+    "nombre": "AGUA SUCIA",
+    "codigopostal": "4449",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21602,
+    "nombre": "AGUA VERDE",
+    "codigopostal": "4561",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11670,
+    "nombre": "AGUARAY",
+    "codigopostal": "4566",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11911,
+    "nombre": "AGUAS BLANCAS",
+    "codigopostal": "4531",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21256,
+    "nombre": "AGUAS BLANCAS",
+    "codigopostal": "4530",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21656,
+    "nombre": "AGUAS CALIENTES",
+    "codigopostal": "4190",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11623,
+    "nombre": "AGUAS CALIENTES",
+    "codigopostal": "4430",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11962,
+    "nombre": "AGUAS MUERTAS",
+    "codigopostal": "4535",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21730,
+    "nombre": "ALEJO DE ALBERRO",
+    "codigopostal": "4407",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 20998,
+    "nombre": "ALEM",
+    "codigopostal": "4126",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21731,
+    "nombre": "ALFARCITO",
+    "codigopostal": "4409",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11437,
+    "nombre": "ALGARROBAL",
+    "codigopostal": "4446",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11624,
+    "nombre": "ALGARROBAL",
+    "codigopostal": "4430",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11912,
+    "nombre": "ALGARROBAL",
+    "codigopostal": "4534",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11963,
+    "nombre": "ALGARROBAL",
+    "codigopostal": "4535",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21499,
+    "nombre": "ALGARROBAL VIEJO",
+    "codigopostal": "4446",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21657,
+    "nombre": "ALMIRANTE BROWN",
+    "codigopostal": "4193",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 12019,
+    "nombre": "ALMONA",
+    "codigopostal": "4421",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11438,
+    "nombre": "ALTO ALEGRE",
+    "codigopostal": "4449",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11964,
+    "nombre": "ALTO DE LA SIERRA",
+    "codigopostal": "4561",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11833,
+    "nombre": "ALTO DEL MISTOL",
+    "codigopostal": "4446",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11965,
+    "nombre": "ALTO VERDE",
+    "codigopostal": "4535",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21244,
+    "nombre": "ALTOS HORNOS GUEMES",
+    "codigopostal": "4432",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21553,
+    "nombre": "AMAICHA",
+    "codigopostal": "4419",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11966,
+    "nombre": "AMBERES",
+    "codigopostal": "4561",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 12031,
+    "nombre": "AMBLAYO",
+    "codigopostal": "4425",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11794,
+    "nombre": "AMPASCACHI",
+    "codigopostal": "4421",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21205,
+    "nombre": "AMPATA",
+    "codigopostal": "4415",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 12032,
+    "nombre": "ANGASTACO",
+    "codigopostal": "4427",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11913,
+    "nombre": "ANGEL PEREDO",
+    "codigopostal": "4533",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11914,
+    "nombre": "ANGELICA",
+    "codigopostal": "4533",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21828,
+    "nombre": "ANGOSTO PESCADO",
+    "codigopostal": "4651",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21792,
+    "nombre": "ANGOSTURA",
+    "codigopostal": "4415",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21800,
+    "nombre": "ANGOSTURA",
+    "codigopostal": "4560",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11887,
+    "nombre": "ANGOSTURA",
+    "codigopostal": "4419",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 12033,
+    "nombre": "ANIMANA",
+    "codigopostal": "4427",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 12020,
+    "nombre": "ANTILLA",
+    "codigopostal": "4193",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 20964,
+    "nombre": "ANTONIO ALICE",
+    "codigopostal": "4401",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11671,
+    "nombre": "ANTONIO QUIJARRO",
+    "codigopostal": "4552",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11440,
+    "nombre": "APOLINARIO SARAVIA",
+    "codigopostal": "4449",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11915,
+    "nombre": "ARBOL SOLO",
+    "codigopostal": "4534",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11672,
+    "nombre": "ARENAL",
+    "codigopostal": "4560",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21658,
+    "nombre": "ARENAL",
+    "codigopostal": "4198",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11916,
+    "nombre": "ARENALES",
+    "codigopostal": "4535",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11442,
+    "nombre": "ARITA",
+    "codigopostal": "4449",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21659,
+    "nombre": "ARJUNTAS",
+    "codigopostal": "4430",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11834,
+    "nombre": "ARROCERO ITALIANO",
+    "codigopostal": "4444",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11755,
+    "nombre": "ASTILLERO",
+    "codigopostal": "4633",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21049,
+    "nombre": "ATOCHA",
+    "codigopostal": "4401",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21206,
+    "nombre": "ATUDILLO",
+    "codigopostal": "4415",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21664,
+    "nombre": "BA",
+    "codigopostal": "4190",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 12053,
+    "nombre": "BACOYA",
+    "codigopostal": "4644",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21660,
+    "nombre": "BAJADA",
+    "codigopostal": "4190",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16718,
+    "nombre": "BAJADA BLANCA",
+    "codigopostal": "4193",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21661,
+    "nombre": "BAJADA DE GAVI",
+    "codigopostal": "4198",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21662,
+    "nombre": "BAJADA GRANDE",
+    "codigopostal": "4198",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11835,
+    "nombre": "BAJO GRANDE",
+    "codigopostal": "4446",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21502,
+    "nombre": "BAJO GRANDE DESVIO FCGB",
+    "codigopostal": "4444",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21663,
+    "nombre": "BALBOA",
+    "codigopostal": "4193",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21603,
+    "nombre": "BALBUENA",
+    "codigopostal": "4561",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11836,
+    "nombre": "BALDERRAMA",
+    "codigopostal": "4440",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21732,
+    "nombre": "BALLENAL",
+    "codigopostal": "4405",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11888,
+    "nombre": "BANDA GRANDE",
+    "codigopostal": "4419",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21001,
+    "nombre": "BARADERO",
+    "codigopostal": "4126",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16742,
+    "nombre": "BARBAYASCO",
+    "codigopostal": "4190",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 12054,
+    "nombre": "BARITU",
+    "codigopostal": "4651",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11443,
+    "nombre": "BARREALITO",
+    "codigopostal": "4449",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 12034,
+    "nombre": "BARRIAL",
+    "codigopostal": "4427",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21811,
+    "nombre": "BARRIO LA LOMA",
+    "codigopostal": "4400",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 26299,
+    "nombre": "BARRIO PARABOLICA",
+    "codigopostal": "4417",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21824,
+    "nombre": "BARRIO SAN ANTONIO",
+    "codigopostal": "4560",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21801,
+    "nombre": "BARRIO SAN CAYETANO",
+    "codigopostal": "4400",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11782,
+    "nombre": "BARRO NEGRO",
+    "codigopostal": "4415",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21052,
+    "nombre": "BELGRANO",
+    "codigopostal": "4400",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11967,
+    "nombre": "BELGRANO FORTIN 2",
+    "codigopostal": "4535",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11576,
+    "nombre": "BELLA VISTA",
+    "codigopostal": "4423",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11795,
+    "nombre": "BELLA VISTA",
+    "codigopostal": "4421",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11968,
+    "nombre": "BELLA VISTA",
+    "codigopostal": "4535",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21665,
+    "nombre": "BELLA VISTA",
+    "codigopostal": "4193",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11625,
+    "nombre": "BETANIA",
+    "codigopostal": "4432",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11734,
+    "nombre": "BODEGUITA",
+    "codigopostal": "4425",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11889,
+    "nombre": "BREALITO",
+    "codigopostal": "4419",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11673,
+    "nombre": "BUEN LUGAR",
+    "codigopostal": "4550",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21604,
+    "nombre": "BUENA FE",
+    "codigopostal": "4561",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 20903,
+    "nombre": "BUENA VISTA",
+    "codigopostal": "4415",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21055,
+    "nombre": "BUENA VISTA",
+    "codigopostal": "4400",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 12035,
+    "nombre": "BUENA VISTA",
+    "codigopostal": "4427",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11890,
+    "nombre": "BURRO YACO",
+    "codigopostal": "4419",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16720,
+    "nombre": "CA",
+    "codigopostal": "4193",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16721,
+    "nombre": "CA",
+    "codigopostal": "4193",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16719,
+    "nombre": "CABEZA DE ANTA",
+    "codigopostal": "4193",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11439,
+    "nombre": "CABEZA DE ANTA",
+    "codigopostal": "4434",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11626,
+    "nombre": "CABEZA DE BUEY",
+    "codigopostal": "4434",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11796,
+    "nombre": "CABRA CORRAL DIQUE",
+    "codigopostal": "4421",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11546,
+    "nombre": "CACHI",
+    "codigopostal": "4417",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 12026,
+    "nombre": "CACHI",
+    "codigopostal": "4409",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 20904,
+    "nombre": "CACHI ADENTRO",
+    "codigopostal": "4417",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11577,
+    "nombre": "CACHO MOLINO",
+    "codigopostal": "4421",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11557,
+    "nombre": "CAFAYATE",
+    "codigopostal": "4427",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11828,
+    "nombre": "CAIPE",
+    "codigopostal": "4413",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 20966,
+    "nombre": "CALDERA",
+    "codigopostal": "4401",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 20967,
+    "nombre": "CALDERILLA",
+    "codigopostal": "4401",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11578,
+    "nombre": "CALVIMONTE",
+    "codigopostal": "4421",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21666,
+    "nombre": "CAMARA",
+    "codigopostal": "4198",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21733,
+    "nombre": "CAMARA",
+    "codigopostal": "4405",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11674,
+    "nombre": "CAMINERA SAN PEDRITO",
+    "codigopostal": "4563",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11675,
+    "nombre": "CAMPAMENTO TABLILLA",
+    "codigopostal": "4563",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11676,
+    "nombre": "CAMPAMENTO VESPUCIO",
+    "codigopostal": "4563",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11677,
+    "nombre": "CAMPICHUELO",
+    "codigopostal": "4552",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11444,
+    "nombre": "CAMPO ALEGRE",
+    "codigopostal": "4449",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11579,
+    "nombre": "CAMPO ALEGRE",
+    "codigopostal": "4423",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11837,
+    "nombre": "CAMPO ALEGRE",
+    "codigopostal": "4440",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11969,
+    "nombre": "CAMPO ARGENTINO",
+    "codigopostal": "4535",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11838,
+    "nombre": "CAMPO AZUL",
+    "codigopostal": "4440",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21068,
+    "nombre": "CAMPO CASEROS",
+    "codigopostal": "4400",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11678,
+    "nombre": "CAMPO DURAN",
+    "codigopostal": "4566",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21605,
+    "nombre": "CAMPO LARGO",
+    "codigopostal": "4554",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11679,
+    "nombre": "CAMPO LIBRE",
+    "codigopostal": "4554",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 12027,
+    "nombre": "CAMPO QUIJANO",
+    "codigopostal": "4407",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11627,
+    "nombre": "CAMPO SANTO",
+    "codigopostal": "4432",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11733,
+    "nombre": "CAMPOS DE ALEMANIA",
+    "codigopostal": "4425",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11756,
+    "nombre": "CANCILLAR",
+    "codigopostal": "4633",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21270,
+    "nombre": "CANGREJILLOS",
+    "codigopostal": "4415",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11628,
+    "nombre": "CANTERA DEL SAUCE",
+    "codigopostal": "4432",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21802,
+    "nombre": "CAPIAZUTTI",
+    "codigopostal": "4560",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21830,
+    "nombre": "CAPILLA FUERTE",
+    "codigopostal": "4651",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11970,
+    "nombre": "CAPITAN JUAN PAGE",
+    "codigopostal": "4554",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21734,
+    "nombre": "CARABAJAL",
+    "codigopostal": "4405",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11735,
+    "nombre": "CARAHUASI",
+    "codigopostal": "4425",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21803,
+    "nombre": "CARAPARI",
+    "codigopostal": "4560",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11445,
+    "nombre": "CARRERAS",
+    "codigopostal": "4434",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11757,
+    "nombre": "CASA GRANDE",
+    "codigopostal": "4633",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11797,
+    "nombre": "CASTA",
+    "codigopostal": "4425",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21070,
+    "nombre": "CASTELLANOS",
+    "codigopostal": "4401",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21333,
+    "nombre": "CAUCHARI",
+    "codigopostal": "4413",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16667,
+    "nombre": "CEBADOS",
+    "codigopostal": "4403",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21003,
+    "nombre": "CEIBAL",
+    "codigopostal": "4126",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11446,
+    "nombre": "CEIBALITO",
+    "codigopostal": "4446",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11567,
+    "nombre": "CERRILLOS",
+    "codigopostal": "4403",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21234,
+    "nombre": "CERRO ALEMANIA",
+    "codigopostal": "4425",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21735,
+    "nombre": "CERRO BAYO",
+    "codigopostal": "4409",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11891,
+    "nombre": "CERRO BRAVO",
+    "codigopostal": "4419",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16722,
+    "nombre": "CERRO COLORADO",
+    "codigopostal": "4193",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11892,
+    "nombre": "CERRO DE LA ZORRA VIEJA",
+    "codigopostal": "4419",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11893,
+    "nombre": "CERRO DEL AGUA DE LA FALDA",
+    "codigopostal": "4419",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21207,
+    "nombre": "CERRO MAL CANTO",
+    "codigopostal": "4415",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16723,
+    "nombre": "CERRO NEGRO",
+    "codigopostal": "4193",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21736,
+    "nombre": "CERRO NEGRO",
+    "codigopostal": "4190",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11736,
+    "nombre": "CEVILAR",
+    "codigopostal": "4425",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11447,
+    "nombre": "CHA",
+    "codigopostal": "4446",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16688,
+    "nombre": "CHA",
+    "codigopostal": "4633",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16724,
+    "nombre": "CHA",
+    "codigopostal": "4193",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21257,
+    "nombre": "CHACAR",
+    "codigopostal": "4633",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16666,
+    "nombre": "CHACHAPOYAS",
+    "codigopostal": "4400",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21336,
+    "nombre": "CHACHAS",
+    "codigopostal": "4413",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11629,
+    "nombre": "CHACRA EXPERIMENTAL",
+    "codigopostal": "4430",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11917,
+    "nombre": "CHAGUARAL",
+    "codigopostal": "4537",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21076,
+    "nombre": "CHAMICAL",
+    "codigopostal": "4400",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21555,
+    "nombre": "CHICOANA",
+    "codigopostal": "4419",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11580,
+    "nombre": "CHICOANA",
+    "codigopostal": "4423",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11839,
+    "nombre": "CHILCAS",
+    "codigopostal": "4434",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21606,
+    "nombre": "CHIRETE",
+    "codigopostal": "4554",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11581,
+    "nombre": "CHIVILME",
+    "codigopostal": "4423",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11758,
+    "nombre": "CHIYAYOC",
+    "codigopostal": "4633",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21737,
+    "nombre": "CHORRILLITOS",
+    "codigopostal": "4409",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21738,
+    "nombre": "CHORRILLOS",
+    "codigopostal": "4409",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21208,
+    "nombre": "CHORRO BLANCO",
+    "codigopostal": "4415",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11448,
+    "nombre": "CHORROARIN",
+    "codigopostal": "4446",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21339,
+    "nombre": "CHUCULAQUI",
+    "codigopostal": "4413",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21607,
+    "nombre": "CIERVO CANSADO",
+    "codigopostal": "4535",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11995,
+    "nombre": "CNEL JUAN SOLA EST MORILLO",
+    "codigopostal": "4554",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11630,
+    "nombre": "COBA",
+    "codigopostal": "4434",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21078,
+    "nombre": "COBAS",
+    "codigopostal": "4400",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11631,
+    "nombre": "COBOS",
+    "codigopostal": "4432",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11759,
+    "nombre": "COLANZULI",
+    "codigopostal": "4633",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16725,
+    "nombre": "COLGADAS",
+    "codigopostal": "4193",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11894,
+    "nombre": "COLMENAR",
+    "codigopostal": "4419",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21557,
+    "nombre": "COLOME",
+    "codigopostal": "4419",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21182,
+    "nombre": "COLON",
+    "codigopostal": "4403",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21574,
+    "nombre": "COLONIA A",
+    "codigopostal": "4530",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21575,
+    "nombre": "COLONIA AGRICOLA SAN AGUSTIN",
+    "codigopostal": "4530",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21608,
+    "nombre": "COLONIA BUENAVENTURA",
+    "codigopostal": "4561",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21576,
+    "nombre": "COLONIA D",
+    "codigopostal": "4530",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21209,
+    "nombre": "COLONIA EL FUERTE",
+    "codigopostal": "4421",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11450,
+    "nombre": "COLONIA HURLINGHAM",
+    "codigopostal": "4449",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11680,
+    "nombre": "COLONIA OTOMANA",
+    "codigopostal": "4550",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21577,
+    "nombre": "COLONIA SANTA MARIA",
+    "codigopostal": "4530",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11918,
+    "nombre": "COLONIA SANTA ROSA",
+    "codigopostal": "4531",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21245,
+    "nombre": "COLONIA SANTA ROSA DE LIMA",
+    "codigopostal": "4432",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21804,
+    "nombre": "COLONIA ZANJA DEL TIGRE",
+    "codigopostal": "4560",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21258,
+    "nombre": "COLORADO",
+    "codigopostal": "4633",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11895,
+    "nombre": "COLTE",
+    "codigopostal": "4419",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11840,
+    "nombre": "CONCHAS",
+    "codigopostal": "4440",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21831,
+    "nombre": "CONDADO",
+    "codigopostal": "4651",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21667,
+    "nombre": "CONDOR",
+    "codigopostal": "4193",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21668,
+    "nombre": "COPO QUILE",
+    "codigopostal": "4193",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11681,
+    "nombre": "CORONEL CORNEJO",
+    "codigopostal": "4552",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11798,
+    "nombre": "CORONEL MOLDES",
+    "codigopostal": "4421",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11451,
+    "nombre": "CORONEL MOLLINEDO",
+    "codigopostal": "4449",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11452,
+    "nombre": "CORONEL OLLEROS",
+    "codigopostal": "4446",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11453,
+    "nombre": "CORONEL VIDT",
+    "codigopostal": "4448",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11737,
+    "nombre": "COROPAMPA",
+    "codigopostal": "4425",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21503,
+    "nombre": "CORRAL QUEMADO",
+    "codigopostal": "4446",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11682,
+    "nombre": "CORRALITO",
+    "codigopostal": "4552",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 12036,
+    "nombre": "CORRALITO",
+    "codigopostal": "4427",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11896,
+    "nombre": "CORRIDA DE CORI",
+    "codigopostal": "4419",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21259,
+    "nombre": "CORTADERAS",
+    "codigopostal": "4411",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11683,
+    "nombre": "CORZUELA",
+    "codigopostal": "4550",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21669,
+    "nombre": "COSME",
+    "codigopostal": "4190",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11632,
+    "nombre": "CRUZ QUEMADA",
+    "codigopostal": "4434",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21558,
+    "nombre": "CUCHIYACO",
+    "codigopostal": "4419",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21832,
+    "nombre": "CUESTA AZUL",
+    "codigopostal": "4651",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21210,
+    "nombre": "CUESTA CHICA",
+    "codigopostal": "4415",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11582,
+    "nombre": "CUESTA DEL OBISPO",
+    "codigopostal": "4417",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 20969,
+    "nombre": "CURUZU",
+    "codigopostal": "4401",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21739,
+    "nombre": "DAMIAN M TORINO",
+    "codigopostal": "4409",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21670,
+    "nombre": "DIAMANTE",
+    "codigopostal": "4198",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11897,
+    "nombre": "DIAMANTE",
+    "codigopostal": "4419",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21740,
+    "nombre": "DIEGO DE ALMAGRO",
+    "codigopostal": "4409",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21246,
+    "nombre": "DIQUE EMBALSE CAMPO ALEGRE",
+    "codigopostal": "4432",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21805,
+    "nombre": "DIQUE ITIRUYO",
+    "codigopostal": "4568",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11454,
+    "nombre": "DIVISADERO",
+    "codigopostal": "4446",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11583,
+    "nombre": "DOCTOR FACUNDO ZUVIRIA",
+    "codigopostal": "4423",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21741,
+    "nombre": "DOCTOR FACUNDO ZUVIRIA",
+    "codigopostal": "4421",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21610,
+    "nombre": "DOS YUCHANES",
+    "codigopostal": "4554",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11684,
+    "nombre": "DRAGONES",
+    "codigopostal": "4554",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21671,
+    "nombre": "DURAZNITO",
+    "codigopostal": "4190",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11738,
+    "nombre": "DURAZNO",
+    "codigopostal": "4425",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11841,
+    "nombre": "DURAZNO",
+    "codigopostal": "4440",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11633,
+    "nombre": "EBRO",
+    "codigopostal": "4434",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21615,
+    "nombre": "EL ",
+    "codigopostal": "4561",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11799,
+    "nombre": "EL ACHERAL",
+    "codigopostal": "4425",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16685,
+    "nombre": "EL ACHERAL",
+    "codigopostal": "4425",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11685,
+    "nombre": "EL AGUAY",
+    "codigopostal": "4563",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21833,
+    "nombre": "EL AGUILAR",
+    "codigopostal": "4651",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21742,
+    "nombre": "EL ALFREDITO",
+    "codigopostal": "4409",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 27530,
+    "nombre": "EL ALGARROBAL",
+    "codigopostal": "4448",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11634,
+    "nombre": "EL ALGARROBO",
+    "codigopostal": "4434",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21743,
+    "nombre": "EL ALISAL",
+    "codigopostal": "4409",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11441,
+    "nombre": "EL ARENAL",
+    "codigopostal": "4446",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21080,
+    "nombre": "EL AYBAL",
+    "codigopostal": "4400",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11635,
+    "nombre": "EL BORDE DE SAN MIGUEL",
+    "codigopostal": "4432",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11455,
+    "nombre": "EL BORDO",
+    "codigopostal": "4449",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21532,
+    "nombre": "EL BORDO",
+    "codigopostal": "4432",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21672,
+    "nombre": "EL BORDO",
+    "codigopostal": "4193",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21611,
+    "nombre": "EL BREAL",
+    "codigopostal": "4535",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11898,
+    "nombre": "EL BREALITO",
+    "codigopostal": "4419",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21004,
+    "nombre": "EL BRETE",
+    "codigopostal": "4126",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11584,
+    "nombre": "EL CANDADO",
+    "codigopostal": "4415",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11800,
+    "nombre": "EL CARANCHO",
+    "codigopostal": "4421",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11456,
+    "nombre": "EL CARMEN",
+    "codigopostal": "4449",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11801,
+    "nombre": "EL CARMEN",
+    "codigopostal": "4421",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21560,
+    "nombre": "EL CARMEN",
+    "codigopostal": "4419",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21578,
+    "nombre": "EL CARMEN",
+    "codigopostal": "4530",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21744,
+    "nombre": "EL CARMEN",
+    "codigopostal": "4405",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11585,
+    "nombre": "EL CARRIL",
+    "codigopostal": "4421",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11457,
+    "nombre": "EL CARRIZAL",
+    "codigopostal": "4446",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16713,
+    "nombre": "EL CEIBAL",
+    "codigopostal": "4430",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16726,
+    "nombre": "EL CEIBAL",
+    "codigopostal": "4193",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21248,
+    "nombre": "EL CEIBAL",
+    "codigopostal": "4430",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21806,
+    "nombre": "EL CHORRO",
+    "codigopostal": "4560",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11899,
+    "nombre": "EL CHURCAL",
+    "codigopostal": "4419",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21807,
+    "nombre": "EL CIENAGO",
+    "codigopostal": "4554",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21184,
+    "nombre": "EL COLEGIO",
+    "codigopostal": "4403",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21612,
+    "nombre": "EL COLGADO",
+    "codigopostal": "4430",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21673,
+    "nombre": "EL CONDOR",
+    "codigopostal": "4193",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21674,
+    "nombre": "EL CORRAL VIEJO",
+    "codigopostal": "4198",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21745,
+    "nombre": "EL CORRALITO",
+    "codigopostal": "4405",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21278,
+    "nombre": "EL CRESTON",
+    "codigopostal": "4425",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11686,
+    "nombre": "EL CUCHILLO",
+    "codigopostal": "4550",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21007,
+    "nombre": "EL CUIBAL",
+    "codigopostal": "4126",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21579,
+    "nombre": "EL DESMONTE",
+    "codigopostal": "4538",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11971,
+    "nombre": "EL DESTIERRO",
+    "codigopostal": "4535",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21746,
+    "nombre": "EL DORADO",
+    "codigopostal": "4405",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21747,
+    "nombre": "EL ENCON",
+    "codigopostal": "4407",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 27806,
+    "nombre": "EL ESPINAL",
+    "codigopostal": "4126",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21613,
+    "nombre": "EL ESPINILLO",
+    "codigopostal": "4430",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11687,
+    "nombre": "EL ESPINILLO",
+    "codigopostal": "4554",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11636,
+    "nombre": "EL ESTANQUE",
+    "codigopostal": "4434",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21235,
+    "nombre": "EL FRAILE",
+    "codigopostal": "4425",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 20971,
+    "nombre": "EL GALLINATO",
+    "codigopostal": "4401",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11843,
+    "nombre": "EL GALPON",
+    "codigopostal": "4444",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21748,
+    "nombre": "EL GOLGOTA",
+    "codigopostal": "4409",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11844,
+    "nombre": "EL GUANACO",
+    "codigopostal": "4440",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21185,
+    "nombre": "EL HUAICO",
+    "codigopostal": "4403",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11458,
+    "nombre": "EL JARAVI",
+    "codigopostal": "4446",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16402,
+    "nombre": "EL JARDIN",
+    "codigopostal": "4126",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11568,
+    "nombre": "EL LEONCITO",
+    "codigopostal": "4421",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11459,
+    "nombre": "EL LIBANO",
+    "codigopostal": "4434",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11460,
+    "nombre": "EL MANANTIAL",
+    "codigopostal": "4449",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21749,
+    "nombre": "EL MANZANO",
+    "codigopostal": "4405",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11586,
+    "nombre": "EL MARAY",
+    "codigopostal": "4415",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21614,
+    "nombre": "EL MIRADOR",
+    "codigopostal": "4535",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11920,
+    "nombre": "EL MISTOL",
+    "codigopostal": "4534",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21271,
+    "nombre": "EL MOLINO",
+    "codigopostal": "4415",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21211,
+    "nombre": "EL MOLLAR",
+    "codigopostal": "4405",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21750,
+    "nombre": "EL MOLLAR",
+    "codigopostal": "4405",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16710,
+    "nombre": "EL MOLLE",
+    "codigopostal": "4530",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21675,
+    "nombre": "EL MORANILLO",
+    "codigopostal": "4430",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11587,
+    "nombre": "EL MOYAR",
+    "codigopostal": "4423",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11461,
+    "nombre": "EL NARANJO",
+    "codigopostal": "4434",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21013,
+    "nombre": "EL NARANJO",
+    "codigopostal": "4126",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21676,
+    "nombre": "EL NARANJO",
+    "codigopostal": "4191",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21213,
+    "nombre": "EL NOGALAR",
+    "codigopostal": "4415",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21236,
+    "nombre": "EL OBELISCO",
+    "codigopostal": "4425",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21677,
+    "nombre": "EL OJITO",
+    "codigopostal": "4198",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16727,
+    "nombre": "EL OJO",
+    "codigopostal": "4193",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11637,
+    "nombre": "EL OSO",
+    "codigopostal": "4434",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11462,
+    "nombre": "EL PACARA",
+    "codigopostal": "4446",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11845,
+    "nombre": "EL PARQUE",
+    "codigopostal": "4444",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11463,
+    "nombre": "EL PERICOTE",
+    "codigopostal": "4449",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21616,
+    "nombre": "EL PERTIGO",
+    "codigopostal": "4554",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21678,
+    "nombre": "EL PORTEZUELO",
+    "codigopostal": "4190",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21751,
+    "nombre": "EL PORVENIR",
+    "codigopostal": "4405",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11511,
+    "nombre": "EL PORVENIR",
+    "codigopostal": "4452",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 12028,
+    "nombre": "EL POTRERO",
+    "codigopostal": "4405",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 20905,
+    "nombre": "EL POTRERO",
+    "codigopostal": "4415",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21272,
+    "nombre": "EL POTRERO",
+    "codigopostal": "4415",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21679,
+    "nombre": "EL POTRERO",
+    "codigopostal": "4193",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21214,
+    "nombre": "EL POTRERO DE DIAZ",
+    "codigopostal": "4421",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21082,
+    "nombre": "EL PRADO",
+    "codigopostal": "4400",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21249,
+    "nombre": "EL PRADO",
+    "codigopostal": "4432",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21752,
+    "nombre": "EL PUCARA",
+    "codigopostal": "4405",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21680,
+    "nombre": "EL PUESTITO",
+    "codigopostal": "4198",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21753,
+    "nombre": "EL PUYIL",
+    "codigopostal": "4405",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11464,
+    "nombre": "EL QUEBRACHAL",
+    "codigopostal": "4452",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11588,
+    "nombre": "EL QUEMADO",
+    "codigopostal": "4423",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21580,
+    "nombre": "EL QUEMADO",
+    "codigopostal": "4530",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21681,
+    "nombre": "EL QUEMADO",
+    "codigopostal": "4198",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11921,
+    "nombre": "EL QUIMILAR CARBONCITO",
+    "codigopostal": "4534",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11558,
+    "nombre": "EL RECREO",
+    "codigopostal": "4427",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11688,
+    "nombre": "EL RETIRO",
+    "codigopostal": "4550",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11465,
+    "nombre": "EL REY",
+    "codigopostal": "4434",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11783,
+    "nombre": "EL RODEO",
+    "codigopostal": "4415",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21215,
+    "nombre": "EL RODEO",
+    "codigopostal": "4415",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21754,
+    "nombre": "EL ROSAL",
+    "codigopostal": "4405",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21250,
+    "nombre": "EL SALTO",
+    "codigopostal": "4434",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21237,
+    "nombre": "EL SAPO",
+    "codigopostal": "4425",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11638,
+    "nombre": "EL SAUCE",
+    "codigopostal": "4432",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11846,
+    "nombre": "EL SAUZAL",
+    "codigopostal": "4440",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11466,
+    "nombre": "EL SIMBOLAR",
+    "codigopostal": "4423",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21217,
+    "nombre": "EL SIMBOLAR",
+    "codigopostal": "4421",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11972,
+    "nombre": "EL SOLDADITO",
+    "codigopostal": "4535",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16714,
+    "nombre": "EL SUNCHAL",
+    "codigopostal": "4430",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21014,
+    "nombre": "EL SUNCHAL",
+    "codigopostal": "4126",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21218,
+    "nombre": "EL SUNCHAL",
+    "codigopostal": "4415",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11922,
+    "nombre": "EL TABACAL",
+    "codigopostal": "4533",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 12015,
+    "nombre": "EL TALA",
+    "codigopostal": "4126",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21035,
+    "nombre": "EL TALA EST R DE LOS LLANOS",
+    "codigopostal": "4126",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21617,
+    "nombre": "EL TALAR",
+    "codigopostal": "4554",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21682,
+    "nombre": "EL TANDIL",
+    "codigopostal": "4198",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21260,
+    "nombre": "EL TAPIAL",
+    "codigopostal": "4633",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21618,
+    "nombre": "EL TARTAGAL",
+    "codigopostal": "4554",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21755,
+    "nombre": "EL TIMBO",
+    "codigopostal": "4405",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11589,
+    "nombre": "EL TIPAL",
+    "codigopostal": "4423",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21756,
+    "nombre": "EL TORO",
+    "codigopostal": "4409",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16690,
+    "nombre": "EL TRIGAL",
+    "codigopostal": "4415",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11847,
+    "nombre": "EL TUNAL",
+    "codigopostal": "4446",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11973,
+    "nombre": "EL TUNALITO",
+    "codigopostal": "4535",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21504,
+    "nombre": "EL VALLECITO",
+    "codigopostal": "4440",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11467,
+    "nombre": "EL VENCIDO",
+    "codigopostal": "4452",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21619,
+    "nombre": "EL YACON",
+    "codigopostal": "4535",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11468,
+    "nombre": "EL YESO",
+    "codigopostal": "4434",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11639,
+    "nombre": "EL ZANJON",
+    "codigopostal": "4434",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16712,
+    "nombre": "EL ZAPALLAR",
+    "codigopostal": "4430",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21251,
+    "nombre": "EL ZAPALLAR",
+    "codigopostal": "4430",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21620,
+    "nombre": "EL ZAPALLO",
+    "codigopostal": "4534",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21757,
+    "nombre": "ELTUNAL",
+    "codigopostal": "4407",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11689,
+    "nombre": "EMBARCACION",
+    "codigopostal": "4550",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11690,
+    "nombre": "EMBOSCADA",
+    "codigopostal": "4554",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21758,
+    "nombre": "ENCRUCIJADA",
+    "codigopostal": "4409",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21759,
+    "nombre": "ENCRUCIJADA DE TASTIL",
+    "codigopostal": "4409",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11802,
+    "nombre": "ENTRE RIOS",
+    "codigopostal": "4430",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 20907,
+    "nombre": "ESCALCHI",
+    "codigopostal": "4417",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21219,
+    "nombre": "ESCOIPE",
+    "codigopostal": "4421",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11469,
+    "nombre": "ESPINILLO",
+    "codigopostal": "4449",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11470,
+    "nombre": "ESQUINA",
+    "codigopostal": "4449",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11900,
+    "nombre": "ESQUINA",
+    "codigopostal": "4419",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21247,
+    "nombre": "EST EL BORDO",
+    "codigopostal": "4430",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11711,
+    "nombre": "EST POCITOS",
+    "codigopostal": "4568",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16693,
+    "nombre": "ESTACION CACHI",
+    "codigopostal": "4411",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21220,
+    "nombre": "ESTACION ZUVIRIA",
+    "codigopostal": "4421",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11471,
+    "nombre": "ESTANCIA VIEJA",
+    "codigopostal": "4434",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11923,
+    "nombre": "ESTEBAN DE URIZAR",
+    "codigopostal": "4537",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11848,
+    "nombre": "ESTECO EMBARCADERO FCGB",
+    "codigopostal": "4440",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21089,
+    "nombre": "ESTOLA",
+    "codigopostal": "4400",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21683,
+    "nombre": "FEDERACION",
+    "codigopostal": "4198",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11849,
+    "nombre": "FINCA ARMONIA",
+    "codigopostal": "4444",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 26300,
+    "nombre": "FINCA BELGRANO",
+    "codigopostal": "4415",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16668,
+    "nombre": "FINCA CAMINO A COLON",
+    "codigopostal": "4403",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16669,
+    "nombre": "FINCA CAMINO VALLISIOS",
+    "codigopostal": "4403",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16670,
+    "nombre": "FINCA COLON",
+    "codigopostal": "4403",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11739,
+    "nombre": "FINCA EL CARMEN",
+    "codigopostal": "4425",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21279,
+    "nombre": "FINCA EL CARMEN",
+    "codigopostal": "4425",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16671,
+    "nombre": "FINCA EL COLEGIO",
+    "codigopostal": "4403",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 27534,
+    "nombre": "FINCA LA CHINA",
+    "codigopostal": "4434",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 20936,
+    "nombre": "FINCA LA ROSA",
+    "codigopostal": "4427",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21581,
+    "nombre": "FINCA LA TOMA",
+    "codigopostal": "4538",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21582,
+    "nombre": "FINCA MISION ZENTA",
+    "codigopostal": "4530",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11472,
+    "nombre": "FINCA MISION ZENTA",
+    "codigopostal": "4448",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11850,
+    "nombre": "FINCA ROCCA",
+    "codigopostal": "4444",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11760,
+    "nombre": "FINCA SANTIAGO",
+    "codigopostal": "4633",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11473,
+    "nombre": "FLORESTA",
+    "codigopostal": "4452",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21506,
+    "nombre": "FOGUISTA J F JUAREZ",
+    "codigopostal": "4444",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21583,
+    "nombre": "FORTIN BELGRANO",
+    "codigopostal": "4530",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11974,
+    "nombre": "FORTIN FRIAS",
+    "codigopostal": "4535",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21809,
+    "nombre": "FRONTERA 4",
+    "codigopostal": "4560",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21810,
+    "nombre": "FRONTERA 5",
+    "codigopostal": "4560",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21808,
+    "nombre": "FRONTERA TRES",
+    "codigopostal": "4560",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 26295,
+    "nombre": "FUERTE ALTO",
+    "codigopostal": "4417",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11474,
+    "nombre": "FUERTE EL PITO",
+    "codigopostal": "4452",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21684,
+    "nombre": "FUERTE QUEMADO",
+    "codigopostal": "4430",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11640,
+    "nombre": "GALLINATO",
+    "codigopostal": "4432",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11475,
+    "nombre": "GAONA",
+    "codigopostal": "4452",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21093,
+    "nombre": "GENERAL ALVARADO",
+    "codigopostal": "4401",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11691,
+    "nombre": "GENERAL BALLIVIAN",
+    "codigopostal": "4552",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11692,
+    "nombre": "GENERAL ENRIQUE MOSCONI",
+    "codigopostal": "4562",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11975,
+    "nombre": "GENERAL GUEMES",
+    "codigopostal": "4430",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11476,
+    "nombre": "GENERAL PIZARRO",
+    "codigopostal": "4449",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21760,
+    "nombre": "GOBERNADOR MANUEL SOLA",
+    "codigopostal": "4409",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21761,
+    "nombre": "GOBERNADOR SARAVIA",
+    "codigopostal": "4409",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11477,
+    "nombre": "GONZALEZ",
+    "codigopostal": "4434",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21342,
+    "nombre": "GRANDES PASTOS",
+    "codigopostal": "4411",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11740,
+    "nombre": "GUACHIPAS",
+    "codigopostal": "4425",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21561,
+    "nombre": "GUALFIN",
+    "codigopostal": "4419",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11803,
+    "nombre": "GUALIANA",
+    "codigopostal": "4421",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16683,
+    "nombre": "GUAMACHI",
+    "codigopostal": "4560",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11693,
+    "nombre": "HICKMANN",
+    "codigopostal": "4554",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21096,
+    "nombre": "HIGUERILLAS",
+    "codigopostal": "4400",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11924,
+    "nombre": "HIPOLITO YRIGOYEN",
+    "codigopostal": "4533",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11976,
+    "nombre": "HITO 1",
+    "codigopostal": "4561",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21685,
+    "nombre": "HORCONES",
+    "codigopostal": "4198",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 12055,
+    "nombre": "HORNILLOS",
+    "codigopostal": "4651",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21509,
+    "nombre": "HOSTERIA JURAMENTO",
+    "codigopostal": "4440",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21762,
+    "nombre": "HUAICONDO",
+    "codigopostal": "4409",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21222,
+    "nombre": "HUAYRA HUASY",
+    "codigopostal": "4415",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21834,
+    "nombre": "HUERTA",
+    "codigopostal": "4651",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21187,
+    "nombre": "HUMAITA",
+    "codigopostal": "4401",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11901,
+    "nombre": "HUMANAS",
+    "codigopostal": "4419",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21344,
+    "nombre": "INCACHULI",
+    "codigopostal": "4413",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21763,
+    "nombre": "INCAHUASI",
+    "codigopostal": "4409",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21764,
+    "nombre": "INCAMAYO",
+    "codigopostal": "4409",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21765,
+    "nombre": "INGENIERO MAURY",
+    "codigopostal": "4409",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11641,
+    "nombre": "INGENIO SAN ISIDRO",
+    "codigopostal": "4432",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11925,
+    "nombre": "INGENIO SAN MARTIN",
+    "codigopostal": "4533",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11762,
+    "nombre": "IRUYA",
+    "codigopostal": "4633",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11763,
+    "nombre": "ISLA DE CA",
+    "codigopostal": "4531",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16672,
+    "nombre": "ISLA DE LA CANDELARIA",
+    "codigopostal": "4403",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21793,
+    "nombre": "ISONZA",
+    "codigopostal": "4427",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11694,
+    "nombre": "ITUYURO",
+    "codigopostal": "4566",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 12037,
+    "nombre": "JACIMANA",
+    "codigopostal": "4427",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16662,
+    "nombre": "JACIMANA",
+    "codigopostal": "4427",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11926,
+    "nombre": "JERONIMO MATORRAS",
+    "codigopostal": "4537",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11478,
+    "nombre": "JOAQUIN V GONZALEZ",
+    "codigopostal": "4448",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16694,
+    "nombre": "JUNCAL",
+    "codigopostal": "4411",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21350,
+    "nombre": "JUNCALITO",
+    "codigopostal": "4413",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21261,
+    "nombre": "JUNTAS DE SAN ANTONIO",
+    "codigopostal": "4530",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11851,
+    "nombre": "JURAMENTO",
+    "codigopostal": "4434",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11479,
+    "nombre": "KILOMETRO 1088",
+    "codigopostal": "4448",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11642,
+    "nombre": "KILOMETRO 1094",
+    "codigopostal": "4430",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11643,
+    "nombre": "KILOMETRO 1102",
+    "codigopostal": "4432",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11480,
+    "nombre": "KILOMETRO 1104",
+    "codigopostal": "4449",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 20973,
+    "nombre": "KILOMETRO 1125",
+    "codigopostal": "4401",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21099,
+    "nombre": "KILOMETRO 1129",
+    "codigopostal": "4400",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11481,
+    "nombre": "KILOMETRO 1152",
+    "codigopostal": "4452",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16673,
+    "nombre": "KILOMETRO 1156",
+    "codigopostal": "4403",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21766,
+    "nombre": "KILOMETRO 1172",
+    "codigopostal": "4407",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11804,
+    "nombre": "KILOMETRO 1176 300",
+    "codigopostal": "4421",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11929,
+    "nombre": "KILOMETRO 1280",
+    "codigopostal": "4534",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11927,
+    "nombre": "KILOMETRO 1281",
+    "codigopostal": "4534",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11928,
+    "nombre": "KILOMETRO 1291",
+    "codigopostal": "4534",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11930,
+    "nombre": "KILOMETRO 1298",
+    "codigopostal": "4533",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11695,
+    "nombre": "KILOMETRO 1306 FCGB",
+    "codigopostal": "4550",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21352,
+    "nombre": "KILOMETRO 1369",
+    "codigopostal": "4413",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21355,
+    "nombre": "KILOMETRO 1373",
+    "codigopostal": "4413",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11696,
+    "nombre": "KILOMETRO 1398",
+    "codigopostal": "4562",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21357,
+    "nombre": "KILOMETRO 1424",
+    "codigopostal": "4413",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11697,
+    "nombre": "KILOMETRO 1448",
+    "codigopostal": "4564",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11852,
+    "nombre": "LA AGUADITA",
+    "codigopostal": "4440",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 12038,
+    "nombre": "LA ARCADIA",
+    "codigopostal": "4427",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16663,
+    "nombre": "LA ARCADIA",
+    "codigopostal": "4427",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11805,
+    "nombre": "LA ARGENTINA",
+    "codigopostal": "4421",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11559,
+    "nombre": "LA ARMONIA",
+    "codigopostal": "4427",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11806,
+    "nombre": "LA ARMONIA",
+    "codigopostal": "4421",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11853,
+    "nombre": "LA ARMONIA",
+    "codigopostal": "4444",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16715,
+    "nombre": "LA ASUNCION",
+    "codigopostal": "4430",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21015,
+    "nombre": "LA ASUNCION",
+    "codigopostal": "4126",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21686,
+    "nombre": "LA BANDA",
+    "codigopostal": "4190",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11560,
+    "nombre": "LA BANDA",
+    "codigopostal": "4427",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11807,
+    "nombre": "LA BODEGA",
+    "codigopostal": "4421",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21280,
+    "nombre": "LA BODEGUITA",
+    "codigopostal": "4421",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21794,
+    "nombre": "LA CABA",
+    "codigopostal": "4427",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11590,
+    "nombre": "LA CALAVERA",
+    "codigopostal": "4423",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11977,
+    "nombre": "LA CANCHA",
+    "codigopostal": "4535",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21018,
+    "nombre": "LA CANDELARIA",
+    "codigopostal": "4126",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21188,
+    "nombre": "LA CANDELARIA",
+    "codigopostal": "4126",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11854,
+    "nombre": "LA CARRETERA",
+    "codigopostal": "4446",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11978,
+    "nombre": "LA CHINA",
+    "codigopostal": "4561",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21687,
+    "nombre": "LA CIENAGA",
+    "codigopostal": "4193",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 20939,
+    "nombre": "LA CIENEGUITA",
+    "codigopostal": "4141",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11741,
+    "nombre": "LA COSTA",
+    "codigopostal": "4425",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11808,
+    "nombre": "LA COSTA",
+    "codigopostal": "4421",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21511,
+    "nombre": "LA COSTOSA",
+    "codigopostal": "4440",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16728,
+    "nombre": "LA CRUZ",
+    "codigopostal": "4193",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21101,
+    "nombre": "LA CRUZ",
+    "codigopostal": "4400",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11482,
+    "nombre": "LA CUESTITA ANTA",
+    "codigopostal": "4434",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11855,
+    "nombre": "LA CUESTITA METAN",
+    "codigopostal": "4434",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21621,
+    "nombre": "LA CURVA",
+    "codigopostal": "4554",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21252,
+    "nombre": "LA DEFENSA",
+    "codigopostal": "4430",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21622,
+    "nombre": "LA ENTRADA",
+    "codigopostal": "4554",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 20846,
+    "nombre": "LA ESPERANZA",
+    "codigopostal": "4448",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21273,
+    "nombre": "LA ESPERANZA",
+    "codigopostal": "4415",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21623,
+    "nombre": "LA ESPERANZA",
+    "codigopostal": "4535",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11591,
+    "nombre": "LA ESPERANZA",
+    "codigopostal": "4423",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11979,
+    "nombre": "LA ESQUINITA",
+    "codigopostal": "4535",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21767,
+    "nombre": "LA ESTELA",
+    "codigopostal": "4405",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11931,
+    "nombre": "LA ESTRELLA",
+    "codigopostal": "4537",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 12056,
+    "nombre": "LA FALDA",
+    "codigopostal": "4651",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21189,
+    "nombre": "LA FALDA",
+    "codigopostal": "4403",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16674,
+    "nombre": "LA FAMA",
+    "codigopostal": "4403",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16729,
+    "nombre": "LA FIRMEZA",
+    "codigopostal": "4193",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11742,
+    "nombre": "LA FLORIDA",
+    "codigopostal": "4425",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11698,
+    "nombre": "LA FORTUNA",
+    "codigopostal": "4550",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11592,
+    "nombre": "LA GUARDIA",
+    "codigopostal": "4423",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21223,
+    "nombre": "LA HERRADURA",
+    "codigopostal": "4415",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21688,
+    "nombre": "LA HOYADA",
+    "codigopostal": "4198",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11764,
+    "nombre": "LA HUERTA",
+    "codigopostal": "4633",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21103,
+    "nombre": "LA ISLA",
+    "codigopostal": "4401",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21190,
+    "nombre": "LA ISLA",
+    "codigopostal": "4400",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21105,
+    "nombre": "LA LAGUNILLA",
+    "codigopostal": "4400",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 20848,
+    "nombre": "LA LOMITA",
+    "codigopostal": "4448",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11483,
+    "nombre": "LA MANGA",
+    "codigopostal": "4446",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16716,
+    "nombre": "LA MARAVILLA",
+    "codigopostal": "4430",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21021,
+    "nombre": "LA MARAVILLA",
+    "codigopostal": "4126",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11593,
+    "nombre": "LA MARGARITA",
+    "codigopostal": "4423",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11594,
+    "nombre": "LA MAROMA",
+    "codigopostal": "4423",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21689,
+    "nombre": "LA MATILDE",
+    "codigopostal": "4190",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21795,
+    "nombre": "LA MERCED",
+    "codigopostal": "4427",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11569,
+    "nombre": "LA MERCED",
+    "codigopostal": "4421",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 27808,
+    "nombre": "LA MESADA CHICA",
+    "codigopostal": "4633",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 27807,
+    "nombre": "LA MESADA GRANDE",
+    "codigopostal": "4633",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21108,
+    "nombre": "LA MONTA",
+    "codigopostal": "4400",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11980,
+    "nombre": "LA MONTA",
+    "codigopostal": "4535",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21624,
+    "nombre": "LA MORA",
+    "codigopostal": "4554",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11644,
+    "nombre": "LA OFELIA",
+    "codigopostal": "4432",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11645,
+    "nombre": "LA OLIVA",
+    "codigopostal": "4432",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16730,
+    "nombre": "LA PAJITA",
+    "codigopostal": "4193",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21690,
+    "nombre": "LA PALATA",
+    "codigopostal": "4198",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11743,
+    "nombre": "LA PAMPA",
+    "codigopostal": "4425",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11547,
+    "nombre": "LA PAYA",
+    "codigopostal": "4419",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21112,
+    "nombre": "LA PEDRERA",
+    "codigopostal": "4400",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21691,
+    "nombre": "LA PLATA",
+    "codigopostal": "4198",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21023,
+    "nombre": "LA POBLACION",
+    "codigopostal": "4126",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11744,
+    "nombre": "LA POBLACION",
+    "codigopostal": "4425",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11856,
+    "nombre": "LA POBLACION",
+    "codigopostal": "4444",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11784,
+    "nombre": "LA POMA",
+    "codigopostal": "4415",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21816,
+    "nombre": "LA PORCELANA",
+    "codigopostal": "4560",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11857,
+    "nombre": "LA POSTA",
+    "codigopostal": "4434",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21563,
+    "nombre": "LA PUERTA",
+    "codigopostal": "4419",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11561,
+    "nombre": "LA PUNILLA",
+    "codigopostal": "4427",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11646,
+    "nombre": "LA PUNTILLA",
+    "codigopostal": "4434",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11699,
+    "nombre": "LA QUENA",
+    "codigopostal": "4550",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21114,
+    "nombre": "LA QUESERA",
+    "codigopostal": "4400",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11647,
+    "nombre": "LA RAMADA",
+    "codigopostal": "4432",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21281,
+    "nombre": "LA REPRESA",
+    "codigopostal": "4425",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 12029,
+    "nombre": "LA SILLETA",
+    "codigopostal": "4407",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21812,
+    "nombre": "LA SOLEDAD",
+    "codigopostal": "4560",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11982,
+    "nombre": "LA TABLADA",
+    "codigopostal": "4535",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11595,
+    "nombre": "LA TOMA",
+    "codigopostal": "4421",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21584,
+    "nombre": "LA TOMA",
+    "codigopostal": "4530",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11648,
+    "nombre": "LA TRAMPA",
+    "codigopostal": "4434",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21118,
+    "nombre": "LA TROJA",
+    "codigopostal": "4400",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21121,
+    "nombre": "LA UNION",
+    "codigopostal": "4401",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11983,
+    "nombre": "LA UNION",
+    "codigopostal": "4535",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11649,
+    "nombre": "LA VI",
+    "codigopostal": "4432",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11809,
+    "nombre": "LA VI",
+    "codigopostal": "4425",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 12039,
+    "nombre": "LA VI",
+    "codigopostal": "4427",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21224,
+    "nombre": "LA YESERA",
+    "codigopostal": "4415",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11484,
+    "nombre": "LAGUNA BLANCA",
+    "codigopostal": "4448",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21364,
+    "nombre": "LAGUNA SECA",
+    "codigopostal": "4413",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11485,
+    "nombre": "LAGUNA VERDE",
+    "codigopostal": "4449",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 20851,
+    "nombre": "LAGUNITA",
+    "codigopostal": "4446",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11858,
+    "nombre": "LAGUNITA NUEVA POBLACION",
+    "codigopostal": "4446",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11859,
+    "nombre": "LAS ACHERAS",
+    "codigopostal": "4434",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11596,
+    "nombre": "LAS ANIMAS",
+    "codigopostal": "4415",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21768,
+    "nombre": "LAS ARCAS",
+    "codigopostal": "4407",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 26296,
+    "nombre": "LAS ARCAS",
+    "codigopostal": "4417",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21769,
+    "nombre": "LAS ARENAS",
+    "codigopostal": "4405",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11486,
+    "nombre": "LAS BATEAS",
+    "codigopostal": "4449",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16660,
+    "nombre": "LAS BLANCAS",
+    "codigopostal": "4448",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21191,
+    "nombre": "LAS BLANCAS",
+    "codigopostal": "4403",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11984,
+    "nombre": "LAS BOLSAS",
+    "codigopostal": "4535",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11810,
+    "nombre": "LAS CA",
+    "codigopostal": "4421",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11985,
+    "nombre": "LAS CA",
+    "codigopostal": "4535",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 20852,
+    "nombre": "LAS CA",
+    "codigopostal": "4434",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21262,
+    "nombre": "LAS CA",
+    "codigopostal": "4633",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21770,
+    "nombre": "LAS CAPILLAS",
+    "codigopostal": "4409",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16731,
+    "nombre": "LAS CATITAS",
+    "codigopostal": "4193",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21771,
+    "nombre": "LAS CEBADAS",
+    "codigopostal": "4409",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11562,
+    "nombre": "LAS CONCHAS",
+    "codigopostal": "4427",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11986,
+    "nombre": "LAS CONCHAS",
+    "codigopostal": "4535",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 20909,
+    "nombre": "LAS CORTADERAS",
+    "codigopostal": "4415",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21585,
+    "nombre": "LAS CORTADERAS",
+    "codigopostal": "4530",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21124,
+    "nombre": "LAS COSTAS",
+    "codigopostal": "4401",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11860,
+    "nombre": "LAS CUESTITAS",
+    "codigopostal": "4434",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21772,
+    "nombre": "LAS CUEVAS",
+    "codigopostal": "4409",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16686,
+    "nombre": "LAS CURTIEMBRES",
+    "codigopostal": "4425",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11861,
+    "nombre": "LAS DELICIAS",
+    "codigopostal": "4444",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11487,
+    "nombre": "LAS FLACAS",
+    "codigopostal": "4434",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 20854,
+    "nombre": "LAS FLECHAS",
+    "codigopostal": "4448",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11488,
+    "nombre": "LAS FLORES",
+    "codigopostal": "4449",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11597,
+    "nombre": "LAS GARZAS",
+    "codigopostal": "4421",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 20856,
+    "nombre": "LAS HECHERAS",
+    "codigopostal": "4434",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11761,
+    "nombre": "LAS HIGUERAS",
+    "codigopostal": "4633",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21625,
+    "nombre": "LAS HORQUETAS",
+    "codigopostal": "4554",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11862,
+    "nombre": "LAS JUNTAS",
+    "codigopostal": "4440",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21238,
+    "nombre": "LAS JUNTAS DE ALEMANIA",
+    "codigopostal": "4425",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11489,
+    "nombre": "LAS LAJITAS",
+    "codigopostal": "4449",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11811,
+    "nombre": "LAS LECHUZAS",
+    "codigopostal": "4425",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11987,
+    "nombre": "LAS LLAVES",
+    "codigopostal": "4535",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11700,
+    "nombre": "LAS LOMITAS",
+    "codigopostal": "4562",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21586,
+    "nombre": "LAS MARAVILLAS",
+    "codigopostal": "4538",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21282,
+    "nombre": "LAS MERCEDES",
+    "codigopostal": "4421",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 12021,
+    "nombre": "LAS MERCEDES",
+    "codigopostal": "4193",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21773,
+    "nombre": "LAS MESADAS",
+    "codigopostal": "4405",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11650,
+    "nombre": "LAS MESITAS",
+    "codigopostal": "4434",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21692,
+    "nombre": "LAS MOJARRAS",
+    "codigopostal": "4198",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21653,
+    "nombre": "LAS MOJARRITAS",
+    "codigopostal": "4195",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11598,
+    "nombre": "LAS MORAS",
+    "codigopostal": "4423",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 20910,
+    "nombre": "LAS PAILAS",
+    "codigopostal": "4417",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21192,
+    "nombre": "LAS PALMAS",
+    "codigopostal": "4403",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11505,
+    "nombre": "LAS PALMAS",
+    "codigopostal": "4449",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21693,
+    "nombre": "LAS PIEDRITAS",
+    "codigopostal": "4190",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11570,
+    "nombre": "LAS PIRCAS",
+    "codigopostal": "4421",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21774,
+    "nombre": "LAS ROSAS",
+    "codigopostal": "4405",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16732,
+    "nombre": "LAS SALADAS",
+    "codigopostal": "4193",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11571,
+    "nombre": "LAS TIENDITAS",
+    "codigopostal": "4421",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11490,
+    "nombre": "LAS TORTUGAS",
+    "codigopostal": "4449",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 26297,
+    "nombre": "LAS TRANCAS",
+    "codigopostal": "4417",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16733,
+    "nombre": "LAS TUNILLAS",
+    "codigopostal": "4193",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11932,
+    "nombre": "LAS VARAS",
+    "codigopostal": "4534",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 20858,
+    "nombre": "LAS VATEAS",
+    "codigopostal": "4449",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21694,
+    "nombre": "LAS VENTANAS",
+    "codigopostal": "4198",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 27809,
+    "nombre": "LAS VERTIENTES",
+    "codigopostal": "4561",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11651,
+    "nombre": "LAS VERTIENTES SANTA RITA DE",
+    "codigopostal": "4430",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21796,
+    "nombre": "LAS VI",
+    "codigopostal": "4427",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11491,
+    "nombre": "LAS VIBORAS",
+    "codigopostal": "4434",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11599,
+    "nombre": "LAS ZANJAS",
+    "codigopostal": "4415",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11652,
+    "nombre": "LECHIGUANA",
+    "codigopostal": "4434",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 20974,
+    "nombre": "LESSER",
+    "codigopostal": "4401",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21126,
+    "nombre": "LIMACHE",
+    "codigopostal": "4400",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21263,
+    "nombre": "LIMONCITO",
+    "codigopostal": "4530",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11492,
+    "nombre": "LIMONCITO",
+    "codigopostal": "4448",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21835,
+    "nombre": "LIPEO",
+    "codigopostal": "4651",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 12057,
+    "nombre": "LIZOITE",
+    "codigopostal": "4651",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11493,
+    "nombre": "LLUCHA",
+    "codigopostal": "4452",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11785,
+    "nombre": "LOMA DE BURRO",
+    "codigopostal": "4415",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21587,
+    "nombre": "LOMAS DE OLMEDO",
+    "codigopostal": "4530",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11563,
+    "nombre": "LOROHUASI",
+    "codigopostal": "4427",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 20941,
+    "nombre": "LOS ALAMOS",
+    "codigopostal": "4427",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21128,
+    "nombre": "LOS ALAMOS",
+    "codigopostal": "4401",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21193,
+    "nombre": "LOS ALAMOS",
+    "codigopostal": "4403",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21514,
+    "nombre": "LOS BA",
+    "codigopostal": "4440",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21695,
+    "nombre": "LOS BA",
+    "codigopostal": "4193",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11701,
+    "nombre": "LOS BALDES",
+    "codigopostal": "4550",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11988,
+    "nombre": "LOS BLANCOS",
+    "codigopostal": "4554",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21654,
+    "nombre": "LOS CANTEROS",
+    "codigopostal": "4195",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21239,
+    "nombre": "LOS CASTILLOS",
+    "codigopostal": "4425",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11494,
+    "nombre": "LOS CHIFLES",
+    "codigopostal": "4446",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11745,
+    "nombre": "LOS CHURQUIS",
+    "codigopostal": "4425",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21696,
+    "nombre": "LOS CHURQUIS",
+    "codigopostal": "4198",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21368,
+    "nombre": "LOS COLORADOS",
+    "codigopostal": "4413",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11653,
+    "nombre": "LOS CORRALES",
+    "codigopostal": "4434",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21225,
+    "nombre": "LOS LAURELES",
+    "codigopostal": "4415",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11600,
+    "nombre": "LOS LOS",
+    "codigopostal": "4423",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 20975,
+    "nombre": "LOS MERCADOS",
+    "codigopostal": "4401",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21024,
+    "nombre": "LOS MOGOTES",
+    "codigopostal": "4126",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 20860,
+    "nombre": "LOS MOLLINEDOS",
+    "codigopostal": "4448",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11495,
+    "nombre": "LOS NOGALES",
+    "codigopostal": "4434",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21130,
+    "nombre": "LOS NOQUES",
+    "codigopostal": "4400",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21274,
+    "nombre": "LOS PATOS",
+    "codigopostal": "4411",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 20976,
+    "nombre": "LOS PE",
+    "codigopostal": "4401",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21721,
+    "nombre": "LOS POCITOS",
+    "codigopostal": "4190",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11989,
+    "nombre": "LOS RANCHILLOS",
+    "codigopostal": "4554",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11863,
+    "nombre": "LOS ROSALES",
+    "codigopostal": "4446",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21697,
+    "nombre": "LOS ROSALES",
+    "codigopostal": "4193",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 20978,
+    "nombre": "LOS SAUCES",
+    "codigopostal": "4401",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11746,
+    "nombre": "LOS SAUCES",
+    "codigopostal": "4425",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 12040,
+    "nombre": "LOS SAUCES",
+    "codigopostal": "4427",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 12058,
+    "nombre": "LOS TOLDOS",
+    "codigopostal": "4531",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21698,
+    "nombre": "LOS ZANJONES",
+    "codigopostal": "4198",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21813,
+    "nombre": "LOTE 27",
+    "codigopostal": "4560",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11702,
+    "nombre": "LOTE ESTELA",
+    "codigopostal": "4533",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16600,
+    "nombre": "LOTE ESTELA",
+    "codigopostal": "4533",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21588,
+    "nombre": "LOTE JOSEFINA",
+    "codigopostal": "4530",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21589,
+    "nombre": "LOTE LUCRECIA",
+    "codigopostal": "4530",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21590,
+    "nombre": "LOTE MARCELA",
+    "codigopostal": "4530",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21591,
+    "nombre": "LOTE SARITA",
+    "codigopostal": "4530",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11496,
+    "nombre": "LUIS BURELA",
+    "codigopostal": "4449",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11864,
+    "nombre": "LUMBRERAS",
+    "codigopostal": "4434",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11703,
+    "nombre": "LUNA MUERTA",
+    "codigopostal": "4554",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11902,
+    "nombre": "LURACATAO",
+    "codigopostal": "4419",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11497,
+    "nombre": "MACAPILLO",
+    "codigopostal": "4452",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 20943,
+    "nombre": "MACHO RASTROJO",
+    "codigopostal": "4141",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11704,
+    "nombre": "MACUETA",
+    "codigopostal": "4566",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21699,
+    "nombre": "MADARIAGA",
+    "codigopostal": "4193",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11654,
+    "nombre": "MADRE VIEJA",
+    "codigopostal": "4430",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21626,
+    "nombre": "MADREJON",
+    "codigopostal": "4554",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21226,
+    "nombre": "MAL CANTE",
+    "codigopostal": "4415",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11601,
+    "nombre": "MAL PASO",
+    "codigopostal": "4415",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11498,
+    "nombre": "MANGA VIEJA",
+    "codigopostal": "4452",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11933,
+    "nombre": "MANUEL ELORDI",
+    "codigopostal": "4550",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11705,
+    "nombre": "MANUELA PEDRAZA",
+    "codigopostal": "4560",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21592,
+    "nombre": "MARIA JOSE",
+    "codigopostal": "4530",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11934,
+    "nombre": "MARIA LUISA",
+    "codigopostal": "4533",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11990,
+    "nombre": "MARTIN GARCIA",
+    "codigopostal": "4535",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21593,
+    "nombre": "MARTINEZ DEL TINCO",
+    "codigopostal": "4537",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11935,
+    "nombre": "MARTINEZ DEL TINEO",
+    "codigopostal": "4537",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11765,
+    "nombre": "MATANCILLAS",
+    "codigopostal": "4633",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 20979,
+    "nombre": "MAYO TORITO",
+    "codigopostal": "4401",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21836,
+    "nombre": "MECOYITA",
+    "codigopostal": "4651",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21775,
+    "nombre": "MEDIA LUNA",
+    "codigopostal": "4405",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11499,
+    "nombre": "MEDIA LUNA",
+    "codigopostal": "4449",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11991,
+    "nombre": "MEDIA LUNA",
+    "codigopostal": "4554",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21776,
+    "nombre": "MERCED DE ARRIBA",
+    "codigopostal": "4405",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21777,
+    "nombre": "MESETA",
+    "codigopostal": "4409",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 12059,
+    "nombre": "MESON",
+    "codigopostal": "4651",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11865,
+    "nombre": "METAN",
+    "codigopostal": "4440",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11866,
+    "nombre": "METAN VIEJO",
+    "codigopostal": "4441",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21778,
+    "nombre": "MINA CAROLINA",
+    "codigopostal": "4409",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21797,
+    "nombre": "MINA DON OTTO",
+    "codigopostal": "4425",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21372,
+    "nombre": "MINA JULIO",
+    "codigopostal": "4411",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21359,
+    "nombre": "MINA LA CASUALIDAD",
+    "codigopostal": "4413",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11786,
+    "nombre": "MINA SAN ESTEBAN",
+    "codigopostal": "4415",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11787,
+    "nombre": "MINA SAN GUILLERMO",
+    "codigopostal": "4415",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11788,
+    "nombre": "MINA SAN WALTERIO",
+    "codigopostal": "4415",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21375,
+    "nombre": "MINA TINCALAYA",
+    "codigopostal": "4413",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11789,
+    "nombre": "MINAS VICTORIA",
+    "codigopostal": "4415",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11500,
+    "nombre": "MINAS YPF",
+    "codigopostal": "4448",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21594,
+    "nombre": "MINAS YPF",
+    "codigopostal": "4530",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 20862,
+    "nombre": "MIRAFLORES",
+    "codigopostal": "4448",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21025,
+    "nombre": "MIRAFLORES",
+    "codigopostal": "4126",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11867,
+    "nombre": "MIRAFLORES",
+    "codigopostal": "4434",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21537,
+    "nombre": "MIRAFLORES M",
+    "codigopostal": "4444",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11706,
+    "nombre": "MISION CHAQUE",
+    "codigopostal": "4554",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21814,
+    "nombre": "MISION FRANCISCANA",
+    "codigopostal": "4560",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 27528,
+    "nombre": "MISION FRANCISCANA",
+    "codigopostal": "4530",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11992,
+    "nombre": "MISION LA PAZ",
+    "codigopostal": "4561",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21627,
+    "nombre": "MISION SANTA LUCIA",
+    "codigopostal": "4561",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21628,
+    "nombre": "MISIONES",
+    "codigopostal": "4554",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11993,
+    "nombre": "MISTOL MAREADO",
+    "codigopostal": "4554",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11707,
+    "nombre": "MISTOLAR",
+    "codigopostal": "4554",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11780,
+    "nombre": "MOJOTORO",
+    "codigopostal": "4432",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11602,
+    "nombre": "MOLINO",
+    "codigopostal": "4423",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11766,
+    "nombre": "MOLINO",
+    "codigopostal": "4644",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21227,
+    "nombre": "MOLINO DE GONGORA",
+    "codigopostal": "4415",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11903,
+    "nombre": "MOLINOS",
+    "codigopostal": "4419",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11767,
+    "nombre": "MOLLAR",
+    "codigopostal": "4644",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11501,
+    "nombre": "MOLLE POZO",
+    "codigopostal": "4446",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11994,
+    "nombre": "MOLLINEDO",
+    "codigopostal": "4535",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11502,
+    "nombre": "MONASTERIOS",
+    "codigopostal": "4449",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 20980,
+    "nombre": "MONTE",
+    "codigopostal": "4401",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11708,
+    "nombre": "MONTE CARMELO",
+    "codigopostal": "4554",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21564,
+    "nombre": "MONTE GRANDE",
+    "codigopostal": "4419",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 12041,
+    "nombre": "MONTE VIEJO",
+    "codigopostal": "4427",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16664,
+    "nombre": "MONTE VIEJO",
+    "codigopostal": "4427",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21240,
+    "nombre": "MORALES",
+    "codigopostal": "4425",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21700,
+    "nombre": "MORENILLO",
+    "codigopostal": "4193",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21379,
+    "nombre": "MU",
+    "codigopostal": "4411",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 12060,
+    "nombre": "NAZARENO",
+    "codigopostal": "4651",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11868,
+    "nombre": "NOGALITO",
+    "codigopostal": "4440",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11503,
+    "nombre": "NUESTRA SE",
+    "codigopostal": "4452",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11709,
+    "nombre": "NUEVO PORVENIR",
+    "codigopostal": "4550",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11655,
+    "nombre": "OJO DE AGUA",
+    "codigopostal": "4430",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21701,
+    "nombre": "OJO DE AGUA",
+    "codigopostal": "4190",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 26301,
+    "nombre": "OJO DE AGUA",
+    "codigopostal": "4415",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21381,
+    "nombre": "OLACAPATO CHICO",
+    "codigopostal": "4413",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21382,
+    "nombre": "OLACAPATO GRANDE",
+    "codigopostal": "4413",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16675,
+    "nombre": "OLMOS",
+    "codigopostal": "4403",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11936,
+    "nombre": "ORAN",
+    "codigopostal": "4530",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11812,
+    "nombre": "OSMA",
+    "codigopostal": "4421",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11710,
+    "nombre": "OTOMANA",
+    "codigopostal": "4550",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21702,
+    "nombre": "OVANDO",
+    "codigopostal": "4190",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21703,
+    "nombre": "OVEJERIA",
+    "codigopostal": "4198",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11869,
+    "nombre": "OVEJERIA",
+    "codigopostal": "4444",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21027,
+    "nombre": "OVEJERO",
+    "codigopostal": "4126",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 12061,
+    "nombre": "PAL TOLCO",
+    "codigopostal": "4651",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11504,
+    "nombre": "PALERMO",
+    "codigopostal": "4449",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11548,
+    "nombre": "PALERMO OESTE",
+    "codigopostal": "4415",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11996,
+    "nombre": "PALMARCITO",
+    "codigopostal": "4535",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11603,
+    "nombre": "PALMIRA",
+    "codigopostal": "4423",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 20864,
+    "nombre": "PALO A PIQUE",
+    "codigopostal": "4449",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21798,
+    "nombre": "PALO PINTADO",
+    "codigopostal": "4427",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21629,
+    "nombre": "PALO SANTO",
+    "codigopostal": "4554",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21648,
+    "nombre": "PALOMAR",
+    "codigopostal": "4190",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11656,
+    "nombre": "PALOMITAS",
+    "codigopostal": "4434",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11747,
+    "nombre": "PAMPA GRANDE",
+    "codigopostal": "4425",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 12062,
+    "nombre": "PAPA CHACRA",
+    "codigopostal": "4651",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11997,
+    "nombre": "PARAISO",
+    "codigopostal": "4535",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21815,
+    "nombre": "PARAJE CAMPO LARGO",
+    "codigopostal": "4560",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16695,
+    "nombre": "PARAJE CERRO NEGRO",
+    "codigopostal": "4411",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16696,
+    "nombre": "PARAJE COBRES",
+    "codigopostal": "4411",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16697,
+    "nombre": "PARAJE CORTADERAS",
+    "codigopostal": "4411",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16698,
+    "nombre": "PARAJE ESQUINA DE GUARDIA",
+    "codigopostal": "4411",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16699,
+    "nombre": "PARAJE LAS CUEVAS",
+    "codigopostal": "4411",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16700,
+    "nombre": "PARAJE MINA CONCORDIA",
+    "codigopostal": "4411",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16701,
+    "nombre": "PARAJE MORRO COLORADO",
+    "codigopostal": "4411",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16702,
+    "nombre": "PARAJE NACIMIENTOS",
+    "codigopostal": "4411",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16703,
+    "nombre": "PARAJE OLACAPATO",
+    "codigopostal": "4413",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16704,
+    "nombre": "PARAJE PASTOS GRANDES",
+    "codigopostal": "4411",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16705,
+    "nombre": "PARAJE PIRCAS",
+    "codigopostal": "4411",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16706,
+    "nombre": "PARAJE PIZCUNO",
+    "codigopostal": "4411",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16707,
+    "nombre": "PARAJE UNCURU",
+    "codigopostal": "4411",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16676,
+    "nombre": "PARAJE ZANJON",
+    "codigopostal": "4403",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21630,
+    "nombre": "PARAMAMAYA",
+    "codigopostal": "4430",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11937,
+    "nombre": "PARANI",
+    "codigopostal": "4530",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21133,
+    "nombre": "PAREDES",
+    "codigopostal": "4401",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 12063,
+    "nombre": "PASCALLA",
+    "codigopostal": "4651",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21779,
+    "nombre": "PASCHA",
+    "codigopostal": "4405",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21518,
+    "nombre": "PASO DE BALDERRAMA",
+    "codigopostal": "4440",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11506,
+    "nombre": "PASO DE LA CRUZ",
+    "codigopostal": "4434",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11507,
+    "nombre": "PASO DE LAS CARRETAS",
+    "codigopostal": "4446",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11870,
+    "nombre": "PASO DEL DURAZNO",
+    "codigopostal": "4440",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11813,
+    "nombre": "PASO DEL RIO",
+    "codigopostal": "4421",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11998,
+    "nombre": "PASO EL MILAGRO SAN ANICETO",
+    "codigopostal": "4535",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 20867,
+    "nombre": "PASO LA CRUZ",
+    "codigopostal": "4446",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21649,
+    "nombre": "PASO VERDE",
+    "codigopostal": "4198",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11871,
+    "nombre": "PASTEADERO",
+    "codigopostal": "4440",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11712,
+    "nombre": "PASTOR SEVILLOSA",
+    "codigopostal": "4552",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11549,
+    "nombre": "PAYOGASTA",
+    "codigopostal": "4415",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 12042,
+    "nombre": "PAYOGASTILLA",
+    "codigopostal": "4427",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11605,
+    "nombre": "PE",
+    "codigopostal": "4423",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11814,
+    "nombre": "PE",
+    "codigopostal": "4421",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11904,
+    "nombre": "PE",
+    "codigopostal": "4419",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21135,
+    "nombre": "PE",
+    "codigopostal": "4401",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11604,
+    "nombre": "PEDREGAL",
+    "codigopostal": "4423",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11713,
+    "nombre": "PEDRO LOZANO",
+    "codigopostal": "4554",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11872,
+    "nombre": "PERU",
+    "codigopostal": "4440",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11938,
+    "nombre": "PICHANAL",
+    "codigopostal": "4534",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21228,
+    "nombre": "PIE DE LA CUESTA",
+    "codigopostal": "4415",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21780,
+    "nombre": "PIE DE LA CUESTA",
+    "codigopostal": "4405",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16677,
+    "nombre": "PIEDEMONTE",
+    "codigopostal": "4403",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21229,
+    "nombre": "PIEDRA DEL MOLINO",
+    "codigopostal": "4421",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11939,
+    "nombre": "PIEDRA DEL POTRILLO",
+    "codigopostal": "4530",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11815,
+    "nombre": "PIEDRAS MORADAS",
+    "codigopostal": "4421",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11768,
+    "nombre": "PINAL",
+    "codigopostal": "4633",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11508,
+    "nombre": "PIQUETE CABADO",
+    "codigopostal": "4449",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11509,
+    "nombre": "PIQUETE DE ANTA",
+    "codigopostal": "4448",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21519,
+    "nombre": "PIQUETE DE ANTA",
+    "codigopostal": "4434",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11714,
+    "nombre": "PIQUIRENDA",
+    "codigopostal": "4564",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 20911,
+    "nombre": "PIUL",
+    "codigopostal": "4415",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11940,
+    "nombre": "PIZARRO",
+    "codigopostal": "4534",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11715,
+    "nombre": "PLUMA DEL PATO",
+    "codigopostal": "4560",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21631,
+    "nombre": "PLUMA DEL PATO",
+    "codigopostal": "4554",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21520,
+    "nombre": "POBLACION",
+    "codigopostal": "4446",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11510,
+    "nombre": "POBLACION",
+    "codigopostal": "4448",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11873,
+    "nombre": "POBLACION DE ORTEGA",
+    "codigopostal": "4444",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11716,
+    "nombre": "POCOY",
+    "codigopostal": "4552",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21275,
+    "nombre": "POMPEYA",
+    "codigopostal": "4415",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11999,
+    "nombre": "PORONGAL",
+    "codigopostal": "4535",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21837,
+    "nombre": "POSCAYA",
+    "codigopostal": "4651",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 20866,
+    "nombre": "POSO DE ALGARROBO",
+    "codigopostal": "4448",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21704,
+    "nombre": "POTRERILLO",
+    "codigopostal": "4190",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11512,
+    "nombre": "POTRERILLO",
+    "codigopostal": "4446",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21028,
+    "nombre": "POTRERILLOS",
+    "codigopostal": "4126",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21241,
+    "nombre": "POTRERILLOS",
+    "codigopostal": "4425",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21383,
+    "nombre": "POTRERILLOS",
+    "codigopostal": "4411",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 20915,
+    "nombre": "POTRERO",
+    "codigopostal": "4415",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21650,
+    "nombre": "POTRERO",
+    "codigopostal": "4195",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11874,
+    "nombre": "POTRERO",
+    "codigopostal": "4446",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 20981,
+    "nombre": "POTRERO DE CASTILLA",
+    "codigopostal": "4401",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11606,
+    "nombre": "POTRERO DE DIAZ",
+    "codigopostal": "4423",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21781,
+    "nombre": "POTRERO DE LINARES",
+    "codigopostal": "4407",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21384,
+    "nombre": "POTRERO DE POYOGASTA",
+    "codigopostal": "4411",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21782,
+    "nombre": "POTRERO DE URIBURU",
+    "codigopostal": "4407",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11941,
+    "nombre": "POZO AZUL",
+    "codigopostal": "4530",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21817,
+    "nombre": "POZO BERMEJO",
+    "codigopostal": "4560",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16734,
+    "nombre": "POZO BLANCO",
+    "codigopostal": "4193",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11717,
+    "nombre": "POZO BRAVO",
+    "codigopostal": "4554",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 20868,
+    "nombre": "POZO CANTADO",
+    "codigopostal": "4448",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21632,
+    "nombre": "POZO CERCADO",
+    "codigopostal": "3636",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11942,
+    "nombre": "POZO CERCADO",
+    "codigopostal": "4535",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16711,
+    "nombre": "POZO DE LA ESQUINA",
+    "codigopostal": "4530",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21595,
+    "nombre": "POZO DE LA PIEDRA",
+    "codigopostal": "4530",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21633,
+    "nombre": "POZO DEL CHA",
+    "codigopostal": "4554",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21634,
+    "nombre": "POZO DEL CUICO",
+    "codigopostal": "4554",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11919,
+    "nombre": "POZO DEL CUINCO",
+    "codigopostal": "4542",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 20870,
+    "nombre": "POZO DEL GREAL",
+    "codigopostal": "4448",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 12000,
+    "nombre": "POZO DEL PATO",
+    "codigopostal": "4535",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21635,
+    "nombre": "POZO DEL SAUCE",
+    "codigopostal": "4535",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 12001,
+    "nombre": "POZO DEL ZORRO",
+    "codigopostal": "4535",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21636,
+    "nombre": "POZO EL ALGARROBO",
+    "codigopostal": "4430",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11513,
+    "nombre": "POZO GRANDE",
+    "codigopostal": "4449",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21637,
+    "nombre": "POZO HONDO",
+    "codigopostal": "4554",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21596,
+    "nombre": "POZO PRINGLES",
+    "codigopostal": "4530",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21705,
+    "nombre": "POZO VERDE",
+    "codigopostal": "4198",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11514,
+    "nombre": "POZO VERDE",
+    "codigopostal": "4449",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 12002,
+    "nombre": "POZO VERDE",
+    "codigopostal": "4535",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21706,
+    "nombre": "POZOS LARGOS",
+    "codigopostal": "4198",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11515,
+    "nombre": "PRINGLES",
+    "codigopostal": "4452",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 12043,
+    "nombre": "PUCARA",
+    "codigopostal": "4427",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 12065,
+    "nombre": "PUCARA",
+    "codigopostal": "4651",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21276,
+    "nombre": "PUEBLO NUEVO",
+    "codigopostal": "4415",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21264,
+    "nombre": "PUEBLO VIEJO",
+    "codigopostal": "4633",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11550,
+    "nombre": "PUEBLO VIEJO",
+    "codigopostal": "4417",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11790,
+    "nombre": "PUEBLO VIEJO",
+    "codigopostal": "4415",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11816,
+    "nombre": "PUENTE DE DIAZ",
+    "codigopostal": "4421",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21707,
+    "nombre": "PUENTE DE PLATA",
+    "codigopostal": "4193",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 20871,
+    "nombre": "PUERTA BLANCA",
+    "codigopostal": "4448",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11551,
+    "nombre": "PUERTA DE LA PAYA",
+    "codigopostal": "4417",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21783,
+    "nombre": "PUERTA DE TASTIL",
+    "codigopostal": "4409",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21818,
+    "nombre": "PUERTO BAULES",
+    "codigopostal": "4552",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21638,
+    "nombre": "PUERTO DE DIAZ",
+    "codigopostal": "4430",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 12066,
+    "nombre": "PUESTO",
+    "codigopostal": "4651",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 12003,
+    "nombre": "PUESTO DE LA VIUDA",
+    "codigopostal": "4535",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21597,
+    "nombre": "PUESTO DE MOTIJO",
+    "codigopostal": "4530",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11943,
+    "nombre": "PUESTO DEL MEDIO",
+    "codigopostal": "4534",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21639,
+    "nombre": "PUESTO DEL PA",
+    "codigopostal": "4554",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11718,
+    "nombre": "PUESTO GRANDE",
+    "codigopostal": "4550",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11981,
+    "nombre": "PUESTO LA PAZ",
+    "codigopostal": "4561",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11657,
+    "nombre": "PUESTO VIEJO",
+    "codigopostal": "4430",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11552,
+    "nombre": "PUIL",
+    "codigopostal": "4417",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11607,
+    "nombre": "PULARES",
+    "codigopostal": "4423",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11516,
+    "nombre": "PULI",
+    "codigopostal": "4446",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 12064,
+    "nombre": "PUNCA VISCANA",
+    "codigopostal": "4651",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21838,
+    "nombre": "PUNCO VISCANA",
+    "codigopostal": "4651",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11553,
+    "nombre": "PUNTA DE AGUA",
+    "codigopostal": "4415",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11875,
+    "nombre": "PUNTA DEL AGUA",
+    "codigopostal": "4440",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21598,
+    "nombre": "QUE",
+    "codigopostal": "4530",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11517,
+    "nombre": "QUEBRACHAL",
+    "codigopostal": "4452",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11608,
+    "nombre": "QUEBRADA DE ESCOIPE",
+    "codigopostal": "4415",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21385,
+    "nombre": "QUEBRADA DEL AGUA",
+    "codigopostal": "4413",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21784,
+    "nombre": "QUEBRADA DEL TORO",
+    "codigopostal": "4409",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21785,
+    "nombre": "QUEBRADA MU",
+    "codigopostal": "4409",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11876,
+    "nombre": "QUESERA",
+    "codigopostal": "4434",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 20944,
+    "nombre": "QUISCA GRANDE",
+    "codigopostal": "4141",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11817,
+    "nombre": "QUISCA LORO",
+    "codigopostal": "4421",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11658,
+    "nombre": "QUISTO",
+    "codigopostal": "4430",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11719,
+    "nombre": "RECAREDO",
+    "codigopostal": "4563",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16735,
+    "nombre": "RECREO",
+    "codigopostal": "4193",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11748,
+    "nombre": "REDONDO",
+    "codigopostal": "4425",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 12004,
+    "nombre": "RESISTENCIA",
+    "codigopostal": "4554",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11818,
+    "nombre": "RETIRO",
+    "codigopostal": "4421",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11749,
+    "nombre": "RIO ALEMANIA",
+    "codigopostal": "4425",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16678,
+    "nombre": "RIO ANCHO",
+    "codigopostal": "4403",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21136,
+    "nombre": "RIO ANCHO",
+    "codigopostal": "4400",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16661,
+    "nombre": "RIO BLANCO",
+    "codigopostal": "4417",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11720,
+    "nombre": "RIO CARAPAN",
+    "codigopostal": "4566",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11944,
+    "nombre": "RIO COLORADO",
+    "codigopostal": "4530",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11945,
+    "nombre": "RIO DE LAS PIEDRAS",
+    "codigopostal": "4530",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11518,
+    "nombre": "RIO DEL VALLE",
+    "codigopostal": "4449",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21253,
+    "nombre": "RIO LAVALLEN",
+    "codigopostal": "4432",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11946,
+    "nombre": "RIO PESCADO",
+    "codigopostal": "4530",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21524,
+    "nombre": "RIO PIEDRAS",
+    "codigopostal": "4434",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21819,
+    "nombre": "RIO SECO",
+    "codigopostal": "4552",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11554,
+    "nombre": "RIO TORO",
+    "codigopostal": "4417",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21708,
+    "nombre": "RIO URUE",
+    "codigopostal": "4193",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 12005,
+    "nombre": "RIVADAVIA",
+    "codigopostal": "4535",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11519,
+    "nombre": "ROCA",
+    "codigopostal": "4452",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11769,
+    "nombre": "RODEO COLORADO",
+    "codigopostal": "4633",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11659,
+    "nombre": "RODEO GRANDE",
+    "codigopostal": "4432",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 12067,
+    "nombre": "RODEO PAMPA",
+    "codigopostal": "4651",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16679,
+    "nombre": "RODEOS",
+    "codigopostal": "4403",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11877,
+    "nombre": "ROSALES",
+    "codigopostal": "4446",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 12023,
+    "nombre": "ROSARIO DE LA FRONTERA",
+    "codigopostal": "4190",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 12030,
+    "nombre": "ROSARIO DE LERMA",
+    "codigopostal": "4405",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11520,
+    "nombre": "ROSARIO DEL DORADO",
+    "codigopostal": "4449",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21651,
+    "nombre": "ROSARIO FUNCA",
+    "codigopostal": "4190",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21030,
+    "nombre": "RUIZ DE LOS LLANOS",
+    "codigopostal": "4126",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 20919,
+    "nombre": "RUMIHUASI",
+    "codigopostal": "4417",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 27532,
+    "nombre": "RUMIHUASI",
+    "codigopostal": "4419",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21799,
+    "nombre": "RUMIUARCO",
+    "codigopostal": "4427",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21820,
+    "nombre": "S JOLLIN",
+    "codigopostal": "4560",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11881,
+    "nombre": "SACHA PERA",
+    "codigopostal": "4440",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11521,
+    "nombre": "SALADILLO",
+    "codigopostal": "4434",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11660,
+    "nombre": "SALADILLO",
+    "codigopostal": "4430",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11830,
+    "nombre": "SALADILLO",
+    "codigopostal": "4415",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 20872,
+    "nombre": "SALADILLO DE JUAREZ",
+    "codigopostal": "4448",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11819,
+    "nombre": "SALADILLO DE OSMA",
+    "codigopostal": "4421",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16709,
+    "nombre": "SALAR DE HOMBRE MUERTO",
+    "codigopostal": "4419",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21388,
+    "nombre": "SALAR DE POCITOS",
+    "codigopostal": "4413",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11829,
+    "nombre": "SALAR DEL HOMBRE MUERTO",
+    "codigopostal": "4419",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21032,
+    "nombre": "SALAZAR",
+    "codigopostal": "4126",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11566,
+    "nombre": "SALTA",
+    "codigopostal": "4400",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 20873,
+    "nombre": "SALTA FORESTAL KILOMETRO 50",
+    "codigopostal": "4449",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 12022,
+    "nombre": "SALVADOR MAZZA",
+    "codigopostal": "4568",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21194,
+    "nombre": "SAN AGUSTIN",
+    "codigopostal": "4421",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21640,
+    "nombre": "SAN AGUSTIN",
+    "codigopostal": "4193",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 20982,
+    "nombre": "SAN ALEJO",
+    "codigopostal": "4401",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11947,
+    "nombre": "SAN ANDRES",
+    "codigopostal": "4530",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11948,
+    "nombre": "SAN ANTONIO",
+    "codigopostal": "4530",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 12044,
+    "nombre": "SAN ANTONIO",
+    "codigopostal": "4427",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16665,
+    "nombre": "SAN ANTONIO",
+    "codigopostal": "4427",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16689,
+    "nombre": "SAN ANTONIO",
+    "codigopostal": "4633",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11609,
+    "nombre": "SAN ANTONIO CHICOANA",
+    "codigopostal": "4421",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11770,
+    "nombre": "SAN ANTONIO DE IRUYA",
+    "codigopostal": "4633",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11831,
+    "nombre": "SAN ANTONIO DE LOS COBRES",
+    "codigopostal": "4411",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11820,
+    "nombre": "SAN ANTONIO LA VI",
+    "codigopostal": "4421",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11949,
+    "nombre": "SAN BERNARDO",
+    "codigopostal": "4530",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 12006,
+    "nombre": "SAN BERNARDO",
+    "codigopostal": "4561",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 27810,
+    "nombre": "SAN BERNARDO DE LAS ZORRAS",
+    "codigopostal": "4409",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 12045,
+    "nombre": "SAN CARLOS",
+    "codigopostal": "4427",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21195,
+    "nombre": "SAN CLEMENTE",
+    "codigopostal": "4403",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21709,
+    "nombre": "SAN ESTEBAN",
+    "codigopostal": "4190",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21710,
+    "nombre": "SAN FELIPE",
+    "codigopostal": "4198",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 12046,
+    "nombre": "SAN FELIPE",
+    "codigopostal": "4427",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 12068,
+    "nombre": "SAN FELIPE",
+    "codigopostal": "4651",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 20874,
+    "nombre": "SAN FERNANDO",
+    "codigopostal": "4448",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11610,
+    "nombre": "SAN FERNANDO DE ESCOIPE",
+    "codigopostal": "4423",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 12069,
+    "nombre": "SAN FRANCISCO",
+    "codigopostal": "4651",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11522,
+    "nombre": "SAN GABRIEL",
+    "codigopostal": "4452",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11572,
+    "nombre": "SAN GERONIMO",
+    "codigopostal": "4421",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11950,
+    "nombre": "SAN IGNACIO",
+    "codigopostal": "4530",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 20875,
+    "nombre": "SAN IGNACIO",
+    "codigopostal": "4448",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21600,
+    "nombre": "SAN IGNACIO DE LOYOLA",
+    "codigopostal": "4530",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 20946,
+    "nombre": "SAN ISIDRO",
+    "codigopostal": "4427",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11661,
+    "nombre": "SAN ISIDRO",
+    "codigopostal": "4430",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 12007,
+    "nombre": "SAN ISIDRO",
+    "codigopostal": "4535",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11771,
+    "nombre": "SAN ISIDRO DE IRUYA",
+    "codigopostal": "4633",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21527,
+    "nombre": "SAN JAVIER",
+    "codigopostal": "4440",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11611,
+    "nombre": "SAN JOAQUIN",
+    "codigopostal": "4423",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 12008,
+    "nombre": "SAN JOAQUIN",
+    "codigopostal": "4535",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 20877,
+    "nombre": "SAN JORGE",
+    "codigopostal": "4448",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11612,
+    "nombre": "SAN JOSE",
+    "codigopostal": "4421",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11905,
+    "nombre": "SAN JOSE DE COLTE",
+    "codigopostal": "4419",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11555,
+    "nombre": "SAN JOSE DE ESCALCHI",
+    "codigopostal": "4419",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11613,
+    "nombre": "SAN JOSE DE LA VI",
+    "codigopostal": "4423",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11878,
+    "nombre": "SAN JOSE DE ORQUERAS",
+    "codigopostal": "4446",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11523,
+    "nombre": "SAN JUAN",
+    "codigopostal": "4446",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11772,
+    "nombre": "SAN JUAN",
+    "codigopostal": "4633",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21652,
+    "nombre": "SAN JUAN",
+    "codigopostal": "4193",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 12070,
+    "nombre": "SAN JUAN DE ORO",
+    "codigopostal": "4651",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21821,
+    "nombre": "SAN LAURENCIO",
+    "codigopostal": "4560",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 12071,
+    "nombre": "SAN LEON",
+    "codigopostal": "4651",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21140,
+    "nombre": "SAN LORENZO",
+    "codigopostal": "4193",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21711,
+    "nombre": "SAN LORENZO HORCONES",
+    "codigopostal": "4198",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 12047,
+    "nombre": "SAN LUCAS",
+    "codigopostal": "4427",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11524,
+    "nombre": "SAN LUIS",
+    "codigopostal": "4449",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21712,
+    "nombre": "SAN LUIS",
+    "codigopostal": "4193",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21839,
+    "nombre": "SAN MARCOS",
+    "codigopostal": "4651",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21565,
+    "nombre": "SAN MARTIN",
+    "codigopostal": "4419",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11525,
+    "nombre": "SAN MARTIN",
+    "codigopostal": "4449",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11573,
+    "nombre": "SAN MARTIN",
+    "codigopostal": "4421",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11662,
+    "nombre": "SAN MARTIN",
+    "codigopostal": "4432",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11614,
+    "nombre": "SAN MARTIN LA CUESTA",
+    "codigopostal": "4415",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16680,
+    "nombre": "SAN MIGUEL",
+    "codigopostal": "4403",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21641,
+    "nombre": "SAN MIGUEL",
+    "codigopostal": "4535",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11821,
+    "nombre": "SAN NICOLAS",
+    "codigopostal": "4421",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 12009,
+    "nombre": "SAN PATRICIO",
+    "codigopostal": "4554",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 12024,
+    "nombre": "SAN PEDRO",
+    "codigopostal": "4193",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16684,
+    "nombre": "SAN PEDRO",
+    "codigopostal": "4560",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16717,
+    "nombre": "SAN PEDRO DE ARANDA",
+    "codigopostal": "4430",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21033,
+    "nombre": "SAN PEDRO DE ARANDA",
+    "codigopostal": "4126",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11773,
+    "nombre": "SAN PEDRO DE IRUYA",
+    "codigopostal": "4633",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21655,
+    "nombre": "SAN PEDRO DE LOS CORRALES",
+    "codigopostal": "4191",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 12048,
+    "nombre": "SAN RAFAEL",
+    "codigopostal": "4427",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11526,
+    "nombre": "SAN RAMON",
+    "codigopostal": "4449",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11951,
+    "nombre": "SAN RAMON DE LA NUEVA ORAN",
+    "codigopostal": "4530",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16736,
+    "nombre": "SAN ROQUE",
+    "codigopostal": "4193",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21283,
+    "nombre": "SAN ROQUE",
+    "codigopostal": "4425",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11527,
+    "nombre": "SAN SEBASTIAN",
+    "codigopostal": "4434",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11822,
+    "nombre": "SAN VICENTE",
+    "codigopostal": "4421",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21647,
+    "nombre": "SAN VICENTE",
+    "codigopostal": "4190",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 20878,
+    "nombre": "SANTA ANA",
+    "codigopostal": "4448",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21713,
+    "nombre": "SANTA ANA",
+    "codigopostal": "4430",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11615,
+    "nombre": "SANTA ANA",
+    "codigopostal": "4423",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11750,
+    "nombre": "SANTA BARBARA",
+    "codigopostal": "4425",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16737,
+    "nombre": "SANTA CATALINA",
+    "codigopostal": "4193",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 12010,
+    "nombre": "SANTA CLARA",
+    "codigopostal": "4554",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11952,
+    "nombre": "SANTA CRUZ",
+    "codigopostal": "4531",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 12073,
+    "nombre": "SANTA CRUZ",
+    "codigopostal": "4651",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21714,
+    "nombre": "SANTA CRUZ",
+    "codigopostal": "4430",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11751,
+    "nombre": "SANTA ELENA",
+    "codigopostal": "4425",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11879,
+    "nombre": "SANTA ELENA",
+    "codigopostal": "4440",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16681,
+    "nombre": "SANTA ELENA",
+    "codigopostal": "4403",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11616,
+    "nombre": "SANTA GERTRUDIS",
+    "codigopostal": "4423",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21254,
+    "nombre": "SANTA LUCIA",
+    "codigopostal": "4432",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21284,
+    "nombre": "SANTA MARIA",
+    "codigopostal": "4421",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 12011,
+    "nombre": "SANTA MARIA",
+    "codigopostal": "4561",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 12025,
+    "nombre": "SANTA MARIA",
+    "codigopostal": "4193",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11953,
+    "nombre": "SANTA MARINA",
+    "codigopostal": "4542",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21255,
+    "nombre": "SANTA RITA",
+    "codigopostal": "4430",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21642,
+    "nombre": "SANTA ROSA",
+    "codigopostal": "4535",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21715,
+    "nombre": "SANTA ROSA",
+    "codigopostal": "4198",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11528,
+    "nombre": "SANTA ROSA",
+    "codigopostal": "4449",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11617,
+    "nombre": "SANTA ROSA",
+    "codigopostal": "4423",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11663,
+    "nombre": "SANTA ROSA",
+    "codigopostal": "4432",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11954,
+    "nombre": "SANTA ROSA",
+    "codigopostal": "4534",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 12049,
+    "nombre": "SANTA ROSA",
+    "codigopostal": "4427",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11529,
+    "nombre": "SANTA ROSA DE ANTA",
+    "codigopostal": "4452",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21786,
+    "nombre": "SANTA ROSA DE TASTIL",
+    "codigopostal": "4409",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 20983,
+    "nombre": "SANTA RUFINA",
+    "codigopostal": "4401",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 20881,
+    "nombre": "SANTA TERESA",
+    "codigopostal": "4190",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 20889,
+    "nombre": "SANTA VICTORIA",
+    "codigopostal": "4128",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11721,
+    "nombre": "SANTA VICTORIA",
+    "codigopostal": "4550",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 12012,
+    "nombre": "SANTA VICTORIA ESTE",
+    "codigopostal": "4561",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 12074,
+    "nombre": "SANTA VICTORIA OESTE",
+    "codigopostal": "4651",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11530,
+    "nombre": "SANTO DOMINGO",
+    "codigopostal": "4449",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11534,
+    "nombre": "SANTO DOMINGO",
+    "codigopostal": "4448",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 12013,
+    "nombre": "SANTO DOMINGO",
+    "codigopostal": "4535",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 20883,
+    "nombre": "SANTO DOMINGO ANTA",
+    "codigopostal": "4449",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21840,
+    "nombre": "SANTO DOMINGO SANTA VICTORIA",
+    "codigopostal": "4449",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21643,
+    "nombre": "SANTOS LUGARES",
+    "codigopostal": "4535",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 20884,
+    "nombre": "SAPO QUEMADO",
+    "codigopostal": "4448",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21644,
+    "nombre": "SARGENTO CRISTOBAL",
+    "codigopostal": "4430",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11752,
+    "nombre": "SAUCE",
+    "codigopostal": "4425",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11823,
+    "nombre": "SAUCE ALEGRE",
+    "codigopostal": "4421",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11531,
+    "nombre": "SAUCE BAJADA",
+    "codigopostal": "4434",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11753,
+    "nombre": "SAUCE REDONDO",
+    "codigopostal": "4425",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11532,
+    "nombre": "SAUCE SOLO",
+    "codigopostal": "4448",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11955,
+    "nombre": "SAUCELITO",
+    "codigopostal": "4538",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11664,
+    "nombre": "SAUSALITO",
+    "codigopostal": "4430",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 20885,
+    "nombre": "SAUZAL",
+    "codigopostal": "4446",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11880,
+    "nombre": "SCHNEIDEWIND",
+    "codigopostal": "4440",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11907,
+    "nombre": "SECLANTAS",
+    "codigopostal": "4419",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11906,
+    "nombre": "SECLANTAS ADENTRO",
+    "codigopostal": "4419",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11722,
+    "nombre": "SENDA HACHADA ESTACION FCGB",
+    "codigopostal": "4552",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11824,
+    "nombre": "SEVILLAR",
+    "codigopostal": "4421",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11825,
+    "nombre": "SI",
+    "codigopostal": "4421",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21716,
+    "nombre": "SIMBOL YACO",
+    "codigopostal": "4430",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11533,
+    "nombre": "SIMBOLAR",
+    "codigopostal": "4452",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 12050,
+    "nombre": "SIMBOLAR",
+    "codigopostal": "4427",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 20886,
+    "nombre": "SIMBOLITO",
+    "codigopostal": "4448",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21394,
+    "nombre": "SOCOMPA",
+    "codigopostal": "4413",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21265,
+    "nombre": "SOLAZUTI",
+    "codigopostal": "4530",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11956,
+    "nombre": "SOLEDAD",
+    "codigopostal": "4530",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 12075,
+    "nombre": "SOLEDAD",
+    "codigopostal": "4651",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21841,
+    "nombre": "SOLEDANI",
+    "codigopostal": "4651",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21392,
+    "nombre": "STA ROSA DE LOS PASTOS GRANDES",
+    "codigopostal": "4411",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11574,
+    "nombre": "SUMALAO",
+    "codigopostal": "4421",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11536,
+    "nombre": "SUNCHALITO",
+    "codigopostal": "4452",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16738,
+    "nombre": "SURI MICUNA",
+    "codigopostal": "4193",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 12014,
+    "nombre": "SURI PINTADO",
+    "codigopostal": "4554",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11957,
+    "nombre": "TABACAL INGENIO",
+    "codigopostal": "4533",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11723,
+    "nombre": "TABACO CIMARRON",
+    "codigopostal": "4554",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21395,
+    "nombre": "TACA TACA ESTACION FCGB",
+    "codigopostal": "4413",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11537,
+    "nombre": "TACO PAMPA",
+    "codigopostal": "4452",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21787,
+    "nombre": "TACUARA",
+    "codigopostal": "4409",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11908,
+    "nombre": "TACUIL",
+    "codigopostal": "4419",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11882,
+    "nombre": "TALA MUYO",
+    "codigopostal": "4440",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 20887,
+    "nombre": "TALA MUYO",
+    "codigopostal": "4446",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16739,
+    "nombre": "TALA YACO",
+    "codigopostal": "4193",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11826,
+    "nombre": "TALAPAMPA",
+    "codigopostal": "4425",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11883,
+    "nombre": "TALAS",
+    "codigopostal": "4446",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11538,
+    "nombre": "TALAVERA",
+    "codigopostal": "4452",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21717,
+    "nombre": "TAMAS CORTADAS",
+    "codigopostal": "4198",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11724,
+    "nombre": "TARTAGAL",
+    "codigopostal": "4560",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11618,
+    "nombre": "TILIAN",
+    "codigopostal": "4423",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11754,
+    "nombre": "TIPA SOLA",
+    "codigopostal": "4425",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11774,
+    "nombre": "TIPAYOC",
+    "codigopostal": "4633",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21266,
+    "nombre": "TITICOITE",
+    "codigopostal": "4633",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11725,
+    "nombre": "TOBANTIRENDA",
+    "codigopostal": "4564",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21396,
+    "nombre": "TOLAR CHICO",
+    "codigopostal": "4413",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21397,
+    "nombre": "TOLAR GRANDE",
+    "codigopostal": "4413",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11539,
+    "nombre": "TOLLOCHE",
+    "codigopostal": "4452",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11564,
+    "nombre": "TOLOMBON",
+    "codigopostal": "4141",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11909,
+    "nombre": "TOMUCO",
+    "codigopostal": "4419",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 12051,
+    "nombre": "TONCO",
+    "codigopostal": "4415",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 26302,
+    "nombre": "TONCO",
+    "codigopostal": "4415",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11726,
+    "nombre": "TONONO",
+    "codigopostal": "4560",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21788,
+    "nombre": "TORO",
+    "codigopostal": "4409",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11540,
+    "nombre": "TORO PAMPA",
+    "codigopostal": "4452",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21230,
+    "nombre": "TORO YACO",
+    "codigopostal": "4415",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11775,
+    "nombre": "TOROYOC",
+    "codigopostal": "4644",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11665,
+    "nombre": "TORZALITO",
+    "codigopostal": "4430",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11541,
+    "nombre": "TOTORAL",
+    "codigopostal": "4449",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11727,
+    "nombre": "TRANQUITAS",
+    "codigopostal": "4552",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11827,
+    "nombre": "TRES ACEQUIAS",
+    "codigopostal": "4421",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16687,
+    "nombre": "TRES CRUCES",
+    "codigopostal": "4425",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21789,
+    "nombre": "TRES CRUCES",
+    "codigopostal": "4409",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21267,
+    "nombre": "TRES MORROS",
+    "codigopostal": "4633",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11958,
+    "nombre": "TRES POZOS",
+    "codigopostal": "4530",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 12016,
+    "nombre": "TRES POZOS",
+    "codigopostal": "4554",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21645,
+    "nombre": "TRES YUCHANES",
+    "codigopostal": "4430",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11791,
+    "nombre": "TRIGAL",
+    "codigopostal": "4415",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 12076,
+    "nombre": "TRIGO HUAYCO",
+    "codigopostal": "4651",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21842,
+    "nombre": "TRUSUCA",
+    "codigopostal": "4651",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 12077,
+    "nombre": "TUCTUCA",
+    "codigopostal": "4651",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11542,
+    "nombre": "TUNALITO",
+    "codigopostal": "4449",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11884,
+    "nombre": "TUNALITO",
+    "codigopostal": "4446",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21822,
+    "nombre": "TUYUNTI",
+    "codigopostal": "4560",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11776,
+    "nombre": "UCHOGOL",
+    "codigopostal": "4633",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21268,
+    "nombre": "UCHUYOC",
+    "codigopostal": "4633",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21401,
+    "nombre": "UNQUILLAL EMBARCADERO FCGB",
+    "codigopostal": "4413",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11959,
+    "nombre": "URUNDEL",
+    "codigopostal": "4542",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21601,
+    "nombre": "VADO HONDO",
+    "codigopostal": "4530",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21269,
+    "nombre": "VALLE DELGADO",
+    "codigopostal": "4633",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21231,
+    "nombre": "VALLE ENCANTADO",
+    "codigopostal": "4415",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11556,
+    "nombre": "VALLECITO",
+    "codigopostal": "4644",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21242,
+    "nombre": "VAQUERIA",
+    "codigopostal": "4191",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21718,
+    "nombre": "VAQUERIA",
+    "codigopostal": "4430",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21243,
+    "nombre": "VAQUERIA LOS SAUCES",
+    "codigopostal": "4425",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 20986,
+    "nombre": "VAQUEROS",
+    "codigopostal": "4401",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21406,
+    "nombre": "VEGA DE ARIZARO",
+    "codigopostal": "4413",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 20987,
+    "nombre": "VELARDES",
+    "codigopostal": "4401",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11543,
+    "nombre": "VENCIDA",
+    "codigopostal": "4452",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11885,
+    "nombre": "VERA CRUZ",
+    "codigopostal": "4440",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11728,
+    "nombre": "VESPUCIO",
+    "codigopostal": "4562",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11620,
+    "nombre": "VI",
+    "codigopostal": "4423",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21719,
+    "nombre": "VIADUCTO EL MU",
+    "codigopostal": "4190",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 12017,
+    "nombre": "VICTORICA",
+    "codigopostal": "4535",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 20890,
+    "nombre": "VIEJA POZO",
+    "codigopostal": "4448",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11777,
+    "nombre": "VILLA ALEM",
+    "codigopostal": "4633",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21720,
+    "nombre": "VILLA AURELIA",
+    "codigopostal": "4190",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16740,
+    "nombre": "VILLA CORTA",
+    "codigopostal": "4193",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11619,
+    "nombre": "VILLA FANNY",
+    "codigopostal": "4423",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21823,
+    "nombre": "VILLA GENERAL GUEMES",
+    "codigopostal": "4560",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16682,
+    "nombre": "VILLA LOS TARCOS",
+    "codigopostal": "4403",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11666,
+    "nombre": "VILLA MAYOR ZABALETA",
+    "codigopostal": "4430",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 12018,
+    "nombre": "VILLA PETRONA",
+    "codigopostal": "4535",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11729,
+    "nombre": "VILLA SAAVEDRA",
+    "codigopostal": "4560",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11781,
+    "nombre": "VILLA SAN LORENZO",
+    "codigopostal": "4401",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21790,
+    "nombre": "VILLA SOLA",
+    "codigopostal": "4409",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11792,
+    "nombre": "VILLITAS",
+    "codigopostal": "4415",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11544,
+    "nombre": "VINAL POZO",
+    "codigopostal": "4452",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 20893,
+    "nombre": "VINALITO",
+    "codigopostal": "4452",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11667,
+    "nombre": "VIRGILIO TEDIN",
+    "codigopostal": "4434",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21791,
+    "nombre": "VIRREY TOLEDO",
+    "codigopostal": "4407",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21843,
+    "nombre": "VISCACHANI",
+    "codigopostal": "4651",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 16741,
+    "nombre": "VIZCACHERAL",
+    "codigopostal": "4193",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11778,
+    "nombre": "VIZCARRA",
+    "codigopostal": "4644",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11910,
+    "nombre": "VOLCAN AZUFRE",
+    "codigopostal": "4419",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11779,
+    "nombre": "VOLCAN HIGUERAS",
+    "codigopostal": "4633",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21646,
+    "nombre": "VUELTA DE LAS TOBAS",
+    "codigopostal": "4554",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 20894,
+    "nombre": "WEISBURG",
+    "codigopostal": "4448",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11960,
+    "nombre": "YACARA",
+    "codigopostal": "4534",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21825,
+    "nombre": "YACAY",
+    "codigopostal": "4560",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11621,
+    "nombre": "YACERA",
+    "codigopostal": "4415",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21826,
+    "nombre": "YACIMIENTO TONONO",
+    "codigopostal": "4560",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11565,
+    "nombre": "YACOCHUYA",
+    "codigopostal": "4427",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 20989,
+    "nombre": "YACONES",
+    "codigopostal": "4401",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11730,
+    "nombre": "YACUY",
+    "codigopostal": "4564",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 20947,
+    "nombre": "YANCHUYA",
+    "codigopostal": "4427",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11731,
+    "nombre": "YARIGUARENDA",
+    "codigopostal": "4560",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11545,
+    "nombre": "YASQUIASME",
+    "codigopostal": "4430",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11886,
+    "nombre": "YATASTO",
+    "codigopostal": "4440",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11961,
+    "nombre": "YUCHAN",
+    "codigopostal": "4537",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21827,
+    "nombre": "ZANJA HONDA",
+    "codigopostal": "4560",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 21197,
+    "nombre": "ZANJON",
+    "codigopostal": "4403",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  },
+  {
+    "id": 11668,
+    "nombre": "ZAPALLITO",
+    "codigopostal": "4430",
+    "provincia": {
+      "id": 17,
+      "nombre": "Salta"
+    }
+  }
+]

@@ -1,0 +1,227 @@
+<div class="row">
+  <div class="col-md-12">
+    <!-- <nb-card>
+      <nb-card-header>
+        Pedidos
+      </nb-card-header>
+      <nb-card-body> -->
+
+    <section class="login-page section-b-space">
+      <div class="container">
+        <div class="row">
+          <h3>Pedidos</h3>
+          <div class="theme-card">
+
+            <ng-template #content let-modal>
+
+              <div class="modal-header">
+                <h4 class="modal-title pull-left">Ver Producto</h4>
+              </div>
+              <div class="modal-body">
+
+                <!-- <nb-card>
+            <nb-card-header>Ver Pedido</nb-card-header>
+            <nb-card-body class="col-md-12"> -->
+
+                <div class="col-md-12">
+                  <kendo-textbox-container floatingLabel="Codigo">
+                    <input kendoTextBox [(ngModel)]="edit.code" [disabled]="disabled" />
+                  </kendo-textbox-container>
+                </div>
+
+                <div class="col-md-12">
+                  <kendo-textbox-container floatingLabel="Nombre de Cliente">
+                    <input kendoTextBox [(ngModel)]="edit.client.nombre" [disabled]="disabled" />
+                  </kendo-textbox-container>
+                </div>
+
+                <div class="col-md-12">
+                  <kendo-textbox-container floatingLabel="Email del Cliente">
+                    <input kendoTextBox [(ngModel)]="edit.client.email" [disabled]="disabled" />
+                  </kendo-textbox-container>
+                </div>
+
+                <div class="col-md-12" *ngIf="edit.client.telefono!=''">
+                  <kendo-textbox-container floatingLabel="Telefono del Cliente">
+                    <input kendoTextBox [(ngModel)]="edit.client.telefono" [disabled]="disabled" />
+                  </kendo-textbox-container>
+                </div>
+
+                <div class="col-md-12" *ngIf="edit.client.celular!=''">
+                  <kendo-textbox-container floatingLabel="Celular del Cliente">
+                    <input kendoTextBox [(ngModel)]="edit.client.celular" [disabled]="disabled" />
+                  </kendo-textbox-container>
+                </div>
+
+                <div class="modal-header">
+                  <h4 class="modal-title pull-left">DIRECCION</h4>
+                </div>
+                <div class="modal-body">
+
+                  <!-- <nb-card>
+                <nb-card-header>
+                  DIRECCION
+                </nb-card-header>
+                <nb-card-body> -->
+                  <div class="col-md-12">
+                    <kendo-textbox-container floatingLabel="Provincia">
+                      <input kendoTextBox [(ngModel)]="edit.address.localidad.provincia.nombre" [disabled]="disabled" />
+                    </kendo-textbox-container>
+                  </div>
+                  <div class="col-md-12">
+                    <kendo-textbox-container floatingLabel="Localidad">
+                      <input kendoTextBox [(ngModel)]="edit.address.localidad.nombre" [disabled]="disabled" />
+                    </kendo-textbox-container>
+                  </div>
+                  <div class="col-md-12">
+                    <kendo-textbox-container floatingLabel="Calle">
+                      <input kendoTextBox [(ngModel)]="edit.address.calle" [disabled]="disabled" />
+                    </kendo-textbox-container>
+                  </div>
+                  <div class="col-md-12">
+                    <kendo-textbox-container floatingLabel="Numero">
+                      <input kendoTextBox [(ngModel)]="edit.address.numero" [disabled]="disabled" />
+                    </kendo-textbox-container>
+                  </div>
+                  <div class="col-md-12">
+                    <kendo-textbox-container floatingLabel="Piso">
+                      <input kendoTextBox [(ngModel)]="edit.address.piso" [disabled]="disabled" />
+                    </kendo-textbox-container>
+                  </div>
+                  <div class="col-md-12">
+                    <kendo-textbox-container floatingLabel="Departamento">
+                      <input kendoTextBox [(ngModel)]="edit.address.departamento" [disabled]="disabled" />
+                    </kendo-textbox-container>
+                  </div>
+                </div>
+                <!-- </nb-card-body>
+              </nb-card> -->
+
+                <div class="col-md-12">
+                  <kendo-textbox-container floatingLabel="Tipo de Pago">
+                    <input kendoTextBox type="text" [(ngModel)]="edit.payment.description" [disabled]="disabled" />
+                  </kendo-textbox-container>
+                </div>
+
+                <div class="col-md-12">
+                  <kendo-textbox-container floatingLabel="Comendario">
+                    <textarea kendoTextArea [(ngModel)]="edit.comment" [disabled]="disabled"></textarea>
+                  </kendo-textbox-container>
+                </div>
+
+
+                <div class="col-md-12">
+                  <kendo-textbox-container floatingLabel="Estado del Pedido">
+                    <input kendoTextBox type="test" [(ngModel)]="edit.state.description" [disabled]="disabled" />
+                  </kendo-textbox-container>
+                </div>
+
+                <div class="col-md-12">
+                  <kendo-textbox-container floatingLabel="Total">
+                    <input kendoTextBox type="number" [(ngModel)]="edit.totalAmount" [disabled]="disabled" />
+                  </kendo-textbox-container>
+                </div>
+
+                <div class="col-md-12">
+                  <kendo-textbox-container floatingLabel="Descuento">
+                    <input kendoTextBox type="number" [(ngModel)]="edit.discount" [disabled]="disabled" />
+                  </kendo-textbox-container>
+                </div>
+
+                <div class="col-md-12">
+                  <kendo-textbox-container floatingLabel="Total Neto">
+                    <input kendoTextBox type="number" [value]="edit.totalAmount-edit.discount" [disabled]="disabled" />
+                  </kendo-textbox-container>
+                </div>
+
+                <br />
+
+              </div>
+              <!-- </nb-card-body> -->
+              <!-- <nb-card-footer>
+              <div class="float-right">
+                <button class="btn btn-hero-warning" (click)="modal.close('Save click')">Cerrar</button>
+                <button class="btn btn-hero-danger" *ngIf="idEdit && edit.mostrar" (click)="[disabled]="disabled"()">Dejar de
+                  Mostrar</button>
+                <button class="btn btn-hero-primary" *ngIf="idEdit && !edit.mostrar" (click)="Enabled()">Mostrar</button>
+                <button class="btn btn-hero-success" (click)="Guardar()">Guardar</button>
+              </div>
+            </nb-card-footer> -->
+              <!-- </nb-card> -->
+
+            </ng-template>
+
+            <div class="row col-md-5">
+              <kendo-textbox-container style="width: 100%;" floatingLabel="Buscar...">
+                <input kendoTextBox style="width: 100%;" (keyup)='updateFilter()' [(ngModel)]="buscar" autofocus />
+              </kendo-textbox-container>
+            </div>
+            <br />
+
+            <kendo-grid #grid *ngIf="cargando" [filterable]="false" [data]="gridView" [pageSize]="pageSize" [skip]="skip"
+              [pageable]="pageable" [height]="height" [sortable]="sortable" [sort]="sort" (sortChange)="sortChange($event)"
+              [selectable]="true" (cellClick)="onEdit(content,$event)" (add)="addHandler(content,$event)" (pageChange)="pageChange($event)">
+
+              <!-- <ng-template kendoGridToolbarTemplate>
+            <button kendoGridAddCommand type="button">Agregar</button>
+          </ng-template> -->
+              <kendo-grid-column title="Codigo" field="codigo" [width]="150" filter="text" [headerStyle]="{'text-align': 'center'}">
+                <ng-template kendoGridCellTemplate let-dataItem>
+                  <p class="text-center">
+                    {{dataItem.codigo}}
+                  </p>
+                </ng-template>
+              </kendo-grid-column>
+
+              <kendo-grid-column title="Cliente" field="cliente" [width]="200" filter="text" [headerStyle]="{'text-align': 'center'}">
+                <ng-template kendoGridCellTemplate let-dataItem let-rowIndex="rowIndex">
+                  <p class="text-center">
+                    {{dataItem.cliente.nombre}}
+                  </p>
+                </ng-template>
+              </kendo-grid-column>
+
+              <kendo-grid-column title="Fecha" field="fecha" filter="text" [width]="200" [headerStyle]="{'text-align': 'center'}">
+                <ng-template kendoGridCellTemplate let-dataItem>
+                  <p class="text-center">
+                    {{dataItem.fecha | date:'dd/MM/yyyy' }}
+                  </p>
+                </ng-template>
+              </kendo-grid-column>
+
+              <kendo-grid-column title="Estado" field="estado" [width]="200" filter="text" [headerStyle]="{'text-align': 'center'}">
+                <ng-template kendoGridCellTemplate let-dataItem>
+                  <p class="text-center">
+                    {{dataItem.estado.descripcion }}
+                  </p>
+                </ng-template>
+              </kendo-grid-column>
+
+              <kendo-grid-column title="Total" field="total" [width]="150" filter="text" [headerStyle]="{'text-align': 'center'}">
+                <ng-template kendoGridCellTemplate let-dataItem>
+                  <p class="text-center">
+                    {{dataItem.total }}
+                  </p>
+                </ng-template>
+              </kendo-grid-column>
+
+              <kendo-grid-column title="Descuento" field="descuento" [width]="150" filter="text" [headerStyle]="{'text-align': 'center'}">
+                <ng-template kendoGridCellTemplate let-dataItem>
+                  <p class="text-center">
+                    {{dataItem.descuento }}
+                  </p>
+                </ng-template>
+              </kendo-grid-column>
+
+            </kendo-grid>
+
+          </div>
+
+        </div>
+
+      </div>
+    </section>
+    <!-- </nb-card-body> -->
+    <!-- </nb-card> -->
+  </div>
+</div>

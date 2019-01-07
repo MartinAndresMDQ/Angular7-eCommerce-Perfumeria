@@ -1,0 +1,135 @@
+<div id="mySidenav" class="sidenav">
+    <a [routerLink]="" class="sidebar-overlay" (click)="closeNav()"></a>
+    <nav>
+      <div (click)="closeNav()">
+        <div class="sidebar-back text-left">
+          <i class="fa fa-angle-left pr-2" aria-hidden="true"></i> Back
+        </div>
+      </div>
+      <!-- Sample menu definition -->
+      <ul id="sub-menu" class="sm pixelstrap sm-vertical ">
+        <li><a [routerLink]="'/home/left-sidebar/collection/all'">clothing</a>
+          <ul class="mega-menu clothing-menu">
+            <li>
+              <div class="row m-0">
+                <div class="col-xl-4">
+                  <div class="link-section">
+                    <h5>women's fashion</h5>
+                    <ul>
+                      <li><a [routerLink]="'/home/left-sidebar/collection/all'">dresses</a></li>
+                      <li><a [routerLink]="'/home/left-sidebar/collection/all'">skirts</a></li>
+                      <li><a [routerLink]="'/home/left-sidebar/collection/all'">westarn wear</a></li>
+                      <li><a [routerLink]="'/home/left-sidebar/collection/all'">ethic wear</a></li>
+                      <li><a [routerLink]="'/home/left-sidebar/collection/all'">sport wear</a></li>
+                    </ul>
+                    <h5>men's fashion</h5>
+                    <ul>
+                      <li><a [routerLink]="'/home/left-sidebar/collection/all'">sports wear</a></li>
+                      <li><a [routerLink]="'/home/left-sidebar/collection/all'">western wear</a></li>
+                      <li><a [routerLink]="'/home/left-sidebar/collection/all'">ethic wear</a></li>
+                    </ul>
+                  </div>
+                </div>
+                <div class="col-xl-4">
+                  <div class="link-section">
+                    <h5>accessories</h5>
+                    <ul>
+                      <li><a [routerLink]="'/home/left-sidebar/collection/all'">fashion jewellery</a></li>
+                      <li><a [routerLink]="'/home/left-sidebar/collection/all'">caps and hats</a></li>
+                      <li><a [routerLink]="'/home/left-sidebar/collection/all'">precious jewellery</a></li>
+                      <li><a [routerLink]="'/home/left-sidebar/collection/all'">necklaces</a></li>
+                      <li><a [routerLink]="'/home/left-sidebar/collection/all'">earrings</a></li>
+                      <li><a [routerLink]="'/home/left-sidebar/collection/all'">rings & wrist wear</a></li>
+                      <li><a [routerLink]="'/home/left-sidebar/collection/all'">ties</a></li>
+                      <li><a [routerLink]="'/home/left-sidebar/collection/all'">cufflinks</a></li>
+                      <li><a [routerLink]="'/home/left-sidebar/collection/all'">pockets squares</a></li>
+                    </ul>
+                  </div>
+                </div>
+                <div class="col-xl-4">
+                  <a [routerLink]="'/home/left-sidebar/collection/all'" class="mega-menu-banner"><img src="assets/images/mega-menu/fashion.jpg" alt="" class="img-fluid"></a>
+                </div>
+              </div>
+            </li>
+          </ul>
+        </li>
+        <li><a [routerLink]="'/home/left-sidebar/collection/all'">bags</a>
+          <ul>
+            <li><a [routerLink]="'/home/left-sidebar/collection/all'">shopper bags</a></li>
+            <li><a [routerLink]="'/home/left-sidebar/collection/all'">laptop bags</a></li>
+            <li><a [routerLink]="'/home/left-sidebar/collection/all'">clutches</a></li>
+            <li><a [routerLink]="'/home/left-sidebar/collection/all'">purses</a>
+              <ul>
+                <li><a [routerLink]="'/home/left-sidebar/collection/all'">purses</a></li>
+                <li><a [routerLink]="'/home/left-sidebar/collection/all'">wallets</a></li>
+                <li><a [routerLink]="'/home/left-sidebar/collection/all'">leathers</a></li>
+                <li><a [routerLink]="'/home/left-sidebar/collection/all'">satchels</a></li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+        <li><a [routerLink]="'/home/left-sidebar/collection/all'">footwear</a>
+          <ul>
+            <li><a [routerLink]="'/home/left-sidebar/collection/all'">sport shoes</a></li>
+            <li><a [routerLink]="'/home/left-sidebar/collection/all'">formal shoes</a></li>
+            <li><a [routerLink]="'/home/left-sidebar/collection/all'">casual shoes</a></li>
+          </ul>
+        </li>
+        <li><a [routerLink]="'/home/left-sidebar/collection/all'">watches</a>
+        </li>
+        <li><a [routerLink]="'/home/left-sidebar/collection/all'">Accessories</a>
+          <ul>
+            <li><a [routerLink]="'/home/left-sidebar/collection/all'">fashion jewellery</a></li>
+            <li><a [routerLink]="'/home/left-sidebar/collection/all'">caps and hats</a></li>
+            <li><a [routerLink]="'/home/left-sidebar/collection/all'">precious jewellery</a></li>
+            <li><a [routerLink]="'/home/left-sidebar/collection/all'">more..</a>
+              <ul>
+                <li><a [routerLink]="'/home/left-sidebar/collection/all'">necklaces</a></li>
+                <li><a [routerLink]="'/home/left-sidebar/collection/all'">earrings</a></li>
+                <li><a [routerLink]="'/home/left-sidebar/collection/all'">rings & wrist wear</a></li>
+                <li><a [routerLink]="'/home/left-sidebar/collection/all'">men's accessories</a>
+                  <ul>
+                    <li><a [routerLink]="'/home/left-sidebar/collection/all'">ties</a></li>
+                    <li><a [routerLink]="'/home/left-sidebar/collection/all'">cufflinks</a></li>
+                    <li><a [routerLink]="'/home/left-sidebar/collection/all'">pockets squares</a></li>
+                    <li><a [routerLink]="'/home/left-sidebar/collection/all'">helmets</a></li>
+                    <li><a [routerLink]="'/home/left-sidebar/collection/all'">scarves</a></li>
+                    <li><a [routerLink]="'/home/left-sidebar/collection/all'">more...</a>
+                      <ul>
+                        <li><a [routerLink]="'/home/left-sidebar/collection/all'">accessory gift sets</a></li>
+                        <li><a [routerLink]="'/home/left-sidebar/collection/all'">travel accessories</a></li>
+                        <li><a [routerLink]="'/home/left-sidebar/collection/all'">phone cases</a></li>
+                      </ul>
+                    </li>
+                  </ul>
+                </li>
+                <li><a [routerLink]="'/home/left-sidebar/collection/all'">belts & more</a></li>
+                <li><a [routerLink]="'/home/left-sidebar/collection/all'">watches & wearable</a></li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+        <li><a [routerLink]="'/home/left-sidebar/collection/all'">house of design</a>
+        </li>
+        <li><a [routerLink]="'/home/left-sidebar/collection/all'">beauty & personal care</a>
+          <ul>
+            <li><a [routerLink]="'/home/left-sidebar/collection/all'">makeup</a></li>
+            <li><a [routerLink]="'/home/left-sidebar/collection/all'">skincare</a></li>
+            <li><a [routerLink]="'/home/left-sidebar/collection/all'">premium beaty</a></li>
+            <li><a [routerLink]="'/home/left-sidebar/collection/all'">more</a>
+              <ul>
+                <li><a [routerLink]="'/home/left-sidebar/collection/all'">fragrances</a></li>
+                <li><a [routerLink]="'/home/left-sidebar/collection/all'">luxury beauty</a></li>
+                <li><a [routerLink]="'/home/left-sidebar/collection/all'">hair care</a></li>
+                <li><a [routerLink]="'/home/left-sidebar/collection/all'">tools & brushes</a></li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+        <li><a [routerLink]="'/home/left-sidebar/collection/all'">home & decor</a>
+        </li>
+        <li><a [routerLink]="'/home/left-sidebar/collection/all'">kitchen</a>
+        </li>
+      </ul>
+    </nav>
+</div>

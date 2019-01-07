@@ -1,0 +1,1883 @@
+[
+  {
+    "id": 8115,
+    "nombre": "28 DE NOVIEMBRE",
+    "codigopostal": "9407",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 25778,
+    "nombre": "AGUADA A PIQUE",
+    "codigopostal": "9051",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 25793,
+    "nombre": "AGUADA ALEGRE",
+    "codigopostal": "9310",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8044,
+    "nombre": "AGUADA ESCONDIDA",
+    "codigopostal": "9019",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8043,
+    "nombre": "AGUADA GRANDE",
+    "codigopostal": "9053",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 25779,
+    "nombre": "AGUADA LA OVEJA",
+    "codigopostal": "9051",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8045,
+    "nombre": "ALMA GRANDE",
+    "codigopostal": "9015",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8116,
+    "nombre": "AN AIKE",
+    "codigopostal": "9400",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8047,
+    "nombre": "BAHIA LANGARA",
+    "codigopostal": "9011",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 25794,
+    "nombre": "BAHIA LAURA",
+    "codigopostal": "9310",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8146,
+    "nombre": "BAHIA TRANQUILA",
+    "codigopostal": "9405",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 16990,
+    "nombre": "BAJO CARACOLES",
+    "codigopostal": "9315",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 25801,
+    "nombre": "BAJO FUEGO",
+    "codigopostal": "9310",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8117,
+    "nombre": "BELLA VISTA",
+    "codigopostal": "9400",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8018,
+    "nombre": "CA",
+    "codigopostal": "9305",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8019,
+    "nombre": "CA",
+    "codigopostal": "9300",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8020,
+    "nombre": "CA",
+    "codigopostal": "9300",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8021,
+    "nombre": "CA",
+    "codigopostal": "9303",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8054,
+    "nombre": "CA",
+    "codigopostal": "9013",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8119,
+    "nombre": "CA",
+    "codigopostal": "9400",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8171,
+    "nombre": "CA",
+    "codigopostal": "9040",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8172,
+    "nombre": "CA",
+    "codigopostal": "9017",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8187,
+    "nombre": "CA",
+    "codigopostal": "9311",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 25802,
+    "nombre": "CA",
+    "codigopostal": "9310",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 25807,
+    "nombre": "CA",
+    "codigopostal": "9311",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8048,
+    "nombre": "CABO BLANCO",
+    "codigopostal": "9051",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 16982,
+    "nombre": "CABO DE LAS VIRGENES",
+    "codigopostal": "9400",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8049,
+    "nombre": "CABO TRES PUNTAS",
+    "codigopostal": "9051",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8050,
+    "nombre": "CALETA OLIVIA",
+    "codigopostal": "9011",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8051,
+    "nombre": "CAMERON",
+    "codigopostal": "9017",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 25796,
+    "nombre": "CAMPAMENTO DOROTEA",
+    "codigopostal": "9407",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 16983,
+    "nombre": "CAMUZU AIKE",
+    "codigopostal": "9400",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 16984,
+    "nombre": "CANCHA CARRERA",
+    "codigopostal": "9400",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8120,
+    "nombre": "CAP",
+    "codigopostal": "9400",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8055,
+    "nombre": "CARA MALA",
+    "codigopostal": "9313",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8056,
+    "nombre": "CERRO ALTO",
+    "codigopostal": "9053",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8057,
+    "nombre": "CERRO LA SETENTA",
+    "codigopostal": "9017",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8064,
+    "nombre": "CERRO MANGRULLO",
+    "codigopostal": "9011",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8065,
+    "nombre": "CERRO MORO",
+    "codigopostal": "9019",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8097,
+    "nombre": "CERRO NEGRO",
+    "codigopostal": "9053",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8121,
+    "nombre": "CERRO PALIQUE",
+    "codigopostal": "9400",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8066,
+    "nombre": "CERRO PUNTUDO",
+    "codigopostal": "9051",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8022,
+    "nombre": "CERRO REDONDO",
+    "codigopostal": "9303",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 25780,
+    "nombre": "CERRO REDONDO",
+    "codigopostal": "9051",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8058,
+    "nombre": "CERRO RENZEL",
+    "codigopostal": "9017",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8052,
+    "nombre": "CERRO SILVA",
+    "codigopostal": "9017",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8122,
+    "nombre": "CHALL AIKE",
+    "codigopostal": "9400",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8023,
+    "nombre": "CHONQUE",
+    "codigopostal": "9303",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8059,
+    "nombre": "COLONIA CARLOS PELLEGRINI",
+    "codigopostal": "9017",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8173,
+    "nombre": "COLONIA LEANDRO N ALEM",
+    "codigopostal": "9040",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8024,
+    "nombre": "COMANDANTE LUIS PIEDRABUENA",
+    "codigopostal": "9303",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 16985,
+    "nombre": "CONDOR",
+    "codigopostal": "9400",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8147,
+    "nombre": "CONDOR CLIF",
+    "codigopostal": "9405",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8123,
+    "nombre": "CORONEL GUARUMBA",
+    "codigopostal": "9400",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 16997,
+    "nombre": "CORONEL MARTIN IRIGOYEN",
+    "codigopostal": "9407",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 25788,
+    "nombre": "CUEVA DE LAS MANOS",
+    "codigopostal": "9017",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 25792,
+    "nombre": "DESAMPARADOS",
+    "codigopostal": "9053",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8025,
+    "nombre": "EL BAILE",
+    "codigopostal": "9303",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8060,
+    "nombre": "EL BARBUCHO",
+    "codigopostal": "9053",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8148,
+    "nombre": "EL CALAFATE",
+    "codigopostal": "9405",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8149,
+    "nombre": "EL CERRITO",
+    "codigopostal": "9405",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8150,
+    "nombre": "EL CHALTEN",
+    "codigopostal": "9301",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 25781,
+    "nombre": "EL CHARA",
+    "codigopostal": "9051",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 25776,
+    "nombre": "EL GUADAL",
+    "codigopostal": "9300",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8062,
+    "nombre": "EL HUECO",
+    "codigopostal": "9051",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 25790,
+    "nombre": "EL LORO",
+    "codigopostal": "9051",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8027,
+    "nombre": "EL PAN DE AZUCAR",
+    "codigopostal": "9303",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8028,
+    "nombre": "EL PASO",
+    "codigopostal": "9303",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8103,
+    "nombre": "EL PLUMA",
+    "codigopostal": "9017",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8174,
+    "nombre": "EL PLUMA",
+    "codigopostal": "9017",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8067,
+    "nombre": "EL POLVORIN",
+    "codigopostal": "9051",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8175,
+    "nombre": "EL PORTEZUELO",
+    "codigopostal": "9040",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8184,
+    "nombre": "EL SALADO",
+    "codigopostal": "9313",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 16988,
+    "nombre": "EL TURBIO",
+    "codigopostal": "9407",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8124,
+    "nombre": "EL ZURDO",
+    "codigopostal": "9401",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8125,
+    "nombre": "ESTACION ING ATILIO CAPPA",
+    "codigopostal": "9400",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8076,
+    "nombre": "FARO CABO GUARDIAN",
+    "codigopostal": "9313",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8077,
+    "nombre": "FARO CAMPANA",
+    "codigopostal": "9313",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8078,
+    "nombre": "FITZ ROY",
+    "codigopostal": "9019",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8079,
+    "nombre": "FLORADORA",
+    "codigopostal": "9053",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8151,
+    "nombre": "FORTALEZA",
+    "codigopostal": "9401",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8126,
+    "nombre": "FUENTES DE COYLE",
+    "codigopostal": "9401",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8029,
+    "nombre": "GARMINUE",
+    "codigopostal": "9303",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8127,
+    "nombre": "GAYPON",
+    "codigopostal": "9407",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 16989,
+    "nombre": "GLENCROSS",
+    "codigopostal": "9407",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8189,
+    "nombre": "GOBERNADOR GREGORES",
+    "codigopostal": "9311",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8128,
+    "nombre": "GOBERNADOR MAYER",
+    "codigopostal": "9401",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8080,
+    "nombre": "GOBERNADOR MOYANO",
+    "codigopostal": "9050",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8152,
+    "nombre": "GUARDAPARQUE FITZ ROY",
+    "codigopostal": "9301",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8191,
+    "nombre": "H YRIGOYEN LAGO POSADAS",
+    "codigopostal": "9315",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 16991,
+    "nombre": "HOTEL LAS HORQUETAS",
+    "codigopostal": "9315",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8081,
+    "nombre": "INDIA MUERTA",
+    "codigopostal": "9017",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 25795,
+    "nombre": "INGENIERO ATILIO CAPPA",
+    "codigopostal": "9400",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8176,
+    "nombre": "INGENIERO PALLAVICINI",
+    "codigopostal": "9040",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8082,
+    "nombre": "JARAMILLO",
+    "codigopostal": "9053",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8083,
+    "nombre": "JELAINA",
+    "codigopostal": "9015",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8129,
+    "nombre": "JULIA DUFOUR",
+    "codigopostal": "9407",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 25789,
+    "nombre": "KILOMETRO 8",
+    "codigopostal": "9050",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8084,
+    "nombre": "KOLUEL KAIKE",
+    "codigopostal": "9019",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 25782,
+    "nombre": "LA AGUADA",
+    "codigopostal": "9051",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8085,
+    "nombre": "LA ANTONIA",
+    "codigopostal": "9015",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8086,
+    "nombre": "LA ARGENTINA",
+    "codigopostal": "9017",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8177,
+    "nombre": "LA ASTURIANA",
+    "codigopostal": "9040",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8030,
+    "nombre": "LA BARRETA",
+    "codigopostal": "9303",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8087,
+    "nombre": "LA CENTRAL",
+    "codigopostal": "9051",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8130,
+    "nombre": "LA ESPERANZA",
+    "codigopostal": "9401",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 25783,
+    "nombre": "LA ESTELA",
+    "codigopostal": "9051",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8053,
+    "nombre": "LA ESTHER",
+    "codigopostal": "9011",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 25791,
+    "nombre": "LA FECUNDIDAD",
+    "codigopostal": "9051",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8153,
+    "nombre": "LA FEDERICA",
+    "codigopostal": "9301",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8154,
+    "nombre": "LA FLORIDA",
+    "codigopostal": "9301",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8088,
+    "nombre": "LA GUARDIA",
+    "codigopostal": "9015",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8031,
+    "nombre": "LA JULIA",
+    "codigopostal": "9303",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8155,
+    "nombre": "LA LEONA",
+    "codigopostal": "9303",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8089,
+    "nombre": "LA MADRUGADA",
+    "codigopostal": "9051",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 16994,
+    "nombre": "LA MANCHURIA",
+    "codigopostal": "9311",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8090,
+    "nombre": "LA MARGARITA",
+    "codigopostal": "9051",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8178,
+    "nombre": "LA MARIA",
+    "codigopostal": "9017",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 25806,
+    "nombre": "LA PENINSULA",
+    "codigopostal": "9311",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8032,
+    "nombre": "LA PIGMEA",
+    "codigopostal": "9303",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8033,
+    "nombre": "LA PORTE",
+    "codigopostal": "9303",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8091,
+    "nombre": "LA PROTEGIDA",
+    "codigopostal": "9051",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8092,
+    "nombre": "LA ROSA",
+    "codigopostal": "9015",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8093,
+    "nombre": "LA ROSADA",
+    "codigopostal": "9051",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 25784,
+    "nombre": "LA VICTORIA",
+    "codigopostal": "9051",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8094,
+    "nombre": "LA VIOLETA",
+    "codigopostal": "9051",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8157,
+    "nombre": "LAGO ARGENTINO",
+    "codigopostal": "9405",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8179,
+    "nombre": "LAGO BUENOS AIRES",
+    "codigopostal": "9040",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 25787,
+    "nombre": "LAGO BUENOS AIRES",
+    "codigopostal": "9017",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8190,
+    "nombre": "LAGO CARDIEL",
+    "codigopostal": "9301",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 25804,
+    "nombre": "LAGO PUEYRREDON",
+    "codigopostal": "9310",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8158,
+    "nombre": "LAGO ROCA",
+    "codigopostal": "9405",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8159,
+    "nombre": "LAGO SAN MARTIN",
+    "codigopostal": "9301",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8192,
+    "nombre": "LAGO STROBEL",
+    "codigopostal": "9311",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8160,
+    "nombre": "LAGO TAR",
+    "codigopostal": "9301",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8131,
+    "nombre": "LAGUNA COLORADA",
+    "codigopostal": "9400",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8034,
+    "nombre": "LAGUNA GRANDE",
+    "codigopostal": "9303",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8095,
+    "nombre": "LAS HERAS",
+    "codigopostal": "9017",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8132,
+    "nombre": "LAS HORQUETAS",
+    "codigopostal": "9400",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8096,
+    "nombre": "LAS MASITAS",
+    "codigopostal": "9017",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8035,
+    "nombre": "LAS MERCEDES",
+    "codigopostal": "9303",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8107,
+    "nombre": "LAS PIRAMIDES",
+    "codigopostal": "9017",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 25786,
+    "nombre": "LEANDRO NICEFORO ALEM",
+    "codigopostal": "9017",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8180,
+    "nombre": "LOS ANTIGUOS",
+    "codigopostal": "9041",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8185,
+    "nombre": "LOS MANANTIALES",
+    "codigopostal": "9313",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8098,
+    "nombre": "MATA MAGALLANES",
+    "codigopostal": "9017",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8099,
+    "nombre": "MAZAREDO",
+    "codigopostal": "9051",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8061,
+    "nombre": "MESETA GUENGUE",
+    "codigopostal": "9017",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8133,
+    "nombre": "MINA 3",
+    "codigopostal": "9407",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8100,
+    "nombre": "MINERALES",
+    "codigopostal": "9015",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 16986,
+    "nombre": "MONTE AYMOND",
+    "codigopostal": "9400",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8181,
+    "nombre": "MONTE CEBALLOS",
+    "codigopostal": "9040",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8101,
+    "nombre": "MONTE VERDE",
+    "codigopostal": "9019",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8134,
+    "nombre": "MORRO CHICO",
+    "codigopostal": "9407",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8182,
+    "nombre": "NACIMIENTOS DEL PLUMA",
+    "codigopostal": "9040",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8135,
+    "nombre": "PALERMO AIKE",
+    "codigopostal": "9400",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8136,
+    "nombre": "PALI AIKE",
+    "codigopostal": "9400",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8102,
+    "nombre": "PAMPA VERDUM",
+    "codigopostal": "9017",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8161,
+    "nombre": "PASO CHARLES FHUR",
+    "codigopostal": "9405",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8036,
+    "nombre": "PASO DE LOS INDIOS",
+    "codigopostal": "9303",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8193,
+    "nombre": "PASO DEL AGUILA",
+    "codigopostal": "9311",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8137,
+    "nombre": "PASO DEL MEDIO",
+    "codigopostal": "9400",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8037,
+    "nombre": "PASO DEL RIO SANTA CRUZ",
+    "codigopostal": "9303",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 25803,
+    "nombre": "PASO GREGORES",
+    "codigopostal": "9050",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8038,
+    "nombre": "PASO IBA",
+    "codigopostal": "9303",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8162,
+    "nombre": "PASO RIO LA LEONA",
+    "codigopostal": "9301",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 16993,
+    "nombre": "PASO ROBALLO",
+    "codigopostal": "9315",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8104,
+    "nombre": "PELLEGRINI",
+    "codigopostal": "9017",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8163,
+    "nombre": "PENINSULA MAIPU",
+    "codigopostal": "9301",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8183,
+    "nombre": "PERITO MORENO",
+    "codigopostal": "9040",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8105,
+    "nombre": "PICO TRUNCADO",
+    "codigopostal": "9015",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8106,
+    "nombre": "PIEDRA CLAVADA",
+    "codigopostal": "9017",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8164,
+    "nombre": "PIEDRA CLAVADA",
+    "codigopostal": "9301",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8138,
+    "nombre": "PUEBLO NUEVO",
+    "codigopostal": "9407",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8139,
+    "nombre": "PUENTE BLANCO",
+    "codigopostal": "9407",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8108,
+    "nombre": "PUERTO DESEADO",
+    "codigopostal": "9050",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8186,
+    "nombre": "PUERTO SAN JULIAN",
+    "codigopostal": "9310",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8039,
+    "nombre": "PUERTO SANTA CRUZ",
+    "codigopostal": "9300",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8165,
+    "nombre": "PUNTA BANDERA",
+    "codigopostal": "9405",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8166,
+    "nombre": "PUNTA DEL LAGO VIEDMA",
+    "codigopostal": "9301",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8140,
+    "nombre": "PUNTA DEL MONTE",
+    "codigopostal": "9400",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 16987,
+    "nombre": "PUNTA LOYOLA",
+    "codigopostal": "9400",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8109,
+    "nombre": "PUNTA MERCEDES",
+    "codigopostal": "9313",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8167,
+    "nombre": "QUIEN SABE",
+    "codigopostal": "9405",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8141,
+    "nombre": "RINCON DE LOS MORROS",
+    "codigopostal": "9407",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8168,
+    "nombre": "RIO BOTE",
+    "codigopostal": "9405",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 25798,
+    "nombre": "RIO CALAFATE",
+    "codigopostal": "9405",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8040,
+    "nombre": "RIO CHICO",
+    "codigopostal": "9303",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 25800,
+    "nombre": "RIO FENIX",
+    "codigopostal": "9040",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 26286,
+    "nombre": "RIO GALLEGOS",
+    "codigopostal": "9400",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 25799,
+    "nombre": "RIO MITRE",
+    "codigopostal": "9405",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8143,
+    "nombre": "RIO TURBIO",
+    "codigopostal": "9407",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8144,
+    "nombre": "ROSPENTEK",
+    "codigopostal": "9407",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 25797,
+    "nombre": "ROSPENTEK AIKE",
+    "codigopostal": "9407",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8110,
+    "nombre": "SARAI",
+    "codigopostal": "9051",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8041,
+    "nombre": "SIERRA DE LA VENTANA",
+    "codigopostal": "9303",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 16992,
+    "nombre": "TAMEL AIKE",
+    "codigopostal": "9315",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8145,
+    "nombre": "TAPI AIKE",
+    "codigopostal": "9420",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8042,
+    "nombre": "TAUEL AIKE",
+    "codigopostal": "9303",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8111,
+    "nombre": "TEHUELCHES",
+    "codigopostal": "9019",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8112,
+    "nombre": "TELLIER",
+    "codigopostal": "9050",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8113,
+    "nombre": "TRES CERROS",
+    "codigopostal": "9050",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8169,
+    "nombre": "TRES LAGOS",
+    "codigopostal": "9301",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 25785,
+    "nombre": "TRES PUNTAS",
+    "codigopostal": "9051",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8194,
+    "nombre": "TUCU TUCU",
+    "codigopostal": "9311",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8170,
+    "nombre": "VENTISQUERO MORENO",
+    "codigopostal": "9405",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 16995,
+    "nombre": "YACIMIENTO CERRO VANGUARDIA",
+    "codigopostal": "9310",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8114,
+    "nombre": "YEGUA MUERTA",
+    "codigopostal": "9017",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  },
+  {
+    "id": 8046,
+    "nombre": "ZANJON DEL PESCADO",
+    "codigopostal": "9015",
+    "provincia": {
+      "id": 20,
+      "nombre": "Santa Cruz"
+    }
+  }
+]

@@ -1,0 +1,69 @@
+<!-- breadcrumb start -->
+<div class="breadcrumb-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-6">
+                <div class="page-title">
+                    <h2>Iniciar Sesion</h2>
+                </div>
+            </div>
+            <div class="col-sm-6">
+                <nav aria-label="breadcrumb" class="theme-breadcrumb">
+                    <ol class="breadcrumb">
+                        <li class="breadcrumb-item"><a [routerLink]="'/home/one'">Inicio</a></li>
+                        <li class="breadcrumb-item active">login</li>
+                    </ol>
+                </nav>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- breadcrumb End -->
+<!-- section start -->
+<section class="login-page section-b-space">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6">
+                <h3>Iniciar Sesion</h3>
+                <div class="theme-card">
+                    <!-- <form class="theme-form"> -->
+                    <form (ngSubmit)="login()" [formGroup]="loginForm" class="theme-form" aria-labelledby="title">
+                        <div class="form-group">
+                            <label for="email">Email</label>
+
+                            <input type="text" formControlName="email" class="form-control" [ngClass]="{ 'is-invalid': submitted && f.email.errors }" />
+                            <div *ngIf="submitted && f.email.errors" class="invalid-feedback">
+                                <div *ngIf="f.email.errors.required">Email is required</div>
+                                <div *ngIf="f.email.errors.email">Email must be a valid email address</div>
+                            </div>
+
+                            <!-- <input type="text" class="form-control" id="email" placeholder="Email" required=""> -->
+                        </div>
+                        <div class="form-group">
+                            <label for="review">Contraseña</label>
+                            <!-- <input type="password" class="form-control" id="review" placeholder="Enter your password" required=""> -->
+
+                            <input type="password" formControlName="password" class="form-control" [ngClass]="{ 'is-invalid': submitted && f.password.errors }" />
+                            <div *ngIf="submitted && f.password.errors" class="invalid-feedback">
+                                <div *ngIf="f.password.errors.required">Password is required</div>
+                                <div *ngIf="f.password.errors.minlength">Password must be at least 6 characters</div>
+                            </div>
+                        </div>
+                        <button class="btn btn-solid" status="success" [disabled]="loading">Entrar</button>
+                    </form>
+                </div>
+            </div>
+            <div class="col-lg-6 right-login">
+                <h3>Nuevo Cliente</h3>
+                <div class="theme-card authentication-right">
+                    <h6 class="title-font">Crear Cuenta</h6>
+                    <p>Regístrese para obtener una cuenta gratuita en nuestra tienda. Registrarse es facil y rapido. Te
+                        permite poder realizar pedidos desde nuestra tienda. Para comenzar a comprar, haga clic en
+                        registrarse.</p>
+                    <button class="btn btn-solid">Crear Cuenta</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--Section ends-->

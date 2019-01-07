@@ -1,0 +1,236 @@
+<nav id="main-nav">
+  <div class="toggle-nav">
+    <i class="fa fa-bars sidebar-bar"></i>
+  </div>
+  <!-- Sample menu definition -->
+  <ul id="main-menu" class="sm pixelstrap sm-horizontal">
+    <li>
+      <div class="mobile-back text-right">
+        Back<i class="fa fa-angle-right pl-2" aria-hidden="true"></i>
+      </div>
+    </li>
+    <li><a [routerLink]="'/home'">{{ 'home' | translate }}</a>
+      <!-- <ul>
+        <li><a [routerLink]="'/home/one'" target="_blank">{{ 'Fashion-01' | translate }}</a></li>
+        <li><a [routerLink]="'/home/two'" target="_blank">{{ 'Fashion-02' | translate }}</a></li>
+        <li><a [routerLink]="'/home/three'" target="_blank">{{ 'Fashion-03' | translate }}</a></li>
+        <li><a [routerLink]="'/home/four'" target="_blank">{{ 'vegetable' | translate }}</a></li>
+        <li><a [routerLink]="'/home/five'" target="_blank">{{ 'watch' | translate }}</a></li>
+        <li><a [routerLink]="'/home/six'" target="_blank">{{ 'furniture' | translate }}</a></li>
+        <li><a [routerLink]="'/home/seven'" target="_blank">{{ 'flower' | translate }}</a></li>
+        <li><a [routerLink]="'/home/eight'" target="_blank">{{ 'beauty' | translate }}</a></li>
+      </ul> -->
+    </li>
+    <!-- <li class="mega">
+      <a [routerLink]="'/home/left-sidebar/collection/all'">{{ 'features' | translate }}
+        <div class="lable-nav">{{ 'new' | translate }}</div>
+      </a>
+      <ul class="mega-menu feature-menu">
+        <li>
+          <div class="container">
+            <div class="row">
+              <div class="col-xl-4">
+                <a [routerLink]="'/blog/left-sidebar'">
+                  <img src="assets/images/feature/blog-page.jpg" alt="">
+                  <h6>{{ 'blog-left-sidebar' | translate }} </h6>
+                </a>
+              </div>
+              <div class="col-xl-4">
+                <a [routerLink]="'/blog/right-sidebar'">
+                  <img src="assets/images/feature/blog(right-sidebar).jpg" alt="">
+                  <h6>{{ 'blog-right-sidebar' | translate }}</h6>
+              </a>
+              </div>
+              <div class="col-xl-4">
+                <a [routerLink]="'/blog/details'">
+                  <img src="assets/images/feature/blog-detail.jpg" alt="">
+                  <h6>{{ 'blog-detail' | translate }}</h6>
+              </a>
+              </div>
+              <div class="col-xl-4">
+                <a [routerLink]="'/home/left-sidebar/collection/all'">
+                  <img src="assets/images/feature/category-page.jpg" alt="">
+                  <h6>{{ 'category-left-sidebar' | translate }}</h6>
+              </a>
+              </div>
+              <div class="col-xl-4">
+                <a [routerLink]="'/home/right-sidebar/collection/all'">
+                  <img src="assets/images/feature/category-page(right).jpg" alt="">
+                  <h6>{{ 'category-right-sidebar' | translate }}</h6>
+              </a>
+              </div>
+              <div class="col-xl-4">
+                <a [routerLink]="'/home/no-sidebar/collection/all'">
+                  <img src="assets/images/feature/category-page(no-sidebar).jpg" alt="">
+                  <h6>{{ 'category-no-sidebar' | translate }}</h6>
+              </a>
+              </div>
+            </div>
+          </div>
+        </li>
+      </ul>
+    </li> -->
+    <li ><a [routerLink]="">{{ 'products' | translate }}</a>
+      <ul>
+        <li><a [routerLink]="'/home/one'">{{ 'fragance-men' | translate }}</a></li>
+        <li><a [routerLink]="'/home/one'">{{ 'fragance-women' | translate }}</a></li>
+        <li><a [routerLink]="'/home/one'">{{ 'fragance' | translate }}</a></li>
+        <!-- <li>
+          <div class="container">
+            <div class="row">
+              <div class="col-xl-3">
+                <a [routerLink]="'/home/left-sidebar/product/1'">
+                  <h6>{{ 'fragance-men' | translate }}</h6>
+              </a>
+              </div>
+              <div class="col-xl-3">
+                <a [routerLink]="'/home/right-sidebar/product/1'">
+                  <h6>{{ 'fragance-women' | translate }}</h6>
+              </a>
+              </div>
+              <div class="col-xl-3">
+                <a [routerLink]="'/home/no-sidebar/product/1'">
+                  <h6>{{ 'fragance' | translate }}</h6>
+              </a>
+              </div>
+            </div>
+          </div>
+        </li> -->
+      </ul>
+    </li>
+    <li><a [routerLink]="">{{ 'pages' | translate }}</a>
+      <ul>
+        <li><a [routerLink]="'/pages/about-us'">{{ 'about-us' | translate }}</a></li>
+        <li><a [routerLink]="'/pages/404'">404</a></li>
+        <li><a [routerLink]="'/pages/lookbook'">{{ 'lookbook' | translate }}</a></li>
+        <li><a [routerLink]="'/pages/login'">{{ 'login' | translate }}</a></li>
+        <li><a [routerLink]="'/pages/register'">{{ 'register' | translate }}</a></li>
+        <li><a [routerLink]="'/pages/search'">{{ 'search' | translate }}</a></li>
+        <li><a [routerLink]="'/pages/wishlist'">{{ 'wishlist' | translate }}</a></li>
+        <li><a [routerLink]="'/pages/cart'">{{ 'cart' | translate }}</a></li>
+        <li><a [routerLink]="'/pages/collection'">{{ 'collection' | translate }}</a></li>
+        <li><a [routerLink]="'/pages/forgetpassword'">{{ 'forget-password' | translate }}</a></li>
+        <li><a [routerLink]="'/pages/contact'">{{ 'contact' | translate }}</a></li>
+        <li><a [routerLink]="'/pages/checkout'">{{ 'checkout' | translate }}</a></li>
+        <li><a [routerLink]="'/pages/compare'">{{ 'compare' | translate }}</a></li>
+        <li><a [routerLink]="'/pages/order-success'">{{ 'order-success' | translate }}</a></li>
+        <li><a [routerLink]="'/pages/dashboard'">{{ 'dashboard' | translate }}</a></li>
+        <li><a [routerLink]="'/pages/faq'">{{ 'FAQ' | translate }}</a></li>
+      </ul>
+    </li>
+    <li class="mega"><a [routerLink]="">{{ 'shop' | translate }}</a>
+      <ul class="mega-menu full-mega-menu" id="mega-menu">
+        <li>
+          <div class="container">
+            <div class="row">
+              <div class="col mega-box">
+                <div class="link-section">
+                  <div class="menu-title">
+                    <h5>{{ 'mens-fashion' | translate }}</h5>
+                  </div>
+                  <div class="menu-content">
+                    <ul>
+                      <li><a [routerLink]="'/home/left-sidebar/collection/all'">{{ 'sports-wear' | translate }}</a></li>
+                      <li><a [routerLink]="'/home/left-sidebar/collection/all'">{{ 'top' | translate }}</a></li>
+                      <li><a [routerLink]="'/home/left-sidebar/collection/all'">{{ 'bottom' | translate }}</a></li>
+                      <li><a [routerLink]="'/home/left-sidebar/collection/all'">{{ 'ethic-wear' | translate }}</a></li>
+                      <li><a [routerLink]="'/home/left-sidebar/collection/all'">{{ 'sports-wear' | translate }}</a></li>
+                      <li><a [routerLink]="'/home/left-sidebar/collection/all'">{{ 'shirts' | translate }}</a></li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+              <div class="col mega-box">
+                <div class="link-section">
+                  <div class="menu-title">
+                    <h5>{{ 'women-fashion' | translate }}</h5>
+                  </div>
+                  <div class="menu-content">
+                    <ul>
+                      <li><a [routerLink]="'/home/left-sidebar/collection/all'">{{ 'dresses' | translate }}</a></li>
+                      <li><a [routerLink]="'/home/left-sidebar/collection/all'">{{ 'skirts' | translate }}</a></li>
+                      <li><a [routerLink]="'/home/left-sidebar/collection/all'">{{ 'westarn-wear' | translate }}</a></li>
+                      <li><a [routerLink]="'/home/left-sidebar/collection/all'">{{ 'ethic-wear' | translate }}</a></li>
+                      <li><a [routerLink]="'/home/left-sidebar/collection/all'">{{ 'sports-wear' | translate }}</a></li>
+                      <li><a [routerLink]="'/home/left-sidebar/collection/all'">{{ 'bottom-wear' | translate }}</a></li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+              <div class="col mega-box">
+                <div class="link-section">
+                  <div class="menu-title">
+                    <h5>{{ 'kids-fashion' | translate }}</h5>
+                  </div>
+                  <div class="menu-content">
+                    <ul>
+                      <li><a [routerLink]="'/home/left-sidebar/collection/all'">{{ 'sports-wear' | translate }}</a></li>
+                      <li><a [routerLink]="'/home/left-sidebar/collection/all'">{{ 'ethic-wear' | translate }}</a></li>
+                      <li><a [routerLink]="'/home/left-sidebar/collection/all'">{{ 'sports-wear' | translate }}</a></li>
+                      <li><a [routerLink]="'/home/left-sidebar/collection/all'">{{ 'top' | translate }}</a></li>
+                      <li><a [routerLink]="'/home/left-sidebar/collection/all'">{{ 'bottom-wear' | translate }}</a></li>
+                      <li><a [routerLink]="'/home/left-sidebar/collection/all'">{{ 'ethic-wear' | translate }}</a></li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+              <div class="col mega-box">
+                <div class="link-section">
+                  <div class="menu-title">
+                    <h5>{{ 'accessories' | translate }}</h5>
+                  </div>
+                  <div class="menu-content">
+                    <ul>
+                      <li><a [routerLink]="'/home/left-sidebar/collection/all'">{{ 'fashion-jewellery' | translate }}</a></li>
+                      <li><a [routerLink]="'/home/left-sidebar/collection/all'">{{ 'caps-and-hats' | translate }}</a></li>
+                      <li><a [routerLink]="'/home/left-sidebar/collection/all'">{{ 'precious-jewellery' | translate }}</a></li>
+                      <li><a [routerLink]="'/home/left-sidebar/collection/all'">{{ 'necklaces' | translate }}</a></li>
+                      <li><a [routerLink]="'/home/left-sidebar/collection/all'">{{ 'earrings' | translate }}</a></li>
+                      <li><a [routerLink]="'/home/left-sidebar/collection/all'">{{ 'rings-wrist-wear' | translate }}</a></li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+              <div class="col mega-box">
+                <div class="link-section">
+                  <div class="menu-title">
+                    <h5>{{ 'men-accessories' | translate }}</h5>
+                  </div>
+                  <div class="menu-content">
+                    <ul>
+                      <li><a [routerLink]="'/home/left-sidebar/collection/all'">{{ 'ties' | translate }}</a></li>
+                      <li><a [routerLink]="'/home/left-sidebar/collection/all'">{{ 'cufflinks' | translate }}</a></li>
+                      <li><a [routerLink]="'/home/left-sidebar/collection/all'">{{ 'pockets-squares' | translate }}</a></li>
+                      <li><a [routerLink]="'/home/left-sidebar/collection/all'">{{ 'helmets' | translate }}</a></li>
+                      <li><a [routerLink]="'/home/left-sidebar/collection/all'">{{ 'scarves' | translate }}</a></li>
+                      <li><a [routerLink]="'/home/left-sidebar/collection/all'">{{ 'phone-cases' | translate }}</a></li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="row banner-padding">
+            <div class="col-xl-6">
+              <a [routerLink]="'/home/left-sidebar/collection/all'" class="mega-menu-banner"><img src="assets/images/mega-menu/1.jpg"
+                  class="img-fluid d-none d-xl-block " alt=""></a>
+            </div>
+            <div class="col-xl-6">
+              <a [routerLink]="'/home/left-sidebar/collection/all'" class="mega-menu-banner"><img src="assets/images/mega-menu/2.jpg"
+                  class="img-fluid d-none d-xl-block" alt=""></a>
+            </div>
+          </div>
+        </li>
+      </ul>
+    </li>
+    
+    <li><a [routerLink]="">Administracion</a>
+      <ul>
+        <li><a [routerLink]="'/admin/clientes'">Clientes</a></li>
+        <li><a [routerLink]="'/admin/pedidos'">Pedidos</a></li>
+        <li><a [routerLink]="'/admin/productos'">Productos</a></li>
+        <li><a [routerLink]="'/admin/varios'">Varios</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>

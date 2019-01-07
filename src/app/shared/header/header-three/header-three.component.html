@@ -1,0 +1,41 @@
+<!-- header start -->
+<header class="header-2" id="sticky" class="sticky">
+    <div class="mobile-fix-option"></div>
+    <div class="top-header">
+        <div class="container">
+             <app-topbar></app-topbar>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="main-menu border-section border-top-0">
+                    <div class="menu-left">
+                        <div class="navbar">
+                            <a (click)="openNav()">
+                                <i class="fa fa-bars sidebar-bar" aria-hidden="true"></i>
+                            </a>
+                            <app-left-menu></app-left-menu>
+                        </div>
+                    </div>
+                    <div class="brand-logo layout2-logo">
+                        <a [routerLink]="['/home/one']"><img src="assets/images/icon/logo.png" class="img-fluid" alt=""></a>
+                    </div>
+                    <div class="menu-right pull-right">
+                        <app-header-widgets [shoppingCartItems]="shoppingCartItems"></app-header-widgets>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row ">
+            <div class="col-lg-12">
+                <div class="main-nav-center">
+                    <app-navbar></app-navbar>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+<!-- header end -->

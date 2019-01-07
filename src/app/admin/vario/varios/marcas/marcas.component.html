@@ -1,0 +1,42 @@
+<div class="row col-md-5">
+  <kendo-textbox-container style="width: 100%;" floatingLabel="Buscar...">
+    <input kendoTextBox style="width: 100%;" (keyup)='updateFilter()' [(ngModel)]="buscar" autofocus />
+  </kendo-textbox-container>
+</div>
+<br />
+
+<kendo-grid #grid *ngIf="cargando" [filterable]="false" [data]="gridView" [pageSize]="pageSize" [skip]="skip"
+  [pageable]="pageable" [height]="height" [sortable]="sortable" [sort]="sort" (sortChange)="sortChange($event)"
+  [selectable]="true" (pageChange)="pageChange($event)" (add)="addHandler($event)" (edit)="editHandler($event)"
+  (cancel)="cancelHandler($event)" (save)="saveHandler($event)" (remove)="removeHandler($event)">
+
+  <ng-template kendoGridToolbarTemplate>
+    <button kendoGridAddCommand type="button">Agregar</button>
+  </ng-template>
+
+  <kendo-grid-command-column title="Acciones" width="150">
+    <ng-template kendoGridCellTemplate let-isNew="isNew">
+      <button kendoGridEditCommand [primary]="true" class="k-primary">
+        <i class="k-icon k-i-edit"></i>
+      </button>
+      <button kendoGridRemoveCommand>
+        <i class="k-icon k-i-delete"></i>
+      </button>
+      <button kendoGridSaveCommand [disabled]="formGroup?.invalid">
+        <i class="k-icon k-i-checkmark"></i>
+      </button>
+      <button kendoGridCancelCommand>
+        <i class="k-icon k-i-close"></i>
+      </button>
+    </ng-template>
+  </kendo-grid-command-column>
+
+  <kendo-grid-column title="Descripcion" field="description" filter="text" [headerStyle]="{'text-align': 'center'}">
+    <ng-template kendoGridCellTemplate let-dataItem>
+      <p class="text-center">
+        {{dataItem.description }}
+      </p>
+    </ng-template>
+  </kendo-grid-column>
+
+</kendo-grid>

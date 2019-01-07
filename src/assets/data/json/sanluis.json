@@ -1,0 +1,11072 @@
+[
+  {
+    "id": 15209,
+    "nombre": "",
+    "codigopostal": "6279",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15063,
+    "nombre": "11 DE MAYO",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21438,
+    "nombre": "13 DE ENERO",
+    "codigopostal": "5741",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21386,
+    "nombre": "20 DE FEBRERO",
+    "codigopostal": "5730",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21367,
+    "nombre": "30 DE OCTUBRE",
+    "codigopostal": "5637",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14812,
+    "nombre": "6 DE SEPTIEMBRE",
+    "codigopostal": "5703",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21387,
+    "nombre": "9 DE JULIO",
+    "codigopostal": "5831",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21571,
+    "nombre": "9 DE JULIO",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21450,
+    "nombre": "ACASAPE",
+    "codigopostal": "5722",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15328,
+    "nombre": "ADOLFO RODRIGUEZ SAA",
+    "codigopostal": "5777",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14820,
+    "nombre": "AGUA AMARGA",
+    "codigopostal": "5719",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21432,
+    "nombre": "AGUA DEL PORTEZUELO",
+    "codigopostal": "5730",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15233,
+    "nombre": "AGUA FRIA",
+    "codigopostal": "5831",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14661,
+    "nombre": "AGUA HEDIONDA",
+    "codigopostal": "5705",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15504,
+    "nombre": "AGUA LINDA",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14986,
+    "nombre": "AGUA SALADA",
+    "codigopostal": "5751",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15405,
+    "nombre": "AGUA SEBALLE",
+    "codigopostal": "5721",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21389,
+    "nombre": "AGUADA",
+    "codigopostal": "5831",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14662,
+    "nombre": "AGUADITA",
+    "codigopostal": "5719",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21285,
+    "nombre": "AGUADITAS",
+    "codigopostal": "5707",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15406,
+    "nombre": "AGUAS DE PIEDRAS",
+    "codigopostal": "5721",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21314,
+    "nombre": "AHI VEREMOS",
+    "codigopostal": "5703",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15505,
+    "nombre": "ALANICES",
+    "codigopostal": "5771",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14821,
+    "nombre": "ALAZANAS",
+    "codigopostal": "5719",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15093,
+    "nombre": "ALEGRIA",
+    "codigopostal": "6389",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15234,
+    "nombre": "ALFALAND",
+    "codigopostal": "5731",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14663,
+    "nombre": "ALGARROBAL",
+    "codigopostal": "5707",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15407,
+    "nombre": "ALGARROBITOS",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14822,
+    "nombre": "ALGARROBOS GRANDES",
+    "codigopostal": "5719",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14823,
+    "nombre": "ALTA GRACIA",
+    "codigopostal": "5703",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14824,
+    "nombre": "ALTILLO",
+    "codigopostal": "5719",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14825,
+    "nombre": "ALTO",
+    "codigopostal": "5703",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21451,
+    "nombre": "ALTO BLANCO",
+    "codigopostal": "5700",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21505,
+    "nombre": "ALTO DE LA LE",
+    "codigopostal": "5750",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21452,
+    "nombre": "ALTO DEL LEON",
+    "codigopostal": "5722",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15506,
+    "nombre": "ALTO DEL MOLLE",
+    "codigopostal": "5755",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15507,
+    "nombre": "ALTO DEL VALLE",
+    "codigopostal": "5755",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21453,
+    "nombre": "ALTO DEL VALLE",
+    "codigopostal": "5721",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15408,
+    "nombre": "ALTO GRANDE",
+    "codigopostal": "5700",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21507,
+    "nombre": "ALTO GRANDE",
+    "codigopostal": "5722",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14904,
+    "nombre": "ALTO LINDO",
+    "codigopostal": "5883",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21326,
+    "nombre": "ALTO NEGRO",
+    "codigopostal": "5719",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15409,
+    "nombre": "ALTO PELADO",
+    "codigopostal": "5721",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15410,
+    "nombre": "ALTO PENCOSO",
+    "codigopostal": "5724",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15235,
+    "nombre": "ALTO VERDE",
+    "codigopostal": "5741",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15508,
+    "nombre": "ANCAMILLA",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15094,
+    "nombre": "ANCHORENA",
+    "codigopostal": "6389",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15329,
+    "nombre": "ANGELITA",
+    "codigopostal": "5711",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14987,
+    "nombre": "ANTIHUASI",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14826,
+    "nombre": "ARBOL SOLO",
+    "codigopostal": "5703",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14664,
+    "nombre": "ARBOL VERDE",
+    "codigopostal": "5715",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21508,
+    "nombre": "ARBOLEDA",
+    "codigopostal": "5750",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15509,
+    "nombre": "ARBOLES BLANCOS",
+    "codigopostal": "5771",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14988,
+    "nombre": "ARENILLA",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15095,
+    "nombre": "ARIZONA",
+    "codigopostal": "6389",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15510,
+    "nombre": "ARROYO DE VILCHES",
+    "codigopostal": "5771",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15511,
+    "nombre": "ARROYO LA CAL",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15236,
+    "nombre": "AVANZADA",
+    "codigopostal": "5738",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15237,
+    "nombre": "AVIADOR ORIGONE",
+    "codigopostal": "5741",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14682,
+    "nombre": "BA",
+    "codigopostal": "5707",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14683,
+    "nombre": "BA",
+    "codigopostal": "5705",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14685,
+    "nombre": "BA",
+    "codigopostal": "5711",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15334,
+    "nombre": "BA",
+    "codigopostal": "5711",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15335,
+    "nombre": "BA",
+    "codigopostal": "5711",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21288,
+    "nombre": "BA",
+    "codigopostal": "5709",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15096,
+    "nombre": "BAGUAL",
+    "codigopostal": "6216",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14665,
+    "nombre": "BAJADA",
+    "codigopostal": "5711",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15097,
+    "nombre": "BAJADA NUEVA",
+    "codigopostal": "6216",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15512,
+    "nombre": "BAJO DE CONLARA",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14827,
+    "nombre": "BAJO DE LA CRUZ",
+    "codigopostal": "5719",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21330,
+    "nombre": "BAJO GRANDE",
+    "codigopostal": "5775",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15513,
+    "nombre": "BAJO LA LAGUNA",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21390,
+    "nombre": "BAJOS HONDOS",
+    "codigopostal": "5741",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14905,
+    "nombre": "BALCARCE",
+    "codigopostal": "5883",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21454,
+    "nombre": "BALDA",
+    "codigopostal": "5722",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15411,
+    "nombre": "BALDE",
+    "codigopostal": "5724",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15330,
+    "nombre": "BALDE",
+    "codigopostal": "5883",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14666,
+    "nombre": "BALDE AHUMADA",
+    "codigopostal": "5713",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21315,
+    "nombre": "BALDE DE AMIRA",
+    "codigopostal": "5703",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14667,
+    "nombre": "BALDE DE ARRIBA",
+    "codigopostal": "5707",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14668,
+    "nombre": "BALDE DE AZCURRA",
+    "codigopostal": "5707",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21286,
+    "nombre": "BALDE DE ESCUDERO",
+    "codigopostal": "5715",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14669,
+    "nombre": "BALDE DE GARCIA",
+    "codigopostal": "5715",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14670,
+    "nombre": "BALDE DE GUARDIA",
+    "codigopostal": "5713",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15331,
+    "nombre": "BALDE DE GUI",
+    "codigopostal": "5715",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14989,
+    "nombre": "BALDE DE LA ISLA",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21287,
+    "nombre": "BALDE DE LA LINEA",
+    "codigopostal": "5713",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14671,
+    "nombre": "BALDE DE LEDESMA",
+    "codigopostal": "5715",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14672,
+    "nombre": "BALDE DE MONTE",
+    "codigopostal": "5715",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15332,
+    "nombre": "BALDE DE NUEVO",
+    "codigopostal": "5715",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14673,
+    "nombre": "BALDE DE PUERTAS",
+    "codigopostal": "5707",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14674,
+    "nombre": "BALDE DE QUINES",
+    "codigopostal": "5715",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14675,
+    "nombre": "BALDE DE TORRES",
+    "codigopostal": "5713",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15333,
+    "nombre": "BALDE DEL ESCUDERO",
+    "codigopostal": "5715",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21316,
+    "nombre": "BALDE DEL ROSARIO",
+    "codigopostal": "5703",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14676,
+    "nombre": "BALDE EL CARRIL",
+    "codigopostal": "5713",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14677,
+    "nombre": "BALDE HONDO",
+    "codigopostal": "5705",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14678,
+    "nombre": "BALDE RETAMO",
+    "codigopostal": "5711",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14679,
+    "nombre": "BALDE VIEJO",
+    "codigopostal": "5711",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14680,
+    "nombre": "BALDECITO",
+    "codigopostal": "5713",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14681,
+    "nombre": "BALDECITO LA PAMPA",
+    "codigopostal": "5707",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14684,
+    "nombre": "BANDA SUD",
+    "codigopostal": "5705",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15412,
+    "nombre": "BARRANCA COLORADA",
+    "codigopostal": "5703",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15514,
+    "nombre": "BARRANQUITAS",
+    "codigopostal": "5771",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14686,
+    "nombre": "BARRIALES",
+    "codigopostal": "5707",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15336,
+    "nombre": "BARRIO BLANCO",
+    "codigopostal": "5777",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14687,
+    "nombre": "BARZOLA",
+    "codigopostal": "5707",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15098,
+    "nombre": "BATAVIA",
+    "codigopostal": "6279",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15414,
+    "nombre": "BEAZLEY",
+    "codigopostal": "5721",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15415,
+    "nombre": "BEBEDERO",
+    "codigopostal": "5724",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14828,
+    "nombre": "BEBIDA",
+    "codigopostal": "5719",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21289,
+    "nombre": "BECERRA",
+    "codigopostal": "5711",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14829,
+    "nombre": "BELLA ESTANCIA",
+    "codigopostal": "5719",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14688,
+    "nombre": "BELLA VISTA",
+    "codigopostal": "5705",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14906,
+    "nombre": "BELLA VISTA",
+    "codigopostal": "5835",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21455,
+    "nombre": "BELLA VISTA",
+    "codigopostal": "5724",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21290,
+    "nombre": "BELLA VISTA BOTIJAS",
+    "codigopostal": "5707",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15099,
+    "nombre": "BILLIKEN",
+    "codigopostal": "6216",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21343,
+    "nombre": "BOCA DE LA QUEBRADA",
+    "codigopostal": "6216",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15238,
+    "nombre": "BOCA DEL RIO",
+    "codigopostal": "5831",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14689,
+    "nombre": "BOTIJAS",
+    "codigopostal": "5707",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15100,
+    "nombre": "BUENA ESPERANZA",
+    "codigopostal": "6277",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14990,
+    "nombre": "BUENA VENTURA",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14991,
+    "nombre": "BUENA VISTA",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14691,
+    "nombre": "CA",
+    "codigopostal": "5703",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14692,
+    "nombre": "CA",
+    "codigopostal": "5709",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14830,
+    "nombre": "CA",
+    "codigopostal": "5719",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14992,
+    "nombre": "CA",
+    "codigopostal": "5750",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14993,
+    "nombre": "CA",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14994,
+    "nombre": "CA",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15337,
+    "nombre": "CA",
+    "codigopostal": "5715",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15338,
+    "nombre": "CA",
+    "codigopostal": "5771",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15339,
+    "nombre": "CA",
+    "codigopostal": "5777",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15340,
+    "nombre": "CA",
+    "codigopostal": "5777",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15341,
+    "nombre": "CA",
+    "codigopostal": "5881",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15342,
+    "nombre": "CA",
+    "codigopostal": "5777",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15416,
+    "nombre": "CA",
+    "codigopostal": "5721",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15517,
+    "nombre": "CA",
+    "codigopostal": "5773",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15518,
+    "nombre": "CA",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15519,
+    "nombre": "CA",
+    "codigopostal": "5773",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15520,
+    "nombre": "CA",
+    "codigopostal": "5771",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15521,
+    "nombre": "CA",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15522,
+    "nombre": "CA",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15523,
+    "nombre": "CA",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15524,
+    "nombre": "CA",
+    "codigopostal": "5755",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15525,
+    "nombre": "CA",
+    "codigopostal": "5773",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21510,
+    "nombre": "CA",
+    "codigopostal": "5750",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15515,
+    "nombre": "CABEZA DE NOVILLO",
+    "codigopostal": "5771",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15516,
+    "nombre": "CAIN DE LOS TIGRES",
+    "codigopostal": "5771",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15239,
+    "nombre": "CALDENADAS",
+    "codigopostal": "5738",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14907,
+    "nombre": "CALERA ARGENTINA",
+    "codigopostal": "5759",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14908,
+    "nombre": "CALERAS CA",
+    "codigopostal": "5759",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14690,
+    "nombre": "CAMPANARIO",
+    "codigopostal": "5705",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21457,
+    "nombre": "CAMPO DE SAN PEDRO",
+    "codigopostal": "5722",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14693,
+    "nombre": "CANDELARIA",
+    "codigopostal": "5713",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14694,
+    "nombre": "CANTANTAL",
+    "codigopostal": "5707",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14995,
+    "nombre": "CANTERAS SANTA ISABEL",
+    "codigopostal": "5750",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21391,
+    "nombre": "CAPELEN",
+    "codigopostal": "5741",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14695,
+    "nombre": "CARMELO",
+    "codigopostal": "5707",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14996,
+    "nombre": "CAROLINA",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15343,
+    "nombre": "CARPINTERIA",
+    "codigopostal": "5883",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15526,
+    "nombre": "CASA DE CONDOR",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15527,
+    "nombre": "CASA DE PIEDRA",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14997,
+    "nombre": "CASA DE PIEDRA",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14998,
+    "nombre": "CASAS VIEJAS",
+    "codigopostal": "5750",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15101,
+    "nombre": "CASIMIRO GOMEZ",
+    "codigopostal": "6214",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14696,
+    "nombre": "CEBOLLAR",
+    "codigopostal": "5709",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15240,
+    "nombre": "CENTENARIO",
+    "codigopostal": "6279",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15528,
+    "nombre": "CERRITO",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15344,
+    "nombre": "CERRITO BLANCO",
+    "codigopostal": "5777",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15529,
+    "nombre": "CERRITO NEGRO",
+    "codigopostal": "5755",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14697,
+    "nombre": "CERRO BAYO",
+    "codigopostal": "5707",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14999,
+    "nombre": "CERRO BLANCO",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15241,
+    "nombre": "CERRO BLANCO",
+    "codigopostal": "5731",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15530,
+    "nombre": "CERRO COLORADO",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15000,
+    "nombre": "CERRO DE LA PILA",
+    "codigopostal": "5750",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15345,
+    "nombre": "CERRO DE ORO",
+    "codigopostal": "5881",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15001,
+    "nombre": "CERRO DE PIEDRA",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14698,
+    "nombre": "CERRO NEGRO",
+    "codigopostal": "5707",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15242,
+    "nombre": "CERRO NEGRO",
+    "codigopostal": "5731",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15417,
+    "nombre": "CERRO VARELA",
+    "codigopostal": "5721",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15002,
+    "nombre": "CERRO VERDE",
+    "codigopostal": "5750",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15418,
+    "nombre": "CERRO VIEJO",
+    "codigopostal": "5721",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15003,
+    "nombre": "CERROS LARGOS",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14910,
+    "nombre": "CHA",
+    "codigopostal": "5773",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14911,
+    "nombre": "CHA",
+    "codigopostal": "5883",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21393,
+    "nombre": "CHACRA LA PRIMAVERA",
+    "codigopostal": "5730",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21291,
+    "nombre": "CHACRAS DEL CANTARO",
+    "codigopostal": "5719",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14909,
+    "nombre": "CHACRAS VIEJAS",
+    "codigopostal": "5770",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15531,
+    "nombre": "CHACRITAS",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15243,
+    "nombre": "CHALANTA",
+    "codigopostal": "5721",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15244,
+    "nombre": "CHANCARITA",
+    "codigopostal": "5831",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15419,
+    "nombre": "CHARLONE",
+    "codigopostal": "5719",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21292,
+    "nombre": "CHARLONES",
+    "codigopostal": "5719",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15421,
+    "nombre": "CHICHAQUITA",
+    "codigopostal": "5721",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14912,
+    "nombre": "CHILCAS",
+    "codigopostal": "5777",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14699,
+    "nombre": "CHIMBAS",
+    "codigopostal": "5707",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14700,
+    "nombre": "CHIMBORAZO",
+    "codigopostal": "5707",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15004,
+    "nombre": "CHIPICAL",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 27741,
+    "nombre": "CHIPISCU",
+    "codigopostal": "5719",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15420,
+    "nombre": "CHISCHACA",
+    "codigopostal": "5721",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15422,
+    "nombre": "CHOSMES",
+    "codigopostal": "5724",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15532,
+    "nombre": "CHUTUNSA",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15249,
+    "nombre": "CIUDAD JARDIN DE SAN LUIS",
+    "codigopostal": "5730",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15102,
+    "nombre": "COCHENELOS",
+    "codigopostal": "6277",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15103,
+    "nombre": "COCHEQUINGAN",
+    "codigopostal": "6216",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15245,
+    "nombre": "COLONIA BELLA VISTA",
+    "codigopostal": "5735",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15104,
+    "nombre": "COLONIA CALZADA",
+    "codigopostal": "6279",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15105,
+    "nombre": "COLONIA EL CAMPAMENTO",
+    "codigopostal": "6216",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15106,
+    "nombre": "COLONIA LA FLORIDA",
+    "codigopostal": "6216",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15246,
+    "nombre": "COLONIA LUNA",
+    "codigopostal": "5738",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21458,
+    "nombre": "COLONIA SANTA VIRGINIA",
+    "codigopostal": "5721",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15107,
+    "nombre": "COLONIA URDANIZ",
+    "codigopostal": "6216",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15005,
+    "nombre": "COMANDANTE GRANVILLE",
+    "codigopostal": "5736",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14913,
+    "nombre": "CONCARAN",
+    "codigopostal": "5770",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14914,
+    "nombre": "CONLARA",
+    "codigopostal": "5759",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15533,
+    "nombre": "CONSUELO",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14701,
+    "nombre": "CONSULTA",
+    "codigopostal": "5709",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15247,
+    "nombre": "CORONEL ALZOGARAY",
+    "codigopostal": "5730",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15108,
+    "nombre": "CORONEL SEGOVIA",
+    "codigopostal": "6279",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14702,
+    "nombre": "CORRAL DE PIEDRA",
+    "codigopostal": "5709",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14915,
+    "nombre": "CORRAL DE TORRES",
+    "codigopostal": "5777",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15534,
+    "nombre": "CORRAL DEL TALA",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15535,
+    "nombre": "CORRALES",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15536,
+    "nombre": "CORTADERAS",
+    "codigopostal": "5771",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21459,
+    "nombre": "CORTADERAS",
+    "codigopostal": "5700",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14916,
+    "nombre": "CORTADERAS",
+    "codigopostal": "5883",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15248,
+    "nombre": "CRAMER",
+    "codigopostal": "5733",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15537,
+    "nombre": "CRUCECITAS",
+    "codigopostal": "5773",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15538,
+    "nombre": "CRUZ BRILLANTE",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15006,
+    "nombre": "CRUZ DE CA",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15007,
+    "nombre": "CRUZ DE PIEDRA",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21331,
+    "nombre": "CUATRO ESQUINAS",
+    "codigopostal": "5773",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21512,
+    "nombre": "CUATRO ESQUINAS",
+    "codigopostal": "5750",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21456,
+    "nombre": "CUCHI CORRAL",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15539,
+    "nombre": "CUEVA DE TIGRE",
+    "codigopostal": "5755",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15423,
+    "nombre": "DANIEL DONOVAN",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21513,
+    "nombre": "DIQUE LA FLORIDA",
+    "codigopostal": "5750",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15540,
+    "nombre": "DIVISADERO",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14831,
+    "nombre": "DIVISADERO",
+    "codigopostal": "5703",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14917,
+    "nombre": "DOMINGUEZ",
+    "codigopostal": "5835",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15541,
+    "nombre": "DORMIDA",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15542,
+    "nombre": "DURAZNITO",
+    "codigopostal": "5773",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14918,
+    "nombre": "DURAZNITO",
+    "codigopostal": "5777",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15109,
+    "nombre": "EL AGUILA",
+    "codigopostal": "6279",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21329,
+    "nombre": "EL ALGARROBAL",
+    "codigopostal": "5775",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14703,
+    "nombre": "EL ALTO",
+    "codigopostal": "5715",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15009,
+    "nombre": "EL AMPARO",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15010,
+    "nombre": "EL ARENAL",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14919,
+    "nombre": "EL ARROYO",
+    "codigopostal": "5770",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14704,
+    "nombre": "EL BA",
+    "codigopostal": "5711",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14920,
+    "nombre": "EL BA",
+    "codigopostal": "5770",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14832,
+    "nombre": "EL BAGUAL",
+    "codigopostal": "5703",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15543,
+    "nombre": "EL BAJO",
+    "codigopostal": "5755",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14833,
+    "nombre": "EL BALDE",
+    "codigopostal": "5703",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15544,
+    "nombre": "EL BALDECITO",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15346,
+    "nombre": "EL BARRIAL",
+    "codigopostal": "5715",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15413,
+    "nombre": "EL BARRIAL",
+    "codigopostal": "5703",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15011,
+    "nombre": "EL BLANCO",
+    "codigopostal": "5750",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15545,
+    "nombre": "EL BURRITO",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14705,
+    "nombre": "EL CADILLO",
+    "codigopostal": "5713",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14706,
+    "nombre": "EL CALDEN",
+    "codigopostal": "5711",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14921,
+    "nombre": "EL CALDEN",
+    "codigopostal": "5770",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21327,
+    "nombre": "EL CALDEN",
+    "codigopostal": "5719",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21398,
+    "nombre": "EL CALDEN",
+    "codigopostal": "5741",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15110,
+    "nombre": "EL CAMPAMENTO",
+    "codigopostal": "6216",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15546,
+    "nombre": "EL CARDAL",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14707,
+    "nombre": "EL CARMEN",
+    "codigopostal": "5719",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15250,
+    "nombre": "EL CARMEN",
+    "codigopostal": "5738",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14922,
+    "nombre": "EL CAVADO",
+    "codigopostal": "5770",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15424,
+    "nombre": "EL CAZADOR",
+    "codigopostal": "5721",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15547,
+    "nombre": "EL CERRITO",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14923,
+    "nombre": "EL CERRO",
+    "codigopostal": "5770",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14708,
+    "nombre": "EL CHA",
+    "codigopostal": "5711",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15012,
+    "nombre": "EL CHA",
+    "codigopostal": "5751",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15251,
+    "nombre": "EL CHA",
+    "codigopostal": "5730",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15425,
+    "nombre": "EL CHA",
+    "codigopostal": "5703",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21293,
+    "nombre": "EL CHARABON",
+    "codigopostal": "5719",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15426,
+    "nombre": "EL CHARCO",
+    "codigopostal": "5724",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15427,
+    "nombre": "EL CHORRILLO",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15111,
+    "nombre": "EL CINCO",
+    "codigopostal": "6216",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15548,
+    "nombre": "EL CONDOR",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15549,
+    "nombre": "EL CORO",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21317,
+    "nombre": "EL DICHOSO",
+    "codigopostal": "5719",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15252,
+    "nombre": "EL DIQUE",
+    "codigopostal": "5730",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15013,
+    "nombre": "EL DURAZNO",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14709,
+    "nombre": "EL ESPINILLO",
+    "codigopostal": "5703",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 16601,
+    "nombre": "EL ESPINILLO",
+    "codigopostal": "6279",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21345,
+    "nombre": "EL ESPINILLO",
+    "codigopostal": "6279",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15253,
+    "nombre": "EL FORTIN",
+    "codigopostal": "5730",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14710,
+    "nombre": "EL HORMIGUERO",
+    "codigopostal": "5713",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21548,
+    "nombre": "EL HORNITO",
+    "codigopostal": "5755",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14711,
+    "nombre": "EL INJERTO",
+    "codigopostal": "5711",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14834,
+    "nombre": "EL JARILLAL",
+    "codigopostal": "5719",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15428,
+    "nombre": "EL LECHUZO",
+    "codigopostal": "5724",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14712,
+    "nombre": "EL MANANTIAL",
+    "codigopostal": "5709",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15550,
+    "nombre": "EL MANANTIAL ESCONDIDO",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15254,
+    "nombre": "EL MANGRULLO",
+    "codigopostal": "5738",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15113,
+    "nombre": "EL MARTILLO",
+    "codigopostal": "6216",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15429,
+    "nombre": "EL MATACO",
+    "codigopostal": "5724",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15430,
+    "nombre": "EL MILAGRO",
+    "codigopostal": "5724",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14713,
+    "nombre": "EL MOLINO",
+    "codigopostal": "5709",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14714,
+    "nombre": "EL MOLLAR",
+    "codigopostal": "5713",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14715,
+    "nombre": "EL MOLLARCITO",
+    "codigopostal": "5707",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15431,
+    "nombre": "EL MOLLE",
+    "codigopostal": "5721",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21328,
+    "nombre": "EL MOLLE",
+    "codigopostal": "5719",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15255,
+    "nombre": "EL MORRO",
+    "codigopostal": "5731",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15256,
+    "nombre": "EL NASAO",
+    "codigopostal": "5738",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21460,
+    "nombre": "EL NEGRO",
+    "codigopostal": "5724",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15114,
+    "nombre": "EL OASIS",
+    "codigopostal": "6277",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15551,
+    "nombre": "EL OLMO",
+    "codigopostal": "5773",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15552,
+    "nombre": "EL PAJARETE",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15553,
+    "nombre": "EL PANTANILLO",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21540,
+    "nombre": "EL PANTANO",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15554,
+    "nombre": "EL PARAGUAY",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15555,
+    "nombre": "EL PARAISO",
+    "codigopostal": "5755",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14835,
+    "nombre": "EL PARAISO",
+    "codigopostal": "5703",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15257,
+    "nombre": "EL PASAJERO",
+    "codigopostal": "5731",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14716,
+    "nombre": "EL PAYERO",
+    "codigopostal": "5707",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14836,
+    "nombre": "EL PEDERNAL",
+    "codigopostal": "5719",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15556,
+    "nombre": "EL PEJE",
+    "codigopostal": "5755",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15115,
+    "nombre": "EL PICHE",
+    "codigopostal": "6279",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21346,
+    "nombre": "EL PIGUE",
+    "codigopostal": "6216",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14717,
+    "nombre": "EL PIMPOLLO",
+    "codigopostal": "5717",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15258,
+    "nombre": "EL PLATEADO",
+    "codigopostal": "5731",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21360,
+    "nombre": "EL PLUMERITO",
+    "codigopostal": "5637",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15347,
+    "nombre": "EL POCITO",
+    "codigopostal": "5715",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15557,
+    "nombre": "EL POLEO",
+    "codigopostal": "5773",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14924,
+    "nombre": "EL POLEO",
+    "codigopostal": "5770",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15014,
+    "nombre": "EL PORTEZUELO",
+    "codigopostal": "5750",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15116,
+    "nombre": "EL PORVENIR",
+    "codigopostal": "6216",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15558,
+    "nombre": "EL PORVENIR",
+    "codigopostal": "5773",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14718,
+    "nombre": "EL POTRERILLO",
+    "codigopostal": "5711",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14719,
+    "nombre": "EL POTRERO DE LEYES",
+    "codigopostal": "5703",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15015,
+    "nombre": "EL POZO",
+    "codigopostal": "5750",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15559,
+    "nombre": "EL PROGRESO",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15348,
+    "nombre": "EL PUEBLITO",
+    "codigopostal": "5777",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15560,
+    "nombre": "EL PUERTO",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14720,
+    "nombre": "EL PUESTITO",
+    "codigopostal": "5713",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14721,
+    "nombre": "EL PUESTO",
+    "codigopostal": "5711",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14925,
+    "nombre": "EL PUESTO",
+    "codigopostal": "5759",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15561,
+    "nombre": "EL PUESTO",
+    "codigopostal": "5755",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21294,
+    "nombre": "EL QUEBRACHO",
+    "codigopostal": "5711",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21498,
+    "nombre": "EL QUEBRACHO",
+    "codigopostal": "5700",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15117,
+    "nombre": "EL QUINGUAL",
+    "codigopostal": "6277",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14837,
+    "nombre": "EL RAMBLON",
+    "codigopostal": "5719",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14926,
+    "nombre": "EL RECUERDO",
+    "codigopostal": "5883",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21361,
+    "nombre": "EL RECUERDO",
+    "codigopostal": "6279",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21295,
+    "nombre": "EL RETAMO",
+    "codigopostal": "5711",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15432,
+    "nombre": "EL RIECITO",
+    "codigopostal": "5722",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15349,
+    "nombre": "EL RINCON",
+    "codigopostal": "5881",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21549,
+    "nombre": "EL RINCON",
+    "codigopostal": "5755",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14722,
+    "nombre": "EL RINCON",
+    "codigopostal": "5707",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15350,
+    "nombre": "EL RIO",
+    "codigopostal": "5711",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15562,
+    "nombre": "EL RODEO",
+    "codigopostal": "5771",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15119,
+    "nombre": "EL RODEO",
+    "codigopostal": "6389",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15016,
+    "nombre": "EL ROSARIO",
+    "codigopostal": "5750",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15563,
+    "nombre": "EL SALADO",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21515,
+    "nombre": "EL SALADO",
+    "codigopostal": "5750",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21541,
+    "nombre": "EL SALADO DE AMAYA",
+    "codigopostal": "5771",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21542,
+    "nombre": "EL SALTO",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14838,
+    "nombre": "EL SALTO",
+    "codigopostal": "5703",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15564,
+    "nombre": "EL SALVADOR",
+    "codigopostal": "5771",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15259,
+    "nombre": "EL SARCO",
+    "codigopostal": "5731",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14927,
+    "nombre": "EL SAUCE",
+    "codigopostal": "5831",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14928,
+    "nombre": "EL SAUCE",
+    "codigopostal": "5770",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14723,
+    "nombre": "EL SEMBRADO",
+    "codigopostal": "5713",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14929,
+    "nombre": "EL SOCORRO",
+    "codigopostal": "5770",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15433,
+    "nombre": "EL SOCORRO",
+    "codigopostal": "5721",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21516,
+    "nombre": "EL TALA",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14930,
+    "nombre": "EL TALA",
+    "codigopostal": "5835",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15017,
+    "nombre": "EL TALITA",
+    "codigopostal": "5751",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15260,
+    "nombre": "EL TALITA",
+    "codigopostal": "5831",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15434,
+    "nombre": "EL TALITA",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15565,
+    "nombre": "EL TALITA",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15351,
+    "nombre": "EL TEMBLEQUE",
+    "codigopostal": "5715",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15566,
+    "nombre": "EL TORCIDO",
+    "codigopostal": "5773",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15120,
+    "nombre": "EL TORO MUERTO",
+    "codigopostal": "6216",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14931,
+    "nombre": "EL TOTORAL",
+    "codigopostal": "5773",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15435,
+    "nombre": "EL TOTORAL",
+    "codigopostal": "5721",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15567,
+    "nombre": "EL VALLE",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14839,
+    "nombre": "EL VALLE",
+    "codigopostal": "5719",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15008,
+    "nombre": "EL VALLE",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15568,
+    "nombre": "EL VALLECITO",
+    "codigopostal": "5773",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21517,
+    "nombre": "EL VALLECITO",
+    "codigopostal": "5750",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14724,
+    "nombre": "EL VERANO",
+    "codigopostal": "5707",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15121,
+    "nombre": "EL VERANO",
+    "codigopostal": "6277",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15436,
+    "nombre": "EL VOLCAN",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15122,
+    "nombre": "EL YACATAN",
+    "codigopostal": "6279",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14819,
+    "nombre": "EL ZAMPAL",
+    "codigopostal": "5707",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14725,
+    "nombre": "EL ZAPALLAR",
+    "codigopostal": "5711",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15018,
+    "nombre": "ELEODORO LOBOS",
+    "codigopostal": "5722",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15019,
+    "nombre": "EMBALSE LA FLORIDA",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15569,
+    "nombre": "ENSENADA",
+    "codigopostal": "5773",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14726,
+    "nombre": "ENTRE RIOS",
+    "codigopostal": "5711",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14840,
+    "nombre": "ESPINILLO",
+    "codigopostal": "5703",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15020,
+    "nombre": "ESTABLECIMIENTO LAS FLORES",
+    "codigopostal": "5750",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15437,
+    "nombre": "ESTACION ZANJITAS",
+    "codigopostal": "5721",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14932,
+    "nombre": "ESTANCIA",
+    "codigopostal": "5883",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15123,
+    "nombre": "ESTANCIA 30 DE OCTUBRE",
+    "codigopostal": "6279",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15124,
+    "nombre": "ESTANCIA DON ARTURO",
+    "codigopostal": "6279",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21399,
+    "nombre": "ESTANCIA EL CHAMICO",
+    "codigopostal": "5730",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21400,
+    "nombre": "ESTANCIA EL DIVISADERO",
+    "codigopostal": "5730",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21319,
+    "nombre": "ESTANCIA EL MEDANO",
+    "codigopostal": "5719",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21402,
+    "nombre": "ESTANCIA EL QUEBRACHAL",
+    "codigopostal": "5730",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21521,
+    "nombre": "ESTANCIA EL SALADO",
+    "codigopostal": "5750",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21403,
+    "nombre": "ESTANCIA EL SAUCECITO",
+    "codigopostal": "5730",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15021,
+    "nombre": "ESTANCIA GRANDE",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21296,
+    "nombre": "ESTANCIA LA BLANCA",
+    "codigopostal": "5711",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21404,
+    "nombre": "ESTANCIA LA GUARDIA",
+    "codigopostal": "5730",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21405,
+    "nombre": "ESTANCIA LA GUILLERMINA",
+    "codigopostal": "5731",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21407,
+    "nombre": "ESTANCIA LA MORENA",
+    "codigopostal": "5731",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21408,
+    "nombre": "ESTANCIA LA RESERVA",
+    "codigopostal": "5730",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21297,
+    "nombre": "ESTANCIA LA UNION",
+    "codigopostal": "5711",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21409,
+    "nombre": "ESTANCIA LA ZULEMITA",
+    "codigopostal": "5730",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21410,
+    "nombre": "ESTANCIA LAS BEBIDAS",
+    "codigopostal": "5730",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21411,
+    "nombre": "ESTANCIA LOS HERMANOS",
+    "codigopostal": "5730",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21412,
+    "nombre": "ESTANCIA LOS NOGALES",
+    "codigopostal": "5730",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21500,
+    "nombre": "ESTANCIA RIVADAVIA",
+    "codigopostal": "5719",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21413,
+    "nombre": "ESTANCIA SAN ALBERTO",
+    "codigopostal": "5730",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21414,
+    "nombre": "ESTANCIA SAN ANTONIO",
+    "codigopostal": "5731",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21415,
+    "nombre": "ESTANCIA SAN FRANCISCO",
+    "codigopostal": "5730",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14841,
+    "nombre": "ESTANCIA SAN ROQUE",
+    "codigopostal": "5719",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21441,
+    "nombre": "ESTANCIA TRES ARBOLES",
+    "codigopostal": "5881",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14933,
+    "nombre": "ESTANZUELA",
+    "codigopostal": "5831",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21347,
+    "nombre": "FAVELLI",
+    "codigopostal": "5636",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14934,
+    "nombre": "FENOGLIO",
+    "codigopostal": "5770",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15352,
+    "nombre": "FLORIDA",
+    "codigopostal": "5715",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15125,
+    "nombre": "FORTIN EL PATRIA",
+    "codigopostal": "6279",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21461,
+    "nombre": "FORTIN SALTO",
+    "codigopostal": "5721",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15126,
+    "nombre": "FORTUNA",
+    "codigopostal": "6216",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15570,
+    "nombre": "FORTUNA DE SAN JUAN",
+    "codigopostal": "5755",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15022,
+    "nombre": "FRAGA",
+    "codigopostal": "5736",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15127,
+    "nombre": "FRISIA",
+    "codigopostal": "6277",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15261,
+    "nombre": "GENERAL PEDERNERA",
+    "codigopostal": "5738",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15571,
+    "nombre": "GENERAL URQUIZA",
+    "codigopostal": "5763",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14842,
+    "nombre": "GIGANTE",
+    "codigopostal": "5719",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15128,
+    "nombre": "GLORIA A DIOS",
+    "codigopostal": "6279",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15438,
+    "nombre": "GORGONTA",
+    "codigopostal": "5721",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15023,
+    "nombre": "GRUTA DE INTIHUASI",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21298,
+    "nombre": "GUALTARAN",
+    "codigopostal": "5719",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15262,
+    "nombre": "GUANACO",
+    "codigopostal": "5759",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15572,
+    "nombre": "GUANACO PAMPA",
+    "codigopostal": "5771",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15439,
+    "nombre": "GUASQUITA",
+    "codigopostal": "5724",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15573,
+    "nombre": "GUZMAN",
+    "codigopostal": "5773",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15024,
+    "nombre": "HINOJITO",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15574,
+    "nombre": "HINOJOS",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14843,
+    "nombre": "HIPOLITO YRIGOYEN",
+    "codigopostal": "5703",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15575,
+    "nombre": "HORNITO",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14844,
+    "nombre": "HUALTARAN",
+    "codigopostal": "5719",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14935,
+    "nombre": "HUCHISSON",
+    "codigopostal": "5759",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15440,
+    "nombre": "HUEJEDA",
+    "codigopostal": "5721",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15576,
+    "nombre": "HUERTAS",
+    "codigopostal": "5771",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15025,
+    "nombre": "INTIHUASI",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15353,
+    "nombre": "INVERNADA",
+    "codigopostal": "5777",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15354,
+    "nombre": "ISLA",
+    "codigopostal": "5873",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15026,
+    "nombre": "ISLA",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15355,
+    "nombre": "ISLITAS",
+    "codigopostal": "5715",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15263,
+    "nombre": "ISONDU",
+    "codigopostal": "5735",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15441,
+    "nombre": "JARILLA",
+    "codigopostal": "5724",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15264,
+    "nombre": "JUAN JORBA",
+    "codigopostal": "5731",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15265,
+    "nombre": "JUAN LLERENA",
+    "codigopostal": "5735",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21462,
+    "nombre": "JUAN W GEZ",
+    "codigopostal": "5722",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15442,
+    "nombre": "JUANA KOSLAY",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21416,
+    "nombre": "JUANTE",
+    "codigopostal": "5731",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15266,
+    "nombre": "JUSTO DARACT",
+    "codigopostal": "5738",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15267,
+    "nombre": "KILOMETRO 656",
+    "codigopostal": "5738",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21522,
+    "nombre": "LA ADELA",
+    "codigopostal": "5736",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21463,
+    "nombre": "LA AGUA NUEVA",
+    "codigopostal": "5721",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14727,
+    "nombre": "LA AGUADA",
+    "codigopostal": "5711",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14845,
+    "nombre": "LA AGUADA",
+    "codigopostal": "5719",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15027,
+    "nombre": "LA AGUADA",
+    "codigopostal": "5750",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15268,
+    "nombre": "LA AGUADA",
+    "codigopostal": "5831",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15356,
+    "nombre": "LA AGUADA DE LAS ANIMAS",
+    "codigopostal": "5871",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15577,
+    "nombre": "LA AGUEDA",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14846,
+    "nombre": "LA ALAMEDA",
+    "codigopostal": "5719",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15028,
+    "nombre": "LA ALAMEDA",
+    "codigopostal": "5750",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15129,
+    "nombre": "LA ALCORTE",
+    "codigopostal": "6216",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15357,
+    "nombre": "LA ALEGRIA",
+    "codigopostal": "5871",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15029,
+    "nombre": "LA ALIANZA",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15130,
+    "nombre": "LA AMALIA",
+    "codigopostal": "6279",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21464,
+    "nombre": "LA AMARGA",
+    "codigopostal": "5721",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15269,
+    "nombre": "LA ANGELINA",
+    "codigopostal": "5731",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15358,
+    "nombre": "LA ANGOSTURA",
+    "codigopostal": "5873",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15030,
+    "nombre": "LA ARBOLEDA",
+    "codigopostal": "5751",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14936,
+    "nombre": "LA ARGENTINA",
+    "codigopostal": "5835",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15578,
+    "nombre": "LA ARMONIA",
+    "codigopostal": "5773",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15131,
+    "nombre": "LA AROMA",
+    "codigopostal": "6279",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21523,
+    "nombre": "LA ATALAYA",
+    "codigopostal": "5750",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15579,
+    "nombre": "LA AURORA",
+    "codigopostal": "5771",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14937,
+    "nombre": "LA AURORA",
+    "codigopostal": "5835",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15132,
+    "nombre": "LA AURORA",
+    "codigopostal": "6216",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14728,
+    "nombre": "LA BAJADA",
+    "codigopostal": "5713",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15031,
+    "nombre": "LA BAJADA",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14729,
+    "nombre": "LA BAVA",
+    "codigopostal": "5705",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15133,
+    "nombre": "LA BAVARIA",
+    "codigopostal": "6279",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15270,
+    "nombre": "LA BERTITA",
+    "codigopostal": "5731",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15134,
+    "nombre": "LA BOLIVIA",
+    "codigopostal": "6279",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15443,
+    "nombre": "LA BONITA",
+    "codigopostal": "5721",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21465,
+    "nombre": "LA BREA",
+    "codigopostal": "5724",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14730,
+    "nombre": "LA BREA",
+    "codigopostal": "5711",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15033,
+    "nombre": "LA CA",
+    "codigopostal": "5750",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15271,
+    "nombre": "LA CA",
+    "codigopostal": "5831",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15445,
+    "nombre": "LA CA",
+    "codigopostal": "5721",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21362,
+    "nombre": "LA CA",
+    "codigopostal": "5637",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15444,
+    "nombre": "LA CABRA",
+    "codigopostal": "5724",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15032,
+    "nombre": "LA CALAGUALA",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15135,
+    "nombre": "LA CALDERA",
+    "codigopostal": "6216",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14847,
+    "nombre": "LA CALERA",
+    "codigopostal": "5719",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15272,
+    "nombre": "LA CARMEN",
+    "codigopostal": "5738",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15580,
+    "nombre": "LA CARMENCITA",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15034,
+    "nombre": "LA CAUTIVA",
+    "codigopostal": "5736",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21442,
+    "nombre": "LA CELIA",
+    "codigopostal": "5873",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21320,
+    "nombre": "LA CHA",
+    "codigopostal": "5719",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21348,
+    "nombre": "LA CHERINDU",
+    "codigopostal": "6216",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15359,
+    "nombre": "LA CHILCA",
+    "codigopostal": "5779",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14848,
+    "nombre": "LA CHILCA",
+    "codigopostal": "5703",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15581,
+    "nombre": "LA CHILLA",
+    "codigopostal": "5771",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15582,
+    "nombre": "LA CIENAGA",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15583,
+    "nombre": "LA COCHA",
+    "codigopostal": "5773",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15136,
+    "nombre": "LA COLINA",
+    "codigopostal": "6269",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14731,
+    "nombre": "LA COLONIA",
+    "codigopostal": "5713",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21349,
+    "nombre": "LA COLONIA",
+    "codigopostal": "6216",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15137,
+    "nombre": "LA CORA",
+    "codigopostal": "6279",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14849,
+    "nombre": "LA CORINA",
+    "codigopostal": "5703",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21466,
+    "nombre": "LA CORTADERA",
+    "codigopostal": "5700",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21467,
+    "nombre": "LA COSTA",
+    "codigopostal": "5721",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14938,
+    "nombre": "LA CRISTINA",
+    "codigopostal": "5773",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21550,
+    "nombre": "LA CRUCESITA",
+    "codigopostal": "5773",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21448,
+    "nombre": "LA CUMBRE",
+    "codigopostal": "5883",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21525,
+    "nombre": "LA DELIA",
+    "codigopostal": "5722",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15138,
+    "nombre": "LA DONOSTIA",
+    "codigopostal": "6216",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15584,
+    "nombre": "LA DORA",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14850,
+    "nombre": "LA DUDA",
+    "codigopostal": "5703",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15139,
+    "nombre": "LA DULCE",
+    "codigopostal": "6277",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21468,
+    "nombre": "LA DULCE",
+    "codigopostal": "5721",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15140,
+    "nombre": "LA ELENA",
+    "codigopostal": "6216",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15141,
+    "nombre": "LA ELENITA",
+    "codigopostal": "6216",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15273,
+    "nombre": "LA ELIDA",
+    "codigopostal": "5738",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21417,
+    "nombre": "LA ELISA",
+    "codigopostal": "5741",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15585,
+    "nombre": "LA ELVIRA",
+    "codigopostal": "5770",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14939,
+    "nombre": "LA ELVIRA",
+    "codigopostal": "5773",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15274,
+    "nombre": "LA EMILIA",
+    "codigopostal": "5721",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15142,
+    "nombre": "LA EMMA",
+    "codigopostal": "6216",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14851,
+    "nombre": "LA EMPAJADA",
+    "codigopostal": "5719",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15143,
+    "nombre": "LA ERNESTINA",
+    "codigopostal": "6216",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14852,
+    "nombre": "LA ESCONDIDA",
+    "codigopostal": "5703",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15144,
+    "nombre": "LA ESCONDIDA",
+    "codigopostal": "6216",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21332,
+    "nombre": "LA ESCONDIDA",
+    "codigopostal": "5775",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15145,
+    "nombre": "LA ESMERALDA",
+    "codigopostal": "6277",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14853,
+    "nombre": "LA ESPERANZA",
+    "codigopostal": "5703",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15146,
+    "nombre": "LA ESPERANZA",
+    "codigopostal": "6279",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15586,
+    "nombre": "LA ESPERANZA",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21469,
+    "nombre": "LA ESPESURA",
+    "codigopostal": "5700",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15587,
+    "nombre": "LA ESQUINA",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 27742,
+    "nombre": "LA ESQUINA",
+    "codigopostal": "5759",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14732,
+    "nombre": "LA ESQUINA",
+    "codigopostal": "5709",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15588,
+    "nombre": "LA ESQUINA DEL RIO",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15589,
+    "nombre": "LA ESTANCIA",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14940,
+    "nombre": "LA ESTANZUELA",
+    "codigopostal": "5773",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14854,
+    "nombre": "LA ESTRELLA",
+    "codigopostal": "5719",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15147,
+    "nombre": "LA ESTRELLA",
+    "codigopostal": "6216",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15148,
+    "nombre": "LA ETHEL",
+    "codigopostal": "6277",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14855,
+    "nombre": "LA EULOGIA",
+    "codigopostal": "5703",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15149,
+    "nombre": "LA FELISA",
+    "codigopostal": "6279",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21443,
+    "nombre": "LA FINCA",
+    "codigopostal": "5871",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21418,
+    "nombre": "LA FLECHA",
+    "codigopostal": "5741",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15590,
+    "nombre": "LA FLORIDA",
+    "codigopostal": "5773",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14733,
+    "nombre": "LA FLORIDA",
+    "codigopostal": "5711",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14856,
+    "nombre": "LA FLORIDA",
+    "codigopostal": "5719",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15035,
+    "nombre": "LA FLORIDA",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15150,
+    "nombre": "LA FLORIDA",
+    "codigopostal": "6216",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15036,
+    "nombre": "LA FRAGUA",
+    "codigopostal": "5750",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15275,
+    "nombre": "LA GAMA",
+    "codigopostal": "5731",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15276,
+    "nombre": "LA GARRAPATA",
+    "codigopostal": "5738",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14857,
+    "nombre": "LA GARZA",
+    "codigopostal": "5703",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15151,
+    "nombre": "LA GAVIOTA",
+    "codigopostal": "6216",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15152,
+    "nombre": "LA GERMANIA",
+    "codigopostal": "6279",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15153,
+    "nombre": "LA GITANA",
+    "codigopostal": "6216",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14941,
+    "nombre": "LA GRAMILLA",
+    "codigopostal": "5770",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15277,
+    "nombre": "LA GUARDIA",
+    "codigopostal": "5759",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15278,
+    "nombre": "LA HERMOSURA",
+    "codigopostal": "5831",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15037,
+    "nombre": "LA HIGUERITA",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15154,
+    "nombre": "LA HOLANDA",
+    "codigopostal": "6216",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15155,
+    "nombre": "LA HORTENSIA",
+    "codigopostal": "6279",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15591,
+    "nombre": "LA HUERTA",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15592,
+    "nombre": "LA HUERTITA",
+    "codigopostal": "5755",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15279,
+    "nombre": "LA IBERIA",
+    "codigopostal": "5731",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15156,
+    "nombre": "LA INVERNADA",
+    "codigopostal": "6277",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15446,
+    "nombre": "LA IRENE",
+    "codigopostal": "5721",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21419,
+    "nombre": "LA ISABEL",
+    "codigopostal": "5743",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15157,
+    "nombre": "LA ISLA",
+    "codigopostal": "6279",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15280,
+    "nombre": "LA JAVIERA",
+    "codigopostal": "5731",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21470,
+    "nombre": "LA JERGA",
+    "codigopostal": "5721",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14858,
+    "nombre": "LA JOSEFA",
+    "codigopostal": "5719",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15158,
+    "nombre": "LA JOSEFA",
+    "codigopostal": "6216",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21420,
+    "nombre": "LA JOSEFINA",
+    "codigopostal": "5741",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15159,
+    "nombre": "LA JUANA",
+    "codigopostal": "6279",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15160,
+    "nombre": "LA JUANITA",
+    "codigopostal": "6216",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21299,
+    "nombre": "LA JUANITA",
+    "codigopostal": "5719",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14859,
+    "nombre": "LA JULIA",
+    "codigopostal": "5703",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15038,
+    "nombre": "LA JUSTA",
+    "codigopostal": "5750",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15161,
+    "nombre": "LA LAURA",
+    "codigopostal": "6279",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21351,
+    "nombre": "LA LECHUGA",
+    "codigopostal": "5637",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14734,
+    "nombre": "LA LEGUA",
+    "codigopostal": "5709",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15162,
+    "nombre": "LA LINDA",
+    "codigopostal": "6216",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15361,
+    "nombre": "LA LINEA",
+    "codigopostal": "5711",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15362,
+    "nombre": "LA LOMA",
+    "codigopostal": "5871",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15163,
+    "nombre": "LA LUISA",
+    "codigopostal": "6279",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15281,
+    "nombre": "LA MAGDALENA",
+    "codigopostal": "5738",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14735,
+    "nombre": "LA MAJADA",
+    "codigopostal": "5703",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15164,
+    "nombre": "LA MARAVILLA",
+    "codigopostal": "6216",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15165,
+    "nombre": "LA MARGARITA",
+    "codigopostal": "6216",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15166,
+    "nombre": "LA MARGARITA CARLOTA",
+    "codigopostal": "6216",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21526,
+    "nombre": "LA MARIA",
+    "codigopostal": "5722",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15167,
+    "nombre": "LA MARIA ESTHER",
+    "codigopostal": "6279",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15168,
+    "nombre": "LA MARIA LUISA",
+    "codigopostal": "6277",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15169,
+    "nombre": "LA MAROMA",
+    "codigopostal": "6216",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15170,
+    "nombre": "LA MASCOTA",
+    "codigopostal": "6216",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15282,
+    "nombre": "LA MASCOTA",
+    "codigopostal": "5738",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15171,
+    "nombre": "LA MEDIA LEGUA",
+    "codigopostal": "6216",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14736,
+    "nombre": "LA MEDULA",
+    "codigopostal": "5713",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15172,
+    "nombre": "LA MELINA",
+    "codigopostal": "6216",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21300,
+    "nombre": "LA MERCED",
+    "codigopostal": "5719",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21551,
+    "nombre": "LA MESILLA",
+    "codigopostal": "5773",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21552,
+    "nombre": "LA MINA",
+    "codigopostal": "5755",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14737,
+    "nombre": "LA MODERNA",
+    "codigopostal": "5713",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15283,
+    "nombre": "LA NEGRA",
+    "codigopostal": "5730",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15284,
+    "nombre": "LA NEGRITA",
+    "codigopostal": "5731",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21471,
+    "nombre": "LA NELIDA",
+    "codigopostal": "5700",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15173,
+    "nombre": "LA NUTRIA",
+    "codigopostal": "6279",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21421,
+    "nombre": "LA PALMIRA",
+    "codigopostal": "5741",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15447,
+    "nombre": "LA PAMPA",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14738,
+    "nombre": "LA PATRIA",
+    "codigopostal": "5707",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15448,
+    "nombre": "LA PEREGRINA",
+    "codigopostal": "5721",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15039,
+    "nombre": "LA PETRA",
+    "codigopostal": "5751",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14739,
+    "nombre": "LA PLATA",
+    "codigopostal": "5713",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14740,
+    "nombre": "LA PORFIA",
+    "codigopostal": "5705",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15285,
+    "nombre": "LA PORTADA",
+    "codigopostal": "5731",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14741,
+    "nombre": "LA PRIMAVERA",
+    "codigopostal": "5719",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21422,
+    "nombre": "LA PRIMAVERA",
+    "codigopostal": "5730",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21528,
+    "nombre": "LA PROVIDENCIA",
+    "codigopostal": "5750",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15593,
+    "nombre": "LA PUERTA",
+    "codigopostal": "5755",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 27614,
+    "nombre": "LA PUNTA",
+    "codigopostal": "5710",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21321,
+    "nombre": "LA QUEBRADA",
+    "codigopostal": "5703",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15363,
+    "nombre": "LA RAMADA",
+    "codigopostal": "5881",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15594,
+    "nombre": "LA RAMADA",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14742,
+    "nombre": "LA RAMADA",
+    "codigopostal": "5713",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21423,
+    "nombre": "LA REALIDAD",
+    "codigopostal": "5741",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21472,
+    "nombre": "LA REFORMA",
+    "codigopostal": "5724",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15174,
+    "nombre": "LA REINA",
+    "codigopostal": "6279",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15449,
+    "nombre": "LA REPRESA",
+    "codigopostal": "5721",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21301,
+    "nombre": "LA REPRESITA",
+    "codigopostal": "5711",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14743,
+    "nombre": "LA REPRESITA",
+    "codigopostal": "5705",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15176,
+    "nombre": "LA RESERVA",
+    "codigopostal": "6279",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21353,
+    "nombre": "LA RESERVA",
+    "codigopostal": "6216",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14744,
+    "nombre": "LA RESISTENCIA",
+    "codigopostal": "5713",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 27616,
+    "nombre": "LA RIBERA",
+    "codigopostal": "5734",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15040,
+    "nombre": "LA RINCONADA",
+    "codigopostal": "5750",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14942,
+    "nombre": "LA RIOJITA",
+    "codigopostal": "5773",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15286,
+    "nombre": "LA ROSADA",
+    "codigopostal": "5831",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15177,
+    "nombre": "LA ROSALIA",
+    "codigopostal": "6279",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15178,
+    "nombre": "LA ROSINA",
+    "codigopostal": "6277",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15595,
+    "nombre": "LA SALA",
+    "codigopostal": "5771",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21322,
+    "nombre": "LA SALUD",
+    "codigopostal": "5703",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14745,
+    "nombre": "LA SALVADORA",
+    "codigopostal": "5707",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14860,
+    "nombre": "LA SANDIA",
+    "codigopostal": "5703",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15451,
+    "nombre": "LA SE",
+    "codigopostal": "5721",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15179,
+    "nombre": "LA SEGUNDA",
+    "codigopostal": "6277",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15450,
+    "nombre": "LA SELVA",
+    "codigopostal": "5724",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14861,
+    "nombre": "LA SERRANA",
+    "codigopostal": "5703",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21424,
+    "nombre": "LA SILESIA",
+    "codigopostal": "5741",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14746,
+    "nombre": "LA SIRENA",
+    "codigopostal": "5713",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14943,
+    "nombre": "LA SUIZA",
+    "codigopostal": "5759",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15180,
+    "nombre": "LA TIGRA",
+    "codigopostal": "6216",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15041,
+    "nombre": "LA TOMA",
+    "codigopostal": "5750",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15452,
+    "nombre": "LA TOSCA",
+    "codigopostal": "5721",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15596,
+    "nombre": "LA TOTORA",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21473,
+    "nombre": "LA TOTORA",
+    "codigopostal": "5721",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15042,
+    "nombre": "LA TOTORA",
+    "codigopostal": "5751",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14747,
+    "nombre": "LA TRANCA",
+    "codigopostal": "5421",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15181,
+    "nombre": "LA TRAVESIA",
+    "codigopostal": "6389",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15287,
+    "nombre": "LA TULA",
+    "codigopostal": "5738",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14748,
+    "nombre": "LA TUSCA",
+    "codigopostal": "5713",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15597,
+    "nombre": "LA ULBARA",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15364,
+    "nombre": "LA UNION",
+    "codigopostal": "5711",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15453,
+    "nombre": "LA UNION",
+    "codigopostal": "5724",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14862,
+    "nombre": "LA UNION",
+    "codigopostal": "5703",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15182,
+    "nombre": "LA URUGUAYA",
+    "codigopostal": "6216",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15183,
+    "nombre": "LA VACA",
+    "codigopostal": "6389",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15288,
+    "nombre": "LA VENECIA",
+    "codigopostal": "5735",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15184,
+    "nombre": "LA VERDE",
+    "codigopostal": "6389",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15454,
+    "nombre": "LA VERDE",
+    "codigopostal": "5721",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14749,
+    "nombre": "LA VERTIENTE",
+    "codigopostal": "5711",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21529,
+    "nombre": "LA YERBA BUENA",
+    "codigopostal": "5722",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14863,
+    "nombre": "LA YESERA",
+    "codigopostal": "5719",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15365,
+    "nombre": "LAFINUR",
+    "codigopostal": "5871",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15043,
+    "nombre": "LAGUNA BRAVA",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21425,
+    "nombre": "LAGUNA CAPELEN",
+    "codigopostal": "5741",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15599,
+    "nombre": "LAGUNA DE LA CA",
+    "codigopostal": "5773",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15600,
+    "nombre": "LAGUNA DE LOS PATOS",
+    "codigopostal": "5773",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21554,
+    "nombre": "LAGUNA DE PATOS",
+    "codigopostal": "5771",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15601,
+    "nombre": "LAGUNA LARGA",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21426,
+    "nombre": "LAGUNA SAYAPE",
+    "codigopostal": "5741",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15455,
+    "nombre": "LAGUNA SECA",
+    "codigopostal": "5724",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15602,
+    "nombre": "LAS AGUADAS",
+    "codigopostal": "5771",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15185,
+    "nombre": "LAS AROMAS",
+    "codigopostal": "6277",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14750,
+    "nombre": "LAS BAJADAS",
+    "codigopostal": "5713",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15366,
+    "nombre": "LAS BARRANCAS",
+    "codigopostal": "5871",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15456,
+    "nombre": "LAS BARRANCAS",
+    "codigopostal": "5719",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15603,
+    "nombre": "LAS BARRANQUITAS",
+    "codigopostal": "5755",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15044,
+    "nombre": "LAS BARRANQUITAS",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15604,
+    "nombre": "LAS CA",
+    "codigopostal": "5773",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21474,
+    "nombre": "LAS CA",
+    "codigopostal": "5722",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15367,
+    "nombre": "LAS CABRAS",
+    "codigopostal": "5715",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14944,
+    "nombre": "LAS CANTERAS",
+    "codigopostal": "5759",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14864,
+    "nombre": "LAS CARITAS",
+    "codigopostal": "5703",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15289,
+    "nombre": "LAS CAROLINAS",
+    "codigopostal": "5731",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21363,
+    "nombre": "LAS CARRETAS",
+    "codigopostal": "6279",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15605,
+    "nombre": "LAS CHACRAS",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15606,
+    "nombre": "LAS CHACRAS DE SAN MARTIN",
+    "codigopostal": "5755",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21475,
+    "nombre": "LAS CHACRAS DE SAN MARTIN",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15607,
+    "nombre": "LAS CHACRITAS",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21444,
+    "nombre": "LAS CHILCAS",
+    "codigopostal": "5777",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14751,
+    "nombre": "LAS CHIMBAS",
+    "codigopostal": "5713",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21302,
+    "nombre": "LAS CLARITAS",
+    "codigopostal": "5711",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15457,
+    "nombre": "LAS COLONIAS",
+    "codigopostal": "5721",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15186,
+    "nombre": "LAS CORTADERAS",
+    "codigopostal": "6216",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15045,
+    "nombre": "LAS DELICIAS",
+    "codigopostal": "5750",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15290,
+    "nombre": "LAS ENCADENADAS",
+    "codigopostal": "5738",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15046,
+    "nombre": "LAS FLORES",
+    "codigopostal": "5750",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15608,
+    "nombre": "LAS FLORES",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14865,
+    "nombre": "LAS GALERAS",
+    "codigopostal": "5719",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15458,
+    "nombre": "LAS GAMAS",
+    "codigopostal": "5721",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15187,
+    "nombre": "LAS GITANAS",
+    "codigopostal": "6216",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15609,
+    "nombre": "LAS HIGUERAS",
+    "codigopostal": "5755",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21530,
+    "nombre": "LAS HIGUERAS",
+    "codigopostal": "5722",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 27739,
+    "nombre": "LAS ISLETAS",
+    "codigopostal": "5730",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15368,
+    "nombre": "LAS ISLITAS",
+    "codigopostal": "5715",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15610,
+    "nombre": "LAS LAGUNAS",
+    "codigopostal": "5773",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14752,
+    "nombre": "LAS LAGUNAS",
+    "codigopostal": "5719",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15188,
+    "nombre": "LAS LAGUNAS",
+    "codigopostal": "6216",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14753,
+    "nombre": "LAS LAGUNITAS",
+    "codigopostal": "5707",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15459,
+    "nombre": "LAS LAGUNITAS",
+    "codigopostal": "5721",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15611,
+    "nombre": "LAS LAJAS",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15612,
+    "nombre": "LAS LOMAS",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14866,
+    "nombre": "LAS LOMAS",
+    "codigopostal": "5703",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15613,
+    "nombre": "LAS MANGAS",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15189,
+    "nombre": "LAS MARTINETAS",
+    "codigopostal": "6216",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15291,
+    "nombre": "LAS MELADAS",
+    "codigopostal": "5738",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14754,
+    "nombre": "LAS MESIAS",
+    "codigopostal": "5707",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15190,
+    "nombre": "LAS MESTIZAS",
+    "codigopostal": "6277",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14945,
+    "nombre": "LAS NIEVES",
+    "codigopostal": "5770",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15292,
+    "nombre": "LAS PALMAS",
+    "codigopostal": "5730",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14755,
+    "nombre": "LAS PALOMAS",
+    "codigopostal": "5715",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14756,
+    "nombre": "LAS PAMPITAS",
+    "codigopostal": "5707",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15047,
+    "nombre": "LAS PE",
+    "codigopostal": "5750",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21477,
+    "nombre": "LAS PIEDRITAS",
+    "codigopostal": "5721",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15369,
+    "nombre": "LAS PLAYAS",
+    "codigopostal": "5711",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14757,
+    "nombre": "LAS PLAYAS ARGENTINAS",
+    "codigopostal": "5713",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15293,
+    "nombre": "LAS PRADERAS",
+    "codigopostal": "5731",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14758,
+    "nombre": "LAS PUERTAS",
+    "codigopostal": "5711",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21556,
+    "nombre": "LAS RAICES",
+    "codigopostal": "5773",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15370,
+    "nombre": "LAS ROSADAS",
+    "codigopostal": "5715",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15048,
+    "nombre": "LAS ROSAS",
+    "codigopostal": "5750",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14759,
+    "nombre": "LAS SALINAS",
+    "codigopostal": "5705",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15371,
+    "nombre": "LAS TIGRAS",
+    "codigopostal": "5777",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15614,
+    "nombre": "LAS TOSCAS",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15294,
+    "nombre": "LAS TOTORITAS",
+    "codigopostal": "5738",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15460,
+    "nombre": "LAS TRES CA",
+    "codigopostal": "5721",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15598,
+    "nombre": "LAS VERTIENTES",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15461,
+    "nombre": "LAS VIZCACHERAS",
+    "codigopostal": "5721",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15191,
+    "nombre": "LAURA ELISA",
+    "codigopostal": "6279",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15295,
+    "nombre": "LAVAISSE",
+    "codigopostal": "5730",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14760,
+    "nombre": "LEANDRO N ALEM",
+    "codigopostal": "5703",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15296,
+    "nombre": "LIBORIO LUNA",
+    "codigopostal": "5730",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21478,
+    "nombre": "LINCE",
+    "codigopostal": "5722",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14761,
+    "nombre": "LINDO",
+    "codigopostal": "5707",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21531,
+    "nombre": "LOMA DEL MEDIO",
+    "codigopostal": "5750",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 27740,
+    "nombre": "LOMAS BLANCAS",
+    "codigopostal": "5719",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14762,
+    "nombre": "LOMAS BLANCAS",
+    "codigopostal": "5731",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15372,
+    "nombre": "LOMITAS",
+    "codigopostal": "5871",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14867,
+    "nombre": "LONGARI",
+    "codigopostal": "5703",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14868,
+    "nombre": "LOS AGUADOS",
+    "codigopostal": "5719",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15297,
+    "nombre": "LOS ALAMOS",
+    "codigopostal": "5831",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15615,
+    "nombre": "LOS ALAMOS",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15373,
+    "nombre": "LOS ALGARROBITOS",
+    "codigopostal": "5715",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15616,
+    "nombre": "LOS ALGARROBOS",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14869,
+    "nombre": "LOS ALGARROBOS",
+    "codigopostal": "5703",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14763,
+    "nombre": "LOS ALMACIGOS",
+    "codigopostal": "5707",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14870,
+    "nombre": "LOS ARADITOS",
+    "codigopostal": "5719",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14764,
+    "nombre": "LOS ARCES",
+    "codigopostal": "5713",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15374,
+    "nombre": "LOS ARGUELLOS",
+    "codigopostal": "5777",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15049,
+    "nombre": "LOS ARROYOS",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15192,
+    "nombre": "LOS BARRIALES",
+    "codigopostal": "6216",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15375,
+    "nombre": "LOS CAJONES",
+    "codigopostal": "5871",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15050,
+    "nombre": "LOS CARRICITOS",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14765,
+    "nombre": "LOS CERRILLOS",
+    "codigopostal": "5715",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15462,
+    "nombre": "LOS CERRILLOS",
+    "codigopostal": "5721",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14871,
+    "nombre": "LOS CERRITOS",
+    "codigopostal": "5719",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15298,
+    "nombre": "LOS CESARES",
+    "codigopostal": "5738",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14872,
+    "nombre": "LOS CHA",
+    "codigopostal": "5703",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14946,
+    "nombre": "LOS CHA",
+    "codigopostal": "5835",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15193,
+    "nombre": "LOS CHA",
+    "codigopostal": "6279",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15376,
+    "nombre": "LOS CHA",
+    "codigopostal": "5777",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15463,
+    "nombre": "LOS CHA",
+    "codigopostal": "5721",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14873,
+    "nombre": "LOS CHANCAROS",
+    "codigopostal": "5719",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21303,
+    "nombre": "LOS CHENAS",
+    "codigopostal": "5711",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15299,
+    "nombre": "LOS CISNES",
+    "codigopostal": "5731",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21479,
+    "nombre": "LOS CLAVELES",
+    "codigopostal": "5721",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15617,
+    "nombre": "LOS COMEDEROS",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14947,
+    "nombre": "LOS COMEDORES",
+    "codigopostal": "5770",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15618,
+    "nombre": "LOS CONDORES",
+    "codigopostal": "5773",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21480,
+    "nombre": "LOS COROS",
+    "codigopostal": "5721",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15619,
+    "nombre": "LOS CORRALES",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14948,
+    "nombre": "LOS CORRALITOS",
+    "codigopostal": "5759",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14949,
+    "nombre": "LOS CUADROS",
+    "codigopostal": "5835",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15194,
+    "nombre": "LOS DOS RIOS",
+    "codigopostal": "6216",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21354,
+    "nombre": "LOS DUEROS",
+    "codigopostal": "6216",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15620,
+    "nombre": "LOS DURAZNITOS",
+    "codigopostal": "5773",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15195,
+    "nombre": "LOS DURAZNOS",
+    "codigopostal": "6216",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14950,
+    "nombre": "LOS ESPINILLOS",
+    "codigopostal": "5883",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15300,
+    "nombre": "LOS ESQUINEROS",
+    "codigopostal": "5738",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15621,
+    "nombre": "LOS HINOJOS",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15196,
+    "nombre": "LOS HUAYCOS",
+    "codigopostal": "6279",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15464,
+    "nombre": "LOS JAGUELES",
+    "codigopostal": "5724",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15622,
+    "nombre": "LOS LECHUZONES",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15623,
+    "nombre": "LOS LOBOS",
+    "codigopostal": "5771",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15197,
+    "nombre": "LOS LOBOS",
+    "codigopostal": "6216",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14951,
+    "nombre": "LOS MANANTIALES",
+    "codigopostal": "5773",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15051,
+    "nombre": "LOS MEDANITOS",
+    "codigopostal": "5751",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15301,
+    "nombre": "LOS MEDANOS",
+    "codigopostal": "5738",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15052,
+    "nombre": "LOS MEMBRILLOS",
+    "codigopostal": "5751",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14766,
+    "nombre": "LOS MENDOCINOS",
+    "codigopostal": "5707",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14952,
+    "nombre": "LOS MOLLECITOS",
+    "codigopostal": "5759",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14874,
+    "nombre": "LOS MOLLES",
+    "codigopostal": "5703",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15377,
+    "nombre": "LOS MOLLES",
+    "codigopostal": "5711",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15624,
+    "nombre": "LOS MOLLES",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21445,
+    "nombre": "LOS MOLLES",
+    "codigopostal": "5883",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15053,
+    "nombre": "LOS MONTES",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15625,
+    "nombre": "LOS NOQUES",
+    "codigopostal": "5773",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15198,
+    "nombre": "LOS OSCUROS",
+    "codigopostal": "6277",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15054,
+    "nombre": "LOS PASITOS",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14767,
+    "nombre": "LOS PEJES",
+    "codigopostal": "5709",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15378,
+    "nombre": "LOS PEROS",
+    "codigopostal": "5777",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15626,
+    "nombre": "LOS POLEOS",
+    "codigopostal": "5755",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15302,
+    "nombre": "LOS POZOS",
+    "codigopostal": "5738",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14953,
+    "nombre": "LOS PUESTOS",
+    "codigopostal": "5770",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15465,
+    "nombre": "LOS PUQUIOS",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14954,
+    "nombre": "LOS QUEBRACHOS",
+    "codigopostal": "5770",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14875,
+    "nombre": "LOS RAMBLONES",
+    "codigopostal": "5703",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15379,
+    "nombre": "LOS ROLDANES",
+    "codigopostal": "5777",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21559,
+    "nombre": "LOS SAUCES",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14955,
+    "nombre": "LOS SAUCES",
+    "codigopostal": "5775",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14876,
+    "nombre": "LOS TALAS",
+    "codigopostal": "5719",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15627,
+    "nombre": "LOS TALAS",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15466,
+    "nombre": "LOS TAMARI",
+    "codigopostal": "5724",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15055,
+    "nombre": "LOS TAPIALES",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14877,
+    "nombre": "LOS TELARIOS",
+    "codigopostal": "5719",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15380,
+    "nombre": "LOS TIGRES",
+    "codigopostal": "5777",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15199,
+    "nombre": "LOS VALLES",
+    "codigopostal": "6279",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14768,
+    "nombre": "LUJAN",
+    "codigopostal": "5709",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15200,
+    "nombre": "MACHAO",
+    "codigopostal": "6277",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14769,
+    "nombre": "MANANTIAL",
+    "codigopostal": "5709",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15628,
+    "nombre": "MANANTIAL",
+    "codigopostal": "5755",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15629,
+    "nombre": "MANANTIAL BLANCO",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14956,
+    "nombre": "MANANTIAL DE FLORES",
+    "codigopostal": "5775",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14957,
+    "nombre": "MANANTIAL DE RENCA",
+    "codigopostal": "5759",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15056,
+    "nombre": "MANANTIAL GRANDE",
+    "codigopostal": "5751",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15630,
+    "nombre": "MANANTIAL LINDO",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14878,
+    "nombre": "MANANTIALES",
+    "codigopostal": "5703",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15467,
+    "nombre": "MANTILLA",
+    "codigopostal": "5724",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14770,
+    "nombre": "MARAVILLA",
+    "codigopostal": "5705",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15057,
+    "nombre": "MARAY",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15303,
+    "nombre": "MARLITO",
+    "codigopostal": "5730",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15058,
+    "nombre": "MARMOL VERDE",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15201,
+    "nombre": "MARTIN DE LOYOLA",
+    "codigopostal": "6279",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21481,
+    "nombre": "MATACO",
+    "codigopostal": "5724",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14771,
+    "nombre": "MEDANO BELLO",
+    "codigopostal": "5713",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21427,
+    "nombre": "MEDANO CHICO",
+    "codigopostal": "5730",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21428,
+    "nombre": "MEDANO GRANDE",
+    "codigopostal": "5730",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15059,
+    "nombre": "MEDANOS",
+    "codigopostal": "5736",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15631,
+    "nombre": "MEDIA LUNA",
+    "codigopostal": "5755",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15381,
+    "nombre": "MERLO",
+    "codigopostal": "5881",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15202,
+    "nombre": "MILAGRO",
+    "codigopostal": "6216",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21533,
+    "nombre": "MINA CAROLINA",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14958,
+    "nombre": "MINA LOS CONDORES",
+    "codigopostal": "5770",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15060,
+    "nombre": "MINA SANTO DOMINGO",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21334,
+    "nombre": "MOLLECITO",
+    "codigopostal": "5759",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14772,
+    "nombre": "MONTE CARMELO",
+    "codigopostal": "5707",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15061,
+    "nombre": "MONTE CHIQUITO",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15203,
+    "nombre": "MONTE COCHEQUINGAN",
+    "codigopostal": "6216",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14773,
+    "nombre": "MONTE VERDE",
+    "codigopostal": "5719",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15468,
+    "nombre": "MOSMOTA",
+    "codigopostal": "5721",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15382,
+    "nombre": "MOYAR",
+    "codigopostal": "5777",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21304,
+    "nombre": "MOYARCITO",
+    "codigopostal": "5719",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15204,
+    "nombre": "NAHUEL MAPA",
+    "codigopostal": "6279",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15383,
+    "nombre": "NARANJO",
+    "codigopostal": "5711",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14959,
+    "nombre": "NASCHEL",
+    "codigopostal": "5759",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15205,
+    "nombre": "NAVIA",
+    "codigopostal": "6279",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15469,
+    "nombre": "NEGRO MUERTO",
+    "codigopostal": "5724",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15206,
+    "nombre": "NILINAST",
+    "codigopostal": "6277",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15305,
+    "nombre": "NO ES MIA",
+    "codigopostal": "5831",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15470,
+    "nombre": "NOGOLI",
+    "codigopostal": "5703",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21430,
+    "nombre": "NOSSAR",
+    "codigopostal": "5741",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21356,
+    "nombre": "NUEVA CONSTITUCION",
+    "codigopostal": "5636",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15306,
+    "nombre": "NUEVA ESCOCIA",
+    "codigopostal": "5743",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15207,
+    "nombre": "NUEVA ESPERANZA",
+    "codigopostal": "6279",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15208,
+    "nombre": "NUEVA GALIA",
+    "codigopostal": "6216",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15062,
+    "nombre": "OJO DE AGUA",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15632,
+    "nombre": "OJO DE AGUA",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21534,
+    "nombre": "OJO DE AGUA",
+    "codigopostal": "5750",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15384,
+    "nombre": "OJO DEL RIO",
+    "codigopostal": "5777",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14960,
+    "nombre": "OTRA BANDA",
+    "codigopostal": "5773",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21535,
+    "nombre": "PAINES",
+    "codigopostal": "5736",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15471,
+    "nombre": "PAJE",
+    "codigopostal": "5721",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14879,
+    "nombre": "PALIGUANTA",
+    "codigopostal": "5703",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21482,
+    "nombre": "PALOMAR",
+    "codigopostal": "5724",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15633,
+    "nombre": "PAMPA",
+    "codigopostal": "5755",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21536,
+    "nombre": "PAMPA DE LOS GOBERNADORES",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15634,
+    "nombre": "PAMPA DEL BAJO",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15064,
+    "nombre": "PAMPA DEL TAMBORERO",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14774,
+    "nombre": "PAMPA GRANDE",
+    "codigopostal": "5707",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15635,
+    "nombre": "PAMPA GRANDE",
+    "codigopostal": "5771",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14775,
+    "nombre": "PAMPA INVERNADA",
+    "codigopostal": "5705",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15065,
+    "nombre": "PAMPITA",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15636,
+    "nombre": "PANTANILLO",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15066,
+    "nombre": "PANTANILLOS",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14961,
+    "nombre": "PAPAGAYOS",
+    "codigopostal": "5883",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14880,
+    "nombre": "PARAISO",
+    "codigopostal": "5703",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15472,
+    "nombre": "PASO ANCHO",
+    "codigopostal": "5721",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15067,
+    "nombre": "PASO DE CUERO",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15385,
+    "nombre": "PASO DE LA CRUZ",
+    "codigopostal": "5777",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21483,
+    "nombre": "PASO DE LA TIERRA",
+    "codigopostal": "5721",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15068,
+    "nombre": "PASO DE LAS CARRETAS",
+    "codigopostal": "5736",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15473,
+    "nombre": "PASO DE LAS SALINAS",
+    "codigopostal": "5721",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15386,
+    "nombre": "PASO DE LAS SIERRAS",
+    "codigopostal": "5873",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15474,
+    "nombre": "PASO DE LAS TOSCAS",
+    "codigopostal": "5721",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15475,
+    "nombre": "PASO DE LAS VACAS",
+    "codigopostal": "5721",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14962,
+    "nombre": "PASO DE LOS ALGARROBOS",
+    "codigopostal": "5773",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15476,
+    "nombre": "PASO DE LOS BAYOS",
+    "codigopostal": "5721",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15210,
+    "nombre": "PASO DE LOS GAUCHOS",
+    "codigopostal": "6216",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14776,
+    "nombre": "PASO DE PIEDRA",
+    "codigopostal": "5707",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15387,
+    "nombre": "PASO DEL MEDIO",
+    "codigopostal": "5711",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15069,
+    "nombre": "PASO DEL REY",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15637,
+    "nombre": "PASO GRANDE",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15070,
+    "nombre": "PASO JUAN GOMEZ",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15477,
+    "nombre": "PASO LOS ALGARROBOS",
+    "codigopostal": "5724",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14777,
+    "nombre": "PASTAL",
+    "codigopostal": "5707",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14778,
+    "nombre": "PATIO LIMPIO",
+    "codigopostal": "5713",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14779,
+    "nombre": "PE",
+    "codigopostal": "5707",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15307,
+    "nombre": "PEDERNERA",
+    "codigopostal": "5730",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15211,
+    "nombre": "PENICE",
+    "codigopostal": "6279",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21484,
+    "nombre": "PESCADORES",
+    "codigopostal": "5700",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15388,
+    "nombre": "PICOS YACU",
+    "codigopostal": "5777",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14780,
+    "nombre": "PIE DE LA CUESTA",
+    "codigopostal": "5711",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15389,
+    "nombre": "PIEDRA BLANCA",
+    "codigopostal": "5881",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15638,
+    "nombre": "PIEDRA BOLA",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15639,
+    "nombre": "PIEDRA LARGA",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15640,
+    "nombre": "PIEDRA ROSADA",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15641,
+    "nombre": "PIEDRA SOLA",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21562,
+    "nombre": "PIEDRAS ANCHAS",
+    "codigopostal": "5755",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21544,
+    "nombre": "PIEDRAS BLANCAS",
+    "codigopostal": "5750",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14963,
+    "nombre": "PIEDRAS CHATAS",
+    "codigopostal": "5759",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14964,
+    "nombre": "PIQUILLINES",
+    "codigopostal": "5835",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21335,
+    "nombre": "PISCOYACO",
+    "codigopostal": "5775",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15390,
+    "nombre": "PIZARRAS BAJO VELEZ",
+    "codigopostal": "5777",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15212,
+    "nombre": "PLACILLA",
+    "codigopostal": "6277",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15642,
+    "nombre": "PLANTA DE SANDIA",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21365,
+    "nombre": "PLUMERITO",
+    "codigopostal": "5637",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15391,
+    "nombre": "POCITOS",
+    "codigopostal": "5715",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15213,
+    "nombre": "POLLEDO",
+    "codigopostal": "6216",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21431,
+    "nombre": "PORTADA DEL SAUCE",
+    "codigopostal": "5741",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14881,
+    "nombre": "PORTEZUELO",
+    "codigopostal": "5719",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14965,
+    "nombre": "PORVENIR",
+    "codigopostal": "5835",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15308,
+    "nombre": "POSTA DE FIERRO",
+    "codigopostal": "5831",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21599,
+    "nombre": "POSTA DEL PORTEZUELO",
+    "codigopostal": "5705",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15643,
+    "nombre": "POTRERILLO",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15478,
+    "nombre": "POTRERO DE LOS FUNES",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14781,
+    "nombre": "POZO CAVADO",
+    "codigopostal": "5705",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15479,
+    "nombre": "POZO CERCADO",
+    "codigopostal": "5721",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15392,
+    "nombre": "POZO DE LAS RAICES",
+    "codigopostal": "5777",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14782,
+    "nombre": "POZO DE LOS RAYOS",
+    "codigopostal": "5705",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15480,
+    "nombre": "POZO DEL CARRIL",
+    "codigopostal": "5703",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14882,
+    "nombre": "POZO DEL ESPINILLO",
+    "codigopostal": "5703",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15393,
+    "nombre": "POZO DEL MEDIO",
+    "codigopostal": "5715",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14783,
+    "nombre": "POZO DEL MOLLE",
+    "codigopostal": "5707",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14883,
+    "nombre": "POZO DEL TALA",
+    "codigopostal": "5703",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21485,
+    "nombre": "POZO ESCONDIDO",
+    "codigopostal": "5700",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21566,
+    "nombre": "POZO FRIO",
+    "codigopostal": "5773",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21305,
+    "nombre": "POZO SANTIAGO",
+    "codigopostal": "5703",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15644,
+    "nombre": "POZO SECO",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21323,
+    "nombre": "POZO SIMON",
+    "codigopostal": "5703",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15309,
+    "nombre": "PRIMER AGUA",
+    "codigopostal": "5831",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14966,
+    "nombre": "PUENTE HIERRO",
+    "codigopostal": "5773",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21486,
+    "nombre": "PUENTE LA ORQUETA",
+    "codigopostal": "5721",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15645,
+    "nombre": "PUERTA COLORADA",
+    "codigopostal": "5771",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21487,
+    "nombre": "PUERTA DE LA ISLA",
+    "codigopostal": "5721",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15646,
+    "nombre": "PUERTA DE PALO",
+    "codigopostal": "5755",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21306,
+    "nombre": "PUERTO ALEGRE",
+    "codigopostal": "5719",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14784,
+    "nombre": "PUERTO RICO",
+    "codigopostal": "5705",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15647,
+    "nombre": "PUESTITO",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21433,
+    "nombre": "PUESTO BELLA VISTA",
+    "codigopostal": "5730",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15481,
+    "nombre": "PUESTO DE LOS JUMES",
+    "codigopostal": "5721",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14785,
+    "nombre": "PUESTO DE TABARES",
+    "codigopostal": "5711",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21434,
+    "nombre": "PUESTO EL TALA",
+    "codigopostal": "5730",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14786,
+    "nombre": "PUESTO PAMPA INVERNADA",
+    "codigopostal": "5705",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14787,
+    "nombre": "PUESTO QUEBRADA CAL",
+    "codigopostal": "5705",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14788,
+    "nombre": "PUESTO ROBERTO",
+    "codigopostal": "5713",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14789,
+    "nombre": "PUESTO TALAR",
+    "codigopostal": "5711",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15310,
+    "nombre": "PUNILLA",
+    "codigopostal": "5831",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14967,
+    "nombre": "PUNTA DE LA LOMA",
+    "codigopostal": "5773",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14884,
+    "nombre": "PUNTA DE LA SIERRA",
+    "codigopostal": "5719",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15394,
+    "nombre": "PUNTA DEL AGUA",
+    "codigopostal": "5873",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14968,
+    "nombre": "PUNTA DEL ALTO",
+    "codigopostal": "5773",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15482,
+    "nombre": "PUNTA DEL CERRO",
+    "codigopostal": "5721",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21488,
+    "nombre": "PUNTOS DE AGUA",
+    "codigopostal": "5721",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15395,
+    "nombre": "PUNTOS DE LA LINEA",
+    "codigopostal": "5711",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14790,
+    "nombre": "QUEBRACHITO",
+    "codigopostal": "5713",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15071,
+    "nombre": "QUEBRADA DE LA BURRA",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15648,
+    "nombre": "QUEBRADA DE LA MORA",
+    "codigopostal": "5755",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15649,
+    "nombre": "QUEBRADA DE LOS BARROSOS",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15650,
+    "nombre": "QUEBRADA DE SAN VICENTE",
+    "codigopostal": "5755",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15396,
+    "nombre": "QUEBRADA DEL TIGRE",
+    "codigopostal": "5711",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15072,
+    "nombre": "QUEBRADA HONDA",
+    "codigopostal": "5750",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14791,
+    "nombre": "QUINES",
+    "codigopostal": "5711",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14792,
+    "nombre": "RAMADITA",
+    "codigopostal": "5705",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14793,
+    "nombre": "RAMBLONES",
+    "codigopostal": "5705",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15214,
+    "nombre": "RANQUELCO",
+    "codigopostal": "6216",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15311,
+    "nombre": "REAL",
+    "codigopostal": "5831",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21307,
+    "nombre": "RECONQUISTA",
+    "codigopostal": "5707",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14885,
+    "nombre": "RECREO",
+    "codigopostal": "5719",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21489,
+    "nombre": "REFORMA CHICA",
+    "codigopostal": "5724",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14969,
+    "nombre": "RENCA",
+    "codigopostal": "5775",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14886,
+    "nombre": "REPRESA DEL CARMEN",
+    "codigopostal": "5719",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15483,
+    "nombre": "REPRESA DEL CHA",
+    "codigopostal": "5703",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15484,
+    "nombre": "REPRESA DEL MONTE",
+    "codigopostal": "5700",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21447,
+    "nombre": "REPRESA DEL MONTE",
+    "codigopostal": "5711",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14887,
+    "nombre": "RETAMO",
+    "codigopostal": "5703",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14970,
+    "nombre": "RETAZO DEL MONTE",
+    "codigopostal": "5759",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21324,
+    "nombre": "RETIRO",
+    "codigopostal": "5703",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21545,
+    "nombre": "RIECITO",
+    "codigopostal": "5750",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15651,
+    "nombre": "RINCON DEL CARMEN",
+    "codigopostal": "5771",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15397,
+    "nombre": "RINCON DEL ESTE",
+    "codigopostal": "5881",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15073,
+    "nombre": "RIO GRANDE",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14794,
+    "nombre": "RIO JUAN GOMEZ",
+    "codigopostal": "5705",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15312,
+    "nombre": "RIO QUINTO",
+    "codigopostal": "5738",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14971,
+    "nombre": "RIOJITA",
+    "codigopostal": "5773",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14795,
+    "nombre": "RODEO CADENAS",
+    "codigopostal": "5705",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14888,
+    "nombre": "ROMANCE",
+    "codigopostal": "5719",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15215,
+    "nombre": "ROSALES",
+    "codigopostal": "6216",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14889,
+    "nombre": "RUMIGUASI",
+    "codigopostal": "5703",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15074,
+    "nombre": "SALADILLO",
+    "codigopostal": "5751",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15075,
+    "nombre": "SALADO",
+    "codigopostal": "5755",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15652,
+    "nombre": "SALADO DE AMAYA",
+    "codigopostal": "5771",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14796,
+    "nombre": "SALINAS",
+    "codigopostal": "5713",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15485,
+    "nombre": "SALINAS DEL BEBEDERO",
+    "codigopostal": "5724",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15486,
+    "nombre": "SALITRAL",
+    "codigopostal": "5721",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15487,
+    "nombre": "SALTO CHICO",
+    "codigopostal": "5721",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14890,
+    "nombre": "SAN AGUSTIN",
+    "codigopostal": "5719",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21435,
+    "nombre": "SAN ALBERTO",
+    "codigopostal": "5831",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15313,
+    "nombre": "SAN ALEJANDRO",
+    "codigopostal": "5831",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14891,
+    "nombre": "SAN ANTONIO",
+    "codigopostal": "5719",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15076,
+    "nombre": "SAN ANTONIO",
+    "codigopostal": "5750",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15216,
+    "nombre": "SAN ANTONIO",
+    "codigopostal": "6279",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15488,
+    "nombre": "SAN ANTONIO",
+    "codigopostal": "5724",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15489,
+    "nombre": "SAN ANTONIO",
+    "codigopostal": "5721",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21337,
+    "nombre": "SAN ANTONIO",
+    "codigopostal": "5835",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21436,
+    "nombre": "SAN CAMILO",
+    "codigopostal": "5743",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15217,
+    "nombre": "SAN CARLOS",
+    "codigopostal": "6389",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14797,
+    "nombre": "SAN CELESTINO",
+    "codigopostal": "5713",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14972,
+    "nombre": "SAN FELIPE",
+    "codigopostal": "5759",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15653,
+    "nombre": "SAN FERNANDO",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14798,
+    "nombre": "SAN FRANCISCO DEL MONTE DE ORO",
+    "codigopostal": "5705",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15490,
+    "nombre": "SAN GERONIMO",
+    "codigopostal": "5719",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21490,
+    "nombre": "SAN GERONIMO",
+    "codigopostal": "5721",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15077,
+    "nombre": "SAN GREGORIO",
+    "codigopostal": "5751",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15078,
+    "nombre": "SAN IGNACIO",
+    "codigopostal": "5736",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14892,
+    "nombre": "SAN ISIDRO",
+    "codigopostal": "5719",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15218,
+    "nombre": "SAN ISIDRO",
+    "codigopostal": "6279",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15654,
+    "nombre": "SAN ISIDRO",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15655,
+    "nombre": "SAN ISIDRO",
+    "codigopostal": "5771",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15491,
+    "nombre": "SAN JORGE",
+    "codigopostal": "5721",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21308,
+    "nombre": "SAN JORGE",
+    "codigopostal": "5715",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15219,
+    "nombre": "SAN JORGE",
+    "codigopostal": "6216",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14893,
+    "nombre": "SAN JOSE",
+    "codigopostal": "5703",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15220,
+    "nombre": "SAN JOSE",
+    "codigopostal": "6279",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15656,
+    "nombre": "SAN JOSE",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21325,
+    "nombre": "SAN JOSE",
+    "codigopostal": "5719",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15079,
+    "nombre": "SAN JOSE DE LOS CHA",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21437,
+    "nombre": "SAN JOSE DEL DURAZNO",
+    "codigopostal": "5741",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 27743,
+    "nombre": "SAN JOSE DEL MORRO",
+    "codigopostal": "5731",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15221,
+    "nombre": "SAN JUAN",
+    "codigopostal": "6277",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15314,
+    "nombre": "SAN JUAN DE TASTU",
+    "codigopostal": "5731",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15657,
+    "nombre": "SAN LORENZO",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21538,
+    "nombre": "SAN LORENZO",
+    "codigopostal": "5757",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15492,
+    "nombre": "SAN LUIS",
+    "codigopostal": "5700",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15493,
+    "nombre": "SAN MARTIN",
+    "codigopostal": "5721",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15658,
+    "nombre": "SAN MARTIN",
+    "codigopostal": "5755",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14799,
+    "nombre": "SAN MARTIN",
+    "codigopostal": "5713",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14800,
+    "nombre": "SAN MIGUEL",
+    "codigopostal": "5711",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15080,
+    "nombre": "SAN MIGUEL",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15398,
+    "nombre": "SAN MIGUEL",
+    "codigopostal": "5883",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15659,
+    "nombre": "SAN MIGUEL",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15315,
+    "nombre": "SAN NICOLAS PUNILLA",
+    "codigopostal": "5831",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14973,
+    "nombre": "SAN PABLO",
+    "codigopostal": "5773",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14801,
+    "nombre": "SAN PEDRO",
+    "codigopostal": "5713",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14894,
+    "nombre": "SAN PEDRO",
+    "codigopostal": "5719",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15316,
+    "nombre": "SAN PEDRO",
+    "codigopostal": "5831",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15660,
+    "nombre": "SAN PEDRO",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15661,
+    "nombre": "SAN RAFAEL",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15494,
+    "nombre": "SAN RAIMUNDO",
+    "codigopostal": "5703",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15662,
+    "nombre": "SAN RAMON",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15318,
+    "nombre": "SAN RAMON",
+    "codigopostal": "5730",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21338,
+    "nombre": "SAN RAMON SUD",
+    "codigopostal": "5775",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15495,
+    "nombre": "SAN ROQUE",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21309,
+    "nombre": "SAN ROQUE",
+    "codigopostal": "5719",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14802,
+    "nombre": "SAN ROQUE",
+    "codigopostal": "5703",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14803,
+    "nombre": "SAN RUFINO",
+    "codigopostal": "5707",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14804,
+    "nombre": "SAN SALVADOR",
+    "codigopostal": "5707",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14974,
+    "nombre": "SAN VICENTE",
+    "codigopostal": "5770",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15496,
+    "nombre": "SAN VICENTE",
+    "codigopostal": "5721",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15399,
+    "nombre": "SANTA ANA",
+    "codigopostal": "5871",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14806,
+    "nombre": "SANTA ANA",
+    "codigopostal": "5719",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14805,
+    "nombre": "SANTA ANA QUINES",
+    "codigopostal": "5711",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15319,
+    "nombre": "SANTA CATALINA",
+    "codigopostal": "5738",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15222,
+    "nombre": "SANTA CECILIA",
+    "codigopostal": "6279",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14807,
+    "nombre": "SANTA CLARA",
+    "codigopostal": "5711",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15320,
+    "nombre": "SANTA CLARA",
+    "codigopostal": "5730",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15321,
+    "nombre": "SANTA CLARA",
+    "codigopostal": "5831",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21539,
+    "nombre": "SANTA CLARA",
+    "codigopostal": "5751",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21568,
+    "nombre": "SANTA CLARA",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21491,
+    "nombre": "SANTA DIONISIA",
+    "codigopostal": "5722",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15322,
+    "nombre": "SANTA FELISA",
+    "codigopostal": "5831",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15082,
+    "nombre": "SANTA ISABEL",
+    "codigopostal": "5750",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15323,
+    "nombre": "SANTA ISABEL",
+    "codigopostal": "5831",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21492,
+    "nombre": "SANTA ISABEL",
+    "codigopostal": "5721",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15400,
+    "nombre": "SANTA LUCIA",
+    "codigopostal": "5715",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15223,
+    "nombre": "SANTA LUCIA",
+    "codigopostal": "6216",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15401,
+    "nombre": "SANTA LUCINDA",
+    "codigopostal": "5715",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21569,
+    "nombre": "SANTA MARIA",
+    "codigopostal": "5773",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14808,
+    "nombre": "SANTA MARIA",
+    "codigopostal": "5719",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15224,
+    "nombre": "SANTA MARIA",
+    "codigopostal": "6279",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14975,
+    "nombre": "SANTA MARTINA",
+    "codigopostal": "5770",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15497,
+    "nombre": "SANTA RITA",
+    "codigopostal": "5724",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15498,
+    "nombre": "SANTA ROSA",
+    "codigopostal": "5719",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21310,
+    "nombre": "SANTA ROSA",
+    "codigopostal": "5719",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15402,
+    "nombre": "SANTA ROSA DE CONLARA",
+    "codigopostal": "5777",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14896,
+    "nombre": "SANTA ROSA DEL GIGANTE",
+    "codigopostal": "5719",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14809,
+    "nombre": "SANTA RUFINA",
+    "codigopostal": "5709",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14976,
+    "nombre": "SANTA SIMONA",
+    "codigopostal": "5770",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15225,
+    "nombre": "SANTA TERESA",
+    "codigopostal": "6216",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21358,
+    "nombre": "SANTA TERESA",
+    "codigopostal": "6279",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21494,
+    "nombre": "SANTA TERESA",
+    "codigopostal": "5700",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14810,
+    "nombre": "SANTA TERESITA",
+    "codigopostal": "5709",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21311,
+    "nombre": "SANTA VICTORIA",
+    "codigopostal": "5707",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15499,
+    "nombre": "SANTO DOMINGO",
+    "codigopostal": "5721",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21495,
+    "nombre": "SANTO DOMINGO",
+    "codigopostal": "5700",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14811,
+    "nombre": "SANTO DOMINGO",
+    "codigopostal": "5707",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15226,
+    "nombre": "SANTO DOMINGO",
+    "codigopostal": "6216",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15664,
+    "nombre": "SAUCE",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15083,
+    "nombre": "SAUCESITO",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14977,
+    "nombre": "SELCI",
+    "codigopostal": "5773",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21312,
+    "nombre": "SERAFINA",
+    "codigopostal": "5707",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14813,
+    "nombre": "SOCOSCORA",
+    "codigopostal": "5705",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21313,
+    "nombre": "SOL DE ABRIL",
+    "codigopostal": "5707",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15665,
+    "nombre": "SOL DE ABRIL SAN MARTIN",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15084,
+    "nombre": "SOLOBASTA",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21546,
+    "nombre": "SOLOLOSTA",
+    "codigopostal": "5750",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15666,
+    "nombre": "TALA VERDE",
+    "codigopostal": "5771",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15667,
+    "nombre": "TALARCITO",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15403,
+    "nombre": "TALITA",
+    "codigopostal": "5711",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21496,
+    "nombre": "TAMASCANES",
+    "codigopostal": "5721",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21547,
+    "nombre": "TAMBOREO",
+    "codigopostal": "5750",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15324,
+    "nombre": "TASTO",
+    "codigopostal": "5731",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14897,
+    "nombre": "TAZA BLANCA",
+    "codigopostal": "5703",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14815,
+    "nombre": "TEMERARIA",
+    "codigopostal": "5707",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14978,
+    "nombre": "TILISARAO",
+    "codigopostal": "5773",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14816,
+    "nombre": "TINTITACO",
+    "codigopostal": "5705",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14979,
+    "nombre": "TOIGUS",
+    "codigopostal": "5831",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15227,
+    "nombre": "TOINGUA",
+    "codigopostal": "6216",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15228,
+    "nombre": "TORO BAYO",
+    "codigopostal": "6279",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14898,
+    "nombre": "TORO NEGRO",
+    "codigopostal": "5703",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21366,
+    "nombre": "TOSCAL",
+    "codigopostal": "5636",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15668,
+    "nombre": "TOTORAL",
+    "codigopostal": "5771",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15085,
+    "nombre": "TOTORAL",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15086,
+    "nombre": "TOTORILLA",
+    "codigopostal": "5771",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21497,
+    "nombre": "TRANSVAL",
+    "codigopostal": "5721",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15087,
+    "nombre": "TRAPICHE",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15500,
+    "nombre": "TRAVESIA",
+    "codigopostal": "5721",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15501,
+    "nombre": "TRES CA",
+    "codigopostal": "5721",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14817,
+    "nombre": "TRES CA",
+    "codigopostal": "5713",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15325,
+    "nombre": "TRES ESQUINAS",
+    "codigopostal": "5730",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14899,
+    "nombre": "TRES LOMAS",
+    "codigopostal": "5719",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21501,
+    "nombre": "TRES MARIAS",
+    "codigopostal": "5700",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14900,
+    "nombre": "TRES PUERTAS",
+    "codigopostal": "5719",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15502,
+    "nombre": "TUKIROS",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15229,
+    "nombre": "UCHAIMA",
+    "codigopostal": "6279",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15230,
+    "nombre": "UNION",
+    "codigopostal": "6216",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15669,
+    "nombre": "UNQUILLO",
+    "codigopostal": "5771",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21369,
+    "nombre": "USIYAL",
+    "codigopostal": "5637",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14980,
+    "nombre": "USPARA",
+    "codigopostal": "5835",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21449,
+    "nombre": "VACAS MUERTAS",
+    "codigopostal": "5721",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15088,
+    "nombre": "VALLE DE LA PANCANTA",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15231,
+    "nombre": "VALLE HERMOSO",
+    "codigopostal": "6279",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21340,
+    "nombre": "VALLE SAN AGUSTIN",
+    "codigopostal": "5775",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21341,
+    "nombre": "VALLE SAN JOSE",
+    "codigopostal": "5775",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15089,
+    "nombre": "VALLECITO",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15503,
+    "nombre": "VARELA",
+    "codigopostal": "5721",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15670,
+    "nombre": "VENTA DE LOS RIOS",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21570,
+    "nombre": "VIEJA ESTANCIA",
+    "codigopostal": "5773",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14901,
+    "nombre": "VILLA DE LA QUEBRADA",
+    "codigopostal": "5703",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15671,
+    "nombre": "VILLA DE PRAGA",
+    "codigopostal": "5753",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14981,
+    "nombre": "VILLA DEL CARMEN",
+    "codigopostal": "5835",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14982,
+    "nombre": "VILLA DOLORES",
+    "codigopostal": "5770",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14983,
+    "nombre": "VILLA ELENA",
+    "codigopostal": "5883",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14902,
+    "nombre": "VILLA GENERAL ROCA",
+    "codigopostal": "5703",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14984,
+    "nombre": "VILLA LARCA",
+    "codigopostal": "5883",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15404,
+    "nombre": "VILLA LUISA",
+    "codigopostal": "5871",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15304,
+    "nombre": "VILLA MERCEDES",
+    "codigopostal": "5730",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15326,
+    "nombre": "VILLA REYNOLDS",
+    "codigopostal": "5733",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 21439,
+    "nombre": "VILLA SANTIAGO",
+    "codigopostal": "5730",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15090,
+    "nombre": "VIRARCO",
+    "codigopostal": "5701",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15327,
+    "nombre": "VISCACHERAS",
+    "codigopostal": "5731",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14818,
+    "nombre": "VISTA ALEGRE",
+    "codigopostal": "5707",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15091,
+    "nombre": "VISTA HERMOSA",
+    "codigopostal": "5730",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15232,
+    "nombre": "VIVA LA PATRIA",
+    "codigopostal": "6279",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14903,
+    "nombre": "VIZCACHERAS",
+    "codigopostal": "5703",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 14985,
+    "nombre": "VOLCAN ESTANZUELA",
+    "codigopostal": "5835",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "id": 15092,
+    "nombre": "YACORO",
+    "codigopostal": "5750",
+    "provincia": {
+      "id": 19,
+      "nombre": "San Luis"
+    }
+  }
+]

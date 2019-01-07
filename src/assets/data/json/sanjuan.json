@@ -1,0 +1,7868 @@
+[
+  {
+    "id": 15719,
+    "nombre": "9 DE JULIO",
+    "codigopostal": "5417",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18854,
+    "nombre": "ACERILLOS",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15833,
+    "nombre": "ADAN QUIROGA",
+    "codigopostal": "5409",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18726,
+    "nombre": "AEROPUERTO SAN JUAN",
+    "codigopostal": "5417",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19400,
+    "nombre": "AGUA CERCADA",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18855,
+    "nombre": "AGUA DE LA ZANJA",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19040,
+    "nombre": "AGUA DE LA ZORRA",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15834,
+    "nombre": "AGUA DE LOS CABALLOS",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15992,
+    "nombre": "AGUA ESCONDIDA",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18743,
+    "nombre": "AGUA Y ENERGIA",
+    "codigopostal": "5405",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15835,
+    "nombre": "AGUADA DE LA PE",
+    "codigopostal": "5461",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 20169,
+    "nombre": "AGUADITAS",
+    "codigopostal": "5461",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15837,
+    "nombre": "AGUADITAS DEL RIO JACHAL",
+    "codigopostal": "5461",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15993,
+    "nombre": "AGUANGO",
+    "codigopostal": "5449",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15838,
+    "nombre": "AGUAS DEL PAJARO",
+    "codigopostal": "5461",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15907,
+    "nombre": "ALBARRACIN",
+    "codigopostal": "5425",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15839,
+    "nombre": "ALCAUCHA",
+    "codigopostal": "5461",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19043,
+    "nombre": "ALGARROBO DEL CURA",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15965,
+    "nombre": "ALGARROBO GRANDE",
+    "codigopostal": "5435",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15703,
+    "nombre": "ALGARROBO VERDE",
+    "codigopostal": "5443",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15953,
+    "nombre": "ALTO DE SIERRA",
+    "codigopostal": "5438",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15840,
+    "nombre": "ALTO HUACO",
+    "codigopostal": "5463",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18715,
+    "nombre": "AMARFIL",
+    "codigopostal": "5443",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15767,
+    "nombre": "AMBAS PUNTILLAS",
+    "codigopostal": "5442",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15768,
+    "nombre": "AMPACAMA",
+    "codigopostal": "5444",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15738,
+    "nombre": "ANGACO NORTE",
+    "codigopostal": "5415",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19975,
+    "nombre": "ANGACO SUD",
+    "codigopostal": "5417",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 16036,
+    "nombre": "ANGUALASTO",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19310,
+    "nombre": "APEADERO GUANACACHE",
+    "codigopostal": "5431",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18848,
+    "nombre": "APEADERO LAS CHIMBAS",
+    "codigopostal": "5413",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19238,
+    "nombre": "APEADERO QUIROGA",
+    "codigopostal": "5427",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18856,
+    "nombre": "ARREQUINTIN",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19047,
+    "nombre": "ASCHICHUSCA",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 16339,
+    "nombre": "ASTICA",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19362,
+    "nombre": "AURORA",
+    "codigopostal": "5409",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15966,
+    "nombre": "AZUCARERA DE CUYO",
+    "codigopostal": "5435",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15726,
+    "nombre": "BA",
+    "codigopostal": "5419",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15807,
+    "nombre": "BA",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15808,
+    "nombre": "BA",
+    "codigopostal": "5465",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18731,
+    "nombre": "BA",
+    "codigopostal": "5419",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18857,
+    "nombre": "BA",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18858,
+    "nombre": "BA",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19314,
+    "nombre": "BA",
+    "codigopostal": "5431",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15769,
+    "nombre": "BALDE DE LEYES",
+    "codigopostal": "5446",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18836,
+    "nombre": "BALDE DEL LUCERO",
+    "codigopostal": "5446",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15994,
+    "nombre": "BALDE DEL NORTE",
+    "codigopostal": "5449",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15995,
+    "nombre": "BALDE DEL ROSARIO",
+    "codigopostal": "5449",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19406,
+    "nombre": "BALDE PLUMERITO",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19408,
+    "nombre": "BALDE SAN CARLOS",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15996,
+    "nombre": "BALDECITO",
+    "codigopostal": "5449",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15997,
+    "nombre": "BALDECITO DEL MORADO",
+    "codigopostal": "5449",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15998,
+    "nombre": "BALDES DE LA CHILCA",
+    "codigopostal": "5449",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15999,
+    "nombre": "BALDES DEL SUD",
+    "codigopostal": "5449",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 16000,
+    "nombre": "BALDES DEL TARABAY",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19424,
+    "nombre": "BARRANCA COLORADA",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19049,
+    "nombre": "BARRANCA DE LOS LOROS",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19051,
+    "nombre": "BARRANCAS BLANCAS",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15748,
+    "nombre": "BARREAL",
+    "codigopostal": "5405",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18744,
+    "nombre": "BARREALES",
+    "codigopostal": "5405",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 16001,
+    "nombre": "BARREALITO",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18746,
+    "nombre": "BARRIALITOS",
+    "codigopostal": "5403",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19364,
+    "nombre": "BARRIO AGUA Y ENERGIA",
+    "codigopostal": "5409",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19366,
+    "nombre": "BARRIO COLON",
+    "codigopostal": "5409",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19671,
+    "nombre": "BARRIO EL TONTAL",
+    "codigopostal": "5401",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15987,
+    "nombre": "BARRIO GRAFFIGNA",
+    "codigopostal": "5409",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15908,
+    "nombre": "BARRIO OBRERO RAWSON",
+    "codigopostal": "5425",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15887,
+    "nombre": "BARRIO SANTA BARBARA",
+    "codigopostal": "5427",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15938,
+    "nombre": "BELGRANO",
+    "codigopostal": "5439",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15749,
+    "nombre": "BELLA VISTA",
+    "codigopostal": "5403",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15809,
+    "nombre": "BELLA VISTA",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15841,
+    "nombre": "BELLA VISTA",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15770,
+    "nombre": "BERMEJO",
+    "codigopostal": "5444",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 16341,
+    "nombre": "BOCA DE LA QUEBRADA",
+    "codigopostal": "5461",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15988,
+    "nombre": "BODEGA GRAFFIGNA",
+    "codigopostal": "5409",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19315,
+    "nombre": "BODEGA SAN ANTONIO",
+    "codigopostal": "5431",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15810,
+    "nombre": "BUENA ESPERANZA",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15812,
+    "nombre": "CA",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 16272,
+    "nombre": "CA",
+    "codigopostal": "5431",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19426,
+    "nombre": "CA",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19427,
+    "nombre": "CA",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15750,
+    "nombre": "CABECERA DEL BARRIAL",
+    "codigopostal": "5403",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 16002,
+    "nombre": "CABEZA DEL TORO",
+    "codigopostal": "5449",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18864,
+    "nombre": "CACHO ANCHO",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18859,
+    "nombre": "CAJON DE LOS TAMBILLOS",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15939,
+    "nombre": "CALIBAR",
+    "codigopostal": "5442",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15751,
+    "nombre": "CALINGASTA",
+    "codigopostal": "5403",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15739,
+    "nombre": "CALLE AGUILERAS",
+    "codigopostal": "5415",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15940,
+    "nombre": "CALLE LARGA",
+    "codigopostal": "5439",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15740,
+    "nombre": "CALLE NACIONAL",
+    "codigopostal": "5415",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15941,
+    "nombre": "CALLECITA",
+    "codigopostal": "5439",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19266,
+    "nombre": "CALLECITA",
+    "codigopostal": "5438",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19368,
+    "nombre": "CAMP D P V LA CIENAGA",
+    "codigopostal": "5409",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15811,
+    "nombre": "CAMPANARIO NUEVO",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15727,
+    "nombre": "CAMPO AFUERA",
+    "codigopostal": "5419",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 16273,
+    "nombre": "CAMPO DE BATALLA",
+    "codigopostal": "5435",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18747,
+    "nombre": "CAMPO DEL LEONCITO",
+    "codigopostal": "5405",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 20151,
+    "nombre": "CAMPO LAS LIEBRES",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19054,
+    "nombre": "CAMPO LOS POZOS",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15909,
+    "nombre": "CAPITAN LAZO",
+    "codigopostal": "5423",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19317,
+    "nombre": "CARBOMETAL",
+    "codigopostal": "5431",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15888,
+    "nombre": "CARPINTERIA",
+    "codigopostal": "5435",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18862,
+    "nombre": "CARRIZALITO",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19429,
+    "nombre": "CASA DE JAVIER",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19057,
+    "nombre": "CASA VIEJA",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15752,
+    "nombre": "CASTA",
+    "codigopostal": "5403",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18748,
+    "nombre": "CASTA",
+    "codigopostal": "5405",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19370,
+    "nombre": "CASTA",
+    "codigopostal": "5409",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15771,
+    "nombre": "CAUCETE",
+    "codigopostal": "5442",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15889,
+    "nombre": "CENTRO AVIACION CIVIL SAN JUAN",
+    "codigopostal": "5427",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18879,
+    "nombre": "CERRO  D  L  BA",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19632,
+    "nombre": "CERRO AGUADITAS",
+    "codigopostal": "5401",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19634,
+    "nombre": "CERRO AGUILA",
+    "codigopostal": "5401",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18926,
+    "nombre": "CERRO ALTO DEL DESCUBRIMIENTO",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18776,
+    "nombre": "CERRO AMARILLO",
+    "codigopostal": "5405",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18927,
+    "nombre": "CERRO AMARILLO",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19436,
+    "nombre": "CERRO ASILAN",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19065,
+    "nombre": "CERRO ASPERO",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18749,
+    "nombre": "CERRO BAYO",
+    "codigopostal": "5405",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18751,
+    "nombre": "CERRO BLANCO",
+    "codigopostal": "5405",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19637,
+    "nombre": "CERRO BLANCO",
+    "codigopostal": "5401",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18732,
+    "nombre": "CERRO BOLA",
+    "codigopostal": "5419",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18873,
+    "nombre": "CERRO BOLEADORA",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18752,
+    "nombre": "CERRO BONETE",
+    "codigopostal": "5405",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18753,
+    "nombre": "CERRO BRAMADERO",
+    "codigopostal": "5405",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18875,
+    "nombre": "CERRO BRAVO",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19075,
+    "nombre": "CERRO CABALLO ANCA",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18928,
+    "nombre": "CERRO CABALLO BAYO",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19638,
+    "nombre": "CERRO CASA DE PIEDRA",
+    "codigopostal": "5401",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18755,
+    "nombre": "CERRO CHIQUERO",
+    "codigopostal": "5405",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18929,
+    "nombre": "CERRO COLORADO",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19076,
+    "nombre": "CERRO COLORADO",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18756,
+    "nombre": "CERRO CORTADERA",
+    "codigopostal": "5405",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18877,
+    "nombre": "CERRO CORTADERA",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18880,
+    "nombre": "CERRO DE CONCONTA",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18881,
+    "nombre": "CERRO DE DOLORES",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18882,
+    "nombre": "CERRO DE LA CUESTA DEL VIENTO",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18932,
+    "nombre": "CERRO DE LA SEPULTURA",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18757,
+    "nombre": "CERRO DE LAS VACAS",
+    "codigopostal": "5405",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18884,
+    "nombre": "CERRO DE LOS BURROS",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19321,
+    "nombre": "CERRO DE LOS BURROS",
+    "codigopostal": "5431",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19066,
+    "nombre": "CERRO DE LOS CABALLOS",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18779,
+    "nombre": "CERRO DE LOS POZOS",
+    "codigopostal": "5405",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18885,
+    "nombre": "CERRO DEL AGUA DE LAS VACAS",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18886,
+    "nombre": "CERRO DEL ALUMBRE",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18887,
+    "nombre": "CERRO DEL CACHIYUYAL",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18888,
+    "nombre": "CERRO DEL COQUIMBITO",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18890,
+    "nombre": "CERRO DEL GUANACO",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19322,
+    "nombre": "CERRO DEL MEDIO",
+    "codigopostal": "5431",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18891,
+    "nombre": "CERRO DEL SALADO",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18759,
+    "nombre": "CERRO DEL TOME",
+    "codigopostal": "5405",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19640,
+    "nombre": "CERRO DIVISADERO",
+    "codigopostal": "5401",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18893,
+    "nombre": "CERRO EL BRONCE",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18894,
+    "nombre": "CERRO EL CEPO",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19077,
+    "nombre": "CERRO EL DURAZNO",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18895,
+    "nombre": "CERRO EL FRANCES",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18896,
+    "nombre": "CERRO ESPANTAJO",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18761,
+    "nombre": "CERRO GRANDE",
+    "codigopostal": "5405",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18762,
+    "nombre": "CERRO GUANAQUERO",
+    "codigopostal": "5405",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18897,
+    "nombre": "CERRO HEDIONDO",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19324,
+    "nombre": "CERRO HEDIONDO",
+    "codigopostal": "5431",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18763,
+    "nombre": "CERRO HORNITO",
+    "codigopostal": "5405",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18899,
+    "nombre": "CERRO IMAN",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19078,
+    "nombre": "CERRO IMAN",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19641,
+    "nombre": "CERRO INFIERNILLO",
+    "codigopostal": "5401",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19643,
+    "nombre": "CERRO JAGUEL",
+    "codigopostal": "5401",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18900,
+    "nombre": "CERRO JOAQUIN",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18901,
+    "nombre": "CERRO LA BOLSA",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19067,
+    "nombre": "CERRO LA CA",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19662,
+    "nombre": "CERRO LA CIENAGA",
+    "codigopostal": "5401",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19438,
+    "nombre": "CERRO LA COLORADA",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19644,
+    "nombre": "CERRO LA FLECHA",
+    "codigopostal": "5401",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18764,
+    "nombre": "CERRO LA FORTUNA",
+    "codigopostal": "5405",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19646,
+    "nombre": "CERRO LA JARILLA",
+    "codigopostal": "5401",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18902,
+    "nombre": "CERRO LA ORTIGA",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19663,
+    "nombre": "CERRO LA RINCONADA",
+    "codigopostal": "5401",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19373,
+    "nombre": "CERRO LA VENTANITA",
+    "codigopostal": "5409",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18933,
+    "nombre": "CERRO LAGUNITA",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19070,
+    "nombre": "CERRO LAJITAS",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19648,
+    "nombre": "CERRO LAS BARRANCAS",
+    "codigopostal": "5401",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18766,
+    "nombre": "CERRO LAS MULAS",
+    "codigopostal": "5405",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18903,
+    "nombre": "CERRO LAS MULITAS",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19650,
+    "nombre": "CERRO LAS PLACETAS",
+    "codigopostal": "5401",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18934,
+    "nombre": "CERRO LAS RAICES",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18871,
+    "nombre": "CERRO LAS YEGUAS",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18904,
+    "nombre": "CERRO LAVADEROS",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18905,
+    "nombre": "CERRO LOS MOGOTES",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18767,
+    "nombre": "CERRO LOS PATOS",
+    "codigopostal": "5405",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18935,
+    "nombre": "CERRO LOS POZOS",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19327,
+    "nombre": "CERRO LOS POZOS",
+    "codigopostal": "5431",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18768,
+    "nombre": "CERRO MERCEDARIO",
+    "codigopostal": "5405",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18769,
+    "nombre": "CERRO MUDADERO",
+    "codigopostal": "5405",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15813,
+    "nombre": "CERRO NEGRO",
+    "codigopostal": "5465",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15842,
+    "nombre": "CERRO NEGRO",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19651,
+    "nombre": "CERRO NEGRO",
+    "codigopostal": "5401",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18911,
+    "nombre": "CERRO NEGRO DE CHITA",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19072,
+    "nombre": "CERRO NEGRO DEL CORRAL",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18913,
+    "nombre": "CERRO NICO",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18914,
+    "nombre": "CERRO OCUCAROS",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19652,
+    "nombre": "CERRO PACHACO",
+    "codigopostal": "5401",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18771,
+    "nombre": "CERRO PANTEON",
+    "codigopostal": "5405",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18915,
+    "nombre": "CERRO PATA DE INDIO",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18772,
+    "nombre": "CERRO PICHEREGUAS",
+    "codigopostal": "5405",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18916,
+    "nombre": "CERRO PINTADO",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19654,
+    "nombre": "CERRO PIRCAS",
+    "codigopostal": "5401",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18917,
+    "nombre": "CERRO POTRERITO DE AGUA BLANCO",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19074,
+    "nombre": "CERRO POTRERO",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18773,
+    "nombre": "CERRO PUNTUDO",
+    "codigopostal": "5405",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19325,
+    "nombre": "CERRO RIQUILIPONCHE",
+    "codigopostal": "5431",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19655,
+    "nombre": "CERRO SANTA ROSA",
+    "codigopostal": "5401",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19656,
+    "nombre": "CERRO SASITO",
+    "codigopostal": "5401",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18919,
+    "nombre": "CERRO SENDA AZUL",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18936,
+    "nombre": "CERRO SILVIO",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18921,
+    "nombre": "CERRO SILVO",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19374,
+    "nombre": "CERRO TAMBOLAR",
+    "codigopostal": "5409",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19658,
+    "nombre": "CERRO TAMBOLAR",
+    "codigopostal": "5401",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18837,
+    "nombre": "CERRO TIGRE",
+    "codigopostal": "5442",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19660,
+    "nombre": "CERRO TRES MOGOTES",
+    "codigopostal": "5401",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19439,
+    "nombre": "CERRO TRES PUNTAS",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19376,
+    "nombre": "CERRO VILLA LONCITO",
+    "codigopostal": "5409",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18737,
+    "nombre": "CERRO VILLICUN",
+    "codigopostal": "5419",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 16004,
+    "nombre": "CHA",
+    "codigopostal": "5449",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18716,
+    "nombre": "CHA",
+    "codigopostal": "5443",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19060,
+    "nombre": "CHA",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15723,
+    "nombre": "CHACRITAS",
+    "codigopostal": "5417",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18865,
+    "nombre": "CHAMPONES",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19431,
+    "nombre": "CHANCHOS",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18866,
+    "nombre": "CHAPARRO",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19062,
+    "nombre": "CHEPICAL",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19432,
+    "nombre": "CHICA NEGRA",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18868,
+    "nombre": "CHIGUA DE ABAJO",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15802,
+    "nombre": "CHIMBAS",
+    "codigopostal": "5413",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15814,
+    "nombre": "CHISNASCO",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 16125,
+    "nombre": "CHUCUMA",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19434,
+    "nombre": "CIENAGA",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18869,
+    "nombre": "CIENAGUILLOS",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19320,
+    "nombre": "CIENAGUITA",
+    "codigopostal": "5431",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19371,
+    "nombre": "CIENAGUITA",
+    "codigopostal": "5409",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15967,
+    "nombre": "COCHAGUAL",
+    "codigopostal": "5435",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15815,
+    "nombre": "COLANGUIL",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15843,
+    "nombre": "COLANQUI",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15954,
+    "nombre": "COLL",
+    "codigopostal": "5438",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15816,
+    "nombre": "COLOLA",
+    "codigopostal": "5465",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15753,
+    "nombre": "COLON",
+    "codigopostal": "5401",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19240,
+    "nombre": "COLONIA CANTONI",
+    "codigopostal": "5427",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19241,
+    "nombre": "COLONIA CASTRO PADIN",
+    "codigopostal": "5427",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15910,
+    "nombre": "COLONIA CENTENARIO",
+    "codigopostal": "5421",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15911,
+    "nombre": "COLONIA EL MOLINO",
+    "codigopostal": "5425",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15968,
+    "nombre": "COLONIA FIORITO",
+    "codigopostal": "5435",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18727,
+    "nombre": "COLONIA FIORITO",
+    "codigopostal": "5417",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15969,
+    "nombre": "COLONIA FISCAL SARMIENTO",
+    "codigopostal": "5435",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15912,
+    "nombre": "COLONIA FLORIDA",
+    "codigopostal": "5425",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15720,
+    "nombre": "COLONIA GUTIERREZ",
+    "codigopostal": "5438",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15913,
+    "nombre": "COLONIA JUAN SOLARI",
+    "codigopostal": "5425",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19243,
+    "nombre": "COLONIA MOYA",
+    "codigopostal": "5427",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15955,
+    "nombre": "COLONIA RICHET",
+    "codigopostal": "5438",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15890,
+    "nombre": "COLONIA ROCA",
+    "codigopostal": "5427",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15891,
+    "nombre": "COLONIA RODAS",
+    "codigopostal": "5421",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15892,
+    "nombre": "COLONIA RODRIGUEZ ZAVALLA",
+    "codigopostal": "5425",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15916,
+    "nombre": "COLONIA RODRIGUEZ ZAVALLA",
+    "codigopostal": "5425",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15970,
+    "nombre": "COLONIA SAN ANTONIO",
+    "codigopostal": "5435",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15914,
+    "nombre": "COLONIA YORNER",
+    "codigopostal": "5425",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19932,
+    "nombre": "COLONIA ZABALA",
+    "codigopostal": "5425",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15915,
+    "nombre": "COLONIA ZAPATA",
+    "codigopostal": "5436",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18939,
+    "nombre": "CONCOTA",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19441,
+    "nombre": "CONDOR MUERTO",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15893,
+    "nombre": "CONTEGRAND",
+    "codigopostal": "5421",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19443,
+    "nombre": "CORRAL DE PIRCA",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15844,
+    "nombre": "COYON",
+    "codigopostal": "5409",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15845,
+    "nombre": "CRUZ DE PIEDRA",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18718,
+    "nombre": "CRUZ DE SAN PEDRO",
+    "codigopostal": "5443",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15704,
+    "nombre": "CUATRO ESQUINAS",
+    "codigopostal": "5443",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 16003,
+    "nombre": "CUCHILLAZO",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19444,
+    "nombre": "CUESTA VIEJO",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19445,
+    "nombre": "CULEBRA",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15846,
+    "nombre": "CUMIYANGO",
+    "codigopostal": "5409",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15705,
+    "nombre": "CUYO",
+    "codigopostal": "5443",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15758,
+    "nombre": "DESAMPARADOS",
+    "codigopostal": "5400",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15759,
+    "nombre": "DIAZ VELEZ",
+    "codigopostal": "5400",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18720,
+    "nombre": "DIAZ VELEZ",
+    "codigopostal": "5443",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15772,
+    "nombre": "DIFUNTA CORREA",
+    "codigopostal": "5443",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19079,
+    "nombre": "DIQUE CAUQUENES",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19328,
+    "nombre": "DIQUE LAS CRUCECITAS",
+    "codigopostal": "5431",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19666,
+    "nombre": "DIQUE SOLDANO",
+    "codigopostal": "5401",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15934,
+    "nombre": "DIQUE TOMA",
+    "codigopostal": "5407",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15971,
+    "nombre": "DIVISADERO",
+    "codigopostal": "5431",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18940,
+    "nombre": "DIVISADERO DE LA MUJER HELADA",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 16346,
+    "nombre": "DIVISORIA",
+    "codigopostal": "5443",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15741,
+    "nombre": "DOMINGO DE ORO",
+    "codigopostal": "5415",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15942,
+    "nombre": "DOS ACEQUIAS",
+    "codigopostal": "5439",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19447,
+    "nombre": "DOS MOJONES",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15728,
+    "nombre": "DOS PUENTES",
+    "codigopostal": "5419",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15894,
+    "nombre": "EL ABANICO",
+    "codigopostal": "5429",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15737,
+    "nombre": "EL ALAMITO",
+    "codigopostal": "5415",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15847,
+    "nombre": "EL BALDE",
+    "codigopostal": "5409",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19472,
+    "nombre": "EL BARRIALITO",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 16344,
+    "nombre": "EL BOSQUE",
+    "codigopostal": "5415",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15848,
+    "nombre": "EL BUEN RETIRO",
+    "codigopostal": "5461",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15817,
+    "nombre": "EL CARRIZAL",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19082,
+    "nombre": "EL CHACRERO",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19084,
+    "nombre": "EL CHAMIZUDO",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19380,
+    "nombre": "EL CHILOTE",
+    "codigopostal": "5409",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15818,
+    "nombre": "EL CHINGUILLO",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15773,
+    "nombre": "EL CHUPINO",
+    "codigopostal": "5446",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19087,
+    "nombre": "EL CORRALITO",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15849,
+    "nombre": "EL FICAL",
+    "codigopostal": "5461",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15850,
+    "nombre": "EL FUERTE",
+    "codigopostal": "5409",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 16005,
+    "nombre": "EL GIGANTILLO",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19332,
+    "nombre": "EL INFIERNO",
+    "codigopostal": "5431",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19088,
+    "nombre": "EL JABONCITO",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19473,
+    "nombre": "EL LECHUZO",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18786,
+    "nombre": "EL LEONCITO",
+    "codigopostal": "5405",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15917,
+    "nombre": "EL MEDANITO",
+    "codigopostal": "5400",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19090,
+    "nombre": "EL MEDANO",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18851,
+    "nombre": "EL MOGOTE CHIMBAS",
+    "codigopostal": "5413",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15918,
+    "nombre": "EL MOLINO",
+    "codigopostal": "5425",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19474,
+    "nombre": "EL PLUMERITO",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18838,
+    "nombre": "EL POZO DEL 20",
+    "codigopostal": "5442",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 16006,
+    "nombre": "EL PUERTO",
+    "codigopostal": "5449",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19093,
+    "nombre": "EL QUEMADO",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18942,
+    "nombre": "EL RETIRO",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15706,
+    "nombre": "EL RINCON",
+    "codigopostal": "5443",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19475,
+    "nombre": "EL RINCON",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15729,
+    "nombre": "EL SALADO",
+    "codigopostal": "5419",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18943,
+    "nombre": "EL SALADO",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19094,
+    "nombre": "EL SALITRE",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19476,
+    "nombre": "EL SALTO",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19095,
+    "nombre": "EL TAPON",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19096,
+    "nombre": "EL TREINTA",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15851,
+    "nombre": "EL VOLCAN",
+    "codigopostal": "5409",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15707,
+    "nombre": "ENCON",
+    "codigopostal": "5421",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15852,
+    "nombre": "ENTRE RIOS",
+    "codigopostal": "5461",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18730,
+    "nombre": "EST ALBARDON",
+    "codigopostal": "5419",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19479,
+    "nombre": "EST DE HERRERA VEGAS",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 20042,
+    "nombre": "EST LA CIENAGA DE GUALILA",
+    "codigopostal": "5409",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19480,
+    "nombre": "EST MARAYES",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19097,
+    "nombre": "EST NIQUIVIL",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15895,
+    "nombre": "ESTACION LA RINCONADA",
+    "codigopostal": "5433",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19334,
+    "nombre": "ESTANCIA ACEQUION",
+    "codigopostal": "5431",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 20051,
+    "nombre": "ESTANCIA BAJO DE LAS TUMANAS",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18787,
+    "nombre": "ESTANCIA CASA RIO BLANCO",
+    "codigopostal": "5405",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 20055,
+    "nombre": "ESTANCIA EL CHA",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19335,
+    "nombre": "ESTANCIA EL DURAZNO",
+    "codigopostal": "5431",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 20058,
+    "nombre": "ESTANCIA EL JUMEAL",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 20059,
+    "nombre": "ESTANCIA EL MOLINO",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 20088,
+    "nombre": "ESTANCIA EL POLEAR",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18783,
+    "nombre": "ESTANCIA EL TOTORAL",
+    "codigopostal": "5405",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 20089,
+    "nombre": "ESTANCIA ELIZONDO",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 20066,
+    "nombre": "ESTANCIA LA ESCALERA",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 20067,
+    "nombre": "ESTANCIA LA FLORIDA",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 20068,
+    "nombre": "ESTANCIA LA LATA",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 20015,
+    "nombre": "ESTANCIA LA POSTA",
+    "codigopostal": "5431",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18784,
+    "nombre": "ESTANCIA LA PUNTILLA",
+    "codigopostal": "5405",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18785,
+    "nombre": "ESTANCIA LEONCITO",
+    "codigopostal": "5405",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 20138,
+    "nombre": "ESTANCIA MARADONA",
+    "codigopostal": "5401",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 20070,
+    "nombre": "ESTANCIA QUIROGA",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 20073,
+    "nombre": "ESTANCIA RIO VERDE",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 20075,
+    "nombre": "ESTANCIA SAN ROQUE",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18944,
+    "nombre": "FIERRO",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18945,
+    "nombre": "FIERRO NUEVO",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18946,
+    "nombre": "FIERRO VIEJO",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19482,
+    "nombre": "FILO DEL MOCHO",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15774,
+    "nombre": "FINCA DE IZASA",
+    "codigopostal": "5442",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19484,
+    "nombre": "FINCA DEL JAPONES",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15853,
+    "nombre": "FINCA EL MOLINO",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18948,
+    "nombre": "FINCA EL TORO",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15721,
+    "nombre": "FINCA ZAPATA",
+    "codigopostal": "5417",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18789,
+    "nombre": "GENDARMERIA NACIONAL",
+    "codigopostal": "5405",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15919,
+    "nombre": "GERMANIA",
+    "codigopostal": "5425",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15854,
+    "nombre": "GRAN CHINA",
+    "codigopostal": "5461",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15819,
+    "nombre": "GUA",
+    "codigopostal": "5465",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19099,
+    "nombre": "GUACHIPAMPA",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15855,
+    "nombre": "GUAJA",
+    "codigopostal": "5461",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15972,
+    "nombre": "GUANACACHE",
+    "codigopostal": "5431",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18839,
+    "nombre": "GUAYAGUAS",
+    "codigopostal": "5442",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15775,
+    "nombre": "GUAYAMAS",
+    "codigopostal": "5444",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18949,
+    "nombre": "HACHANGO",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15754,
+    "nombre": "HILARIO",
+    "codigopostal": "5401",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19100,
+    "nombre": "HOSTERIA EL BALDE",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18951,
+    "nombre": "HUA",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15856,
+    "nombre": "HUACO",
+    "codigopostal": "5463",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19668,
+    "nombre": "HUAICOS",
+    "codigopostal": "5401",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15857,
+    "nombre": "HUERTA DE GUACHI",
+    "codigopostal": "5461",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18952,
+    "nombre": "HUESO QUEBRADO",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19486,
+    "nombre": "ICHIGUALASTO",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15820,
+    "nombre": "IGLESIA",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19382,
+    "nombre": "IMSA",
+    "codigopostal": "5409",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19101,
+    "nombre": "INDIO MUERTO",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15858,
+    "nombre": "INGENIERO MATIAS G SANCHEZ",
+    "codigopostal": "5409",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19487,
+    "nombre": "ISCHIGUALASTO",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19383,
+    "nombre": "ISLA DEL SAUCE",
+    "codigopostal": "5409",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 16271,
+    "nombre": "JACHAL",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18953,
+    "nombre": "JAGUELITO",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19489,
+    "nombre": "JARILLA CHICA",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18954,
+    "nombre": "JARILLITO",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15708,
+    "nombre": "JOSE MARTI",
+    "codigopostal": "5443",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15896,
+    "nombre": "JUAN CELANI",
+    "codigopostal": "5427",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18955,
+    "nombre": "JUNTA DE SANTA ROSA",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18957,
+    "nombre": "JUNTAS DE LA JARILLA",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18958,
+    "nombre": "JUNTAS DE LA SAL",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18959,
+    "nombre": "JUNTAS DEL FRIO",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19491,
+    "nombre": "JUNTAS DEL GUANDACOL",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19312,
+    "nombre": "KILOMETRO 10650",
+    "codigopostal": "5431",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18840,
+    "nombre": "KILOMETRO 810",
+    "codigopostal": "5442",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15776,
+    "nombre": "KILOMETRO 893",
+    "codigopostal": "5444",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15777,
+    "nombre": "KILOMETRO 895",
+    "codigopostal": "5442",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15943,
+    "nombre": "KILOMETRO 905",
+    "codigopostal": "5439",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15709,
+    "nombre": "KILOMETRO 910",
+    "codigopostal": "5443",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15710,
+    "nombre": "KILOMETRO 936",
+    "codigopostal": "5443",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18790,
+    "nombre": "LA ALUMBRERA",
+    "codigopostal": "5405",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18961,
+    "nombre": "LA ANGOSTURA",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15730,
+    "nombre": "LA CA",
+    "codigopostal": "5419",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18741,
+    "nombre": "LA CA",
+    "codigopostal": "5415",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18962,
+    "nombre": "LA CA",
+    "codigopostal": "5465",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15897,
+    "nombre": "LA CALLECITA",
+    "codigopostal": "5421",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18791,
+    "nombre": "LA CAPILLA",
+    "codigopostal": "5405",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19493,
+    "nombre": "LA CARPA",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19494,
+    "nombre": "LA CERCADA",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15821,
+    "nombre": "LA CHIGUA",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15859,
+    "nombre": "LA CHILCA",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19336,
+    "nombre": "LA CHILCA",
+    "codigopostal": "5431",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 16347,
+    "nombre": "LA CHIMBERA",
+    "codigopostal": "5443",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 16340,
+    "nombre": "LA CIENAGA",
+    "codigopostal": "5463",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19102,
+    "nombre": "LA CIENAGA DE CUMILLANGO",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19496,
+    "nombre": "LA CIENAGUITA",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15973,
+    "nombre": "LA CIENEGUITA",
+    "codigopostal": "5435",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 16007,
+    "nombre": "LA CIENEGUITA",
+    "codigopostal": "5449",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 16008,
+    "nombre": "LA COLONIA",
+    "codigopostal": "5449",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15898,
+    "nombre": "LA COSECHERA",
+    "codigopostal": "5427",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19497,
+    "nombre": "LA CRUZ",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19499,
+    "nombre": "LA ESQUINA",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19103,
+    "nombre": "LA ESQUINA",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19104,
+    "nombre": "LA ESTACA",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18963,
+    "nombre": "LA ESTRECHURA",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15860,
+    "nombre": "LA FALDA",
+    "codigopostal": "5461",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15920,
+    "nombre": "LA FLORIDA",
+    "codigopostal": "5425",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15944,
+    "nombre": "LA GERMANIA",
+    "codigopostal": "5439",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 16009,
+    "nombre": "LA HUERTA",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 16343,
+    "nombre": "LA ISLA",
+    "codigopostal": "5401",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15731,
+    "nombre": "LA LAJA",
+    "codigopostal": "5419",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 16270,
+    "nombre": "LA LEGUA",
+    "codigopostal": "5411",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19105,
+    "nombre": "LA LEGUA",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15722,
+    "nombre": "LA MAJADITA",
+    "codigopostal": "5417",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19500,
+    "nombre": "LA MAJADITA",
+    "codigopostal": "5449",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15822,
+    "nombre": "LA MARAL",
+    "codigopostal": "5465",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 16010,
+    "nombre": "LA MESADA",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15823,
+    "nombre": "LA MORAL",
+    "codigopostal": "5465",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15921,
+    "nombre": "LA ORILLA",
+    "codigopostal": "5425",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19502,
+    "nombre": "LA ORQUETA",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15861,
+    "nombre": "LA OVERA",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19503,
+    "nombre": "LA PENCA",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15778,
+    "nombre": "LA PUNTILLA",
+    "codigopostal": "5442",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15945,
+    "nombre": "LA PUNTILLA",
+    "codigopostal": "5439",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 16011,
+    "nombre": "LA RAMADA",
+    "codigopostal": "5449",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18722,
+    "nombre": "LA RINCONADA",
+    "codigopostal": "5443",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19504,
+    "nombre": "LA RIPIERA",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19505,
+    "nombre": "LA ROSITA",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19507,
+    "nombre": "LA SAL",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19106,
+    "nombre": "LA TOMA",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19107,
+    "nombre": "LA VALENTINA",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15974,
+    "nombre": "LAGUNA DEL ROSARIO",
+    "codigopostal": "5435",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15779,
+    "nombre": "LAGUNA SECA",
+    "codigopostal": "5444",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19508,
+    "nombre": "LAPRIDA",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15862,
+    "nombre": "LAS AGUADITAS",
+    "codigopostal": "5409",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18964,
+    "nombre": "LAS CASITAS",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15711,
+    "nombre": "LAS CASUARINAS",
+    "codigopostal": "5443",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15780,
+    "nombre": "LAS CHACRAS",
+    "codigopostal": "5446",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15803,
+    "nombre": "LAS CHIMBAS",
+    "codigopostal": "5436",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19109,
+    "nombre": "LAS CIENAGAS VERDES",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18966,
+    "nombre": "LAS CUEVAS",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 16012,
+    "nombre": "LAS DELICIAS",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19110,
+    "nombre": "LAS ESPINAS",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15824,
+    "nombre": "LAS FLORES",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19509,
+    "nombre": "LAS HERMANAS",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18967,
+    "nombre": "LAS HIGUERAS",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 16013,
+    "nombre": "LAS HIGUERITAS",
+    "codigopostal": "5449",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18723,
+    "nombre": "LAS HIGUERITAS",
+    "codigopostal": "5443",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18792,
+    "nombre": "LAS HORNILLAS",
+    "codigopostal": "5405",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19511,
+    "nombre": "LAS JUNTAS",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15975,
+    "nombre": "LAS LAGUNAS",
+    "codigopostal": "5435",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18841,
+    "nombre": "LAS LIEBRES",
+    "codigopostal": "5442",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15732,
+    "nombre": "LAS LOMITAS",
+    "codigopostal": "5419",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18968,
+    "nombre": "LAS PE",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15733,
+    "nombre": "LAS PIEDRITAS",
+    "codigopostal": "5419",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19111,
+    "nombre": "LAS PUESTAS",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19512,
+    "nombre": "LAS RAMADITAS",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15781,
+    "nombre": "LAS SALINAS",
+    "codigopostal": "5446",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15742,
+    "nombre": "LAS TAPIAS",
+    "codigopostal": "5415",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 16014,
+    "nombre": "LAS TUMANAS",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19515,
+    "nombre": "LAS YEGUAS",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15922,
+    "nombre": "LLOVERAS",
+    "codigopostal": "5425",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19516,
+    "nombre": "LOMA ANCHA",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19517,
+    "nombre": "LOMA DE COCHO",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19519,
+    "nombre": "LOMA LEONES",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 16015,
+    "nombre": "LOMA NEGRA",
+    "codigopostal": "5449",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19112,
+    "nombre": "LOMA NEGRA",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 16016,
+    "nombre": "LOMAS BLANCAS",
+    "codigopostal": "5449",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18970,
+    "nombre": "LOMAS BLANCAS",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19338,
+    "nombre": "LOMAS DEL AGUADITAS",
+    "codigopostal": "5431",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15946,
+    "nombre": "LOS ANGACOS",
+    "codigopostal": "5439",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 16017,
+    "nombre": "LOS BALDECITOS",
+    "codigopostal": "5449",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 16018,
+    "nombre": "LOS BALDES",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 16019,
+    "nombre": "LOS BALDES DE ASTICA",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 16020,
+    "nombre": "LOS BARRIALES",
+    "codigopostal": "5449",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15976,
+    "nombre": "LOS BERROS",
+    "codigopostal": "5431",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15977,
+    "nombre": "LOS CHA",
+    "codigopostal": "5435",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 16021,
+    "nombre": "LOS CHAVES",
+    "codigopostal": "5449",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18972,
+    "nombre": "LOS COGOTES",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15956,
+    "nombre": "LOS COMPARTOS",
+    "codigopostal": "5439",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15712,
+    "nombre": "LOS CORREDORES",
+    "codigopostal": "5443",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15863,
+    "nombre": "LOS DIAGUITAS",
+    "codigopostal": "5409",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15864,
+    "nombre": "LOS HORNOS",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19520,
+    "nombre": "LOS LAGARES",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18974,
+    "nombre": "LOS LOROS",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15782,
+    "nombre": "LOS MEDANOS",
+    "codigopostal": "5443",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18843,
+    "nombre": "LOS MELLIZOS",
+    "codigopostal": "5442",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 16022,
+    "nombre": "LOS MOLLES",
+    "codigopostal": "5449",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19340,
+    "nombre": "LOS NOGALES",
+    "codigopostal": "5431",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15783,
+    "nombre": "LOS PAPAGAYOS",
+    "codigopostal": "5446",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19669,
+    "nombre": "LOS PARAMILLOS",
+    "codigopostal": "5401",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18975,
+    "nombre": "LOS PENITENTES",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19541,
+    "nombre": "LOS PORONGOS",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15734,
+    "nombre": "LOS PUESTOS",
+    "codigopostal": "5419",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19113,
+    "nombre": "LOS PUESTOS",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15825,
+    "nombre": "LOS QUILLAY",
+    "codigopostal": "5417",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15865,
+    "nombre": "LOS QUIMBALETES",
+    "codigopostal": "5461",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15866,
+    "nombre": "LOS RANCHOS",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 16023,
+    "nombre": "LOS RINCONES",
+    "codigopostal": "5449",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19542,
+    "nombre": "LOS SANCHEZ",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18978,
+    "nombre": "LOS SAPITOS",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15978,
+    "nombre": "LOS SOMBREROS",
+    "codigopostal": "5431",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19114,
+    "nombre": "LOS TERREMOTOS",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15957,
+    "nombre": "LOS VI",
+    "codigopostal": "5438",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18850,
+    "nombre": "LOS VI",
+    "codigopostal": "5413",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15979,
+    "nombre": "LOTE ALVARADO",
+    "codigopostal": "5435",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15785,
+    "nombre": "LOTES DE ALVAREZ",
+    "codigopostal": "5442",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15786,
+    "nombre": "LOTES DE CORIA",
+    "codigopostal": "5442",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15787,
+    "nombre": "LOTES DE URIBURU",
+    "codigopostal": "5442",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15784,
+    "nombre": "LOTES ESCUELA 138",
+    "codigopostal": "5442",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15788,
+    "nombre": "LOTES RIVERA",
+    "codigopostal": "5442",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15958,
+    "nombre": "LUZ DEL MUNDO",
+    "codigopostal": "5411",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15826,
+    "nombre": "MACLACASTO",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18980,
+    "nombre": "MAIPIRINQUI",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18982,
+    "nombre": "MAJADITA",
+    "codigopostal": "5449",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15827,
+    "nombre": "MALIMAN",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18983,
+    "nombre": "MALIMAN ARRIBA",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18984,
+    "nombre": "MALIMAN DE ABAJO",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15828,
+    "nombre": "MANANTIALES",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18793,
+    "nombre": "MANANTIALES",
+    "codigopostal": "5405",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15789,
+    "nombre": "MARAYES",
+    "codigopostal": "5446",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 16429,
+    "nombre": "MARQUESADO",
+    "codigopostal": "5407",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15989,
+    "nombre": "MATAGUSANOS",
+    "codigopostal": "5419",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 16024,
+    "nombre": "MEDANO COLORADO",
+    "codigopostal": "5449",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15923,
+    "nombre": "MEDANO DE ORO",
+    "codigopostal": "5421",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15980,
+    "nombre": "MEDIA AGUA",
+    "codigopostal": "5435",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19544,
+    "nombre": "MESADA AGUADA",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19545,
+    "nombre": "MICA",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19563,
+    "nombre": "MILAGRO",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19115,
+    "nombre": "MINA DE GUACHI",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18986,
+    "nombre": "MINA DE LAS CARACHAS",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19116,
+    "nombre": "MINA EL ALGARROBO",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19117,
+    "nombre": "MINA EL PESCADO",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19118,
+    "nombre": "MINA ESCONDIDA",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19120,
+    "nombre": "MINA GENERAL BELGRANO",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19385,
+    "nombre": "MINA GUALILAN",
+    "codigopostal": "5409",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19121,
+    "nombre": "MINA LA ABUNDANCIA",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19123,
+    "nombre": "MINA LA DELFINA",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19125,
+    "nombre": "MINA LA ESPERANZA",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19129,
+    "nombre": "MINA LA SALAMANTA",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19131,
+    "nombre": "MINA LOS CABALLOS",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19133,
+    "nombre": "MINA MONTOSA",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19134,
+    "nombre": "MINA SAN ANTONIO",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15755,
+    "nombre": "MINA SAN JORGE",
+    "codigopostal": "5403",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 16109,
+    "nombre": "MOGNA",
+    "codigopostal": "5409",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18987,
+    "nombre": "MONDACA",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19564,
+    "nombre": "MORTERITO",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19566,
+    "nombre": "NAQUERA",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15790,
+    "nombre": "NIKISANGA",
+    "codigopostal": "5444",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15867,
+    "nombre": "NIQUIVIL",
+    "codigopostal": "5409",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15868,
+    "nombre": "NIQUIVIL VIEJO",
+    "codigopostal": "5409",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15791,
+    "nombre": "NUEVA CASTILLA",
+    "codigopostal": "5444",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 16348,
+    "nombre": "NUEVA ESPA",
+    "codigopostal": "5443",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 27715,
+    "nombre": "OBISPO ZAPATA",
+    "codigopostal": "5419",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18989,
+    "nombre": "OJOS DE AGUA",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19135,
+    "nombre": "OJOS DE AGUA",
+    "codigopostal": "5461",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15869,
+    "nombre": "OTRA BANDA",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18794,
+    "nombre": "PACHACO",
+    "codigopostal": "5405",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15959,
+    "nombre": "PAJAS BLANCAS",
+    "codigopostal": "5411",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19568,
+    "nombre": "PAMPA DE LOS CABALLOS",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15870,
+    "nombre": "PAMPA DEL CHA",
+    "codigopostal": "5461",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19583,
+    "nombre": "PAMPA GRANDE",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15871,
+    "nombre": "PAMPA VIEJA",
+    "codigopostal": "5461",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15872,
+    "nombre": "PANACAN",
+    "codigopostal": "5461",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 16025,
+    "nombre": "PAPAGAYOS",
+    "codigopostal": "5449",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15743,
+    "nombre": "PAQUITA",
+    "codigopostal": "5415",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 16266,
+    "nombre": "PARAJE BEBIDA",
+    "codigopostal": "5407",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19137,
+    "nombre": "PASLEAM",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19585,
+    "nombre": "PASO DE FERREIRA",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19586,
+    "nombre": "PASO DE LAMAS",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19138,
+    "nombre": "PASO DE OTAROLA",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18992,
+    "nombre": "PASO DEL AGUA NEGRA",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15873,
+    "nombre": "PASO DEL LAMAR",
+    "codigopostal": "5463",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18796,
+    "nombre": "PE",
+    "codigopostal": "5405",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18995,
+    "nombre": "PE",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18997,
+    "nombre": "PE",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15981,
+    "nombre": "PEDERNAL",
+    "codigopostal": "5431",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15960,
+    "nombre": "PEDRO ECHAGUE",
+    "codigopostal": "5436",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15744,
+    "nombre": "PICHAGUAL",
+    "codigopostal": "5415",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 16342,
+    "nombre": "PIE DE PALO",
+    "codigopostal": "5444",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19587,
+    "nombre": "PIEDRA BLANCA",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 20180,
+    "nombre": "PIEDRA COLORADA",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19141,
+    "nombre": "PIEDRA PARADA",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19590,
+    "nombre": "PIEDRA RAJADA",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19000,
+    "nombre": "PIEDRAS BLANCAS",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19591,
+    "nombre": "PILA DE MACHO",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15874,
+    "nombre": "PIMPA",
+    "codigopostal": "5461",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19002,
+    "nombre": "PIRCAS BLANCAS",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19003,
+    "nombre": "PIRCAS NEGRAS",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19005,
+    "nombre": "PISMANIA",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15745,
+    "nombre": "PLUMERILLO",
+    "codigopostal": "5415",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19006,
+    "nombre": "PO CAJON DE LA BREA",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18801,
+    "nombre": "PO DE BARAHONA",
+    "codigopostal": "5405",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18807,
+    "nombre": "PO DE LA GUARDIA",
+    "codigopostal": "5405",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18802,
+    "nombre": "PO DE LAS LLARETAS",
+    "codigopostal": "5405",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18803,
+    "nombre": "PO DE LAS OJOTAS",
+    "codigopostal": "5405",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18804,
+    "nombre": "PO DE LOS PIUQUENES",
+    "codigopostal": "5405",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18805,
+    "nombre": "PO DE LOS TEATINOS",
+    "codigopostal": "5405",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19143,
+    "nombre": "PO DE USNO",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19007,
+    "nombre": "PO DEL CHOLLAY",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19008,
+    "nombre": "PO DEL INCA",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18806,
+    "nombre": "PO DEL PORTILLO",
+    "codigopostal": "5405",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19009,
+    "nombre": "PO LAS TORTOLAS",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15899,
+    "nombre": "POCITO",
+    "codigopostal": "5429",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19011,
+    "nombre": "PORT DE LA PUNILLA",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18808,
+    "nombre": "PORT DE LONGOMICHE",
+    "codigopostal": "5405",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19673,
+    "nombre": "PORT DE LOS SOMBREROS",
+    "codigopostal": "5401",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19387,
+    "nombre": "PORT DEL COLORADO",
+    "codigopostal": "5409",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19012,
+    "nombre": "PORT LAS CARACACHAS",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19593,
+    "nombre": "PORT LAS CHILCAS",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19594,
+    "nombre": "PORT LAS FRANCAS",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19010,
+    "nombre": "PORT SAN GUILLERMO",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19013,
+    "nombre": "PORT SANTA ROSA",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19145,
+    "nombre": "PORTON GRANDE",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19341,
+    "nombre": "POTRANCA",
+    "codigopostal": "5431",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18809,
+    "nombre": "POTRERILLOS",
+    "codigopostal": "5405",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19014,
+    "nombre": "POTREROS LOS AMADORES",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19595,
+    "nombre": "POZO DE AGUADITA",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15792,
+    "nombre": "POZO DE LOS ALGARROBOS",
+    "codigopostal": "5443",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15793,
+    "nombre": "POZO SALADO",
+    "codigopostal": "5442",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15760,
+    "nombre": "PRESBITERO FCO PEREZ HERNADEZ",
+    "codigopostal": "5400",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15924,
+    "nombre": "PRIMER CUARTEL",
+    "codigopostal": "5425",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19151,
+    "nombre": "PTO AG DEL BURRO",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19153,
+    "nombre": "PTO AGUADITA",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19154,
+    "nombre": "PTO AGUADITA DE ABAJO",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19186,
+    "nombre": "PTO ANJULIO",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19596,
+    "nombre": "PTO CHANQUIA",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19605,
+    "nombre": "PTO CHAVEZ",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19675,
+    "nombre": "PTO CORDOVA",
+    "codigopostal": "5401",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19168,
+    "nombre": "PTO CUMILLANGO",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19677,
+    "nombre": "PTO DEL AGUA DE PINTO",
+    "codigopostal": "5401",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19156,
+    "nombre": "PTO DURAZNO",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19170,
+    "nombre": "PTO EL ARBOL LIGUDO",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19678,
+    "nombre": "PTO EL MOLLE",
+    "codigopostal": "5401",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19171,
+    "nombre": "PTO EL SARCO",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19172,
+    "nombre": "PTO EL TORO",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19173,
+    "nombre": "PTO FIGUEROA",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19015,
+    "nombre": "PTO GEN",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19597,
+    "nombre": "PTO GORDILLO",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19606,
+    "nombre": "PTO HUASI",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19175,
+    "nombre": "PTO LA CHILCA",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19187,
+    "nombre": "PTO LA CORTADERA",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19158,
+    "nombre": "PTO LA ESPINA",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19159,
+    "nombre": "PTO LA REPRESA",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19188,
+    "nombre": "PTO LA TUNA",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19160,
+    "nombre": "PTO LA VIRGENCITA",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19674,
+    "nombre": "PTO LAS CUEVAS",
+    "codigopostal": "5401",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19599,
+    "nombre": "PTO LIMA",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19161,
+    "nombre": "PTO LOS ALAMOS",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19680,
+    "nombre": "PTO LOS PAPAGALLOS",
+    "codigopostal": "5401",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19189,
+    "nombre": "PTO LOS POZOS",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19176,
+    "nombre": "PTO MAJADITA",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19163,
+    "nombre": "PTO PAJARITO",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19177,
+    "nombre": "PTO PANTANITO",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19190,
+    "nombre": "PTO PERICO",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19178,
+    "nombre": "PTO PESCADO",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19179,
+    "nombre": "PTO PIMPA",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19191,
+    "nombre": "PTO PORTEZUELO HONDO",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19164,
+    "nombre": "PTO POTRERILLO",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19180,
+    "nombre": "PTO PUNILLA",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19192,
+    "nombre": "PTO RECREO",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19600,
+    "nombre": "PTO ROMERO",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19181,
+    "nombre": "PTO SABATO",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19601,
+    "nombre": "PTO SAN ISIDRO",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18810,
+    "nombre": "PTO SANTA ROSA DE ABAJO",
+    "codigopostal": "5405",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19183,
+    "nombre": "PTO SEGOVIA",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19166,
+    "nombre": "PTO TRAPICHE",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19184,
+    "nombre": "PTO VALLECITO",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19185,
+    "nombre": "PTO VAREJON",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19604,
+    "nombre": "PTO VEGA",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 16352,
+    "nombre": "PUCHUZUN",
+    "codigopostal": "5401",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15961,
+    "nombre": "PUENTE NACIONAL",
+    "codigopostal": "5438",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15962,
+    "nombre": "PUENTE RIO SAN JUAN",
+    "codigopostal": "5438",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15963,
+    "nombre": "PUENTE RUFINO",
+    "codigopostal": "5438",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19609,
+    "nombre": "PUERTA DE LA CHILCA",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19017,
+    "nombre": "PUERTA DEL INFIERNILLO",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18844,
+    "nombre": "PUERTO ALEGRE",
+    "codigopostal": "5442",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18846,
+    "nombre": "PUERTO TAPONES DE MAYA",
+    "codigopostal": "5442",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 20023,
+    "nombre": "PUESTO ANGOSTURA",
+    "codigopostal": "5431",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 20027,
+    "nombre": "PUESTO DE ARRIBA",
+    "codigopostal": "5431",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19350,
+    "nombre": "PUESTO LA CHILCA DE ABAJO",
+    "codigopostal": "5431",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 20029,
+    "nombre": "PUESTO OLGUIN",
+    "codigopostal": "5431",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19246,
+    "nombre": "PUESTO RETIRO",
+    "codigopostal": "5431",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 20032,
+    "nombre": "PUESTO SANTA ROSA",
+    "codigopostal": "5431",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19610,
+    "nombre": "PUNTA BLANCA",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15875,
+    "nombre": "PUNTA DE AGUA",
+    "codigopostal": "5463",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15982,
+    "nombre": "PUNTA DE LAGUNA",
+    "codigopostal": "5435",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15713,
+    "nombre": "PUNTA DEL MEDANO",
+    "codigopostal": "5443",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19352,
+    "nombre": "PUNTA DEL MEDANO",
+    "codigopostal": "5435",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 16345,
+    "nombre": "PUNTA DEL MONTE",
+    "codigopostal": "5415",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19611,
+    "nombre": "PUNTA NORTE",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15794,
+    "nombre": "PUNTILLA",
+    "codigopostal": "5443",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15795,
+    "nombre": "PUNTILLA BLANCA",
+    "codigopostal": "5443",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15947,
+    "nombre": "PUNTILLA BLANCA",
+    "codigopostal": "5439",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15948,
+    "nombre": "PUNTILLA NEGRA",
+    "codigopostal": "5439",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19018,
+    "nombre": "QUILINQUIL",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15900,
+    "nombre": "QUINTO CUARTEL",
+    "codigopostal": "5427",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15901,
+    "nombre": "QUIROGA",
+    "codigopostal": "5435",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15983,
+    "nombre": "RAMBLON",
+    "codigopostal": "5435",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18742,
+    "nombre": "RANCHOS DE FAMACOA",
+    "codigopostal": "5415",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19019,
+    "nombre": "REFUGIO",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19612,
+    "nombre": "REFUGIO",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19388,
+    "nombre": "REFUGIO D P V",
+    "codigopostal": "5409",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19391,
+    "nombre": "REFUGIO LOS GAUCHOS",
+    "codigopostal": "5409",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15984,
+    "nombre": "RETAMITO",
+    "codigopostal": "5435",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19615,
+    "nombre": "RICHARD",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15796,
+    "nombre": "RINCON",
+    "codigopostal": "5442",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15876,
+    "nombre": "RINCON",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19616,
+    "nombre": "RINCON CHICO",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19194,
+    "nombre": "RINCON COLORADO",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19021,
+    "nombre": "RINCON DE LA BREA",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19022,
+    "nombre": "RINCON DE LA OLLITA",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19024,
+    "nombre": "RINCON DE LOS CHINCHILLEROS",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19195,
+    "nombre": "RINCON DEL GATO",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19617,
+    "nombre": "RINCON GRANDE",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15902,
+    "nombre": "RINCONADA",
+    "codigopostal": "5429",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 16026,
+    "nombre": "RINCONES",
+    "codigopostal": "5449",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15877,
+    "nombre": "RIO PALO",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15935,
+    "nombre": "RIO SASO",
+    "codigopostal": "5407",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15936,
+    "nombre": "RIVADAVIA",
+    "codigopostal": "5400",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15829,
+    "nombre": "RODEO",
+    "codigopostal": "5465",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19026,
+    "nombre": "RUINAS INDIGENAS",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15756,
+    "nombre": "RUTA 20 KILOMETRO 114",
+    "codigopostal": "5401",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19624,
+    "nombre": "SAN AGUSTIN DEL VALLE FERTIL",
+    "codigopostal": "5449",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15714,
+    "nombre": "SAN ANTONIO",
+    "codigopostal": "5443",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 16027,
+    "nombre": "SAN ANTONIO",
+    "codigopostal": "5449",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15797,
+    "nombre": "SAN CARLOS",
+    "codigopostal": "5446",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15985,
+    "nombre": "SAN CARLOS",
+    "codigopostal": "5435",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15949,
+    "nombre": "SAN ISIDRO",
+    "codigopostal": "5439",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19196,
+    "nombre": "SAN ISIDRO",
+    "codigopostal": "5461",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15761,
+    "nombre": "SAN JUAN",
+    "codigopostal": "5400",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 16028,
+    "nombre": "SAN JUAN BAUTISTA USNO",
+    "codigopostal": "5449",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15950,
+    "nombre": "SAN MARTIN",
+    "codigopostal": "5439",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15878,
+    "nombre": "SAN ROQUE",
+    "codigopostal": "5409",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15903,
+    "nombre": "SANCHEZ DE LORIA",
+    "codigopostal": "5427",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19618,
+    "nombre": "SANJUANINO",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15879,
+    "nombre": "SANTA BARBARA",
+    "codigopostal": "5409",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15925,
+    "nombre": "SANTA CLARA",
+    "codigopostal": "5425",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19353,
+    "nombre": "SANTA CLARA",
+    "codigopostal": "5431",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15964,
+    "nombre": "SANTA LUCIA",
+    "codigopostal": "5411",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15715,
+    "nombre": "SANTA MARIA DEL ROSARIO",
+    "codigopostal": "5443",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19620,
+    "nombre": "SANTO DOMINGO",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19621,
+    "nombre": "SARMIENTO",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15926,
+    "nombre": "SEGUNDO CUARTEL",
+    "codigopostal": "5425",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15880,
+    "nombre": "SIERRA BILLICUM",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 16029,
+    "nombre": "SIERRA DE CHAVEZ",
+    "codigopostal": "5449",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 16030,
+    "nombre": "SIERRA DE ELIZONDO",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 16031,
+    "nombre": "SIERRA DE RIVERO",
+    "codigopostal": "5449",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 16351,
+    "nombre": "SOROCAYENSE",
+    "codigopostal": "5401",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15990,
+    "nombre": "TALACASTO",
+    "codigopostal": "5400",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15757,
+    "nombre": "TAMBERIAS",
+    "codigopostal": "5401",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15881,
+    "nombre": "TAMBERIAS",
+    "codigopostal": "5461",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19027,
+    "nombre": "TAMBERIAS",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19622,
+    "nombre": "TAMBERIAS",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19197,
+    "nombre": "TAP GALLARDO",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15735,
+    "nombre": "TERMA LA LAJA",
+    "codigopostal": "5419",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15830,
+    "nombre": "TERMA PISMANTA",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19199,
+    "nombre": "TERMAS AGUA HEDIONDA",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19029,
+    "nombre": "TERMAS CENTENARIO",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19200,
+    "nombre": "TERMAS DE AGUA NEGRA",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15724,
+    "nombre": "TIERRA ADENTRO",
+    "codigopostal": "5417",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18739,
+    "nombre": "TIERRA ADENTRO",
+    "codigopostal": "5419",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18811,
+    "nombre": "TIRA LARGA",
+    "codigopostal": "5405",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19030,
+    "nombre": "TOCOTA",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18812,
+    "nombre": "TONTAL",
+    "codigopostal": "5405",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15831,
+    "nombre": "TOTORALITO",
+    "codigopostal": "5465",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15882,
+    "nombre": "TRANCAS",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19201,
+    "nombre": "TRAVESIA DE MOGNA",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15986,
+    "nombre": "TRES ESQUINAS",
+    "codigopostal": "5435",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19031,
+    "nombre": "TRES QUEBRADITAS",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15762,
+    "nombre": "TRINIDAD",
+    "codigopostal": "5400",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15883,
+    "nombre": "TUCUNUCO",
+    "codigopostal": "5409",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15832,
+    "nombre": "TUDCUM",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 16032,
+    "nombre": "TUMANAS",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19202,
+    "nombre": "TUMINICO",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15716,
+    "nombre": "TUPELI",
+    "codigopostal": "5443",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19032,
+    "nombre": "TUTIANCA",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15991,
+    "nombre": "ULLUM",
+    "codigopostal": "5409",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15798,
+    "nombre": "URIBURU",
+    "codigopostal": "5442",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15725,
+    "nombre": "USINA",
+    "codigopostal": "5438",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 16033,
+    "nombre": "USNO",
+    "codigopostal": "5449",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19034,
+    "nombre": "VALLE DEL CURA",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15799,
+    "nombre": "VALLECITO",
+    "codigopostal": "5443",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18724,
+    "nombre": "VALLECITO",
+    "codigopostal": "5443",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19035,
+    "nombre": "VENILLO",
+    "codigopostal": "5467",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15884,
+    "nombre": "VILLA",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19279,
+    "nombre": "VILLA 20 DE JUNIO",
+    "codigopostal": "5411",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15904,
+    "nombre": "VILLA ABERASTAIN",
+    "codigopostal": "5427",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15951,
+    "nombre": "VILLA ALEM",
+    "codigopostal": "5439",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15905,
+    "nombre": "VILLA BARBOZA",
+    "codigopostal": "5427",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 16403,
+    "nombre": "VILLA BASILIO NIEVAS",
+    "codigopostal": "5401",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19270,
+    "nombre": "VILLA BERMEJITO",
+    "codigopostal": "5411",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15717,
+    "nombre": "VILLA BORJAS",
+    "codigopostal": "5443",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 16034,
+    "nombre": "VILLA CARLOTA",
+    "codigopostal": "5449",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15763,
+    "nombre": "VILLA CAROLINA",
+    "codigopostal": "5400",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15800,
+    "nombre": "VILLA COLON",
+    "codigopostal": "5442",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 16350,
+    "nombre": "VILLA CORRAL",
+    "codigopostal": "5401",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 16269,
+    "nombre": "VILLA DEL CARMEN",
+    "codigopostal": "5400",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15746,
+    "nombre": "VILLA DEL SALVADOR",
+    "codigopostal": "5415",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19260,
+    "nombre": "VILLA DOMINGUITO",
+    "codigopostal": "5439",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19272,
+    "nombre": "VILLA ESTEVEZ",
+    "codigopostal": "5411",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15927,
+    "nombre": "VILLA FLEURY",
+    "codigopostal": "5425",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15928,
+    "nombre": "VILLA FRANCA",
+    "codigopostal": "5425",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15747,
+    "nombre": "VILLA GENERAL ACHA",
+    "codigopostal": "5415",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19253,
+    "nombre": "VILLA GENERAL ACHA",
+    "codigopostal": "5425",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19268,
+    "nombre": "VILLA GENERAL LAS HERAS",
+    "codigopostal": "5411",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15736,
+    "nombre": "VILLA GENERAL SAN MARTIN",
+    "codigopostal": "5419",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19355,
+    "nombre": "VILLA GENERAL SARMIENTO",
+    "codigopostal": "5431",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19282,
+    "nombre": "VILLA GOBERNADOR CHAVEZ",
+    "codigopostal": "5411",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15764,
+    "nombre": "VILLA HUASIHUL",
+    "codigopostal": "5400",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15801,
+    "nombre": "VILLA INDEPENDENCIA",
+    "codigopostal": "5443",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19286,
+    "nombre": "VILLA J C SARMIENTO",
+    "codigopostal": "5411",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15804,
+    "nombre": "VILLA JUAN XXIII",
+    "codigopostal": "5413",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15929,
+    "nombre": "VILLA KRAUSE",
+    "codigopostal": "5425",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15930,
+    "nombre": "VILLA LAPRIDA",
+    "codigopostal": "5425",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15931,
+    "nombre": "VILLA LERGA",
+    "codigopostal": "5424",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15952,
+    "nombre": "VILLA LUGANO",
+    "codigopostal": "5439",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19289,
+    "nombre": "VILLA LUZ DEL MUNDO",
+    "codigopostal": "5411",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15765,
+    "nombre": "VILLA MARINI",
+    "codigopostal": "5400",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19681,
+    "nombre": "VILLA MEDIA AGUA",
+    "codigopostal": "5401",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15885,
+    "nombre": "VILLA MERCEDES",
+    "codigopostal": "5461",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15805,
+    "nombre": "VILLA MORRONES",
+    "codigopostal": "5413",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19273,
+    "nombre": "VILLA MU",
+    "codigopostal": "5411",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19300,
+    "nombre": "VILLA N LARRAIN",
+    "codigopostal": "5411",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15906,
+    "nombre": "VILLA NACUSI",
+    "codigopostal": "5427",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 16349,
+    "nombre": "VILLA NUEVA",
+    "codigopostal": "5401",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15937,
+    "nombre": "VILLA OBRERA",
+    "codigopostal": "5407",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18852,
+    "nombre": "VILLA P A DE SARMIENTO",
+    "codigopostal": "5413",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 16237,
+    "nombre": "VILLA PALERMO",
+    "codigopostal": "5400",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19295,
+    "nombre": "VILLA PATRICIAS SANJUANINAS",
+    "codigopostal": "5411",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19277,
+    "nombre": "VILLA PUEYRREDON",
+    "codigopostal": "5411",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15932,
+    "nombre": "VILLA RACHEL",
+    "codigopostal": "5425",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19297,
+    "nombre": "VILLA RIZZO",
+    "codigopostal": "5411",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19298,
+    "nombre": "VILLA RUFINO GOMEZ",
+    "codigopostal": "5411",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15766,
+    "nombre": "VILLA SAN ISIDRO",
+    "codigopostal": "5415",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19250,
+    "nombre": "VILLA SANTA ANITA",
+    "codigopostal": "5423",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15806,
+    "nombre": "VILLA SANTA PAULA",
+    "codigopostal": "5413",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15718,
+    "nombre": "VILLA SANTA ROSA",
+    "codigopostal": "5443",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19275,
+    "nombre": "VILLA SARGENTO CABRAL",
+    "codigopostal": "5411",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15886,
+    "nombre": "VOLCAN",
+    "codigopostal": "5460",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18813,
+    "nombre": "YACIMIENTO DE COBRE EL PACHON",
+    "codigopostal": "5405",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 19626,
+    "nombre": "YERBA BUENA",
+    "codigopostal": "5447",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 16035,
+    "nombre": "YOCA",
+    "codigopostal": "5449",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 15933,
+    "nombre": "ZAVALLA",
+    "codigopostal": "5425",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 16338,
+    "nombre": "ZONDA",
+    "codigopostal": "5401",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  },
+  {
+    "id": 18815,
+    "nombre": "ZONDA",
+    "codigopostal": "5401",
+    "provincia": {
+      "id": 18,
+      "nombre": "San Juan"
+    }
+  }
+]

@@ -1,0 +1,8480 @@
+[
+  {
+    "id": 2114,
+    "nombre": "",
+    "codigopostal": "3072",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2172,
+    "nombre": "",
+    "codigopostal": "3041",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2294,
+    "nombre": "",
+    "codigopostal": "3553",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2104,
+    "nombre": "22 DE MAYO",
+    "codigopostal": "2124",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1890,
+    "nombre": "4 DE FEBRERO",
+    "codigopostal": "2732",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1875,
+    "nombre": "AARON CASTELLANOS",
+    "codigopostal": "6106",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2140,
+    "nombre": "ABIPONES",
+    "codigopostal": "3042",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2054,
+    "nombre": "ACEBAL",
+    "codigopostal": "2109",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 17762,
+    "nombre": "ACHAVAL RODRIGUEZ",
+    "codigopostal": "2344",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1201,
+    "nombre": "ADOLFO ALSINA",
+    "codigopostal": "2311",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2055,
+    "nombre": "AERO CLUB ROSARIO",
+    "codigopostal": "2132",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1366,
+    "nombre": "AGUARA GRANDE",
+    "codigopostal": "3071",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2056,
+    "nombre": "ALBARELLOS",
+    "codigopostal": "2101",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1355,
+    "nombre": "ALCORTA",
+    "codigopostal": "2117",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2187,
+    "nombre": "ALDAO",
+    "codigopostal": "2214",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2115,
+    "nombre": "ALEJANDRA",
+    "codigopostal": "3051",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 18412,
+    "nombre": "ALLENDE",
+    "codigopostal": "3550",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1508,
+    "nombre": "ALTO VERDE",
+    "codigopostal": "3001",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2057,
+    "nombre": "ALVAREZ",
+    "codigopostal": "2107",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2058,
+    "nombre": "ALVEAR",
+    "codigopostal": "2126",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1367,
+    "nombre": "AMBROSETTI",
+    "codigopostal": "2352",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1876,
+    "nombre": "AMENABAR",
+    "codigopostal": "6103",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1438,
+    "nombre": "ANDINO",
+    "codigopostal": "2214",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1509,
+    "nombre": "ANGEL GALLARDO",
+    "codigopostal": "3014",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1202,
+    "nombre": "ANGELICA",
+    "codigopostal": "2303",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2146,
+    "nombre": "ANGELONI",
+    "codigopostal": "3048",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1149,
+    "nombre": "ANTONIO PINI",
+    "codigopostal": "3061",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 17321,
+    "nombre": "AREQUITO",
+    "codigopostal": "2183",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1470,
+    "nombre": "ARIJON",
+    "codigopostal": "2242",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2059,
+    "nombre": "ARMINDA",
+    "codigopostal": "2119",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1150,
+    "nombre": "ARMSTRONG",
+    "codigopostal": "2508",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1471,
+    "nombre": "AROCENA",
+    "codigopostal": "2242",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1510,
+    "nombre": "AROMOS",
+    "codigopostal": "3036",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2141,
+    "nombre": "ARRASCAETA",
+    "codigopostal": "3046",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1511,
+    "nombre": "ARROYO AGUIAR",
+    "codigopostal": "3014",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1949,
+    "nombre": "ARROYO CEIBAL",
+    "codigopostal": "3575",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1950,
+    "nombre": "ARROYO DEL REY",
+    "codigopostal": "3565",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1512,
+    "nombre": "ARROYO LEYES",
+    "codigopostal": "3001",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2060,
+    "nombre": "ARROYO SECO",
+    "codigopostal": "2128",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2112,
+    "nombre": "ARRUFO",
+    "codigopostal": "2344",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2188,
+    "nombre": "ARSENAL DE GUERRA SAN LORENZO",
+    "codigopostal": "2156",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1165,
+    "nombre": "ARTEAGA",
+    "codigopostal": "2187",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1513,
+    "nombre": "ASCOCHINGAS",
+    "codigopostal": "3014",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 18384,
+    "nombre": "ASUNCION MARIA",
+    "codigopostal": "3040",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1203,
+    "nombre": "ATALIVA",
+    "codigopostal": "2307",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1206,
+    "nombre": "AURELIA",
+    "codigopostal": "2318",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 17368,
+    "nombre": "AURELIA NORTE",
+    "codigopostal": "2318",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 17372,
+    "nombre": "AURELIA SUD",
+    "codigopostal": "2318",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1951,
+    "nombre": "AVELLANEDA",
+    "codigopostal": "3561",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2229,
+    "nombre": "AVENA",
+    "codigopostal": "2449",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2142,
+    "nombre": "AVICHUNCHO",
+    "codigopostal": "3040",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1514,
+    "nombre": "BAJO LAS TUNAS",
+    "codigopostal": "3017",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2189,
+    "nombre": "BARLETT",
+    "codigopostal": "2175",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1472,
+    "nombre": "BARRANCAS",
+    "codigopostal": "2246",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1515,
+    "nombre": "BARRANQUITAS",
+    "codigopostal": "3000",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2230,
+    "nombre": "BARRIO BELGRANO ORTIZ",
+    "codigopostal": "2440",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1473,
+    "nombre": "BARRIO CAIMA",
+    "codigopostal": "2242",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1970,
+    "nombre": "BARROS PAZOS",
+    "codigopostal": "3569",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1207,
+    "nombre": "BAUER Y SIGEL",
+    "codigopostal": "2403",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1368,
+    "nombre": "BEALISTOCK",
+    "codigopostal": "2326",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1208,
+    "nombre": "BELLA ITALIA",
+    "codigopostal": "2301",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1166,
+    "nombre": "BERABEVU",
+    "codigopostal": "2639",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1952,
+    "nombre": "BERNA",
+    "codigopostal": "3569",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2061,
+    "nombre": "BERNARD",
+    "codigopostal": "2119",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1474,
+    "nombre": "BERNARDO DE IRIGOYEN",
+    "codigopostal": "2248",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1439,
+    "nombre": "BERRETTA",
+    "codigopostal": "2501",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1167,
+    "nombre": "BIGAND",
+    "codigopostal": "2177",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 18340,
+    "nombre": "BOCA P 25",
+    "codigopostal": "2600",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1334,
+    "nombre": "BOMBAL",
+    "codigopostal": "2179",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2190,
+    "nombre": "BORGHI",
+    "codigopostal": "2156",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1222,
+    "nombre": "BOSSI",
+    "codigopostal": "2326",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1151,
+    "nombre": "BOUQUET",
+    "codigopostal": "2523",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1440,
+    "nombre": "BUSTINZA",
+    "codigopostal": "2501",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1336,
+    "nombre": "CA",
+    "codigopostal": "2105",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1445,
+    "nombre": "CA",
+    "codigopostal": "2500",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1880,
+    "nombre": "CA",
+    "codigopostal": "2635",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2117,
+    "nombre": "CA",
+    "codigopostal": "3052",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2233,
+    "nombre": "CA",
+    "codigopostal": "2454",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2261,
+    "nombre": "CA",
+    "codigopostal": "3551",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1209,
+    "nombre": "CABA",
+    "codigopostal": "2322",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1516,
+    "nombre": "CABAL",
+    "codigopostal": "3036",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1111,
+    "nombre": "CABEZA DE CHANCHO",
+    "codigopostal": "3061",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2143,
+    "nombre": "CACIQUE ARIACAIQUIN",
+    "codigopostal": "3041",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1877,
+    "nombre": "CAFFERATA",
+    "codigopostal": "2643",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2259,
+    "nombre": "CALCHAQUI",
+    "codigopostal": "3050",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1417,
+    "nombre": "CALCHINES",
+    "codigopostal": "3001",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1878,
+    "nombre": "CAMINERA GENERAL LOPEZ",
+    "codigopostal": "2720",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2062,
+    "nombre": "CAMINO MONTE FLORES",
+    "codigopostal": "2126",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1517,
+    "nombre": "CAMPO ANDINO",
+    "codigopostal": "3021",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2144,
+    "nombre": "CAMPO BERRAZ",
+    "codigopostal": "3046",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1369,
+    "nombre": "CAMPO BOTTO",
+    "codigopostal": "2345",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1475,
+    "nombre": "CAMPO BRARDA",
+    "codigopostal": "2248",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2063,
+    "nombre": "CAMPO CALVO",
+    "codigopostal": "2123",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1476,
+    "nombre": "CAMPO CARIGNANO",
+    "codigopostal": "2248",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2231,
+    "nombre": "CAMPO CASTRO",
+    "codigopostal": "2148",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1152,
+    "nombre": "CAMPO CHARO",
+    "codigopostal": "2512",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1210,
+    "nombre": "CAMPO CLUCELLAS",
+    "codigopostal": "2407",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2116,
+    "nombre": "CAMPO COUBERT",
+    "codigopostal": "3056",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1168,
+    "nombre": "CAMPO CRENNA",
+    "codigopostal": "2185",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1518,
+    "nombre": "CAMPO CRESPO",
+    "codigopostal": "3001",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1211,
+    "nombre": "CAMPO DARATTI",
+    "codigopostal": "2307",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1418,
+    "nombre": "CAMPO DEL MEDIO",
+    "codigopostal": "3001",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1953,
+    "nombre": "CAMPO EL ARAZA",
+    "codigopostal": "3569",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1370,
+    "nombre": "CAMPO EL MATACO",
+    "codigopostal": "2342",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2232,
+    "nombre": "CAMPO FAGGIANO",
+    "codigopostal": "2440",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1954,
+    "nombre": "CAMPO FURRER",
+    "codigopostal": "3569",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1477,
+    "nombre": "CAMPO GALLOSO",
+    "codigopostal": "2212",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1955,
+    "nombre": "CAMPO GARABATO",
+    "codigopostal": "3572",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1112,
+    "nombre": "CAMPO GARAY",
+    "codigopostal": "3066",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1478,
+    "nombre": "CAMPO GARCIA",
+    "codigopostal": "2240",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1479,
+    "nombre": "CAMPO GENERO",
+    "codigopostal": "2248",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1153,
+    "nombre": "CAMPO GIMBATTI",
+    "codigopostal": "2508",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1480,
+    "nombre": "CAMPO GIMENEZ",
+    "codigopostal": "2253",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1956,
+    "nombre": "CAMPO GOLA",
+    "codigopostal": "3516",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1957,
+    "nombre": "CAMPO GRANDE",
+    "codigopostal": "3575",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1441,
+    "nombre": "CAMPO HORQUESCO",
+    "codigopostal": "2144",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1468,
+    "nombre": "CAMPO HUBER",
+    "codigopostal": "3555",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1419,
+    "nombre": "CAMPO ITURRASPE",
+    "codigopostal": "3001",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1154,
+    "nombre": "CAMPO LA AMISTAD",
+    "codigopostal": "2508",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1155,
+    "nombre": "CAMPO LA PAZ",
+    "codigopostal": "2512",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1156,
+    "nombre": "CAMPO LA RIVIERE",
+    "codigopostal": "2505",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1519,
+    "nombre": "CAMPO LEHMAN",
+    "codigopostal": "3014",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1281,
+    "nombre": "CAMPO MAGNIN",
+    "codigopostal": "3011",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1442,
+    "nombre": "CAMPO MEDINA",
+    "codigopostal": "2142",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2260,
+    "nombre": "CAMPO MONTE LA VIRUELA",
+    "codigopostal": "3551",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1481,
+    "nombre": "CAMPO MOURE",
+    "codigopostal": "2240",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1169,
+    "nombre": "CAMPO NUEVO",
+    "codigopostal": "2639",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1443,
+    "nombre": "CAMPO PALETTA",
+    "codigopostal": "2206",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1170,
+    "nombre": "CAMPO PESOA",
+    "codigopostal": "2173",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1282,
+    "nombre": "CAMPO QUI",
+    "codigopostal": "2258",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1879,
+    "nombre": "CAMPO QUIRNO",
+    "codigopostal": "2607",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1444,
+    "nombre": "CAMPO RAFFO",
+    "codigopostal": "2216",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1959,
+    "nombre": "CAMPO RAMSEYER",
+    "codigopostal": "3572",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1960,
+    "nombre": "CAMPO REDONDO",
+    "codigopostal": "3581",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1283,
+    "nombre": "CAMPO RODRIGUEZ",
+    "codigopostal": "2255",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1212,
+    "nombre": "CAMPO ROMERO",
+    "codigopostal": "2407",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1335,
+    "nombre": "CAMPO RUEDA",
+    "codigopostal": "2109",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1113,
+    "nombre": "CAMPO SAN JOSE",
+    "codigopostal": "3060",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1157,
+    "nombre": "CAMPO SANTA ISABEL",
+    "codigopostal": "2505",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1520,
+    "nombre": "CAMPO SANTO DOMINGO",
+    "codigopostal": "3020",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1961,
+    "nombre": "CAMPO SIETE provincia",
+    "codigopostal": "3575",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1213,
+    "nombre": "CAMPO TORQUINSTON",
+    "codigopostal": "2403",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 18356,
+    "nombre": "CAMPO UBAJO",
+    "codigopostal": "3560",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1963,
+    "nombre": "CAMPO VERGE",
+    "codigopostal": "3516",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1964,
+    "nombre": "CAMPO YAGUARETE",
+    "codigopostal": "3586",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1469,
+    "nombre": "CAMPO ZAVALLA",
+    "codigopostal": "3045",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1214,
+    "nombre": "CAMPO ZURBRIGGEN",
+    "codigopostal": "2407",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1171,
+    "nombre": "CANDELARIA SUD",
+    "codigopostal": "2170",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1521,
+    "nombre": "CANDIOTI",
+    "codigopostal": "3018",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1965,
+    "nombre": "CAPILLA GUADALUPE NORTE",
+    "codigopostal": "3574",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1215,
+    "nombre": "CAPILLA SAN JOSE",
+    "codigopostal": "2301",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2191,
+    "nombre": "CAPITAN BERMUDEZ",
+    "codigopostal": "2154",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1371,
+    "nombre": "CAPIVARA",
+    "codigopostal": "2311",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2262,
+    "nombre": "CARAGUATAY",
+    "codigopostal": "3557",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2192,
+    "nombre": "CARCARA",
+    "codigopostal": "2138",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1482,
+    "nombre": "CARCEL MODELO CORONDA",
+    "codigopostal": "2240",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1881,
+    "nombre": "CARLOS DOSE",
+    "codigopostal": "2635",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2234,
+    "nombre": "CARLOS PELLEGRINI",
+    "codigopostal": "2453",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1882,
+    "nombre": "CARMEN",
+    "codigopostal": "2618",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2064,
+    "nombre": "CARMEN DEL SAUCE",
+    "codigopostal": "2109",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1883,
+    "nombre": "CARRERAS",
+    "codigopostal": "2729",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1446,
+    "nombre": "CARRIZALES",
+    "codigopostal": "2218",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1216,
+    "nombre": "CASABLANCA",
+    "codigopostal": "2317",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2136,
+    "nombre": "CASALEGNO",
+    "codigopostal": "2248",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2235,
+    "nombre": "CASAS",
+    "codigopostal": "2148",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1172,
+    "nombre": "CASILDA",
+    "codigopostal": "2170",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2237,
+    "nombre": "CASTELAR",
+    "codigopostal": "2401",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1284,
+    "nombre": "CAVOUR",
+    "codigopostal": "3081",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1420,
+    "nombre": "CAYASTA",
+    "codigopostal": "3001",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2145,
+    "nombre": "CAYASTACITO",
+    "codigopostal": "3038",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1483,
+    "nombre": "CENTENO",
+    "codigopostal": "2148",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1337,
+    "nombre": "CEPEDA",
+    "codigopostal": "2105",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2193,
+    "nombre": "CERANA",
+    "codigopostal": "2202",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1372,
+    "nombre": "CERES",
+    "codigopostal": "2340",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 18415,
+    "nombre": "CERRITO",
+    "codigopostal": "3550",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1174,
+    "nombre": "CHA",
+    "codigopostal": "2643",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1173,
+    "nombre": "CHABAS",
+    "codigopostal": "2173",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1884,
+    "nombre": "CHAPUY",
+    "codigopostal": "2603",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 18343,
+    "nombre": "CHATEAUBRIAND",
+    "codigopostal": "2600",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1885,
+    "nombre": "CHOVET",
+    "codigopostal": "2633",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 18092,
+    "nombre": "CICARELLI",
+    "codigopostal": "2500",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1447,
+    "nombre": "CLARKE",
+    "codigopostal": "2218",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1448,
+    "nombre": "CLASON",
+    "codigopostal": "2146",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1522,
+    "nombre": "COLASTINE",
+    "codigopostal": "3001",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1523,
+    "nombre": "COLASTINE NORTE",
+    "codigopostal": "3001",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2263,
+    "nombre": "COLMENA",
+    "codigopostal": "3551",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1285,
+    "nombre": "COLONIA ADOLFO ALSINA",
+    "codigopostal": "3029",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1218,
+    "nombre": "COLONIA ALDAO",
+    "codigopostal": "2317",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1966,
+    "nombre": "COLONIA ALTHUAUS",
+    "codigopostal": "3572",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1373,
+    "nombre": "COLONIA ANA",
+    "codigopostal": "2345",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2236,
+    "nombre": "COLONIA BELGRANO",
+    "codigopostal": "2257",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1219,
+    "nombre": "COLONIA BELLA ITALIA",
+    "codigopostal": "2300",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1374,
+    "nombre": "COLONIA BERLIN",
+    "codigopostal": "2313",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1220,
+    "nombre": "COLONIA BICHA",
+    "codigopostal": "2317",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1221,
+    "nombre": "COLONIA BIGAND",
+    "codigopostal": "2317",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1421,
+    "nombre": "COLONIA CALIFORNIA",
+    "codigopostal": "3005",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1524,
+    "nombre": "COLONIA CAMPO BOTTO",
+    "codigopostal": "3036",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1485,
+    "nombre": "COLONIA CAMPO PIAGGIO",
+    "codigopostal": "2252",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1175,
+    "nombre": "COLONIA CANDELARIA",
+    "codigopostal": "2170",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1223,
+    "nombre": "COLONIA CASTELLANOS",
+    "codigopostal": "2301",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1224,
+    "nombre": "COLONIA CELLO",
+    "codigopostal": "2405",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1375,
+    "nombre": "COLONIA CLARA",
+    "codigopostal": "3025",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2194,
+    "nombre": "COLONIA CLODOMIRA",
+    "codigopostal": "2123",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1484,
+    "nombre": "COLONIA CORONDINA",
+    "codigopostal": "2240",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2147,
+    "nombre": "COLONIA DOLORES",
+    "codigopostal": "3045",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 17811,
+    "nombre": "COLONIA DOS ROSAS Y LA LEGUA",
+    "codigopostal": "2349",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2118,
+    "nombre": "COLONIA DURAN",
+    "codigopostal": "3553",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2195,
+    "nombre": "COLONIA EL CARMEN",
+    "codigopostal": "2138",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2148,
+    "nombre": "COLONIA EL OCHENTA",
+    "codigopostal": "3042",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1376,
+    "nombre": "COLONIA EL SIMBOL",
+    "codigopostal": "3074",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2119,
+    "nombre": "COLONIA EL TOBA",
+    "codigopostal": "3553",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 18358,
+    "nombre": "COLONIA EL VEINTICINCO",
+    "codigopostal": "3560",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1967,
+    "nombre": "COLONIA ELLA",
+    "codigopostal": "3572",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2065,
+    "nombre": "COLONIA ESCRIBANO",
+    "codigopostal": "2103",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1176,
+    "nombre": "COLONIA FERNANDEZ",
+    "codigopostal": "2639",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2120,
+    "nombre": "COLONIA FRANCESA",
+    "codigopostal": "3005",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1177,
+    "nombre": "COLONIA GOMEZ",
+    "codigopostal": "2639",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1178,
+    "nombre": "COLONIA HANSEN",
+    "codigopostal": "2637",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1958,
+    "nombre": "COLONIA HARDY",
+    "codigopostal": "3592",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1114,
+    "nombre": "COLONIA INDEPENDENCIA",
+    "codigopostal": "3066",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1226,
+    "nombre": "COLONIA JOSEFINA",
+    "codigopostal": "2403",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1179,
+    "nombre": "COLONIA LA  CATALANA",
+    "codigopostal": "2637",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1180,
+    "nombre": "COLONIA LA  PALENCIA",
+    "codigopostal": "2639",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1181,
+    "nombre": "COLONIA LA  PELLEGRINI",
+    "codigopostal": "2639",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2149,
+    "nombre": "COLONIA LA BLANCA",
+    "codigopostal": "3052",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1182,
+    "nombre": "COLONIA LA COSTA",
+    "codigopostal": "2170",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2264,
+    "nombre": "COLONIA LA MARIA",
+    "codigopostal": "3056",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2121,
+    "nombre": "COLONIA LA MORA",
+    "codigopostal": "3045",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2265,
+    "nombre": "COLONIA LA NEGRA",
+    "codigopostal": "3054",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2122,
+    "nombre": "COLONIA LA NICOLASA",
+    "codigopostal": "3056",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1286,
+    "nombre": "COLONIA LA NUEVA",
+    "codigopostal": "3081",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2150,
+    "nombre": "COLONIA LA PENCA",
+    "codigopostal": "3045",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2238,
+    "nombre": "COLONIA LA YERBA",
+    "codigopostal": "2451",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1183,
+    "nombre": "COLONIA LAGO DI COMO",
+    "codigopostal": "2187",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 17965,
+    "nombre": "COLONIA LOS ZAPALLOS",
+    "codigopostal": "3003",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1377,
+    "nombre": "COLONIA MACKINLAY",
+    "codigopostal": "2347",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1378,
+    "nombre": "COLONIA MALHMAN SUD",
+    "codigopostal": "2347",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2151,
+    "nombre": "COLONIA MANUEL MENCHACA",
+    "codigopostal": "3046",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1227,
+    "nombre": "COLONIA MARGARITA",
+    "codigopostal": "2443",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2123,
+    "nombre": "COLONIA MASCIAS",
+    "codigopostal": "3001",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1287,
+    "nombre": "COLONIA MATILDE",
+    "codigopostal": "3013",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1228,
+    "nombre": "COLONIA MAUA",
+    "codigopostal": "2311",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1449,
+    "nombre": "COLONIA MEDICI",
+    "codigopostal": "2144",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1115,
+    "nombre": "COLONIA MONTEFIORE",
+    "codigopostal": "2341",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1887,
+    "nombre": "COLONIA MORGAN",
+    "codigopostal": "2609",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1422,
+    "nombre": "COLONIA NUEVA NARCISO",
+    "codigopostal": "3001",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1379,
+    "nombre": "COLONIA ORTIZ",
+    "codigopostal": "2313",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1184,
+    "nombre": "COLONIA PIAMONTESA",
+    "codigopostal": "2639",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1288,
+    "nombre": "COLONIA PUJOL",
+    "codigopostal": "3080",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1229,
+    "nombre": "COLONIA REINA MARGARITA",
+    "codigopostal": "2309",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1380,
+    "nombre": "COLONIA RIPAMONTI",
+    "codigopostal": "2349",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1381,
+    "nombre": "COLONIA ROSA",
+    "codigopostal": "2347",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2124,
+    "nombre": "COLONIA SAGER",
+    "codigopostal": "3553",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1230,
+    "nombre": "COLONIA SAN ANTONIO",
+    "codigopostal": "2301",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2239,
+    "nombre": "COLONIA SAN FRANCISCO",
+    "codigopostal": "2527",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1423,
+    "nombre": "COLONIA SAN JOAQUIN",
+    "codigopostal": "3001",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1968,
+    "nombre": "COLONIA SAN MANUEL",
+    "codigopostal": "3563",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 18375,
+    "nombre": "COLONIA SAN ROQUE",
+    "codigopostal": "3005",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2240,
+    "nombre": "COLONIA SANTA ANITA",
+    "codigopostal": "2451",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1969,
+    "nombre": "COLONIA SANTA CATALINA",
+    "codigopostal": "3572",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1888,
+    "nombre": "COLONIA SANTA LUCIA",
+    "codigopostal": "2609",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1185,
+    "nombre": "COLONIA SANTA NATALIA",
+    "codigopostal": "2639",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2152,
+    "nombre": "COLONIA SILVA",
+    "codigopostal": "3042",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1231,
+    "nombre": "COLONIA TACURALES",
+    "codigopostal": "2324",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2125,
+    "nombre": "COLONIA TERESA",
+    "codigopostal": "3005",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1186,
+    "nombre": "COLONIA TOSCANA PRIMERA",
+    "codigopostal": "2185",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1187,
+    "nombre": "COLONIA TOSCANA SEGUNDA",
+    "codigopostal": "2185",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1450,
+    "nombre": "COLONIA TRES MARIAS",
+    "codigopostal": "2216",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2154,
+    "nombre": "COLONIA TRES REYES",
+    "codigopostal": "3048",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1962,
+    "nombre": "COLONIA URDANIZ",
+    "codigopostal": "3516",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1338,
+    "nombre": "COLONIA VALDEZ",
+    "codigopostal": "2115",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1188,
+    "nombre": "COLONIA VALENCIA",
+    "codigopostal": "2639",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 18360,
+    "nombre": "COLONIA YAGUARETE",
+    "codigopostal": "3560",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1232,
+    "nombre": "CONSTANZA",
+    "codigopostal": "2311",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1525,
+    "nombre": "CONSTITUYENTES",
+    "codigopostal": "3014",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 17667,
+    "nombre": "COPACABANA",
+    "codigopostal": "2919",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1889,
+    "nombre": "CORA",
+    "codigopostal": "2631",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1486,
+    "nombre": "CORONDA",
+    "codigopostal": "2240",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2066,
+    "nombre": "CORONEL AGUIRRE",
+    "codigopostal": "2124",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2196,
+    "nombre": "CORONEL ARNOLD",
+    "codigopostal": "2123",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2067,
+    "nombre": "CORONEL BOGADO",
+    "codigopostal": "2103",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2068,
+    "nombre": "CORONEL DOMINGUEZ",
+    "codigopostal": "2105",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1233,
+    "nombre": "CORONEL FRAGA",
+    "codigopostal": "2301",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1289,
+    "nombre": "CORONEL RODRIGUEZ",
+    "codigopostal": "3013",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1886,
+    "nombre": "CORONEL ROSETI",
+    "codigopostal": "6106",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1451,
+    "nombre": "CORREA",
+    "codigopostal": "2506",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 27855,
+    "nombre": "COSTA DEL TOBA",
+    "codigopostal": "3553",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2069,
+    "nombre": "CRESTA",
+    "codigopostal": "2126",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2241,
+    "nombre": "CRISPI",
+    "codigopostal": "2441",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1234,
+    "nombre": "CRISTOLIA",
+    "codigopostal": "2445",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1382,
+    "nombre": "CUATRO CASAS",
+    "codigopostal": "2313",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1189,
+    "nombre": "CUATRO ESQUINAS",
+    "codigopostal": "2639",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2197,
+    "nombre": "CULLEN",
+    "codigopostal": "2202",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1290,
+    "nombre": "CULULU",
+    "codigopostal": "3023",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1383,
+    "nombre": "CURUPAYTI",
+    "codigopostal": "2342",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2041,
+    "nombre": "DEST AERONAUTICO MILIT RECONQU",
+    "codigopostal": "3567",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1487,
+    "nombre": "DESVIO ARIJON",
+    "codigopostal": "2242",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1235,
+    "nombre": "DESVIO BOERO",
+    "codigopostal": "2415",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2267,
+    "nombre": "DESVIO KILOMETRO 282",
+    "codigopostal": "3551",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1971,
+    "nombre": "DESVIO KILOMETRO 392",
+    "codigopostal": "3551",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2113,
+    "nombre": "DHO",
+    "codigopostal": "3070",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1488,
+    "nombre": "DIAZ",
+    "codigopostal": "2222",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1891,
+    "nombre": "DIEGO DE ALVEAR",
+    "codigopostal": "6036",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1972,
+    "nombre": "DISTRITO 3 ISLETAS",
+    "codigopostal": "3575",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1384,
+    "nombre": "DOCE CASAS",
+    "codigopostal": "2313",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1892,
+    "nombre": "DURHAM",
+    "codigopostal": "2631",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1236,
+    "nombre": "EGUSQUIZA",
+    "codigopostal": "2301",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 18419,
+    "nombre": "EL 38",
+    "codigopostal": "3550",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 18421,
+    "nombre": "EL 44",
+    "codigopostal": "3550",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1385,
+    "nombre": "EL AGUARA",
+    "codigopostal": "3070",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1893,
+    "nombre": "EL ALBERDON",
+    "codigopostal": "6106",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1116,
+    "nombre": "EL AMARGO",
+    "codigopostal": "3060",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1973,
+    "nombre": "EL ARAZA",
+    "codigopostal": "3563",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1339,
+    "nombre": "EL BAGUAL",
+    "codigopostal": "2723",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 17426,
+    "nombre": "EL BAYO",
+    "codigopostal": "2300",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 18425,
+    "nombre": "EL BONETE",
+    "codigopostal": "3550",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1894,
+    "nombre": "EL CANTOR",
+    "codigopostal": "2643",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2070,
+    "nombre": "EL CARAMELO",
+    "codigopostal": "2105",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1974,
+    "nombre": "EL CARMEN DE AVELLANEDA",
+    "codigopostal": "3561",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1975,
+    "nombre": "EL CEIBALITO",
+    "codigopostal": "3575",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 18376,
+    "nombre": "EL CEIBO",
+    "codigopostal": "3005",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 18423,
+    "nombre": "EL CINCUENTA",
+    "codigopostal": "3550",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2268,
+    "nombre": "EL DIECISIETE",
+    "codigopostal": "3553",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1526,
+    "nombre": "EL GALPON",
+    "codigopostal": "3021",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 18378,
+    "nombre": "EL GUSANO",
+    "codigopostal": "3005",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1895,
+    "nombre": "EL JARDIN",
+    "codigopostal": "2732",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1424,
+    "nombre": "EL LAUREL",
+    "codigopostal": "3001",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1117,
+    "nombre": "EL MARIANO",
+    "codigopostal": "3060",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1118,
+    "nombre": "EL NOCHERO",
+    "codigopostal": "3061",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2126,
+    "nombre": "EL PAJARO BLANCO",
+    "codigopostal": "3051",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 18379,
+    "nombre": "EL PARA",
+    "codigopostal": "3005",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1425,
+    "nombre": "EL POZO",
+    "codigopostal": "3001",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1976,
+    "nombre": "EL RABON",
+    "codigopostal": "3592",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1896,
+    "nombre": "EL REFUGIO",
+    "codigopostal": "6103",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1977,
+    "nombre": "EL RICARDITO",
+    "codigopostal": "3572",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 18388,
+    "nombre": "EL SOMBRERERO",
+    "codigopostal": "3046",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1978,
+    "nombre": "EL SOMBRERITO",
+    "codigopostal": "3585",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2269,
+    "nombre": "EL TAJAMAR",
+    "codigopostal": "3565",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1979,
+    "nombre": "EL TAPIALITO",
+    "codigopostal": "3575",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1980,
+    "nombre": "EL TIMBO",
+    "codigopostal": "3561",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2198,
+    "nombre": "EL TRANSITO",
+    "codigopostal": "2202",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2242,
+    "nombre": "EL TREBOL",
+    "codigopostal": "2535",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 17119,
+    "nombre": "EL TRIANGULO",
+    "codigopostal": "3060",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1292,
+    "nombre": "EL TROPEZON",
+    "codigopostal": "3009",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1293,
+    "nombre": "ELISA",
+    "codigopostal": "3029",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1897,
+    "nombre": "ELORTONDO",
+    "codigopostal": "2732",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1527,
+    "nombre": "EMILIA",
+    "codigopostal": "3036",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1294,
+    "nombre": "EMPALME SAN CARLOS",
+    "codigopostal": "3007",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1340,
+    "nombre": "EMPALME VILLA CONSTITUCION",
+    "codigopostal": "2918",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1898,
+    "nombre": "ENCADENADAS",
+    "codigopostal": "2607",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1237,
+    "nombre": "ESMERALDA",
+    "codigopostal": "2456",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2243,
+    "nombre": "ESMERALDITA",
+    "codigopostal": "2401",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1295,
+    "nombre": "ESPERANZA",
+    "codigopostal": "3080",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2270,
+    "nombre": "ESPIN",
+    "codigopostal": "3056",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2155,
+    "nombre": "ESQUINA GRANDE",
+    "codigopostal": "3040",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1899,
+    "nombre": "ESTACION CHRISTOPHERSEN",
+    "codigopostal": "2611",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1238,
+    "nombre": "ESTACION CLUCELLAS",
+    "codigopostal": "2407",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2071,
+    "nombre": "ESTACION ERASTO",
+    "codigopostal": "2119",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1239,
+    "nombre": "ESTACION JOSEFINA",
+    "codigopostal": "2403",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 17434,
+    "nombre": "ESTACION MARIA JUANA",
+    "codigopostal": "2445",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1296,
+    "nombre": "ESTACION MATILDE",
+    "codigopostal": "3013",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1240,
+    "nombre": "ESTACION SAGUIER",
+    "codigopostal": "2315",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 18346,
+    "nombre": "ESTACION TEODELINA",
+    "codigopostal": "2600",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1341,
+    "nombre": "ESTACION VILLA CONSTITUCION",
+    "codigopostal": "2919",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 17109,
+    "nombre": "ESTANCIA ACHALA",
+    "codigopostal": "3060",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1119,
+    "nombre": "ESTANCIA LA CIGUE",
+    "codigopostal": "3060",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 18391,
+    "nombre": "ESTANCIA LA CONSTANCIA",
+    "codigopostal": "3040",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2072,
+    "nombre": "ESTANCIA LA MARIA",
+    "codigopostal": "2105",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2271,
+    "nombre": "ESTANCIA LAS GAMAS",
+    "codigopostal": "3057",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2272,
+    "nombre": "ESTANCIA LOS PALMARES",
+    "codigopostal": "3057",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2273,
+    "nombre": "ESTANCIA PAVENHAN",
+    "codigopostal": "3057",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 18393,
+    "nombre": "ESTANCIA PRUSIA",
+    "codigopostal": "3040",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2073,
+    "nombre": "ESTANCIA SAN ANTONIO",
+    "codigopostal": "2107",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 17851,
+    "nombre": "ESTANCIA SAN FRANCISCO",
+    "codigopostal": "2344",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1120,
+    "nombre": "ESTEBAN RAMS",
+    "codigopostal": "3066",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2156,
+    "nombre": "ESTHER",
+    "codigopostal": "3036",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1241,
+    "nombre": "ESTRADA",
+    "codigopostal": "2409",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1243,
+    "nombre": "EUSTOLIA",
+    "codigopostal": "2407",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1981,
+    "nombre": "EWALD",
+    "codigopostal": "3561",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2199,
+    "nombre": "FABRICA MILITAR SAN LORENZO",
+    "codigopostal": "2156",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 17443,
+    "nombre": "FASSI",
+    "codigopostal": "2300",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1297,
+    "nombre": "FELICIA",
+    "codigopostal": "3087",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1225,
+    "nombre": "FIDELA",
+    "codigopostal": "2301",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2074,
+    "nombre": "FIGHIERA",
+    "codigopostal": "2126",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1900,
+    "nombre": "FIRMAT",
+    "codigopostal": "2630",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2157,
+    "nombre": "FIVES LILLE",
+    "codigopostal": "3054",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1982,
+    "nombre": "FLOR DE ORO",
+    "codigopostal": "3575",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1983,
+    "nombre": "FLORENCIA",
+    "codigopostal": "3516",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1984,
+    "nombre": "FLORIDA",
+    "codigopostal": "3565",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1121,
+    "nombre": "FORTIN ALERTA",
+    "codigopostal": "3066",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1507,
+    "nombre": "FORTIN ALMAGRO",
+    "codigopostal": "3046",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1122,
+    "nombre": "FORTIN ARGENTINA",
+    "codigopostal": "3060",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1123,
+    "nombre": "FORTIN ATAHUALPA",
+    "codigopostal": "3061",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1124,
+    "nombre": "FORTIN CACIQUE",
+    "codigopostal": "3060",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1985,
+    "nombre": "FORTIN CHARRUA",
+    "codigopostal": "3060",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2274,
+    "nombre": "FORTIN CHILCAS",
+    "codigopostal": "3553",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2275,
+    "nombre": "FORTIN OLMOS",
+    "codigopostal": "3553",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1125,
+    "nombre": "FORTIN SEIS DE CABALLERIA",
+    "codigopostal": "3061",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 17132,
+    "nombre": "FORTIN TACURU",
+    "codigopostal": "3060",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1126,
+    "nombre": "FORTIN TOSTADO",
+    "codigopostal": "3060",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1342,
+    "nombre": "FRANCISCO PAZ",
+    "codigopostal": "2111",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1298,
+    "nombre": "FRANCK",
+    "codigopostal": "3009",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2200,
+    "nombre": "FRAY LUIS BELTRAN",
+    "codigopostal": "2156",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1244,
+    "nombre": "FRONTERA",
+    "codigopostal": "2438",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2201,
+    "nombre": "FUENTES",
+    "codigopostal": "2123",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2075,
+    "nombre": "FUNES",
+    "codigopostal": "2132",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1489,
+    "nombre": "GABOTO",
+    "codigopostal": "2208",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1245,
+    "nombre": "GALISTEO",
+    "codigopostal": "2307",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2137,
+    "nombre": "GALVEZ",
+    "codigopostal": "2252",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2276,
+    "nombre": "GARABATO",
+    "codigopostal": "3551",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1246,
+    "nombre": "GARIBALDI",
+    "codigopostal": "2443",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1127,
+    "nombre": "GATO COLORADO",
+    "codigopostal": "3541",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1343,
+    "nombre": "GENERAL GELLY",
+    "codigopostal": "2701",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2076,
+    "nombre": "GENERAL LAGOS",
+    "codigopostal": "2126",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1490,
+    "nombre": "GESSLER",
+    "codigopostal": "2253",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2158,
+    "nombre": "GOBERNADOR CRESPO",
+    "codigopostal": "3044",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1190,
+    "nombre": "GODEKEN",
+    "codigopostal": "2639",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1344,
+    "nombre": "GODOY",
+    "codigopostal": "2921",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1986,
+    "nombre": "GOLONDRINA",
+    "codigopostal": "3551",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2077,
+    "nombre": "GRANADERO B BARGAS",
+    "codigopostal": "2132",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2078,
+    "nombre": "GRANADERO BAIGORRIA",
+    "codigopostal": "2152",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2244,
+    "nombre": "GRANADERO BRASILIO BUSTOS",
+    "codigopostal": "2257",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2202,
+    "nombre": "GRANADEROS",
+    "codigopostal": "2156",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1452,
+    "nombre": "GRANJA SAN MANUEL",
+    "codigopostal": "2501",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1128,
+    "nombre": "GREGORIA PEREZ DE DENIS",
+    "codigopostal": "3061",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1299,
+    "nombre": "GRUTLY",
+    "codigopostal": "3083",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1300,
+    "nombre": "GRUTLY NORTE",
+    "codigopostal": "3083",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1987,
+    "nombre": "GUADALUPE NORTE",
+    "codigopostal": "3574",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2159,
+    "nombre": "GUARANIES",
+    "codigopostal": "3054",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1988,
+    "nombre": "GUASUNCHO",
+    "codigopostal": "3581",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2277,
+    "nombre": "GUAYCURU",
+    "codigopostal": "3551",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1426,
+    "nombre": "HELVECIA",
+    "codigopostal": "3003",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1386,
+    "nombre": "HERSILIA",
+    "codigopostal": "2352",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1301,
+    "nombre": "HIPATIA",
+    "codigopostal": "3023",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1387,
+    "nombre": "HUANQUEROS",
+    "codigopostal": "3076",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1388,
+    "nombre": "HUGENTOBLER",
+    "codigopostal": "2344",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 17450,
+    "nombre": "HUGENTOBLER",
+    "codigopostal": "2317",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1901,
+    "nombre": "HUGHES",
+    "codigopostal": "2725",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1247,
+    "nombre": "HUMBERTO PRIMERO",
+    "codigopostal": "2309",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1302,
+    "nombre": "HUMBOLDT",
+    "codigopostal": "3081",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1303,
+    "nombre": "HUMBOLDT CHICO",
+    "codigopostal": "3081",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2079,
+    "nombre": "IBARLUCEA",
+    "codigopostal": "2142",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1129,
+    "nombre": "INDEPENDENCIA",
+    "codigopostal": "3060",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1873,
+    "nombre": "INGENIERO BOASI",
+    "codigopostal": "3023",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1989,
+    "nombre": "INGENIERO CHANOURDIE",
+    "codigopostal": "3575",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1990,
+    "nombre": "INGENIERO GARMENDIA",
+    "codigopostal": "3586",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1991,
+    "nombre": "INGENIERO GERMANIA",
+    "codigopostal": "3586",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2278,
+    "nombre": "INTIYACO",
+    "codigopostal": "3551",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1491,
+    "nombre": "IRIGOYEN",
+    "codigopostal": "2248",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1528,
+    "nombre": "IRIONDO",
+    "codigopostal": "3018",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1529,
+    "nombre": "ISLA DEL PORTE",
+    "codigopostal": "3001",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1992,
+    "nombre": "ISLA TIGRE",
+    "codigopostal": "3583",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1993,
+    "nombre": "ISLETA",
+    "codigopostal": "3581",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1158,
+    "nombre": "ITURRASPE",
+    "codigopostal": "2521",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1304,
+    "nombre": "ITUZAINGO",
+    "codigopostal": "2311",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1291,
+    "nombre": "JACINTO L ARAUZ",
+    "codigopostal": "3029",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2203,
+    "nombre": "JESUS MARIA",
+    "codigopostal": "2204",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1427,
+    "nombre": "JOSE MACIAS",
+    "codigopostal": "3041",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1248,
+    "nombre": "JOSE MANUEL ESTRADA",
+    "codigopostal": "2403",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1345,
+    "nombre": "JUAN B MOLINA",
+    "codigopostal": "2103",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2204,
+    "nombre": "JUAN ORTIZ",
+    "codigopostal": "2154",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1346,
+    "nombre": "JUNCAL",
+    "codigopostal": "2723",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1249,
+    "nombre": "KILOMETRO 113",
+    "codigopostal": "2407",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1994,
+    "nombre": "KILOMETRO 17",
+    "codigopostal": "3565",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2279,
+    "nombre": "KILOMETRO 213",
+    "codigopostal": "3050",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1995,
+    "nombre": "KILOMETRO 23",
+    "codigopostal": "3589",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1389,
+    "nombre": "KILOMETRO 235",
+    "codigopostal": "3076",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1530,
+    "nombre": "KILOMETRO 28",
+    "codigopostal": "3014",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1130,
+    "nombre": "KILOMETRO 293",
+    "codigopostal": "3066",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1996,
+    "nombre": "KILOMETRO 30",
+    "codigopostal": "3565",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2280,
+    "nombre": "KILOMETRO 302",
+    "codigopostal": "3551",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2205,
+    "nombre": "KILOMETRO 319",
+    "codigopostal": "2154",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1997,
+    "nombre": "KILOMETRO 320",
+    "codigopostal": "3551",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1453,
+    "nombre": "KILOMETRO 323",
+    "codigopostal": "2142",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1531,
+    "nombre": "KILOMETRO 35",
+    "codigopostal": "3014",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1131,
+    "nombre": "KILOMETRO 389",
+    "codigopostal": "3061",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1998,
+    "nombre": "KILOMETRO 392",
+    "codigopostal": "3551",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1902,
+    "nombre": "KILOMETRO 396",
+    "codigopostal": "6106",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1999,
+    "nombre": "KILOMETRO 403",
+    "codigopostal": "3585",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2000,
+    "nombre": "KILOMETRO 408",
+    "codigopostal": "3580",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1532,
+    "nombre": "KILOMETRO 41",
+    "codigopostal": "3020",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2001,
+    "nombre": "KILOMETRO 41",
+    "codigopostal": "3581",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1132,
+    "nombre": "KILOMETRO 421",
+    "codigopostal": "3061",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2002,
+    "nombre": "KILOMETRO 421",
+    "codigopostal": "3585",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2245,
+    "nombre": "KILOMETRO 443",
+    "codigopostal": "2454",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2246,
+    "nombre": "KILOMETRO 465",
+    "codigopostal": "2456",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1133,
+    "nombre": "KILOMETRO 468",
+    "codigopostal": "3061",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1250,
+    "nombre": "KILOMETRO 483",
+    "codigopostal": "2456",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1454,
+    "nombre": "KILOMETRO 49",
+    "codigopostal": "2506",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1533,
+    "nombre": "KILOMETRO 49",
+    "codigopostal": "3023",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2281,
+    "nombre": "KILOMETRO 49",
+    "codigopostal": "3589",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1251,
+    "nombre": "KILOMETRO 501",
+    "codigopostal": "2438",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2282,
+    "nombre": "KILOMETRO 54",
+    "codigopostal": "3589",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2003,
+    "nombre": "KILOMETRO 67",
+    "codigopostal": "3581",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1252,
+    "nombre": "KILOMETRO 85",
+    "codigopostal": "2303",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1534,
+    "nombre": "KILOMETRO 9",
+    "codigopostal": "3000",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2160,
+    "nombre": "KILOMETRO 95",
+    "codigopostal": "3046",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1903,
+    "nombre": "LA ADELAIDA",
+    "codigopostal": "6103",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1904,
+    "nombre": "LA ASTURIANA",
+    "codigopostal": "6106",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2004,
+    "nombre": "LA BLANCA",
+    "codigopostal": "3551",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1134,
+    "nombre": "LA BOMBILLA",
+    "codigopostal": "3060",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2127,
+    "nombre": "LA BRAVA",
+    "codigopostal": "3045",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1390,
+    "nombre": "LA CABRAL",
+    "codigopostal": "3074",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1159,
+    "nombre": "LA CALIFORNIA",
+    "codigopostal": "2520",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1905,
+    "nombre": "LA CALMA",
+    "codigopostal": "6106",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2161,
+    "nombre": "LA CAMILA",
+    "codigopostal": "3054",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 18396,
+    "nombre": "LA CAPILLA",
+    "codigopostal": "3040",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2080,
+    "nombre": "LA CAROLINA",
+    "codigopostal": "2105",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2128,
+    "nombre": "LA CATALINA",
+    "codigopostal": "3572",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1364,
+    "nombre": "LA CELIA",
+    "codigopostal": "2115",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2005,
+    "nombre": "LA CELIA",
+    "codigopostal": "3569",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2081,
+    "nombre": "LA CERAMICA Y CUYO",
+    "codigopostal": "2000",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1906,
+    "nombre": "LA CHISPA",
+    "codigopostal": "2601",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2283,
+    "nombre": "LA CIGUE",
+    "codigopostal": "3057",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1391,
+    "nombre": "LA CLARA",
+    "codigopostal": "3025",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2006,
+    "nombre": "LA CLARITA",
+    "codigopostal": "3585",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2162,
+    "nombre": "LA CLORINDA",
+    "codigopostal": "3021",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1907,
+    "nombre": "LA CONSTANCIA",
+    "codigopostal": "6103",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2163,
+    "nombre": "LA CRIOLLA",
+    "codigopostal": "3052",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2007,
+    "nombre": "LA DIAMELA",
+    "codigopostal": "3569",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1135,
+    "nombre": "LA ELSA",
+    "codigopostal": "2341",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2008,
+    "nombre": "LA ESMERALDA",
+    "codigopostal": "3560",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2284,
+    "nombre": "LA GALLARETA",
+    "codigopostal": "3057",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1908,
+    "nombre": "LA GAMA",
+    "codigopostal": "2615",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2285,
+    "nombre": "LA GUAMPITA",
+    "codigopostal": "3056",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1535,
+    "nombre": "LA GUARDIA",
+    "codigopostal": "3001",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2286,
+    "nombre": "LA HOSCA",
+    "codigopostal": "3050",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1909,
+    "nombre": "LA INES",
+    "codigopostal": "6100",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1910,
+    "nombre": "LA INGLESITA",
+    "codigopostal": "2601",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2009,
+    "nombre": "LA JOSEFINA",
+    "codigopostal": "3565",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2164,
+    "nombre": "LA JULIA",
+    "codigopostal": "3046",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2082,
+    "nombre": "LA LATA",
+    "codigopostal": "2126",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2010,
+    "nombre": "LA LOLA",
+    "codigopostal": "3567",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2129,
+    "nombre": "LA LOMA",
+    "codigopostal": "3555",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1392,
+    "nombre": "LA LUCILA",
+    "codigopostal": "3072",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1136,
+    "nombre": "LA MARINA",
+    "codigopostal": "2341",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1191,
+    "nombre": "LA MERCED",
+    "codigopostal": "2173",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1911,
+    "nombre": "LA MOROCHA",
+    "codigopostal": "2613",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1428,
+    "nombre": "LA NORIA",
+    "codigopostal": "3001",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2287,
+    "nombre": "LA ORIENTAL",
+    "codigopostal": "3054",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1305,
+    "nombre": "LA ORILLA",
+    "codigopostal": "3080",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1347,
+    "nombre": "LA OTHILA",
+    "codigopostal": "2115",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1306,
+    "nombre": "LA PELADA",
+    "codigopostal": "3027",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1912,
+    "nombre": "LA PICASA",
+    "codigopostal": "6036",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1393,
+    "nombre": "LA POLVAREDA",
+    "codigopostal": "3074",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2011,
+    "nombre": "LA POTASA",
+    "codigopostal": "3563",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2012,
+    "nombre": "LA RESERVA",
+    "codigopostal": "3581",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2165,
+    "nombre": "LA ROSA",
+    "codigopostal": "3042",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1394,
+    "nombre": "LA RUBIA",
+    "codigopostal": "2342",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2206,
+    "nombre": "LA SALADA",
+    "codigopostal": "2142",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2013,
+    "nombre": "LA SARITA",
+    "codigopostal": "3563",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2288,
+    "nombre": "LA SARNOSA",
+    "codigopostal": "3057",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2014,
+    "nombre": "LA SELVA",
+    "codigopostal": "3551",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2166,
+    "nombre": "LA SEMENTERA",
+    "codigopostal": "3038",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1348,
+    "nombre": "LA VANGUARDIA",
+    "codigopostal": "2105",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2015,
+    "nombre": "LA VANGUARDIA",
+    "codigopostal": "3561",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1395,
+    "nombre": "LA VERDE",
+    "codigopostal": "3076",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1192,
+    "nombre": "LA VIUDA",
+    "codigopostal": "2183",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2016,
+    "nombre": "LA ZULEMA",
+    "codigopostal": "3551",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1913,
+    "nombre": "LABORDEBOY",
+    "codigopostal": "2726",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1536,
+    "nombre": "LAGUNA PAIVA",
+    "codigopostal": "3020",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1396,
+    "nombre": "LAGUNA VERDE",
+    "codigopostal": "3076",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2247,
+    "nombre": "LANDETA",
+    "codigopostal": "2531",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2017,
+    "nombre": "LANTERI",
+    "codigopostal": "3575",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1455,
+    "nombre": "LARGUIA",
+    "codigopostal": "2144",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1307,
+    "nombre": "LARRECHEA",
+    "codigopostal": "3080",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1492,
+    "nombre": "LARRECHEA",
+    "codigopostal": "2241",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 18363,
+    "nombre": "LAS ANINTAS",
+    "codigopostal": "3560",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 17169,
+    "nombre": "LAS ARENAS",
+    "codigopostal": "3060",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1397,
+    "nombre": "LAS AVISPAS",
+    "codigopostal": "3074",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2138,
+    "nombre": "LAS BANDURRIAS",
+    "codigopostal": "2148",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1429,
+    "nombre": "LAS CA",
+    "codigopostal": "3046",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 18365,
+    "nombre": "LAS CATALINAS",
+    "codigopostal": "3560",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1137,
+    "nombre": "LAS CHU",
+    "codigopostal": "3061",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2018,
+    "nombre": "LAS DELICIAS",
+    "codigopostal": "3551",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1914,
+    "nombre": "LAS DOS ANGELITAS",
+    "codigopostal": "6106",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1915,
+    "nombre": "LAS ENCADENADAS",
+    "codigopostal": "2607",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 18368,
+    "nombre": "LAS GARSITAS",
+    "codigopostal": "3560",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2019,
+    "nombre": "LAS GARZAS",
+    "codigopostal": "3574",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1308,
+    "nombre": "LAS HIGUERITAS",
+    "codigopostal": "3013",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 17312,
+    "nombre": "LAS LIEBRES",
+    "codigopostal": "2520",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2020,
+    "nombre": "LAS MERCEDES",
+    "codigopostal": "3516",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2021,
+    "nombre": "LAS PALMAS",
+    "codigopostal": "3555",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1398,
+    "nombre": "LAS PALMERAS",
+    "codigopostal": "2326",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1160,
+    "nombre": "LAS PAREJAS",
+    "codigopostal": "2505",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2248,
+    "nombre": "LAS PETACAS",
+    "codigopostal": "2451",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2207,
+    "nombre": "LAS QUINTAS",
+    "codigopostal": "2200",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1161,
+    "nombre": "LAS ROSAS",
+    "codigopostal": "2520",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2022,
+    "nombre": "LAS SIETE provincia",
+    "codigopostal": "3575",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2023,
+    "nombre": "LAS TOSCAS",
+    "codigopostal": "3586",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1430,
+    "nombre": "LAS TRES MARIAS",
+    "codigopostal": "3046",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 18155,
+    "nombre": "LAS TROJAS",
+    "codigopostal": "2500",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1309,
+    "nombre": "LAS TUNAS",
+    "codigopostal": "3009",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1537,
+    "nombre": "LASSAGA",
+    "codigopostal": "3036",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1916,
+    "nombre": "LAZZARINO",
+    "codigopostal": "6103",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1253,
+    "nombre": "LEHMANN",
+    "codigopostal": "2305",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2083,
+    "nombre": "LICEO AERONAUTICO MILITAR",
+    "codigopostal": "2132",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2084,
+    "nombre": "LINKS",
+    "codigopostal": "2132",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1538,
+    "nombre": "LLAMBI CAMPBELL",
+    "codigopostal": "3036",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1138,
+    "nombre": "LOGRO",
+    "codigopostal": "3066",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1493,
+    "nombre": "LOMA ALTA",
+    "codigopostal": "2253",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1349,
+    "nombre": "LOMA VERDE",
+    "codigopostal": "2117",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1494,
+    "nombre": "LOPEZ",
+    "codigopostal": "2255",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2289,
+    "nombre": "LOS AMORES",
+    "codigopostal": "3551",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1917,
+    "nombre": "LOS ARCOS",
+    "codigopostal": "2720",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2130,
+    "nombre": "LOS CARDENALES",
+    "codigopostal": "3005",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2249,
+    "nombre": "LOS CARDOS",
+    "codigopostal": "2533",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1431,
+    "nombre": "LOS CERRILLOS",
+    "codigopostal": "3001",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1139,
+    "nombre": "LOS CHARABONES",
+    "codigopostal": "3060",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2024,
+    "nombre": "LOS CLAROS",
+    "codigopostal": "3551",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2131,
+    "nombre": "LOS CORRALITOS",
+    "codigopostal": "3051",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2132,
+    "nombre": "LOS CUERVOS",
+    "codigopostal": "3555",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2290,
+    "nombre": "LOS GALPONES",
+    "codigopostal": "3050",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1539,
+    "nombre": "LOS HORNOS",
+    "codigopostal": "3021",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2025,
+    "nombre": "LOS LAPACHOS",
+    "codigopostal": "3575",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2026,
+    "nombre": "LOS LAURELES",
+    "codigopostal": "3567",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1456,
+    "nombre": "LOS LEONES",
+    "codigopostal": "2146",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2027,
+    "nombre": "LOS LEONES",
+    "codigopostal": "3551",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1193,
+    "nombre": "LOS MOLINOS",
+    "codigopostal": "2181",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1399,
+    "nombre": "LOS MOLLES",
+    "codigopostal": "3070",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2085,
+    "nombre": "LOS MUCHACHOS",
+    "codigopostal": "2105",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1194,
+    "nombre": "LOS NOGALES",
+    "codigopostal": "2183",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2167,
+    "nombre": "LOS OLIVOS",
+    "codigopostal": "3046",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2133,
+    "nombre": "LOS OSOS",
+    "codigopostal": "3051",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2291,
+    "nombre": "LOS PALMARES",
+    "codigopostal": "3057",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1195,
+    "nombre": "LOS QUIRQUINCHOS",
+    "codigopostal": "2637",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2168,
+    "nombre": "LOS SALADILLOS",
+    "codigopostal": "3041",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1254,
+    "nombre": "LOS SEMBRADOS",
+    "codigopostal": "2447",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2292,
+    "nombre": "LOS TABANOS DESVIO KM 366",
+    "codigopostal": "3551",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2169,
+    "nombre": "LUCIANO LEIVA",
+    "codigopostal": "3048",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1457,
+    "nombre": "LUCIO V LOPEZ",
+    "codigopostal": "2142",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2208,
+    "nombre": "LUIS PALACIOS",
+    "codigopostal": "2142",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1495,
+    "nombre": "MACIEL",
+    "codigopostal": "2208",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1918,
+    "nombre": "MAGGIOLO",
+    "codigopostal": "2622",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2209,
+    "nombre": "MAIZALES",
+    "codigopostal": "2119",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2028,
+    "nombre": "MALABRIGO",
+    "codigopostal": "3572",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1255,
+    "nombre": "MANGORE",
+    "codigopostal": "2445",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1540,
+    "nombre": "MANUCHO",
+    "codigopostal": "3023",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2170,
+    "nombre": "MARCELINO ESCALADA",
+    "codigopostal": "3042",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2293,
+    "nombre": "MARGARITA",
+    "codigopostal": "3056",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1400,
+    "nombre": "MARIA EUGENIA",
+    "codigopostal": "3072",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1256,
+    "nombre": "MARIA JUANA",
+    "codigopostal": "2445",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1310,
+    "nombre": "MARIA LUISA",
+    "codigopostal": "3025",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1458,
+    "nombre": "MARIA LUISA CORREA",
+    "codigopostal": "2501",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2250,
+    "nombre": "MARIA SUSANA",
+    "codigopostal": "2527",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1919,
+    "nombre": "MARIA TERESA",
+    "codigopostal": "2609",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1311,
+    "nombre": "MARIANO SAAVEDRA",
+    "codigopostal": "3011",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1261,
+    "nombre": "MARINI",
+    "codigopostal": "2301",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 18401,
+    "nombre": "MASCIAS",
+    "codigopostal": "3041",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1350,
+    "nombre": "MAXIMO PAZ",
+    "codigopostal": "2115",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1920,
+    "nombre": "MELINCUE",
+    "codigopostal": "2728",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1921,
+    "nombre": "MERCEDITAS",
+    "codigopostal": "2725",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2171,
+    "nombre": "MIGUEL ESCALADA",
+    "codigopostal": "3046",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1925,
+    "nombre": "MIGUEL TORRES",
+    "codigopostal": "2631",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1922,
+    "nombre": "MIRAMAR",
+    "codigopostal": "6106",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2029,
+    "nombre": "MOCOVI",
+    "codigopostal": "3581",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1401,
+    "nombre": "MOISES VILLE",
+    "codigopostal": "2313",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1257,
+    "nombre": "MONIGOTES",
+    "codigopostal": "2342",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1496,
+    "nombre": "MONJE",
+    "codigopostal": "2212",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2086,
+    "nombre": "MONTE FLORES",
+    "codigopostal": "2101",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1402,
+    "nombre": "MONTE OSCURIDAD",
+    "codigopostal": "2349",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1541,
+    "nombre": "MONTE VERA",
+    "codigopostal": "3014",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1162,
+    "nombre": "MONTES DE OCA",
+    "codigopostal": "2521",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2030,
+    "nombre": "MOUSSY",
+    "codigopostal": "3561",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1923,
+    "nombre": "MURPHY",
+    "codigopostal": "2601",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1403,
+    "nombre": "MUTCHNIK",
+    "codigopostal": "2313",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2173,
+    "nombre": "NARE",
+    "codigopostal": "3046",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1542,
+    "nombre": "NELSON",
+    "codigopostal": "3032",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2031,
+    "nombre": "NICANOR E MOLINAS",
+    "codigopostal": "3563",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1140,
+    "nombre": "NUEVA ITALIA",
+    "codigopostal": "3074",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1543,
+    "nombre": "NUEVA POMPEYA",
+    "codigopostal": "3014",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2174,
+    "nombre": "NUEVA UKRANIA",
+    "codigopostal": "3046",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1312,
+    "nombre": "NUEVO TORINO",
+    "codigopostal": "3087",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2032,
+    "nombre": "OBRAJE INDIO MUERTO",
+    "codigopostal": "3589",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2033,
+    "nombre": "OBRAJE SAN JUAN",
+    "codigopostal": "3589",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2295,
+    "nombre": "OGILVIE",
+    "codigopostal": "3551",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1459,
+    "nombre": "OLIVEROS",
+    "codigopostal": "2206",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 18381,
+    "nombre": "OMBU NORTE",
+    "codigopostal": "3005",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1351,
+    "nombre": "ORATORIO MORANTE",
+    "codigopostal": "2921",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1497,
+    "nombre": "ORO",
+    "codigopostal": "2253",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1924,
+    "nombre": "OTTO BEMBERG",
+    "codigopostal": "2605",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1141,
+    "nombre": "PADRE PEDRO ITURRALDE",
+    "codigopostal": "3061",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2087,
+    "nombre": "PAGANINI",
+    "codigopostal": "2152",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2175,
+    "nombre": "PAIKIN",
+    "codigopostal": "3046",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1258,
+    "nombre": "PALACIOS",
+    "codigopostal": "2326",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2296,
+    "nombre": "PARAJE 29",
+    "codigopostal": "3553",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 18429,
+    "nombre": "PARAJE KILOMETRO 12",
+    "codigopostal": "3550",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2297,
+    "nombre": "PARAJE TRAGNAGHI",
+    "codigopostal": "3551",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1544,
+    "nombre": "PASO VINAL",
+    "codigopostal": "3080",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2034,
+    "nombre": "PAUL GROUSSAC",
+    "codigopostal": "3585",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2298,
+    "nombre": "PAVENHAN",
+    "codigopostal": "3057",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1352,
+    "nombre": "PAVON",
+    "codigopostal": "2918",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1353,
+    "nombre": "PAVON ARRIBA",
+    "codigopostal": "2109",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2176,
+    "nombre": "PEDRO GOMEZ CELLO",
+    "codigopostal": "3054",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2088,
+    "nombre": "PEREYRA LUCENA",
+    "codigopostal": "2105",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2089,
+    "nombre": "PEREZ",
+    "codigopostal": "2121",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1313,
+    "nombre": "PERICOTA",
+    "codigopostal": "3025",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1404,
+    "nombre": "PETRONILA",
+    "codigopostal": "3046",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1354,
+    "nombre": "PEYRANO",
+    "codigopostal": "2113",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 27664,
+    "nombre": "PI",
+    "codigopostal": "2119",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2251,
+    "nombre": "PIAMONTE",
+    "codigopostal": "2529",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1314,
+    "nombre": "PILAR",
+    "codigopostal": "3085",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2210,
+    "nombre": "PINO DE SAN LORENZO",
+    "codigopostal": "2200",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1545,
+    "nombre": "PIQUETE",
+    "codigopostal": "3000",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1217,
+    "nombre": "PLAZA CLUCELLAS",
+    "codigopostal": "2407",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1546,
+    "nombre": "POMPEYA",
+    "codigopostal": "3014",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1142,
+    "nombre": "PORTALIS",
+    "codigopostal": "3066",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1405,
+    "nombre": "PORTUGALETE",
+    "codigopostal": "3071",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2035,
+    "nombre": "POTRERO GUASUNCHO",
+    "codigopostal": "3589",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1143,
+    "nombre": "POZO BORRADO",
+    "codigopostal": "3061",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2299,
+    "nombre": "POZO DE LOS INDIOS",
+    "codigopostal": "3551",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1259,
+    "nombre": "PRESIDENTE ROCA",
+    "codigopostal": "2301",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1315,
+    "nombre": "PROGRESO",
+    "codigopostal": "3023",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1316,
+    "nombre": "PROVIDENCIA",
+    "codigopostal": "3025",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1317,
+    "nombre": "PUEBLO ABC",
+    "codigopostal": "3080",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1196,
+    "nombre": "PUEBLO AREQUITO",
+    "codigopostal": "2183",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1547,
+    "nombre": "PUEBLO CANDIOTI",
+    "codigopostal": "3000",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2090,
+    "nombre": "PUEBLO ESTHER",
+    "codigopostal": "2126",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 18431,
+    "nombre": "PUEBLO GOLONDRINA",
+    "codigopostal": "3551",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2211,
+    "nombre": "PUEBLO KIRSTON",
+    "codigopostal": "2202",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1260,
+    "nombre": "PUEBLO MARIA JUANA",
+    "codigopostal": "2445",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2091,
+    "nombre": "PUEBLO MU",
+    "codigopostal": "2119",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1144,
+    "nombre": "PUEBLO NUEVO",
+    "codigopostal": "2124",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1263,
+    "nombre": "PUEBLO SAN ANTONIO",
+    "codigopostal": "2301",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 17481,
+    "nombre": "PUEBLO TERRAGNI",
+    "codigopostal": "2300",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1498,
+    "nombre": "PUENTE COLASTINE",
+    "codigopostal": "2242",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1499,
+    "nombre": "PUERTO ARAGON",
+    "codigopostal": "2246",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2212,
+    "nombre": "PUERTO DE SAN LORENZO",
+    "codigopostal": "2200",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1500,
+    "nombre": "PUERTO GABOTO",
+    "codigopostal": "2208",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2213,
+    "nombre": "PUERTO GRAL SAN MARTIN",
+    "codigopostal": "2202",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2036,
+    "nombre": "PUERTO OCAMPO",
+    "codigopostal": "3580",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2037,
+    "nombre": "PUERTO PIRACUA",
+    "codigopostal": "3516",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2038,
+    "nombre": "PUERTO PIRACUACITO",
+    "codigopostal": "3592",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2039,
+    "nombre": "PUERTO RECONQUISTA",
+    "codigopostal": "3567",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2214,
+    "nombre": "PUJATO",
+    "codigopostal": "2123",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1318,
+    "nombre": "PUJATO NORTE",
+    "codigopostal": "3080",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 18354,
+    "nombre": "RABIOLA",
+    "codigopostal": "2600",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1264,
+    "nombre": "RAFAELA",
+    "codigopostal": "2300",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2178,
+    "nombre": "RAMAYON",
+    "codigopostal": "3042",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1262,
+    "nombre": "RAMONA",
+    "codigopostal": "2301",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1265,
+    "nombre": "RAQUEL",
+    "codigopostal": "2322",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1926,
+    "nombre": "RASTREADOR FOURNIER",
+    "codigopostal": "2605",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2040,
+    "nombre": "RECONQUISTA",
+    "codigopostal": "3560",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1548,
+    "nombre": "RECREO",
+    "codigopostal": "3018",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1432,
+    "nombre": "RECREO SUR",
+    "codigopostal": "3001",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1266,
+    "nombre": "REINA MARGARITA",
+    "codigopostal": "2309",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1549,
+    "nombre": "REYNALDO CULLEN",
+    "codigopostal": "3020",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2215,
+    "nombre": "RICARDONE",
+    "codigopostal": "2201",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1501,
+    "nombre": "RIGBY",
+    "codigopostal": "2255",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1460,
+    "nombre": "RINCON DE GRONDONA",
+    "codigopostal": "2206",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1406,
+    "nombre": "RINCON DE SAN ANTONIO",
+    "codigopostal": "3046",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1267,
+    "nombre": "RINCON DE TACURALES",
+    "codigopostal": "2317",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1319,
+    "nombre": "RINCON DEL PINTADO",
+    "codigopostal": "3080",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1407,
+    "nombre": "RINCON DEL QUEBRACHO",
+    "codigopostal": "3025",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1550,
+    "nombre": "RINCON NORTE",
+    "codigopostal": "3001",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1551,
+    "nombre": "RINCON POTREROS",
+    "codigopostal": "3001",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1552,
+    "nombre": "RINLON DE AVILA",
+    "codigopostal": "3023",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1553,
+    "nombre": "RIO SALADO",
+    "codigopostal": "3036",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1320,
+    "nombre": "RIVADAVIA",
+    "codigopostal": "3081",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1356,
+    "nombre": "RODOLFO ALCORTA",
+    "codigopostal": "2115",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2216,
+    "nombre": "ROLDAN",
+    "codigopostal": "2134",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2134,
+    "nombre": "ROMANG",
+    "codigopostal": "3555",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 20949,
+    "nombre": "ROSARIO",
+    "codigopostal": "2000",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1357,
+    "nombre": "RUEDA",
+    "codigopostal": "2921",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1927,
+    "nombre": "RUFINO",
+    "codigopostal": "6100",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1433,
+    "nombre": "RUINAS SANTA FE LA VIEJA",
+    "codigopostal": "3001",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1928,
+    "nombre": "RUNCIMAN",
+    "codigopostal": "2611",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1321,
+    "nombre": "SA PEREYRA",
+    "codigopostal": "3011",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1268,
+    "nombre": "SAGUIER",
+    "codigopostal": "2301",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1434,
+    "nombre": "SALADERO M CABAL",
+    "codigopostal": "3001",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1461,
+    "nombre": "SALTO GRANDE",
+    "codigopostal": "2142",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1322,
+    "nombre": "SAN AGUSTIN",
+    "codigopostal": "3017",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2042,
+    "nombre": "SAN ALBERTO",
+    "codigopostal": "3565",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2043,
+    "nombre": "SAN ANTONIO DE OBLIGADO",
+    "codigopostal": "3587",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2177,
+    "nombre": "SAN BERNARDO",
+    "codigopostal": "3048",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 17209,
+    "nombre": "SAN BERNARDO",
+    "codigopostal": "3061",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1929,
+    "nombre": "SAN CARLOS",
+    "codigopostal": "6106",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1323,
+    "nombre": "SAN CARLOS CENTRO",
+    "codigopostal": "3013",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1324,
+    "nombre": "SAN CARLOS NORTE",
+    "codigopostal": "3009",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1325,
+    "nombre": "SAN CARLOS SUD",
+    "codigopostal": "3013",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1408,
+    "nombre": "SAN CRISTOBAL",
+    "codigopostal": "3070",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1930,
+    "nombre": "SAN EDUARDO",
+    "codigopostal": "2615",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1462,
+    "nombre": "SAN ESTANISLAO",
+    "codigopostal": "2501",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 15702,
+    "nombre": "SAN EUGENIO",
+    "codigopostal": "2253",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1502,
+    "nombre": "SAN FABIAN",
+    "codigopostal": "2242",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1931,
+    "nombre": "SAN FRANCISCO DE SANTA FE",
+    "codigopostal": "2601",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1503,
+    "nombre": "SAN GENARO",
+    "codigopostal": "2146",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1504,
+    "nombre": "SAN GENARO NORTE",
+    "codigopostal": "2147",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2217,
+    "nombre": "SAN GERONIMO",
+    "codigopostal": "2136",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1932,
+    "nombre": "SAN GREGORIO",
+    "codigopostal": "2613",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1163,
+    "nombre": "SAN GUILLERMO",
+    "codigopostal": "2512",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1409,
+    "nombre": "SAN GUILLERMO",
+    "codigopostal": "2347",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1554,
+    "nombre": "SAN GUILLERMO",
+    "codigopostal": "3020",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2135,
+    "nombre": "SAN JAVIER",
+    "codigopostal": "3005",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1326,
+    "nombre": "SAN JERONIMO DEL SAUCE",
+    "codigopostal": "3009",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1327,
+    "nombre": "SAN JERONIMO NORTE",
+    "codigopostal": "3011",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2218,
+    "nombre": "SAN JERONIMO SUR",
+    "codigopostal": "2136",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1435,
+    "nombre": "SAN JOAQUIN",
+    "codigopostal": "3001",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2252,
+    "nombre": "SAN JORGE",
+    "codigopostal": "2451",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 27663,
+    "nombre": "SAN JOSE",
+    "codigopostal": "3016",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1197,
+    "nombre": "SAN JOSE DE LA ESQUINA",
+    "codigopostal": "2185",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1556,
+    "nombre": "SAN JOSE DEL RINCON",
+    "codigopostal": "3001",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2253,
+    "nombre": "SAN JOSE FRONTERA",
+    "codigopostal": "2401",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2179,
+    "nombre": "SAN JUSTO",
+    "codigopostal": "3040",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2219,
+    "nombre": "SAN LORENZO",
+    "codigopostal": "2200",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1933,
+    "nombre": "SAN MARCELO",
+    "codigopostal": "6009",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1934,
+    "nombre": "SAN MARCOS DE VENADO TUERTO",
+    "codigopostal": "2600",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1328,
+    "nombre": "SAN MARIANO",
+    "codigopostal": "3011",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2254,
+    "nombre": "SAN MARTIN DE LAS ESCOBAS",
+    "codigopostal": "2449",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2139,
+    "nombre": "SAN MARTIN DE TOURS",
+    "codigopostal": "2255",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2180,
+    "nombre": "SAN MARTIN NORTE",
+    "codigopostal": "3045",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1269,
+    "nombre": "SAN MIGUEL",
+    "codigopostal": "2309",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1557,
+    "nombre": "SAN PEDRO",
+    "codigopostal": "3021",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1558,
+    "nombre": "SAN PEDRO NORTE",
+    "codigopostal": "3021",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1559,
+    "nombre": "SAN PEDRO SUR",
+    "codigopostal": "3014",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1464,
+    "nombre": "SAN RICARDO",
+    "codigopostal": "2501",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2044,
+    "nombre": "SAN ROQUE",
+    "codigopostal": "3553",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2100,
+    "nombre": "SAN SEBASTIAN",
+    "codigopostal": "2121",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1935,
+    "nombre": "SAN URBANO",
+    "codigopostal": "2728",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1270,
+    "nombre": "SAN VICENTE",
+    "codigopostal": "2447",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2045,
+    "nombre": "SAN VICENTE",
+    "codigopostal": "3580",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1936,
+    "nombre": "SANCTI SPIRITU",
+    "codigopostal": "2617",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1198,
+    "nombre": "SANFORD",
+    "codigopostal": "2173",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2046,
+    "nombre": "SANTA ANA",
+    "codigopostal": "3575",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1874,
+    "nombre": "SANTA CLARA",
+    "codigopostal": "2258",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1329,
+    "nombre": "SANTA CLARA DE BUENA VISTA",
+    "codigopostal": "2258",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1271,
+    "nombre": "SANTA CLARA DE SAGUIER",
+    "codigopostal": "2405",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1937,
+    "nombre": "SANTA EMILIA",
+    "codigopostal": "2725",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1242,
+    "nombre": "SANTA EUSEBIA",
+    "codigopostal": "2317",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 16391,
+    "nombre": "SANTA FE",
+    "codigopostal": "3000",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2300,
+    "nombre": "SANTA FELICIA",
+    "codigopostal": "3551",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1938,
+    "nombre": "SANTA ISABEL",
+    "codigopostal": "2605",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2301,
+    "nombre": "SANTA LUCIA",
+    "codigopostal": "3553",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1145,
+    "nombre": "SANTA MARGARITA",
+    "codigopostal": "3061",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1330,
+    "nombre": "SANTA MARIA CENTRO",
+    "codigopostal": "3011",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 27831,
+    "nombre": "SANTA MARIA NORTE",
+    "codigopostal": "3011",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1199,
+    "nombre": "SANTA NATALIA",
+    "codigopostal": "2639",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1939,
+    "nombre": "SANTA PAULA",
+    "codigopostal": "6106",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1436,
+    "nombre": "SANTA ROSA DE CALCHINES",
+    "codigopostal": "3001",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1358,
+    "nombre": "SANTA TERESA",
+    "codigopostal": "2111",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 18350,
+    "nombre": "SANTA TERESA",
+    "codigopostal": "6106",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1331,
+    "nombre": "SANTO DOMINGO",
+    "codigopostal": "3025",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1864,
+    "nombre": "SANTO TOME",
+    "codigopostal": "3016",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1410,
+    "nombre": "SANTURCE",
+    "codigopostal": "3074",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1359,
+    "nombre": "SARGENTO CABRAL",
+    "codigopostal": "2105",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1332,
+    "nombre": "SARMIENTO",
+    "codigopostal": "3023",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2255,
+    "nombre": "SASTRE",
+    "codigopostal": "2440",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1865,
+    "nombre": "SAUCE VIEJO",
+    "codigopostal": "3017",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 18407,
+    "nombre": "SCHIFFNER",
+    "codigopostal": "2451",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2220,
+    "nombre": "SEMINO",
+    "codigopostal": "2138",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1465,
+    "nombre": "SERODINO",
+    "codigopostal": "2216",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1866,
+    "nombre": "SETUBAL",
+    "codigopostal": "3014",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 17491,
+    "nombre": "SIERRA PEREYRA",
+    "codigopostal": "2300",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 17217,
+    "nombre": "SIN PEREZA",
+    "codigopostal": "3060",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2153,
+    "nombre": "SOL DE MAYO",
+    "codigopostal": "3048",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2101,
+    "nombre": "SOLDINI",
+    "codigopostal": "2107",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2181,
+    "nombre": "SOLEDAD",
+    "codigopostal": "3025",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2182,
+    "nombre": "SOUTOMAYOR",
+    "codigopostal": "3025",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1360,
+    "nombre": "STEPHENSON",
+    "codigopostal": "2103",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1411,
+    "nombre": "SUARDI",
+    "codigopostal": "2349",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1272,
+    "nombre": "SUNCHALES",
+    "codigopostal": "2322",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1273,
+    "nombre": "SUSANA",
+    "codigopostal": "2301",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2047,
+    "nombre": "TACUARENDI",
+    "codigopostal": "3587",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1274,
+    "nombre": "TACURAL",
+    "codigopostal": "2324",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2256,
+    "nombre": "TAIS",
+    "codigopostal": "2535",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2102,
+    "nombre": "TALLERES",
+    "codigopostal": "2121",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1940,
+    "nombre": "TARRAGONA",
+    "codigopostal": "6103",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2302,
+    "nombre": "TARTAGAL",
+    "codigopostal": "3565",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1941,
+    "nombre": "TEODELINA",
+    "codigopostal": "6009",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1361,
+    "nombre": "THEOBALD",
+    "codigopostal": "2918",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2221,
+    "nombre": "TIMBUES",
+    "codigopostal": "2204",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2303,
+    "nombre": "TOBA",
+    "codigopostal": "3551",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1333,
+    "nombre": "TOMAS ALVA EDISON",
+    "codigopostal": "3023",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1164,
+    "nombre": "TORTUGAS",
+    "codigopostal": "2512",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1146,
+    "nombre": "TOSTADO",
+    "codigopostal": "3060",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1466,
+    "nombre": "TOTORAS",
+    "codigopostal": "2144",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2257,
+    "nombre": "TRAILL",
+    "codigopostal": "2456",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 18372,
+    "nombre": "TRES BOCAS",
+    "codigopostal": "3560",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 17497,
+    "nombre": "TRES COLONIAS",
+    "codigopostal": "2300",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1362,
+    "nombre": "TRES ESQUINAS",
+    "codigopostal": "2921",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1147,
+    "nombre": "TRES POZOS",
+    "codigopostal": "3061",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2222,
+    "nombre": "TTE HIPOLITO BOUCHARD",
+    "codigopostal": "2156",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2103,
+    "nombre": "URANGA",
+    "codigopostal": "2105",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1412,
+    "nombre": "VEINTICUATRO CASAS",
+    "codigopostal": "2313",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2304,
+    "nombre": "VELAZQUEZ",
+    "codigopostal": "3550",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1942,
+    "nombre": "VENADO TUERTO",
+    "codigopostal": "2600",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2305,
+    "nombre": "VERA",
+    "codigopostal": "3550",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2183,
+    "nombre": "VERA MUJICA",
+    "codigopostal": "3040",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2184,
+    "nombre": "VERA Y PINTADO",
+    "codigopostal": "3054",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2223,
+    "nombre": "VICENTE ECHEVARRIA",
+    "codigopostal": "2142",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2048,
+    "nombre": "VICTOR MANUEL SEGUNDO",
+    "codigopostal": "3563",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2185,
+    "nombre": "VIDELA",
+    "codigopostal": "3048",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1275,
+    "nombre": "VILA",
+    "codigopostal": "2301",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2049,
+    "nombre": "VILLA ADELA",
+    "codigopostal": "3581",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2105,
+    "nombre": "VILLA AMELIA",
+    "codigopostal": "2101",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2106,
+    "nombre": "VILLA AMERICA",
+    "codigopostal": "2121",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2050,
+    "nombre": "VILLA ANA",
+    "codigopostal": "3583",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1505,
+    "nombre": "VILLA BIOTA",
+    "codigopostal": "2147",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1943,
+    "nombre": "VILLA CA",
+    "codigopostal": "2607",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2224,
+    "nombre": "VILLA CASSINI",
+    "codigopostal": "2154",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1363,
+    "nombre": "VILLA CONSTITUCION",
+    "codigopostal": "2919",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1944,
+    "nombre": "VILLA DIVISA DE MAYO",
+    "codigopostal": "2631",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1867,
+    "nombre": "VILLA DON BOSCO",
+    "codigopostal": "3000",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1467,
+    "nombre": "VILLA ELOISA",
+    "codigopostal": "2503",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 18355,
+    "nombre": "VILLA ESTELA",
+    "codigopostal": "2726",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1945,
+    "nombre": "VILLA FREDICKSON",
+    "codigopostal": "2630",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2225,
+    "nombre": "VILLA GARIBALDI",
+    "codigopostal": "2156",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2107,
+    "nombre": "VILLA GOBERNADOR GALVEZ",
+    "codigopostal": "2124",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1506,
+    "nombre": "VILLA GUASTALLA",
+    "codigopostal": "2148",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2051,
+    "nombre": "VILLA GUILLERMINA",
+    "codigopostal": "3589",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 18167,
+    "nombre": "VILLA LA RIBERA",
+    "codigopostal": "2500",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2186,
+    "nombre": "VILLA LASTENIA",
+    "codigopostal": "3042",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1868,
+    "nombre": "VILLA LUJAN",
+    "codigopostal": "3016",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2108,
+    "nombre": "VILLA LYLY TALLERES",
+    "codigopostal": "2121",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2226,
+    "nombre": "VILLA MARGARITA",
+    "codigopostal": "2156",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1869,
+    "nombre": "VILLA MARIA SELVA",
+    "codigopostal": "3000",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1148,
+    "nombre": "VILLA MINETTI",
+    "codigopostal": "3061",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2227,
+    "nombre": "VILLA MUGUETA",
+    "codigopostal": "2175",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2052,
+    "nombre": "VILLA OCAMPO",
+    "codigopostal": "3580",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2228,
+    "nombre": "VILLA PORUCCI",
+    "codigopostal": "2123",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1946,
+    "nombre": "VILLA REGULES",
+    "codigopostal": "2630",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1947,
+    "nombre": "VILLA ROSELLO",
+    "codigopostal": "6100",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2109,
+    "nombre": "VILLA SAN DIEGO",
+    "codigopostal": "2124",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1276,
+    "nombre": "VILLA SAN JOSE",
+    "codigopostal": "2301",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1413,
+    "nombre": "VILLA SARALEGUI",
+    "codigopostal": "3046",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1414,
+    "nombre": "VILLA TRINIDAD",
+    "codigopostal": "2345",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1870,
+    "nombre": "VILLA VIVEROS",
+    "codigopostal": "3001",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1871,
+    "nombre": "VILLA YAPEYU",
+    "codigopostal": "3000",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1200,
+    "nombre": "VILLADA",
+    "codigopostal": "2173",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1277,
+    "nombre": "VILLANI",
+    "codigopostal": "2400",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1278,
+    "nombre": "VIRGINIA",
+    "codigopostal": "2311",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1437,
+    "nombre": "VUELTA DEL PIRATA",
+    "codigopostal": "3001",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1415,
+    "nombre": "WALVELBERG",
+    "codigopostal": "2313",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1948,
+    "nombre": "WHEELWRIGHT",
+    "codigopostal": "2722",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2258,
+    "nombre": "WILDERMUTH",
+    "codigopostal": "2257",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2053,
+    "nombre": "YAGUARETE",
+    "codigopostal": "3586",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1872,
+    "nombre": "YAMANDU",
+    "codigopostal": "3014",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1416,
+    "nombre": "ZADOCKHAN",
+    "codigopostal": "2326",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2110,
+    "nombre": "ZAMPONI",
+    "codigopostal": "2105",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1279,
+    "nombre": "ZANETTI",
+    "codigopostal": "2301",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 2111,
+    "nombre": "ZAVALLA",
+    "codigopostal": "2123",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  },
+  {
+    "id": 1280,
+    "nombre": "ZENON PEREYRA",
+    "codigopostal": "2409",
+    "provincia": {
+      "id": 21,
+      "nombre": "Santa Fé"
+    }
+  }
+]

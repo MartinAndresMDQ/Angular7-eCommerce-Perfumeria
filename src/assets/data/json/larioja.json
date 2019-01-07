@@ -1,0 +1,4403 @@
+[
+  {
+    "id": 14133,
+    "nombre": "",
+    "codigopostal": "5471",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14103,
+    "nombre": "ABRA VERDE",
+    "codigopostal": "5470",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20321,
+    "nombre": "ADOLFO E CARRANZA",
+    "codigopostal": "5263",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13891,
+    "nombre": "AGUA BLANCA",
+    "codigopostal": "5301",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14104,
+    "nombre": "AGUA BLANCA",
+    "codigopostal": "5471",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13986,
+    "nombre": "AGUA COLORADA",
+    "codigopostal": "5383",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14043,
+    "nombre": "AGUA COLORADA",
+    "codigopostal": "5275",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14105,
+    "nombre": "AGUA DE LA PIEDRA",
+    "codigopostal": "5475",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14106,
+    "nombre": "AGUA DE PIEDRA",
+    "codigopostal": "5470",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13892,
+    "nombre": "AGUADA",
+    "codigopostal": "5301",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14010,
+    "nombre": "AGUADITA",
+    "codigopostal": "5385",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14077,
+    "nombre": "AGUAYO",
+    "codigopostal": "5473",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13928,
+    "nombre": "AICU",
+    "codigopostal": "5361",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13831,
+    "nombre": "AIMOGASTA",
+    "codigopostal": "5310",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13971,
+    "nombre": "ALCAZAR",
+    "codigopostal": "5385",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20697,
+    "nombre": "ALGARROBO GRANDE",
+    "codigopostal": "5473",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14145,
+    "nombre": "ALPASINCHE",
+    "codigopostal": "5325",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14044,
+    "nombre": "ALTILLO DEL MEDIO",
+    "codigopostal": "5274",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14107,
+    "nombre": "ALTO BAYO",
+    "codigopostal": "5470",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13947,
+    "nombre": "ALTO CARRIZAL",
+    "codigopostal": "5361",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14173,
+    "nombre": "ALTO JAGUEL",
+    "codigopostal": "5359",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14097,
+    "nombre": "AMANA",
+    "codigopostal": "5386",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14045,
+    "nombre": "AMBIL",
+    "codigopostal": "5475",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13844,
+    "nombre": "AMILGANCHO",
+    "codigopostal": "5300",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13893,
+    "nombre": "AMINGA",
+    "codigopostal": "5301",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20322,
+    "nombre": "AMPATA",
+    "codigopostal": "5300",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14146,
+    "nombre": "AMUSCHINA",
+    "codigopostal": "5329",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13845,
+    "nombre": "ANCHICO",
+    "codigopostal": "5301",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 21844,
+    "nombre": "ANCHUMBIL",
+    "codigopostal": "5361",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14147,
+    "nombre": "ANDOLUCAS",
+    "codigopostal": "5329",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13909,
+    "nombre": "ANGUINAN",
+    "codigopostal": "5363",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13948,
+    "nombre": "ANGULOS",
+    "codigopostal": "5361",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13894,
+    "nombre": "ANILLACO",
+    "codigopostal": "5301",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13895,
+    "nombre": "ANJULLON",
+    "codigopostal": "5303",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13949,
+    "nombre": "ANTINACO",
+    "codigopostal": "5361",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13832,
+    "nombre": "ARAUCO",
+    "codigopostal": "5311",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14011,
+    "nombre": "ATILES",
+    "codigopostal": "5385",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13833,
+    "nombre": "BA",
+    "codigopostal": "5310",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20716,
+    "nombre": "BAJO CORRAL DE ISAAC",
+    "codigopostal": "5473",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20804,
+    "nombre": "BAJO DE GALLO",
+    "codigopostal": "5386",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13987,
+    "nombre": "BAJO GRANDE",
+    "codigopostal": "5383",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13846,
+    "nombre": "BAJO HONDO",
+    "codigopostal": "5300",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20699,
+    "nombre": "BAJO HONDO",
+    "codigopostal": "5473",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14174,
+    "nombre": "BAJO JAGUEL",
+    "codigopostal": "5359",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20700,
+    "nombre": "BALDE DEL QUEBRACHO",
+    "codigopostal": "5473",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13988,
+    "nombre": "BALDE SALADO",
+    "codigopostal": "5383",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20774,
+    "nombre": "BALDE SALADO",
+    "codigopostal": "5274",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20825,
+    "nombre": "BALDE SAN ISIDRO",
+    "codigopostal": "5386",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13989,
+    "nombre": "BALDES DE PACHECO",
+    "codigopostal": "5276",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13929,
+    "nombre": "BANDA FLORIDA",
+    "codigopostal": "5351",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14108,
+    "nombre": "BARRANQUITAS",
+    "codigopostal": "5474",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13950,
+    "nombre": "BARRIO DE GALLI",
+    "codigopostal": "5361",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20912,
+    "nombre": "BAYO MUERTO",
+    "codigopostal": "5470",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13847,
+    "nombre": "BAZAN",
+    "codigopostal": "5300",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13967,
+    "nombre": "BELLA VISTA",
+    "codigopostal": "5381",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20984,
+    "nombre": "BOCA DE LA QUEBRADA",
+    "codigopostal": "5359",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20968,
+    "nombre": "BUENA VISTA",
+    "codigopostal": "5359",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14078,
+    "nombre": "CA",
+    "codigopostal": "5471",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14109,
+    "nombre": "CA",
+    "codigopostal": "5470",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13910,
+    "nombre": "CACHIYUYAL",
+    "codigopostal": "5367",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13843,
+    "nombre": "CAMPANAS",
+    "codigopostal": "5361",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13848,
+    "nombre": "CAMPO TRES POZOS",
+    "codigopostal": "5301",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20954,
+    "nombre": "CAPIHUAS",
+    "codigopostal": "5327",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20323,
+    "nombre": "CARRIZAL",
+    "codigopostal": "5306",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 27650,
+    "nombre": "CARRIZAL",
+    "codigopostal": "5361",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20324,
+    "nombre": "CARRIZAL ESTACION FCGB",
+    "codigopostal": "5300",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13952,
+    "nombre": "CARRIZALILLO",
+    "codigopostal": "5361",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20588,
+    "nombre": "CARRIZALILLO",
+    "codigopostal": "5385",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14175,
+    "nombre": "CASA PINTADA",
+    "codigopostal": "5359",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20589,
+    "nombre": "CASAGATE",
+    "codigopostal": "5385",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14012,
+    "nombre": "CASANGATE",
+    "codigopostal": "5385",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14110,
+    "nombre": "CASAS VIEJAS",
+    "codigopostal": "5471",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 15672,
+    "nombre": "CASTRO BARROS",
+    "codigopostal": "5276",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13911,
+    "nombre": "CATINZACO",
+    "codigopostal": "5374",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13912,
+    "nombre": "CATINZACO EMBARCADERO FCGB",
+    "codigopostal": "5374",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14046,
+    "nombre": "CATUNA",
+    "codigopostal": "5275",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13849,
+    "nombre": "CEBOLLAR",
+    "codigopostal": "5300",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20955,
+    "nombre": "CERRO NEGRO",
+    "codigopostal": "5327",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14047,
+    "nombre": "CHA",
+    "codigopostal": "5276",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20665,
+    "nombre": "CHA",
+    "codigopostal": "5361",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14008,
+    "nombre": "CHAMICAL",
+    "codigopostal": "5380",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14148,
+    "nombre": "CHAUPIHUASI",
+    "codigopostal": "5327",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20913,
+    "nombre": "CHELCOS",
+    "codigopostal": "5475",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14111,
+    "nombre": "CHEPES",
+    "codigopostal": "5470",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20916,
+    "nombre": "CHEPES VIEJOS",
+    "codigopostal": "5470",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13973,
+    "nombre": "CHILA",
+    "codigopostal": "5385",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13913,
+    "nombre": "CHILECITO",
+    "codigopostal": "5360",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14013,
+    "nombre": "CHIMENEA",
+    "codigopostal": "5385",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13901,
+    "nombre": "CHULO",
+    "codigopostal": "5380",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20325,
+    "nombre": "CHUMBICHA",
+    "codigopostal": "5300",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13896,
+    "nombre": "CHUQUIS",
+    "codigopostal": "5301",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13990,
+    "nombre": "CISCO",
+    "codigopostal": "5383",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13974,
+    "nombre": "COLONIA ALFREDO",
+    "codigopostal": "5380",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14048,
+    "nombre": "COLONIA ORTIZ DE OCAMPO",
+    "codigopostal": "5275",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14049,
+    "nombre": "COMANDANTE LEAL",
+    "codigopostal": "5272",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20956,
+    "nombre": "CORDOBITA",
+    "codigopostal": "5327",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14079,
+    "nombre": "CORRAL DE ISAAC",
+    "codigopostal": "5471",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14080,
+    "nombre": "CORTADERAS",
+    "codigopostal": "5381",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20701,
+    "nombre": "CORTADERAS EMBARCADERO FCGB",
+    "codigopostal": "5474",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14081,
+    "nombre": "CUATRO ESQUINAS",
+    "codigopostal": "5473",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20775,
+    "nombre": "CUATRO ESQUINAS",
+    "codigopostal": "5274",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20809,
+    "nombre": "CUEVA DEL CHACHO",
+    "codigopostal": "5386",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14149,
+    "nombre": "CUIPAN",
+    "codigopostal": "5329",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14112,
+    "nombre": "DESIDERIO TELLO",
+    "codigopostal": "5474",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14050,
+    "nombre": "DIQUE DE ANZULON",
+    "codigopostal": "5275",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14051,
+    "nombre": "DIQUE LOS SAUCES",
+    "codigopostal": "5274",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20977,
+    "nombre": "DIQUE LOS SAUCES",
+    "codigopostal": "5300",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14176,
+    "nombre": "DISTRITO PUEBLO",
+    "codigopostal": "5359",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20702,
+    "nombre": "EL ABRA",
+    "codigopostal": "5473",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14037,
+    "nombre": "EL ALTILLO",
+    "codigopostal": "5355",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14113,
+    "nombre": "EL ALTO",
+    "codigopostal": "5470",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20744,
+    "nombre": "EL ALTO",
+    "codigopostal": "5383",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14082,
+    "nombre": "EL BALDE",
+    "codigopostal": "5471",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14014,
+    "nombre": "EL BARRANCO",
+    "codigopostal": "5385",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14114,
+    "nombre": "EL BARREAL",
+    "codigopostal": "5470",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20326,
+    "nombre": "EL BARRIAL",
+    "codigopostal": "5301",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20917,
+    "nombre": "EL BARRIAL",
+    "codigopostal": "5471",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13850,
+    "nombre": "EL BAYITO",
+    "codigopostal": "5301",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20745,
+    "nombre": "EL BORDO",
+    "codigopostal": "5276",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14083,
+    "nombre": "EL CALDEN",
+    "codigopostal": "5717",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20328,
+    "nombre": "EL CANTADERO",
+    "codigopostal": "5300",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14052,
+    "nombre": "EL CARRIZAL",
+    "codigopostal": "5475",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20590,
+    "nombre": "EL CARRIZAL",
+    "codigopostal": "5475",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 16586,
+    "nombre": "EL CARRIZAL TAMA",
+    "codigopostal": "5385",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14084,
+    "nombre": "EL CATORCE",
+    "codigopostal": "5474",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14053,
+    "nombre": "EL CERCO",
+    "codigopostal": "5475",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20811,
+    "nombre": "EL CHIFLON",
+    "codigopostal": "5386",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13954,
+    "nombre": "EL CHOCOY",
+    "codigopostal": "5361",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 21845,
+    "nombre": "EL CHUSCHIN",
+    "codigopostal": "5361",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13991,
+    "nombre": "EL CHUSCO",
+    "codigopostal": "5276",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14054,
+    "nombre": "EL CIENAGO",
+    "codigopostal": "5275",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14115,
+    "nombre": "EL CINCUENTA",
+    "codigopostal": "5470",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14038,
+    "nombre": "EL CONDADO",
+    "codigopostal": "5355",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20776,
+    "nombre": "EL CONSUELO",
+    "codigopostal": "5274",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13946,
+    "nombre": "EL DIVISADERO",
+    "codigopostal": "5470",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13851,
+    "nombre": "EL DURAZNILLO",
+    "codigopostal": "5300",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13852,
+    "nombre": "EL ESCONDIDO",
+    "codigopostal": "5301",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 27823,
+    "nombre": "EL ESTANQUITO",
+    "codigopostal": "5301",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14055,
+    "nombre": "EL FRAILE",
+    "codigopostal": "5274",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13930,
+    "nombre": "EL FUERTE",
+    "codigopostal": "5351",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20681,
+    "nombre": "EL GARABATO",
+    "codigopostal": "5380",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14167,
+    "nombre": "EL HORNO",
+    "codigopostal": "5357",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14161,
+    "nombre": "EL HUACO",
+    "codigopostal": "5301",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13955,
+    "nombre": "EL JUMEAL",
+    "codigopostal": "5365",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20777,
+    "nombre": "EL MEDANITO",
+    "codigopostal": "5272",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20331,
+    "nombre": "EL MEDANO",
+    "codigopostal": "5263",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14009,
+    "nombre": "EL MOLLAR",
+    "codigopostal": "5381",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13931,
+    "nombre": "EL MOLLE",
+    "codigopostal": "5350",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13956,
+    "nombre": "EL PEDREGAL",
+    "codigopostal": "5361",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20332,
+    "nombre": "EL PLUMERILLO",
+    "codigopostal": "5300",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14015,
+    "nombre": "EL PORTEZUELO",
+    "codigopostal": "5385",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14016,
+    "nombre": "EL POTRERILLO",
+    "codigopostal": "5385",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14116,
+    "nombre": "EL POTRERILLO",
+    "codigopostal": "5475",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20668,
+    "nombre": "EL POTRERILLO",
+    "codigopostal": "5361",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20922,
+    "nombre": "EL POTRERILLO R V PE",
+    "codigopostal": "5475",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14017,
+    "nombre": "EL POTRERO",
+    "codigopostal": "5385",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20957,
+    "nombre": "EL PUEBLITO",
+    "codigopostal": "5327",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13975,
+    "nombre": "EL PUESTO",
+    "codigopostal": "5385",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20747,
+    "nombre": "EL QUEBRACHAL",
+    "codigopostal": "5383",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13992,
+    "nombre": "EL QUEBRACHO",
+    "codigopostal": "5383",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20333,
+    "nombre": "EL QUEBRACHO",
+    "codigopostal": "5301",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14056,
+    "nombre": "EL QUEMADO",
+    "codigopostal": "5475",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20682,
+    "nombre": "EL QUEMADO",
+    "codigopostal": "5380",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 27732,
+    "nombre": "EL RETAMAL",
+    "codigopostal": "5385",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13902,
+    "nombre": "EL RETAMO",
+    "codigopostal": "5380",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14150,
+    "nombre": "EL RETIRO",
+    "codigopostal": "5325",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20924,
+    "nombre": "EL RODEO",
+    "codigopostal": "5471",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13853,
+    "nombre": "EL ROSARIO",
+    "codigopostal": "5263",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13854,
+    "nombre": "EL TALA",
+    "codigopostal": "5304",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14117,
+    "nombre": "EL TALA",
+    "codigopostal": "5471",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20703,
+    "nombre": "EL VALDECITO",
+    "codigopostal": "5473",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13855,
+    "nombre": "EL VALLE",
+    "codigopostal": "5301",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14085,
+    "nombre": "EL VALLECITO",
+    "codigopostal": "5360",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14057,
+    "nombre": "EL VERDE",
+    "codigopostal": "5275",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13932,
+    "nombre": "EL ZAPALLAR",
+    "codigopostal": "5353",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13856,
+    "nombre": "ESPERANZA DE LOS CERRILLOS",
+    "codigopostal": "5263",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13969,
+    "nombre": "ESQUINA DEL NORTE",
+    "codigopostal": "5380",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13993,
+    "nombre": "ESQUINA DEL SUD",
+    "codigopostal": "5383",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14058,
+    "nombre": "ESQUINA GRANDE",
+    "codigopostal": "5275",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20335,
+    "nombre": "ESTACION 69",
+    "codigopostal": "5300",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13834,
+    "nombre": "ESTACION MAZAN",
+    "codigopostal": "5313",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 21846,
+    "nombre": "ESTANCIA DE MAIZ",
+    "codigopostal": "5361",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13976,
+    "nombre": "FALDA DE CITAN",
+    "codigopostal": "5385",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13957,
+    "nombre": "FAMATINA",
+    "codigopostal": "5365",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20336,
+    "nombre": "FLAMENCO",
+    "codigopostal": "5300",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14059,
+    "nombre": "FRANCISCO ORTIZ DE OCAMPO",
+    "codigopostal": "5275",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20683,
+    "nombre": "GOBERNADOR GORDILLO",
+    "codigopostal": "5380",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13914,
+    "nombre": "GUACHIN",
+    "codigopostal": "5367",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 16418,
+    "nombre": "GUANDACOL",
+    "codigopostal": "5353",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20813,
+    "nombre": "GUAYAPA",
+    "codigopostal": "5386",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14162,
+    "nombre": "HUACO",
+    "codigopostal": "5301",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14018,
+    "nombre": "HUAJA",
+    "codigopostal": "5385",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20778,
+    "nombre": "HUNQUILLAL",
+    "codigopostal": "5274",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13994,
+    "nombre": "ILIAR",
+    "codigopostal": "5381",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14019,
+    "nombre": "ILISCO",
+    "codigopostal": "5471",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20925,
+    "nombre": "ILLISCA",
+    "codigopostal": "5471",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13897,
+    "nombre": "ISMIANGO",
+    "codigopostal": "5301",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14177,
+    "nombre": "JAGUE",
+    "codigopostal": "5359",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20337,
+    "nombre": "JESUS MARIA",
+    "codigopostal": "5300",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20779,
+    "nombre": "KILOMETRO 619",
+    "codigopostal": "5272",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20748,
+    "nombre": "KILOMETRO 645",
+    "codigopostal": "5276",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20705,
+    "nombre": "KILOMETRO 682",
+    "codigopostal": "5275",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20704,
+    "nombre": "KILOMETRO 732",
+    "codigopostal": "5717",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20339,
+    "nombre": "KILOMETRO 861",
+    "codigopostal": "5300",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20340,
+    "nombre": "KILOMETRO 875",
+    "codigopostal": "5300",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20208,
+    "nombre": "KILOMETRO 891",
+    "codigopostal": "5313",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20211,
+    "nombre": "KILOMETRO 921",
+    "codigopostal": "5313",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14118,
+    "nombre": "LA AGUADA",
+    "codigopostal": "5470",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14061,
+    "nombre": "LA AGUADITA",
+    "codigopostal": "5275",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20592,
+    "nombre": "LA AGUADITA",
+    "codigopostal": "5385",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20706,
+    "nombre": "LA AMERICA",
+    "codigopostal": "5473",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13857,
+    "nombre": "LA ANTIGUA",
+    "codigopostal": "5301",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20985,
+    "nombre": "LA ARMONIA",
+    "codigopostal": "5359",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13958,
+    "nombre": "LA BANDA",
+    "codigopostal": "5365",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14168,
+    "nombre": "LA BANDA",
+    "codigopostal": "5359",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13858,
+    "nombre": "LA BUENA ESTRELLA",
+    "codigopostal": "5301",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13859,
+    "nombre": "LA BUENA SUERTE",
+    "codigopostal": "5300",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14119,
+    "nombre": "LA CALERA",
+    "codigopostal": "5471",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14120,
+    "nombre": "LA CALLANA",
+    "codigopostal": "5471",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20926,
+    "nombre": "LA CARRIZANA",
+    "codigopostal": "5470",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20707,
+    "nombre": "LA CHILCA",
+    "codigopostal": "5473",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20749,
+    "nombre": "LA CHIMENEA",
+    "codigopostal": "5383",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14178,
+    "nombre": "LA CIENAGA",
+    "codigopostal": "5350",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20560,
+    "nombre": "LA CIENAGA",
+    "codigopostal": "5350",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20750,
+    "nombre": "LA CIENAGA",
+    "codigopostal": "5381",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14121,
+    "nombre": "LA CONSULTA",
+    "codigopostal": "5470",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13959,
+    "nombre": "LA CUADRA",
+    "codigopostal": "5361",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14062,
+    "nombre": "LA DORA",
+    "codigopostal": "5475",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20708,
+    "nombre": "LA ENVIDIA",
+    "codigopostal": "5473",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20928,
+    "nombre": "LA ESCONDIDA",
+    "codigopostal": "5471",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13860,
+    "nombre": "LA ESPERANZA",
+    "codigopostal": "5300",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14021,
+    "nombre": "LA ESQUINA",
+    "codigopostal": "5471",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20709,
+    "nombre": "LA ESQUINA",
+    "codigopostal": "5473",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20341,
+    "nombre": "LA FLOR",
+    "codigopostal": "5300",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13996,
+    "nombre": "LA FLORIDA",
+    "codigopostal": "5276",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20669,
+    "nombre": "LA HIGUERA",
+    "codigopostal": "5361",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13997,
+    "nombre": "LA HUERTA",
+    "codigopostal": "5383",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14063,
+    "nombre": "LA IGUALDAD",
+    "codigopostal": "5474",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20684,
+    "nombre": "LA INVERNADA",
+    "codigopostal": "5380",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14087,
+    "nombre": "LA ISLA",
+    "codigopostal": "5274",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14122,
+    "nombre": "LA JARILLA",
+    "codigopostal": "5471",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14123,
+    "nombre": "LA LAGUNA",
+    "codigopostal": "5471",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20342,
+    "nombre": "LA LANCHA",
+    "codigopostal": "5300",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20344,
+    "nombre": "LA LATA",
+    "codigopostal": "5300",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13861,
+    "nombre": "LA LIBERTAD",
+    "codigopostal": "5263",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20710,
+    "nombre": "LA LIBERTAD",
+    "codigopostal": "5473",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13977,
+    "nombre": "LA LOMITA",
+    "codigopostal": "5385",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13933,
+    "nombre": "LA MARAVILLA",
+    "codigopostal": "5351",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13978,
+    "nombre": "LA MERCED",
+    "codigopostal": "5385",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13934,
+    "nombre": "LA PAMPA",
+    "codigopostal": "5361",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20970,
+    "nombre": "LA PAMPA",
+    "codigopostal": "5359",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13935,
+    "nombre": "LA PERLITA",
+    "codigopostal": "5350",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14124,
+    "nombre": "LA PINTADA",
+    "codigopostal": "5470",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14151,
+    "nombre": "LA PIRGUA",
+    "codigopostal": "5325",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14152,
+    "nombre": "LA PLAZA",
+    "codigopostal": "5329",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14125,
+    "nombre": "LA PRIMAVERA",
+    "codigopostal": "5470",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13916,
+    "nombre": "LA PUNTILLA",
+    "codigopostal": "5367",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13862,
+    "nombre": "LA RAMADITA",
+    "codigopostal": "5300",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14126,
+    "nombre": "LA REFORMA",
+    "codigopostal": "5471",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13979,
+    "nombre": "LA REPRESA",
+    "codigopostal": "5385",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20711,
+    "nombre": "LA REPRESA",
+    "codigopostal": "5471",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13863,
+    "nombre": "LA RIOJA",
+    "codigopostal": "5300",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13864,
+    "nombre": "LA ROSILLA",
+    "codigopostal": "5301",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13903,
+    "nombre": "LA SERENA",
+    "codigopostal": "5380",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14022,
+    "nombre": "LA TORDILLA",
+    "codigopostal": "5471",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14098,
+    "nombre": "LA TORRE",
+    "codigopostal": "5386",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13998,
+    "nombre": "LA TRAMPA",
+    "codigopostal": "5383",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14023,
+    "nombre": "LA YESERA",
+    "codigopostal": "5471",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14039,
+    "nombre": "LAS AGUADITAS",
+    "codigopostal": "5355",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20593,
+    "nombre": "LAS BARRANCAS",
+    "codigopostal": "5471",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14163,
+    "nombre": "LAS BOMBAS",
+    "codigopostal": "5301",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20345,
+    "nombre": "LAS CA",
+    "codigopostal": "5300",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13865,
+    "nombre": "LAS CATAS",
+    "codigopostal": "5301",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13960,
+    "nombre": "LAS GREDAS",
+    "codigopostal": "5365",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13980,
+    "nombre": "LAS HIGUERAS",
+    "codigopostal": "5385",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20347,
+    "nombre": "LAS HIGUERILLAS",
+    "codigopostal": "5300",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20349,
+    "nombre": "LAS PADERCITAS",
+    "codigopostal": "5300",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20835,
+    "nombre": "LAS PADERCITAS",
+    "codigopostal": "5355",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14064,
+    "nombre": "LAS PALOMAS",
+    "codigopostal": "5275",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 16584,
+    "nombre": "LAS PE",
+    "codigopostal": "5301",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20961,
+    "nombre": "LAS PE",
+    "codigopostal": "5301",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14127,
+    "nombre": "LAS SALINAS",
+    "codigopostal": "5471",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13866,
+    "nombre": "LAS SIERRAS BRAVAS",
+    "codigopostal": "5301",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14153,
+    "nombre": "LAS TALAS",
+    "codigopostal": "5329",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14128,
+    "nombre": "LAS TOSCAS",
+    "codigopostal": "5471",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 21848,
+    "nombre": "LAS TUCUMANESAS",
+    "codigopostal": "5361",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14129,
+    "nombre": "LAS TUSCAS",
+    "codigopostal": "5470",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20222,
+    "nombre": "LAS TUSCAS",
+    "codigopostal": "5310",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13999,
+    "nombre": "LAS VERTIENTES",
+    "codigopostal": "5276",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14000,
+    "nombre": "LOMA BLANCA",
+    "codigopostal": "5381",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14001,
+    "nombre": "LOMA LARGA",
+    "codigopostal": "5383",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20606,
+    "nombre": "LOMA LARGA",
+    "codigopostal": "5385",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14154,
+    "nombre": "LOROHUASI",
+    "codigopostal": "5325",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14065,
+    "nombre": "LOS AGUIRRES",
+    "codigopostal": "5275",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14066,
+    "nombre": "LOS ALANICES",
+    "codigopostal": "5275",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14024,
+    "nombre": "LOS ALGARROBOS",
+    "codigopostal": "5385",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20814,
+    "nombre": "LOS BALDECITOS",
+    "codigopostal": "5386",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13836,
+    "nombre": "LOS BALDES",
+    "codigopostal": "5310",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14067,
+    "nombre": "LOS BARRIACITOS",
+    "codigopostal": "5274",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20780,
+    "nombre": "LOS BARRIALITOS",
+    "codigopostal": "5274",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13904,
+    "nombre": "LOS BORDOS",
+    "codigopostal": "5380",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13867,
+    "nombre": "LOS CERRILLOS",
+    "codigopostal": "5301",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14099,
+    "nombre": "LOS COLORADOS",
+    "codigopostal": "5386",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14130,
+    "nombre": "LOS CORIAS",
+    "codigopostal": "5471",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13961,
+    "nombre": "LOS CORRALES",
+    "codigopostal": "5361",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13936,
+    "nombre": "LOS FRANCES",
+    "codigopostal": "5350",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14068,
+    "nombre": "LOS MISTOLES",
+    "codigopostal": "5275",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20817,
+    "nombre": "LOS MOGOTES COLORADOS",
+    "codigopostal": "5386",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13898,
+    "nombre": "LOS MOLINOS",
+    "codigopostal": "5301",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13937,
+    "nombre": "LOS NACIMIENTOS",
+    "codigopostal": "5353",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14155,
+    "nombre": "LOS OLIVARES",
+    "codigopostal": "5327",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20929,
+    "nombre": "LOS OLMOS",
+    "codigopostal": "5470",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14131,
+    "nombre": "LOS OROS",
+    "codigopostal": "5470",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13938,
+    "nombre": "LOS PALACIOS",
+    "codigopostal": "5351",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14156,
+    "nombre": "LOS ROBLES",
+    "codigopostal": "5329",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13917,
+    "nombre": "LOS SARMIENTOS",
+    "codigopostal": "5361",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13939,
+    "nombre": "LOS TAMBILLOS",
+    "codigopostal": "5361",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13837,
+    "nombre": "MACHIGASTA",
+    "codigopostal": "5311",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14025,
+    "nombre": "MALANZAN",
+    "codigopostal": "5385",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13918,
+    "nombre": "MALLIGASTA",
+    "codigopostal": "5361",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14132,
+    "nombre": "MASCASIN",
+    "codigopostal": "5471",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13868,
+    "nombre": "MEDANO",
+    "codigopostal": "5300",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13869,
+    "nombre": "MESILLAS BLANCAS",
+    "codigopostal": "5301",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14069,
+    "nombre": "MILAGRO",
+    "codigopostal": "5274",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13919,
+    "nombre": "MIRANDA",
+    "codigopostal": "5367",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14026,
+    "nombre": "MOLLACO",
+    "codigopostal": "5385",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20752,
+    "nombre": "MONTE GRANDE",
+    "codigopostal": "5383",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14027,
+    "nombre": "NACATE",
+    "codigopostal": "5385",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14002,
+    "nombre": "NEPES",
+    "codigopostal": "5276",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13920,
+    "nombre": "NONOGASTA",
+    "codigopostal": "5372",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14088,
+    "nombre": "NUEVA ESPERANZA",
+    "codigopostal": "5473",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14070,
+    "nombre": "OLPAS",
+    "codigopostal": "5275",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14003,
+    "nombre": "OLTA",
+    "codigopostal": "5383",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13981,
+    "nombre": "PACATALA",
+    "codigopostal": "5385",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14040,
+    "nombre": "PADERCITAS",
+    "codigopostal": "5355",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13940,
+    "nombre": "PAGANCILLO",
+    "codigopostal": "5369",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14100,
+    "nombre": "PAGANZO",
+    "codigopostal": "5386",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20455,
+    "nombre": "PALO LABRADO",
+    "codigopostal": "5380",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 26288,
+    "nombre": "PARAJE MONTE GRANDE",
+    "codigopostal": "5276",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20688,
+    "nombre": "PARECITAS",
+    "codigopostal": "5355",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13941,
+    "nombre": "PASO SAN ISIDRO",
+    "codigopostal": "5351",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20689,
+    "nombre": "PASTOS LARGOS",
+    "codigopostal": "5355",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14101,
+    "nombre": "PATQUIA",
+    "codigopostal": "5386",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14169,
+    "nombre": "PE",
+    "codigopostal": "5359",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 21850,
+    "nombre": "PIEDRA DE TALAMPAYA",
+    "codigopostal": "5361",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14071,
+    "nombre": "PIEDRA LARGA",
+    "codigopostal": "5475",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 21849,
+    "nombre": "PIEDRA PINTADA",
+    "codigopostal": "5361",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13899,
+    "nombre": "PINCHAS",
+    "codigopostal": "5301",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13962,
+    "nombre": "PITUIL",
+    "codigopostal": "5361",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13963,
+    "nombre": "PLAZA NUEVA",
+    "codigopostal": "5365",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13964,
+    "nombre": "PLAZA VIEJA",
+    "codigopostal": "5361",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13905,
+    "nombre": "POLCO",
+    "codigopostal": "5380",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14134,
+    "nombre": "PORTEZUELO DE LOS ARCE",
+    "codigopostal": "5471",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14170,
+    "nombre": "POTRERO GRANDE",
+    "codigopostal": "5359",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13870,
+    "nombre": "POZO BLANCO",
+    "codigopostal": "5301",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13871,
+    "nombre": "POZO DE AVILA",
+    "codigopostal": "5300",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20685,
+    "nombre": "POZO DE LA ORILLA",
+    "codigopostal": "5380",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14089,
+    "nombre": "POZO DE LA PIEDRA",
+    "codigopostal": "5473",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13872,
+    "nombre": "POZO DE LA YEGUA",
+    "codigopostal": "5301",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20713,
+    "nombre": "POZO DE PIEDRA",
+    "codigopostal": "5473",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14072,
+    "nombre": "POZO DEL MEDIO",
+    "codigopostal": "5274",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20351,
+    "nombre": "POZO ESCONDIDO",
+    "codigopostal": "5300",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13873,
+    "nombre": "PUERTA DE LA QUEBRADA",
+    "codigopostal": "5300",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13874,
+    "nombre": "PUERTO ALEGRE",
+    "codigopostal": "5300",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13942,
+    "nombre": "PUERTO ALEGRE",
+    "codigopostal": "5361",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13875,
+    "nombre": "PUERTO DEL VALLE",
+    "codigopostal": "5301",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14090,
+    "nombre": "PUESTO DE CARRIZO",
+    "codigopostal": "5471",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14028,
+    "nombre": "PUESTO DE LOS SANCHEZ",
+    "codigopostal": "5471",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14091,
+    "nombre": "PUESTO DICHOSO",
+    "codigopostal": "5471",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20819,
+    "nombre": "PUESTO TALITA",
+    "codigopostal": "5386",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20608,
+    "nombre": "PULUCHAN",
+    "codigopostal": "5385",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20690,
+    "nombre": "PUNTA DE AGUA",
+    "codigopostal": "5355",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13982,
+    "nombre": "PUNTA DE LOS LLANOS",
+    "codigopostal": "5384",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14135,
+    "nombre": "PUNTA DEL CERRO",
+    "codigopostal": "5470",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13876,
+    "nombre": "PUNTA DEL NEGRO",
+    "codigopostal": "5300",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13906,
+    "nombre": "QUEBRACHAL",
+    "codigopostal": "5381",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20686,
+    "nombre": "QUEBRACHO HERRADO",
+    "codigopostal": "5380",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 27730,
+    "nombre": "QUEBRADA DE LOS CONDORES",
+    "codigopostal": "5385",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14136,
+    "nombre": "QUEBRADA DEL VALLECITO",
+    "codigopostal": "5471",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14137,
+    "nombre": "REAL DEL CADILLO",
+    "codigopostal": "5471",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20820,
+    "nombre": "REPRESA DE LA PUNTA",
+    "codigopostal": "5386",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20931,
+    "nombre": "REPRESA DEL MONTE",
+    "codigopostal": "5470",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14029,
+    "nombre": "RETAMAL",
+    "codigopostal": "5385",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14030,
+    "nombre": "RIO DE LAS CA",
+    "codigopostal": "5385",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 27541,
+    "nombre": "RIOS DE LAS MESADAS",
+    "codigopostal": "5385",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 27540,
+    "nombre": "RIOS DE LOS COLCOLES",
+    "codigopostal": "5385",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14041,
+    "nombre": "RIVADAVIA",
+    "codigopostal": "5355",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13924,
+    "nombre": "SA",
+    "codigopostal": "5367",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14031,
+    "nombre": "SALANA",
+    "codigopostal": "5385",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14157,
+    "nombre": "SALICAS",
+    "codigopostal": "5327",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14102,
+    "nombre": "SALINAS DE BUSTOS",
+    "codigopostal": "5386",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 21852,
+    "nombre": "SALINAS DEL LEONCITO",
+    "codigopostal": "5361",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13921,
+    "nombre": "SAMAY HUASI",
+    "codigopostal": "5360",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20353,
+    "nombre": "SAN AGUSTIN",
+    "codigopostal": "5300",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13838,
+    "nombre": "SAN ANTONIO",
+    "codigopostal": "5310",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13877,
+    "nombre": "SAN ANTONIO",
+    "codigopostal": "5301",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14032,
+    "nombre": "SAN ANTONIO",
+    "codigopostal": "5471",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14092,
+    "nombre": "SAN ANTONIO",
+    "codigopostal": "5473",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20932,
+    "nombre": "SAN ANTONIO",
+    "codigopostal": "5470",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13878,
+    "nombre": "SAN BERNARDO",
+    "codigopostal": "5301",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13943,
+    "nombre": "SAN BERNARDO",
+    "codigopostal": "5350",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14073,
+    "nombre": "SAN CRISTOBAL",
+    "codigopostal": "5274",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20354,
+    "nombre": "SAN GUILLERMO",
+    "codigopostal": "5300",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13879,
+    "nombre": "SAN IGNACIO",
+    "codigopostal": "5301",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 27733,
+    "nombre": "SAN ISIDRO",
+    "codigopostal": "5471",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20356,
+    "nombre": "SAN JAVIER",
+    "codigopostal": "5300",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13880,
+    "nombre": "SAN JOSE",
+    "codigopostal": "5301",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14074,
+    "nombre": "SAN JOSE",
+    "codigopostal": "5475",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14138,
+    "nombre": "SAN JOSE",
+    "codigopostal": "5471",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20564,
+    "nombre": "SAN JOSE",
+    "codigopostal": "5350",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20357,
+    "nombre": "SAN JUAN",
+    "codigopostal": "5300",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13881,
+    "nombre": "SAN LORENZO",
+    "codigopostal": "5301",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13882,
+    "nombre": "SAN MARTIN",
+    "codigopostal": "5300",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13883,
+    "nombre": "SAN MIGUEL",
+    "codigopostal": "5301",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13922,
+    "nombre": "SAN MIGUEL",
+    "codigopostal": "5361",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13884,
+    "nombre": "SAN NICOLAS",
+    "codigopostal": "5301",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13923,
+    "nombre": "SAN NICOLAS",
+    "codigopostal": "5360",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20714,
+    "nombre": "SAN NICOLAS",
+    "codigopostal": "5473",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 16585,
+    "nombre": "SAN PEDRO",
+    "codigopostal": "5301",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20609,
+    "nombre": "SAN PEDRO",
+    "codigopostal": "5385",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13886,
+    "nombre": "SAN RAFAEL",
+    "codigopostal": "5301",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14139,
+    "nombre": "SAN RAFAEL",
+    "codigopostal": "5471",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20610,
+    "nombre": "SAN RAMON",
+    "codigopostal": "5385",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20753,
+    "nombre": "SAN RAMON",
+    "codigopostal": "5383",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 27731,
+    "nombre": "SAN RAMON",
+    "codigopostal": "5385",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20612,
+    "nombre": "SAN ROQUE",
+    "codigopostal": "5385",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20715,
+    "nombre": "SAN SOLANO",
+    "codigopostal": "5473",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20933,
+    "nombre": "SAN VICENTE",
+    "codigopostal": "5470",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13887,
+    "nombre": "SANTA ANA",
+    "codigopostal": "5301",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13907,
+    "nombre": "SANTA BARBARA",
+    "codigopostal": "5381",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13944,
+    "nombre": "SANTA CLARA",
+    "codigopostal": "5351",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13965,
+    "nombre": "SANTA CRUZ",
+    "codigopostal": "5361",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14140,
+    "nombre": "SANTA CRUZ",
+    "codigopostal": "5470",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20431,
+    "nombre": "SANTA CRUZ",
+    "codigopostal": "5301",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 27734,
+    "nombre": "SANTA CRUZ",
+    "codigopostal": "5471",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 21862,
+    "nombre": "SANTA ELENA",
+    "codigopostal": "5361",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13925,
+    "nombre": "SANTA FLORENTINA",
+    "codigopostal": "5360",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 27618,
+    "nombre": "SANTA LUCIA",
+    "codigopostal": "5380",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13970,
+    "nombre": "SANTA RITA LA ZANJA",
+    "codigopostal": "5276",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20358,
+    "nombre": "SANTA ROSA",
+    "codigopostal": "5300",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13888,
+    "nombre": "SANTA TERESA",
+    "codigopostal": "5301",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13900,
+    "nombre": "SANTA VERA CRUZ",
+    "codigopostal": "5301",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13966,
+    "nombre": "SANTO DOMINGO",
+    "codigopostal": "5361",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14093,
+    "nombre": "SANTO DOMINGO",
+    "codigopostal": "5473",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20359,
+    "nombre": "SANTO DOMINGO",
+    "codigopostal": "5300",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20671,
+    "nombre": "SANTO DOMINGO FAMATINA",
+    "codigopostal": "5361",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14158,
+    "nombre": "SCHAQUI",
+    "codigopostal": "5329",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20224,
+    "nombre": "SE",
+    "codigopostal": "5310",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14094,
+    "nombre": "SIEMPRE VERDE",
+    "codigopostal": "5473",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20363,
+    "nombre": "SIERRA BRAVA",
+    "codigopostal": "5301",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 27729,
+    "nombre": "SIERRA DE LOS QUINTEROS",
+    "codigopostal": "5385",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14004,
+    "nombre": "SIMBOLAR",
+    "codigopostal": "5276",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14035,
+    "nombre": "SOLCA",
+    "codigopostal": "5385",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14159,
+    "nombre": "SURIYACO",
+    "codigopostal": "5329",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14005,
+    "nombre": "TALA VERDE",
+    "codigopostal": "5383",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13889,
+    "nombre": "TALAMUYUNA",
+    "codigopostal": "5304",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14006,
+    "nombre": "TALVA",
+    "codigopostal": "5381",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13972,
+    "nombre": "TAMA",
+    "codigopostal": "5385",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14141,
+    "nombre": "TAMA",
+    "codigopostal": "5385",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13983,
+    "nombre": "TASQUIN",
+    "codigopostal": "5385",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20821,
+    "nombre": "TERMAS",
+    "codigopostal": "5386",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13839,
+    "nombre": "TERMAS DE SANTA TERESITA",
+    "codigopostal": "5313",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13926,
+    "nombre": "TILIMUQUI",
+    "codigopostal": "5361",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13840,
+    "nombre": "TINOCAN",
+    "codigopostal": "5313",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14075,
+    "nombre": "TORRECITAS",
+    "codigopostal": "5275",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14142,
+    "nombre": "TOTORAL",
+    "codigopostal": "5471",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13890,
+    "nombre": "TRAMPA DEL TIGRE",
+    "codigopostal": "5300",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 21855,
+    "nombre": "TRES CERROS",
+    "codigopostal": "5361",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20755,
+    "nombre": "TRES CRUCES",
+    "codigopostal": "5383",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14036,
+    "nombre": "TUANI",
+    "codigopostal": "5385",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13984,
+    "nombre": "TUIZON",
+    "codigopostal": "5385",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14160,
+    "nombre": "TUYUBIL",
+    "codigopostal": "5329",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13841,
+    "nombre": "UDPINANGO",
+    "codigopostal": "5311",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14095,
+    "nombre": "ULAPES",
+    "codigopostal": "5473",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14143,
+    "nombre": "VALLE HERMOSO",
+    "codigopostal": "5471",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14171,
+    "nombre": "VALLE HERMOSO",
+    "codigopostal": "5359",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14007,
+    "nombre": "VERDE OLIVO",
+    "codigopostal": "5276",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13927,
+    "nombre": "VICHIGASTA",
+    "codigopostal": "5374",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14165,
+    "nombre": "VILLA BUSTOS",
+    "codigopostal": "5301",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13985,
+    "nombre": "VILLA CASANA",
+    "codigopostal": "5471",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14042,
+    "nombre": "VILLA CASTELLI",
+    "codigopostal": "5355",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14144,
+    "nombre": "VILLA CHEPES",
+    "codigopostal": "5471",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13842,
+    "nombre": "VILLA MAZAN",
+    "codigopostal": "5313",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14096,
+    "nombre": "VILLA NIDIA",
+    "codigopostal": "5473",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 20988,
+    "nombre": "VILLA SAN JOSE DE VINCHINA",
+    "codigopostal": "5359",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14166,
+    "nombre": "VILLA SANAGASTA",
+    "codigopostal": "5301",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14076,
+    "nombre": "VILLA SANTA RITA",
+    "codigopostal": "5275",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 13945,
+    "nombre": "VILLA UNION",
+    "codigopostal": "5350",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  },
+  {
+    "id": 14172,
+    "nombre": "VINCHINA",
+    "codigopostal": "5357",
+    "provincia": {
+      "id": 12,
+      "nombre": "La Rioja"
+    }
+  }
+]

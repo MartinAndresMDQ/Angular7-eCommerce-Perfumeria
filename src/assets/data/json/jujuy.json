@@ -1,0 +1,6599 @@
+[
+  {
+    "id": 13193,
+    "nombre": "23 DE AGOSTO",
+    "codigopostal": "4504",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13055,
+    "nombre": "ABDON CASTRO TOLAY",
+    "codigopostal": "4641",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 16656,
+    "nombre": "ABRA DE PE",
+    "codigopostal": "4650",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23987,
+    "nombre": "ABRA DE PIVES",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23843,
+    "nombre": "ABRA DEL TRIGO",
+    "codigopostal": "4501",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13300,
+    "nombre": "ABRA MAYO",
+    "codigopostal": "4624",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13056,
+    "nombre": "ABRA PAMPA",
+    "codigopostal": "4640",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13057,
+    "nombre": "ABRALAITE",
+    "codigopostal": "4634",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23988,
+    "nombre": "ACHACAMAYOC",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23989,
+    "nombre": "AGUA BENDITA",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13058,
+    "nombre": "AGUA CALIENTE DE LA PUNA",
+    "codigopostal": "4641",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13059,
+    "nombre": "AGUA CHICA",
+    "codigopostal": "4640",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23990,
+    "nombre": "AGUA CHICA",
+    "codigopostal": "4640",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23441,
+    "nombre": "AGUA DE CASTILLA",
+    "codigopostal": "4640",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 27619,
+    "nombre": "AGUA DE CASTILLA",
+    "codigopostal": "4651",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23575,
+    "nombre": "AGUA NEGRA",
+    "codigopostal": "4512",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23991,
+    "nombre": "AGUA PALOMAR",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23848,
+    "nombre": "AGUAS BLANCAS",
+    "codigopostal": "4501",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13060,
+    "nombre": "AGUAS CALIENTES",
+    "codigopostal": "4431",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 27821,
+    "nombre": "AGUAS CALIENTES",
+    "codigopostal": "4518",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 16621,
+    "nombre": "ALEGRIA",
+    "codigopostal": "4506",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13301,
+    "nombre": "ALFARCITO",
+    "codigopostal": "4624",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23576,
+    "nombre": "ALGARROBAL",
+    "codigopostal": "4600",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13228,
+    "nombre": "ALISOS  DE ABAJO",
+    "codigopostal": "4605",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23808,
+    "nombre": "ALISOS DE ARRIBA",
+    "codigopostal": "4605",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13178,
+    "nombre": "ALTO CALILEGUA",
+    "codigopostal": "4513",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13094,
+    "nombre": "ALTO COMEDERO",
+    "codigopostal": "4600",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23992,
+    "nombre": "ALTO DE CASA",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23993,
+    "nombre": "ALTO DE LOZANO",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23994,
+    "nombre": "ALTO DE MOJON",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23995,
+    "nombre": "ALTO DEL ANGOSTO",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 16633,
+    "nombre": "ALTO DEL SALADILLO",
+    "codigopostal": "4500",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23996,
+    "nombre": "ALTO DEL SALADILLO",
+    "codigopostal": "4522",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23997,
+    "nombre": "ALTO HUANCAR",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23998,
+    "nombre": "ALTO MINERO",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23999,
+    "nombre": "ALTO POTRERILLO",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24000,
+    "nombre": "ALTO QUEMADO",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24001,
+    "nombre": "ALTO QUIRQUINCHO",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13109,
+    "nombre": "ALTO VERDE",
+    "codigopostal": "4608",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 16640,
+    "nombre": "AMANCAYOC",
+    "codigopostal": "4513",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 16642,
+    "nombre": "AMARGURAS",
+    "codigopostal": "4513",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23975,
+    "nombre": "ANGOSTO DEL PERCHEL",
+    "codigopostal": "4626",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23578,
+    "nombre": "ANIMAS",
+    "codigopostal": "4512",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24066,
+    "nombre": "ANTIGUO",
+    "codigopostal": "4631",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23758,
+    "nombre": "ANTIGUYOS",
+    "codigopostal": "4643",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23533,
+    "nombre": "ANTUMPA",
+    "codigopostal": "4632",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23579,
+    "nombre": "APAREJO",
+    "codigopostal": "4512",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13145,
+    "nombre": "APARZO",
+    "codigopostal": "4630",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13061,
+    "nombre": "ARBOLITO NUEVO",
+    "codigopostal": "4643",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13179,
+    "nombre": "ARENAL BARROSO",
+    "codigopostal": "4506",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13236,
+    "nombre": "ARRAYANAL",
+    "codigopostal": "4503",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13237,
+    "nombre": "ARROYO COLORADO",
+    "codigopostal": "4501",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23850,
+    "nombre": "ARROYO DEL MEDIO",
+    "codigopostal": "4501",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23809,
+    "nombre": "ATALAYA",
+    "codigopostal": "4600",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13146,
+    "nombre": "AZUL PAMPA",
+    "codigopostal": "4631",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 16622,
+    "nombre": "BAJADA ALTA",
+    "codigopostal": "4506",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13147,
+    "nombre": "BALIAZO",
+    "codigopostal": "4630",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23534,
+    "nombre": "BALLIAZO",
+    "codigopostal": "4630",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13316,
+    "nombre": "BARCENA",
+    "codigopostal": "4616",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13062,
+    "nombre": "BARRANCAS",
+    "codigopostal": "4641",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23365,
+    "nombre": "BARRIO 9 DE JULIO",
+    "codigopostal": "4600",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13102,
+    "nombre": "BARRIO ALBERDI",
+    "codigopostal": "4600",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23370,
+    "nombre": "BARRIO ALTO LA LOMA",
+    "codigopostal": "4600",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23367,
+    "nombre": "BARRIO ALTO LA VI",
+    "codigopostal": "4600",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23368,
+    "nombre": "BARRIO BAJO LA VI",
+    "codigopostal": "4600",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23379,
+    "nombre": "BARRIO CHIJRA",
+    "codigopostal": "4600",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13104,
+    "nombre": "BARRIO CUYAYA",
+    "codigopostal": "4600",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23821,
+    "nombre": "BARRIO LA PROVIDENCIA",
+    "codigopostal": "4500",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13110,
+    "nombre": "BARRIO LA UNION",
+    "codigopostal": "4648",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13106,
+    "nombre": "BARRIO LUJAN",
+    "codigopostal": "4600",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23372,
+    "nombre": "BARRIO PARQUE 19 DE ABRIL",
+    "codigopostal": "4600",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13107,
+    "nombre": "BARRIO SANTA RITA",
+    "codigopostal": "4600",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13353,
+    "nombre": "BARRIOS",
+    "codigopostal": "4650",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13238,
+    "nombre": "BARRO NEGRO",
+    "codigopostal": "4522",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23580,
+    "nombre": "BATEAS",
+    "codigopostal": "4512",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23581,
+    "nombre": "BELLA VISTA",
+    "codigopostal": "4512",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23851,
+    "nombre": "BELLA VISTA",
+    "codigopostal": "4501",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23976,
+    "nombre": "BELLA VISTA",
+    "codigopostal": "4622",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24002,
+    "nombre": "BOLETERIA",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13317,
+    "nombre": "BOMBA",
+    "codigopostal": "4616",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13111,
+    "nombre": "BORDO LA ISLA",
+    "codigopostal": "4608",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23978,
+    "nombre": "CA",
+    "codigopostal": "4624",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13273,
+    "nombre": "CABRERIA",
+    "codigopostal": "4655",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23853,
+    "nombre": "CACHI PUNCO",
+    "codigopostal": "4501",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23977,
+    "nombre": "CACHIHUAICO",
+    "codigopostal": "4622",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 16643,
+    "nombre": "CACHO",
+    "codigopostal": "4513",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23488,
+    "nombre": "CADILLA",
+    "codigopostal": "4608",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13180,
+    "nombre": "CAIMANCITO",
+    "codigopostal": "4516",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24084,
+    "nombre": "CAJAS",
+    "codigopostal": "4651",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23920,
+    "nombre": "CALAHOYO",
+    "codigopostal": "4655",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23536,
+    "nombre": "CALETE",
+    "codigopostal": "4630",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13181,
+    "nombre": "CALILEGUA",
+    "codigopostal": "4514",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23583,
+    "nombre": "CAMPO BAJO",
+    "codigopostal": "4512",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23598,
+    "nombre": "CAMPO COLORADO",
+    "codigopostal": "4512",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13112,
+    "nombre": "CAMPO LA TUNA",
+    "codigopostal": "4608",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24003,
+    "nombre": "CAMPO OCULTO",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24004,
+    "nombre": "CANCHAHUASI",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23922,
+    "nombre": "CANCHUELA",
+    "codigopostal": "4655",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23599,
+    "nombre": "CANDELARIA",
+    "codigopostal": "4512",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13354,
+    "nombre": "CANGREJILLOS",
+    "codigopostal": "4644",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13355,
+    "nombre": "CANGREJOS",
+    "codigopostal": "4644",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24005,
+    "nombre": "CAPACHACRA",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23537,
+    "nombre": "CAPLA",
+    "codigopostal": "4626",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13356,
+    "nombre": "CARACARA",
+    "codigopostal": "4644",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13212,
+    "nombre": "CARAHUASI",
+    "codigopostal": "4643",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13197,
+    "nombre": "CARAHUNCO",
+    "codigopostal": "4612",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13148,
+    "nombre": "CARAYOC",
+    "codigopostal": "4651",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24006,
+    "nombre": "CARCEL",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13063,
+    "nombre": "CASA COLORADA",
+    "codigopostal": "4643",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23538,
+    "nombre": "CASA GRANDE",
+    "codigopostal": "4634",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24007,
+    "nombre": "CASA NEGRA",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24008,
+    "nombre": "CASA VIEJA",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13064,
+    "nombre": "CASABINDO",
+    "codigopostal": "4641",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23539,
+    "nombre": "CASAYOCK",
+    "codigopostal": "4632",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23540,
+    "nombre": "CASILLA",
+    "codigopostal": "4632",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13182,
+    "nombre": "CASILLAS",
+    "codigopostal": "4632",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13274,
+    "nombre": "CASIRA",
+    "codigopostal": "4653",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13342,
+    "nombre": "CASPALA",
+    "codigopostal": "4631",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13357,
+    "nombre": "CASTI",
+    "codigopostal": "4651",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13113,
+    "nombre": "CATAMONTA",
+    "codigopostal": "4603",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13065,
+    "nombre": "CATARI",
+    "codigopostal": "4640",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13292,
+    "nombre": "CATUA",
+    "codigopostal": "4413",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23949,
+    "nombre": "CAUCHARI",
+    "codigopostal": "4641",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13229,
+    "nombre": "CEIBAL",
+    "codigopostal": "4605",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13198,
+    "nombre": "CENTRO FORESTAL",
+    "codigopostal": "4612",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24085,
+    "nombre": "CERRILLOS",
+    "codigopostal": "4653",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13275,
+    "nombre": "CERRITO",
+    "codigopostal": "4653",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 27820,
+    "nombre": "CERRO AGUA CALIENTE",
+    "codigopostal": "4641",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 16612,
+    "nombre": "CERRO CHICO",
+    "codigopostal": "4640",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13230,
+    "nombre": "CERRO NEGRO",
+    "codigopostal": "4605",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23775,
+    "nombre": "CERRO REDONDO",
+    "codigopostal": "4643",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13199,
+    "nombre": "CERROS ZAPLA",
+    "codigopostal": "4612",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23376,
+    "nombre": "CERROS ZAPLA",
+    "codigopostal": "4612",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23600,
+    "nombre": "CEVILAR",
+    "codigopostal": "4512",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23378,
+    "nombre": "CHA",
+    "codigopostal": "4616",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23601,
+    "nombre": "CHA",
+    "codigopostal": "4516",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23602,
+    "nombre": "CHA",
+    "codigopostal": "4516",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24009,
+    "nombre": "CHA",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24010,
+    "nombre": "CHA",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13183,
+    "nombre": "CHALICAN",
+    "codigopostal": "4504",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13114,
+    "nombre": "CHAMICAL",
+    "codigopostal": "4608",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13066,
+    "nombre": "CHAUPI RODERO",
+    "codigopostal": "4640",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13149,
+    "nombre": "CHAUPI RODERO",
+    "codigopostal": "4632",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24011,
+    "nombre": "CHILCAR",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24067,
+    "nombre": "CHILCAR",
+    "codigopostal": "4631",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13318,
+    "nombre": "CHILCAYOC",
+    "codigopostal": "4616",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13358,
+    "nombre": "CHOCOITE",
+    "codigopostal": "4644",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13150,
+    "nombre": "CHORCAN",
+    "codigopostal": "4631",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13067,
+    "nombre": "CHOROJRA",
+    "codigopostal": "4640",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24012,
+    "nombre": "CHORRILLO",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13302,
+    "nombre": "CHORRILLOS",
+    "codigopostal": "4626",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23541,
+    "nombre": "CHORRILLOS",
+    "codigopostal": "4630",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 16644,
+    "nombre": "CHORRO",
+    "codigopostal": "4513",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13151,
+    "nombre": "CHUCALEZNA",
+    "codigopostal": "4626",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13118,
+    "nombre": "CHUCUPAL",
+    "codigopostal": "4603",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23443,
+    "nombre": "CHULIN O INCA NUEVA",
+    "codigopostal": "4640",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23380,
+    "nombre": "CHUQUINA",
+    "codigopostal": "4600",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13152,
+    "nombre": "CIANZO",
+    "codigopostal": "4630",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23604,
+    "nombre": "CIENAGA",
+    "codigopostal": "4512",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24013,
+    "nombre": "CIENAGA GRANDE",
+    "codigopostal": "4643",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13213,
+    "nombre": "CIENEGO GRANDE",
+    "codigopostal": "4643",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13276,
+    "nombre": "CIENEGUILLAS",
+    "codigopostal": "4653",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23777,
+    "nombre": "CINCEL",
+    "codigopostal": "4643",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23445,
+    "nombre": "COCHAGATE",
+    "codigopostal": "4640",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13068,
+    "nombre": "COCHINOCA",
+    "codigopostal": "4641",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13153,
+    "nombre": "COCTACA",
+    "codigopostal": "4631",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24014,
+    "nombre": "COIRURO",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 16623,
+    "nombre": "COLONIA 8 DE SEPTIEMBRE",
+    "codigopostal": "4512",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 16619,
+    "nombre": "COLONIA LOS LAPACHOS",
+    "codigopostal": "4606",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13069,
+    "nombre": "COLORADOS",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24015,
+    "nombre": "CONDOR",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24086,
+    "nombre": "CONDOR",
+    "codigopostal": "4630",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 27848,
+    "nombre": "CORANZULI",
+    "codigopostal": "4643",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13154,
+    "nombre": "CORAYA",
+    "codigopostal": "4630",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13115,
+    "nombre": "CORONEL ARIAS",
+    "codigopostal": "4608",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23923,
+    "nombre": "CORRAL BLANCO",
+    "codigopostal": "4655",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24087,
+    "nombre": "CORRAL BLANCO",
+    "codigopostal": "4655",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23381,
+    "nombre": "CORRAL DE PIEDRAS",
+    "codigopostal": "4601",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24088,
+    "nombre": "CORRALITO",
+    "codigopostal": "4650",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24068,
+    "nombre": "CORTADERAS",
+    "codigopostal": "4631",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23605,
+    "nombre": "CORTADERAS",
+    "codigopostal": "4512",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24016,
+    "nombre": "CORTADERAS",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24017,
+    "nombre": "COSTILLAR",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13214,
+    "nombre": "COYAGUAIMA",
+    "codigopostal": "4643",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24018,
+    "nombre": "CRUZ NIDO",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13215,
+    "nombre": "CUSI CUSI",
+    "codigopostal": "4643",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13155,
+    "nombre": "DOGLONZO",
+    "codigopostal": "4631",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23607,
+    "nombre": "DON JORGE",
+    "codigopostal": "4512",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13070,
+    "nombre": "DONCELLAS",
+    "codigopostal": "4641",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23612,
+    "nombre": "DURAZNAL",
+    "codigopostal": "4512",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23824,
+    "nombre": "EL ACHERAL",
+    "codigopostal": "4500",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13156,
+    "nombre": "EL AGUILAR",
+    "codigopostal": "4634",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23614,
+    "nombre": "EL AIBAL",
+    "codigopostal": "4512",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13200,
+    "nombre": "EL ALGARROBAL",
+    "codigopostal": "4612",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23382,
+    "nombre": "EL ALGARROBAL",
+    "codigopostal": "4600",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23385,
+    "nombre": "EL AMANCAY",
+    "codigopostal": "4600",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13319,
+    "nombre": "EL ANGOSTO",
+    "codigopostal": "4655",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13253,
+    "nombre": "EL ARENAL",
+    "codigopostal": "4500",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23386,
+    "nombre": "EL ARENAL",
+    "codigopostal": "4601",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23617,
+    "nombre": "EL BANANAL",
+    "codigopostal": "4512",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13201,
+    "nombre": "EL BRETE",
+    "codigopostal": "4612",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 27529,
+    "nombre": "EL CABRAL",
+    "codigopostal": "4608",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13116,
+    "nombre": "EL CADILLAL",
+    "codigopostal": "4608",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23979,
+    "nombre": "EL CALLEJON",
+    "codigopostal": "4622",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 16624,
+    "nombre": "EL CARDONAL",
+    "codigopostal": "4506",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13117,
+    "nombre": "EL CARMEN",
+    "codigopostal": "4603",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23619,
+    "nombre": "EL CAULARIO",
+    "codigopostal": "4512",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 27794,
+    "nombre": "EL CHAGUARAL",
+    "codigopostal": "4500",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24019,
+    "nombre": "EL COLORADO",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13157,
+    "nombre": "EL CONDOR",
+    "codigopostal": "4644",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13202,
+    "nombre": "EL CUCHO",
+    "codigopostal": "4612",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23388,
+    "nombre": "EL CUCHO",
+    "codigopostal": "4600",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13303,
+    "nombre": "EL DURAZNO",
+    "codigopostal": "4624",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13254,
+    "nombre": "EL FUERTE",
+    "codigopostal": "4501",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23621,
+    "nombre": "EL MANANTIAL",
+    "codigopostal": "4512",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23879,
+    "nombre": "EL MISTOL",
+    "codigopostal": "4501",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24020,
+    "nombre": "EL MOLINO",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23489,
+    "nombre": "EL MOLLAR",
+    "codigopostal": "4608",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 16657,
+    "nombre": "EL MONUMENTO",
+    "codigopostal": "4650",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13320,
+    "nombre": "EL MORENO",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24021,
+    "nombre": "EL MORRO",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23623,
+    "nombre": "EL NARANJO",
+    "codigopostal": "4512",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13119,
+    "nombre": "EL OLLERO",
+    "codigopostal": "4603",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23810,
+    "nombre": "EL OLLERO",
+    "codigopostal": "4605",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23880,
+    "nombre": "EL OLVIDO",
+    "codigopostal": "4501",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13255,
+    "nombre": "EL PALMAR",
+    "codigopostal": "4501",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13256,
+    "nombre": "EL PALMAR DE SAN FRANCISCO",
+    "codigopostal": "4542",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13308,
+    "nombre": "EL PERCHEL",
+    "codigopostal": "4624",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13257,
+    "nombre": "EL PIQUETE",
+    "codigopostal": "4501",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13120,
+    "nombre": "EL PONGO",
+    "codigopostal": "4608",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23950,
+    "nombre": "EL PORVENIR",
+    "codigopostal": "4641",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23446,
+    "nombre": "EL POTRERO DE LA PUNA",
+    "codigopostal": "4641",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13239,
+    "nombre": "EL QUEMADO",
+    "codigopostal": "4504",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13203,
+    "nombre": "EL REMATE",
+    "codigopostal": "4612",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23389,
+    "nombre": "EL REMATE",
+    "codigopostal": "4612",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23625,
+    "nombre": "EL RIO NEGRO",
+    "codigopostal": "4504",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13321,
+    "nombre": "EL SALADILLO",
+    "codigopostal": "4500",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23628,
+    "nombre": "EL SAUCE",
+    "codigopostal": "4512",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13121,
+    "nombre": "EL SUNCHAL",
+    "codigopostal": "4603",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23882,
+    "nombre": "EL SUNCHAL",
+    "codigopostal": "4501",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13258,
+    "nombre": "EL TALAR",
+    "codigopostal": "4542",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23887,
+    "nombre": "EL TIPAL",
+    "codigopostal": "4501",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13122,
+    "nombre": "EL TOBA",
+    "codigopostal": "4606",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13294,
+    "nombre": "EL TORO",
+    "codigopostal": "4643",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24022,
+    "nombre": "ENCRUCIJADA",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23826,
+    "nombre": "ENSENADA",
+    "codigopostal": "4500",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23491,
+    "nombre": "ENTRE RIOS",
+    "codigopostal": "4608",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13359,
+    "nombre": "ESCAYA",
+    "codigopostal": "4644",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23630,
+    "nombre": "ESQUINA",
+    "codigopostal": "4512",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24023,
+    "nombre": "ESQUINA DE HUANCAR",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23828,
+    "nombre": "ESQUINA DE QUISTO",
+    "codigopostal": "4500",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24024,
+    "nombre": "ESQUINA GRANDE",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23544,
+    "nombre": "ESQUINAS BLANCAS",
+    "codigopostal": "4634",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13123,
+    "nombre": "ESTACION PERICO",
+    "codigopostal": "4608",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13071,
+    "nombre": "ESTACION ZOOTECNICA",
+    "codigopostal": "4640",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24025,
+    "nombre": "ESTANCIA GRANDE",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23631,
+    "nombre": "FALDA DEL QUEBRACHAL",
+    "codigopostal": "4512",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23633,
+    "nombre": "FALDA MOJON",
+    "codigopostal": "4512",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23636,
+    "nombre": "FALDA MONTOSA",
+    "codigopostal": "4512",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23779,
+    "nombre": "FARILLON",
+    "codigopostal": "4643",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23640,
+    "nombre": "FINCA AGUA SALADA",
+    "codigopostal": "4516",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23642,
+    "nombre": "FINCA AGUA TAPADA",
+    "codigopostal": "4516",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23646,
+    "nombre": "FINCA LA LUCRECIA",
+    "codigopostal": "4516",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23648,
+    "nombre": "FINCA LA REALIDAD",
+    "codigopostal": "4516",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23492,
+    "nombre": "FINCA LEACH",
+    "codigopostal": "4504",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23651,
+    "nombre": "FINCA SANTA CORNELIA",
+    "codigopostal": "4516",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23654,
+    "nombre": "FLORENCIA",
+    "codigopostal": "4512",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13185,
+    "nombre": "FRAILE PINTADO",
+    "codigopostal": "4506",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24069,
+    "nombre": "FUNDICIONES",
+    "codigopostal": "4513",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23545,
+    "nombre": "GALETA",
+    "codigopostal": "4630",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13204,
+    "nombre": "GENERAL MANUEL SAVIO",
+    "codigopostal": "4612",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23889,
+    "nombre": "GOBERNADOR OVEJERO",
+    "codigopostal": "4501",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24070,
+    "nombre": "GOBERNADOR TELLO",
+    "codigopostal": "4513",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23781,
+    "nombre": "GRANADAS",
+    "codigopostal": "4643",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23657,
+    "nombre": "GUACHAN",
+    "codigopostal": "4512",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13186,
+    "nombre": "GUAYACAN",
+    "codigopostal": "4506",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13216,
+    "nombre": "GUAYATAYOC",
+    "codigopostal": "4643",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23924,
+    "nombre": "GUAYATAYOC",
+    "codigopostal": "4653",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 16609,
+    "nombre": "GUEMES",
+    "codigopostal": "4640",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13095,
+    "nombre": "GUERRERO",
+    "codigopostal": "4600",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23661,
+    "nombre": "HIGUERITAS",
+    "codigopostal": "4512",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24026,
+    "nombre": "HIGUERITAS",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13158,
+    "nombre": "HIPOLITO YRIGOYEN EST ITURBE",
+    "codigopostal": "4632",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13159,
+    "nombre": "HORNADITAS",
+    "codigopostal": "4630",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13277,
+    "nombre": "HORNILLOS",
+    "codigopostal": "4653",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23495,
+    "nombre": "HORNILLOS",
+    "codigopostal": "4608",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13305,
+    "nombre": "HUACALERA",
+    "codigopostal": "4626",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13322,
+    "nombre": "HUACHICHOCANA",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13096,
+    "nombre": "HUAICO CHICO",
+    "codigopostal": "4601",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13217,
+    "nombre": "HUALLATAYOC",
+    "codigopostal": "4653",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13295,
+    "nombre": "HUANCAR",
+    "codigopostal": "4641",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24027,
+    "nombre": "HUANCAR",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13306,
+    "nombre": "HUICHAIRA",
+    "codigopostal": "4624",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13160,
+    "nombre": "HUMAHUACA",
+    "codigopostal": "4630",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24028,
+    "nombre": "INCA HUASI",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13259,
+    "nombre": "INGENIO LA ESPERANZA",
+    "codigopostal": "4542",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23830,
+    "nombre": "INGENIO LA ESPERANZA",
+    "codigopostal": "4503",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13187,
+    "nombre": "INGENIO LEDESMA",
+    "codigopostal": "4512",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13360,
+    "nombre": "INTICANCHO",
+    "codigopostal": "4651",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23496,
+    "nombre": "IRIARTE",
+    "codigopostal": "4608",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13260,
+    "nombre": "ISLA CHICA",
+    "codigopostal": "4501",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13261,
+    "nombre": "ISLA GRANDE",
+    "codigopostal": "4501",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23392,
+    "nombre": "ITUAICOCHICO",
+    "codigopostal": "4601",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 16608,
+    "nombre": "ITURBE",
+    "codigopostal": "4632",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23663,
+    "nombre": "JARAMILLO",
+    "codigopostal": "4504",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23394,
+    "nombre": "JUAN GALAN",
+    "codigopostal": "4600",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23395,
+    "nombre": "JUAN MANUEL DE ROSAS",
+    "codigopostal": "4612",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13307,
+    "nombre": "JUELLA",
+    "codigopostal": "4624",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13124,
+    "nombre": "KILOMETRO 1129",
+    "codigopostal": "4608",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13323,
+    "nombre": "KILOMETRO 1183",
+    "codigopostal": "4616",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23547,
+    "nombre": "KILOMETRO 1289",
+    "codigopostal": "4630",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23549,
+    "nombre": "KILOMETRO 1321",
+    "codigopostal": "4634",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23955,
+    "nombre": "KILOMETRO 1369",
+    "codigopostal": "4641",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24089,
+    "nombre": "KILOMETRO 1397",
+    "codigopostal": "4644",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13324,
+    "nombre": "LA AGUADITA",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23396,
+    "nombre": "LA ALMONA",
+    "codigopostal": "4600",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13188,
+    "nombre": "LA BAJADA",
+    "codigopostal": "4506",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13309,
+    "nombre": "LA BANDA",
+    "codigopostal": "4624",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23447,
+    "nombre": "LA BANDA",
+    "codigopostal": "4640",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13231,
+    "nombre": "LA CABA",
+    "codigopostal": "4605",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23665,
+    "nombre": "LA CALERA",
+    "codigopostal": "4512",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 16658,
+    "nombre": "LA CHINACA",
+    "codigopostal": "4561",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13125,
+    "nombre": "LA CIENAGA",
+    "codigopostal": "4603",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13325,
+    "nombre": "LA CIENAGA",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13361,
+    "nombre": "LA CIENAGA",
+    "codigopostal": "4650",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23925,
+    "nombre": "LA CIENAGA",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13278,
+    "nombre": "LA CRUZ",
+    "codigopostal": "4655",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13205,
+    "nombre": "LA CUESTA",
+    "codigopostal": "4612",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23398,
+    "nombre": "LA CUESTA",
+    "codigopostal": "4600",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13362,
+    "nombre": "LA CUEVA",
+    "codigopostal": "4632",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23550,
+    "nombre": "LA CUEVA",
+    "codigopostal": "4632",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13240,
+    "nombre": "LA ESPERANZA",
+    "codigopostal": "4503",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 16613,
+    "nombre": "LA FALDA",
+    "codigopostal": "4640",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24090,
+    "nombre": "LA INTERMEDIA",
+    "codigopostal": "4650",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13241,
+    "nombre": "LA MENDIETA",
+    "codigopostal": "4522",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23498,
+    "nombre": "LA OLLADA",
+    "codigopostal": "4603",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23891,
+    "nombre": "LA OLLADA",
+    "codigopostal": "4501",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13126,
+    "nombre": "LA OVEJERIA",
+    "codigopostal": "4606",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23667,
+    "nombre": "LA PUERTA",
+    "codigopostal": "4512",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24029,
+    "nombre": "LA PUERTA",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13363,
+    "nombre": "LA QUIACA",
+    "codigopostal": "4650",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23893,
+    "nombre": "LA QUINTA",
+    "codigopostal": "4501",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 16625,
+    "nombre": "LA REDUCCION",
+    "codigopostal": "4506",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23895,
+    "nombre": "LA RONDA",
+    "codigopostal": "4501",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 16634,
+    "nombre": "LA SANGA",
+    "codigopostal": "4500",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 27646,
+    "nombre": "LA SANGA",
+    "codigopostal": "4622",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13232,
+    "nombre": "LA TOMA",
+    "codigopostal": "4605",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23501,
+    "nombre": "LA UNION",
+    "codigopostal": "4608",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23896,
+    "nombre": "LA VERTIENTE",
+    "codigopostal": "4501",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13162,
+    "nombre": "LA VETA",
+    "codigopostal": "4634",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23784,
+    "nombre": "LA VETA",
+    "codigopostal": "4643",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23899,
+    "nombre": "LAGUNA SAN MIGUEL",
+    "codigopostal": "4501",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23900,
+    "nombre": "LAGUNA TOTORILLAS",
+    "codigopostal": "4501",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24030,
+    "nombre": "LAGUNAS",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13326,
+    "nombre": "LAGUNAS DE YALA",
+    "codigopostal": "4616",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23401,
+    "nombre": "LAGUNAS DE YALA",
+    "codigopostal": "4616",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23504,
+    "nombre": "LAGUNILLA EL CARMEN",
+    "codigopostal": "4608",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23670,
+    "nombre": "LAGUNILLA LEDESMA",
+    "codigopostal": "4608",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23785,
+    "nombre": "LAGUNILLAS",
+    "codigopostal": "4640",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23672,
+    "nombre": "LAPACHAL LEDESMA",
+    "codigopostal": "4501",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23905,
+    "nombre": "LAPACHAL SANTA BARBARA",
+    "codigopostal": "4501",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13127,
+    "nombre": "LAS CA",
+    "codigopostal": "4606",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13206,
+    "nombre": "LAS CAPILLAS",
+    "codigopostal": "4612",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23403,
+    "nombre": "LAS CAPILLAS",
+    "codigopostal": "4600",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23981,
+    "nombre": "LAS CHICAPENAS",
+    "codigopostal": "4622",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13207,
+    "nombre": "LAS ESCALERAS",
+    "codigopostal": "4612",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23404,
+    "nombre": "LAS ESCALERAS",
+    "codigopostal": "4600",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23407,
+    "nombre": "LAS HIGUERILLAS",
+    "codigopostal": "4600",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23674,
+    "nombre": "LAS HIGUERITAS",
+    "codigopostal": "4512",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13128,
+    "nombre": "LAS PAMPITAS",
+    "codigopostal": "4608",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13129,
+    "nombre": "LAS PICHANAS",
+    "codigopostal": "4606",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13130,
+    "nombre": "LAS PIRCAS",
+    "codigopostal": "4603",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23675,
+    "nombre": "LAS QUINTAS",
+    "codigopostal": "4512",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13131,
+    "nombre": "LAVAYEN",
+    "codigopostal": "4503",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13262,
+    "nombre": "LEACHS",
+    "codigopostal": "4504",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23676,
+    "nombre": "LECHERIA",
+    "codigopostal": "4514",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23677,
+    "nombre": "LEDESMA",
+    "codigopostal": "4512",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13327,
+    "nombre": "LEON",
+    "codigopostal": "4616",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23408,
+    "nombre": "LEON",
+    "codigopostal": "4616",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 16398,
+    "nombre": "LIB GRAL SAN MARTIN",
+    "codigopostal": "4512",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24031,
+    "nombre": "LINDERO",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24032,
+    "nombre": "LIPAN",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23449,
+    "nombre": "LLAMERIA",
+    "codigopostal": "4644",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13072,
+    "nombre": "LLULLUCHAYOC",
+    "codigopostal": "4644",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13218,
+    "nombre": "LOMA BLANCA",
+    "codigopostal": "4643",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23679,
+    "nombre": "LOMA DEL MEDIO",
+    "codigopostal": "4512",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 16645,
+    "nombre": "LOMA LARGA",
+    "codigopostal": "4513",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24033,
+    "nombre": "LOMA LARGA",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23907,
+    "nombre": "LOMA PELADA",
+    "codigopostal": "4501",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13233,
+    "nombre": "LOS ALISOS",
+    "codigopostal": "4605",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23410,
+    "nombre": "LOS ALISOS",
+    "codigopostal": "4600",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23681,
+    "nombre": "LOS BA",
+    "codigopostal": "4516",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 16630,
+    "nombre": "LOS BAYOS",
+    "codigopostal": "4503",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13208,
+    "nombre": "LOS BLANCOS",
+    "codigopostal": "4612",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23411,
+    "nombre": "LOS BLANCOS",
+    "codigopostal": "4600",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23684,
+    "nombre": "LOS CATRES",
+    "codigopostal": "4512",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13132,
+    "nombre": "LOS CEDROS",
+    "codigopostal": "4603",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13133,
+    "nombre": "LOS LAPACHOS",
+    "codigopostal": "4606",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13134,
+    "nombre": "LOS MANANTIALES",
+    "codigopostal": "4606",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23909,
+    "nombre": "LOS MATOS",
+    "codigopostal": "4501",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13242,
+    "nombre": "LOTE DON DAVID",
+    "codigopostal": "4522",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13243,
+    "nombre": "LOTE DON EMILIO",
+    "codigopostal": "4522",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13244,
+    "nombre": "LOTE EL PUESTO",
+    "codigopostal": "4503",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 16631,
+    "nombre": "LOTE LA CIENAGA",
+    "codigopostal": "4503",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 16632,
+    "nombre": "LOTE LA POSTA",
+    "codigopostal": "4503",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 16626,
+    "nombre": "LOTE MAIZ NEGRO",
+    "codigopostal": "4506",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13073,
+    "nombre": "LOTE MIRAFLORES",
+    "codigopostal": "4503",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13245,
+    "nombre": "LOTE PALMERA",
+    "codigopostal": "4503",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13246,
+    "nombre": "LOTE PARAPETI",
+    "codigopostal": "4503",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13247,
+    "nombre": "LOTE PIEDRITAS",
+    "codigopostal": "4522",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23686,
+    "nombre": "LOTE PREDILIANA",
+    "codigopostal": "4512",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13248,
+    "nombre": "LOTE SAN ANTONIO",
+    "codigopostal": "4512",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13135,
+    "nombre": "LOTE SAN JUANCITO",
+    "codigopostal": "4522",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13263,
+    "nombre": "LOTE SAUZAL",
+    "codigopostal": "4522",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23687,
+    "nombre": "LOTE ZORA",
+    "codigopostal": "4504",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13097,
+    "nombre": "LOZANO",
+    "codigopostal": "4616",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 16614,
+    "nombre": "LUMARA",
+    "codigopostal": "4640",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13310,
+    "nombre": "MAIMARA",
+    "codigopostal": "4622",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23689,
+    "nombre": "MAL PASO",
+    "codigopostal": "4512",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13136,
+    "nombre": "MAQUINISTA VERON",
+    "codigopostal": "4606",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23690,
+    "nombre": "MARTA",
+    "codigopostal": "4512",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23452,
+    "nombre": "MAYILTE",
+    "codigopostal": "4644",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13364,
+    "nombre": "MAYINTE",
+    "codigopostal": "4644",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23927,
+    "nombre": "MERCO",
+    "codigopostal": "4655",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23910,
+    "nombre": "MILAN",
+    "codigopostal": "4501",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13209,
+    "nombre": "MINA 9 DE OCTUBRE",
+    "codigopostal": "4612",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23412,
+    "nombre": "MINA 9 DE OCTUBRE",
+    "codigopostal": "4612",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23788,
+    "nombre": "MINA AJEDREZ",
+    "codigopostal": "4643",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13365,
+    "nombre": "MINA BELGICA",
+    "codigopostal": "4644",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13223,
+    "nombre": "MINA PAN DE AZUCAR",
+    "codigopostal": "4643",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13219,
+    "nombre": "MINA PIRQUITAS",
+    "codigopostal": "4643",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13366,
+    "nombre": "MINA PULPERA",
+    "codigopostal": "4644",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13367,
+    "nombre": "MINA SAN FRANCISCO",
+    "codigopostal": "4644",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24091,
+    "nombre": "MINA SOL DE MAYO",
+    "codigopostal": "4644",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23929,
+    "nombre": "MINAS AZULES",
+    "codigopostal": "4655",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24034,
+    "nombre": "MINAS DE BORATO",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23789,
+    "nombre": "MINIAIO",
+    "codigopostal": "4643",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 16615,
+    "nombre": "MIRA FLORES",
+    "codigopostal": "4640",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13074,
+    "nombre": "MIRAFLORES DE LA CANDELARIA",
+    "codigopostal": "4640",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23931,
+    "nombre": "MIRES",
+    "codigopostal": "4655",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13163,
+    "nombre": "MIYUYOC",
+    "codigopostal": "4632",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23454,
+    "nombre": "MOCORAITE",
+    "codigopostal": "4644",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23692,
+    "nombre": "MOJON AZUCENA",
+    "codigopostal": "4512",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13328,
+    "nombre": "MOLINOS",
+    "codigopostal": "4616",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23551,
+    "nombre": "MOLINOS",
+    "codigopostal": "4616",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24035,
+    "nombre": "MOLLI PUNCO",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23694,
+    "nombre": "MOLULAR",
+    "codigopostal": "4512",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13343,
+    "nombre": "MOLULO",
+    "codigopostal": "4624",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13137,
+    "nombre": "MONTERRICO",
+    "codigopostal": "4608",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23831,
+    "nombre": "MORALITO",
+    "codigopostal": "4500",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24037,
+    "nombre": "MORENO CHICO",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24038,
+    "nombre": "MORRITO",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23932,
+    "nombre": "MORRO",
+    "codigopostal": "4655",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13296,
+    "nombre": "MU",
+    "codigopostal": "4641",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24092,
+    "nombre": "MULLI PUNCO",
+    "codigopostal": "4650",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23696,
+    "nombre": "NARANJITO",
+    "codigopostal": "4512",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23413,
+    "nombre": "NAZARENO",
+    "codigopostal": "4600",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 16646,
+    "nombre": "NOGAL",
+    "codigopostal": "4513",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 16647,
+    "nombre": "NOGALES",
+    "codigopostal": "4513",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 16648,
+    "nombre": "NOGALITO",
+    "codigopostal": "4513",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13191,
+    "nombre": "NORMENTA",
+    "codigopostal": "4512",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23751,
+    "nombre": "OBRAJE SAN JOSE",
+    "codigopostal": "4516",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13344,
+    "nombre": "OCLOYAS",
+    "codigopostal": "4601",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 16627,
+    "nombre": "OCULTO",
+    "codigopostal": "4506",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13164,
+    "nombre": "OCUMAZO",
+    "codigopostal": "4626",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 16628,
+    "nombre": "OJO DE AGUA",
+    "codigopostal": "4506",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23952,
+    "nombre": "OLACAPATO",
+    "codigopostal": "4643",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13297,
+    "nombre": "OLAROZ CHICO",
+    "codigopostal": "4641",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23957,
+    "nombre": "OLAROZ GRANDE",
+    "codigopostal": "4641",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13279,
+    "nombre": "ORATORIO",
+    "codigopostal": "4655",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23933,
+    "nombre": "ORNILLO",
+    "codigopostal": "4653",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13280,
+    "nombre": "OROS SAN JUAN",
+    "codigopostal": "4655",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13221,
+    "nombre": "OROSMAYO",
+    "codigopostal": "4643",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13165,
+    "nombre": "OVARA",
+    "codigopostal": "4630",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13234,
+    "nombre": "PA",
+    "codigopostal": "4605",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13222,
+    "nombre": "PAICONE",
+    "codigopostal": "4643",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23959,
+    "nombre": "PAIRIQUE CHICO",
+    "codigopostal": "4643",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23961,
+    "nombre": "PAIRIQUE GRANDE",
+    "codigopostal": "4643",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13166,
+    "nombre": "PALCA DE APARZO",
+    "codigopostal": "4631",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13264,
+    "nombre": "PALMA SOLA",
+    "codigopostal": "4501",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23697,
+    "nombre": "PALO A PIQUE",
+    "codigopostal": "4512",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13138,
+    "nombre": "PALO BLANCO",
+    "codigopostal": "4522",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 16635,
+    "nombre": "PALO SANTO",
+    "codigopostal": "4522",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13210,
+    "nombre": "PALPALA",
+    "codigopostal": "4612",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23415,
+    "nombre": "PALPALA",
+    "codigopostal": "4612",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13139,
+    "nombre": "PAMPA BLANCA",
+    "codigopostal": "4606",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23699,
+    "nombre": "PAMPA LARGA",
+    "codigopostal": "4512",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13140,
+    "nombre": "PAMPA VIEJA",
+    "codigopostal": "4606",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13345,
+    "nombre": "PAMPICHUELA",
+    "codigopostal": "4513",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13281,
+    "nombre": "PASAJES",
+    "codigopostal": "4653",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13282,
+    "nombre": "PASTO PAMPA",
+    "codigopostal": "4653",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23421,
+    "nombre": "PASTOS CHICOS",
+    "codigopostal": "4641",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23700,
+    "nombre": "PAULETE",
+    "codigopostal": "4512",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23702,
+    "nombre": "PAULINA",
+    "codigopostal": "4512",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23423,
+    "nombre": "PAYO",
+    "codigopostal": "4600",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13167,
+    "nombre": "PE",
+    "codigopostal": "4632",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23791,
+    "nombre": "PE",
+    "codigopostal": "4632",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23935,
+    "nombre": "PE",
+    "codigopostal": "4655",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13141,
+    "nombre": "PERICO",
+    "codigopostal": "4608",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23506,
+    "nombre": "PERICO SAN JUAN",
+    "codigopostal": "4603",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 16649,
+    "nombre": "PICACHO",
+    "codigopostal": "4513",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23912,
+    "nombre": "PIE DE LA CUESTA",
+    "codigopostal": "4501",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23703,
+    "nombre": "PIEDRA BLANCA",
+    "codigopostal": "4512",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24039,
+    "nombre": "PIEDRA CHOTA",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24040,
+    "nombre": "PIEDRAS AMONTONADAS",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24041,
+    "nombre": "PIEDRAS BLANCAS",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 16650,
+    "nombre": "PILCOMAYO",
+    "codigopostal": "4513",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13329,
+    "nombre": "PISCUNO",
+    "codigopostal": "4655",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24071,
+    "nombre": "PISCUNO",
+    "codigopostal": "4651",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23553,
+    "nombre": "PISUNGO",
+    "codigopostal": "4632",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24042,
+    "nombre": "PORVENIR",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24043,
+    "nombre": "POSTA DE HORNILLOS",
+    "codigopostal": "4622",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13304,
+    "nombre": "POSTA DE HORNILLOS",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23708,
+    "nombre": "POSTA GDAPARQUE NAC CALILEGUA",
+    "codigopostal": "4514",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24072,
+    "nombre": "POTRERILLO",
+    "codigopostal": "4631",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13075,
+    "nombre": "POTRERO",
+    "codigopostal": "4640",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 16638,
+    "nombre": "POTRERO",
+    "codigopostal": "4616",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23710,
+    "nombre": "POTRERO",
+    "codigopostal": "4640",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23936,
+    "nombre": "POTRERO",
+    "codigopostal": "4653",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23711,
+    "nombre": "POTRERO ALEGRE",
+    "codigopostal": "4512",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13076,
+    "nombre": "POTRERO DE LA PUNA",
+    "codigopostal": "4640",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24044,
+    "nombre": "POZO BRAVO",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23713,
+    "nombre": "POZO CAVADO",
+    "codigopostal": "4512",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24045,
+    "nombre": "POZO COLORADO",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23507,
+    "nombre": "POZO DE LAS AVISPAS",
+    "codigopostal": "4608",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23715,
+    "nombre": "POZO VERDE",
+    "codigopostal": "4512",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13224,
+    "nombre": "POZUELO",
+    "codigopostal": "4643",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23717,
+    "nombre": "PREDILIANA",
+    "codigopostal": "4512",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13168,
+    "nombre": "PUCARA",
+    "codigopostal": "4624",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 16651,
+    "nombre": "PUEBLO",
+    "codigopostal": "4513",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13192,
+    "nombre": "PUEBLO LEDESMA",
+    "codigopostal": "4512",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23718,
+    "nombre": "PUEBLO NUEVO",
+    "codigopostal": "4512",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24046,
+    "nombre": "PUEBLO PLA",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13142,
+    "nombre": "PUEBLO VIEJO",
+    "codigopostal": "4632",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24047,
+    "nombre": "PUERTA DE COLORADOS",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13330,
+    "nombre": "PUERTA DE LIPAN",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23425,
+    "nombre": "PUERTA DE SALAS",
+    "codigopostal": "4612",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24048,
+    "nombre": "PUERTA PATACAL",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 16616,
+    "nombre": "PUERTA POTRERO",
+    "codigopostal": "4640",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23719,
+    "nombre": "PUERTA VIEJA",
+    "codigopostal": "4512",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24073,
+    "nombre": "PUERTO TOLAVA",
+    "codigopostal": "4513",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23982,
+    "nombre": "PUESTO",
+    "codigopostal": "4624",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13283,
+    "nombre": "PUESTO CHICO",
+    "codigopostal": "4653",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13077,
+    "nombre": "PUESTO DEL MARQUEZ",
+    "codigopostal": "4644",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13284,
+    "nombre": "PUESTO GRANDE",
+    "codigopostal": "4653",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13265,
+    "nombre": "PUESTO NUEVO",
+    "codigopostal": "4501",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13266,
+    "nombre": "PUESTO VIEJO",
+    "codigopostal": "4606",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13368,
+    "nombre": "PUMAHUASI",
+    "codigopostal": "4644",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13331,
+    "nombre": "PUNA DE JUJUY",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24049,
+    "nombre": "PUNTA CANAL",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13332,
+    "nombre": "PUNTA CORRAL",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23457,
+    "nombre": "PUNTA DE AGUA",
+    "codigopostal": "4644",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23914,
+    "nombre": "PUNTA DEL AGUA",
+    "codigopostal": "4644",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23983,
+    "nombre": "PUNTA DEL CAMPO",
+    "codigopostal": "4622",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24050,
+    "nombre": "PUNTAS DE COLORADOS",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13333,
+    "nombre": "PURMAMARCA",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 16652,
+    "nombre": "QUE",
+    "codigopostal": "4513",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13311,
+    "nombre": "QUEBRADA HUASAMAYO",
+    "codigopostal": "4624",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23458,
+    "nombre": "QUEBRALE",
+    "codigopostal": "4640",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23460,
+    "nombre": "QUENTI TACO",
+    "codigopostal": "4644",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13079,
+    "nombre": "QUERA",
+    "codigopostal": "4634",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23792,
+    "nombre": "QUERA",
+    "codigopostal": "4643",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13080,
+    "nombre": "QUETA",
+    "codigopostal": "4641",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13081,
+    "nombre": "QUICHAGUA",
+    "codigopostal": "4641",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23554,
+    "nombre": "QUIMAZO",
+    "codigopostal": "4630",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24051,
+    "nombre": "QUISQUINE",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13082,
+    "nombre": "RACHAITE",
+    "codigopostal": "4641",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23720,
+    "nombre": "RAMADA",
+    "codigopostal": "4512",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24074,
+    "nombre": "RAMADA",
+    "codigopostal": "4631",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23463,
+    "nombre": "RAMALLO",
+    "codigopostal": "4640",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23721,
+    "nombre": "RASTROJOS",
+    "codigopostal": "4504",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13267,
+    "nombre": "REAL DE LOS TOROS",
+    "codigopostal": "4501",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24052,
+    "nombre": "RECEPTORIA",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13369,
+    "nombre": "REDONDA",
+    "codigopostal": "4644",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13098,
+    "nombre": "REYES",
+    "codigopostal": "4600",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13225,
+    "nombre": "RINCONADA",
+    "codigopostal": "4643",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13083,
+    "nombre": "RINCONADILLAS",
+    "codigopostal": "4641",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23428,
+    "nombre": "RIO BLANCO",
+    "codigopostal": "4601",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23813,
+    "nombre": "RIO BLANCO",
+    "codigopostal": "4605",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13370,
+    "nombre": "RIO COLORADO",
+    "codigopostal": "4644",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23555,
+    "nombre": "RIO GRANDE",
+    "codigopostal": "4634",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23833,
+    "nombre": "RIO GRANDE",
+    "codigopostal": "4522",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13268,
+    "nombre": "RIO NEGRO",
+    "codigopostal": "4504",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23722,
+    "nombre": "RIO SECO",
+    "codigopostal": "4512",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24053,
+    "nombre": "RIVERITO",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13249,
+    "nombre": "RODEITO",
+    "codigopostal": "4500",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24093,
+    "nombre": "RODEO",
+    "codigopostal": "4651",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13285,
+    "nombre": "RODEO CHICO",
+    "codigopostal": "4653",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13169,
+    "nombre": "RODERO",
+    "codigopostal": "4631",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13170,
+    "nombre": "RONQUE",
+    "codigopostal": "4631",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13084,
+    "nombre": "RONTUYOC",
+    "codigopostal": "4640",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13085,
+    "nombre": "RUMI CRUZ",
+    "codigopostal": "4640",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24058,
+    "nombre": "SALA",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 16636,
+    "nombre": "SALADILLO LEDESMA",
+    "codigopostal": "4500",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23729,
+    "nombre": "SALADILLO LEDESMA",
+    "codigopostal": "4522",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 16637,
+    "nombre": "SALADILLO SAN PEDRO",
+    "codigopostal": "4522",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23803,
+    "nombre": "SALITRE",
+    "codigopostal": "4643",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23563,
+    "nombre": "SAN ANDRES",
+    "codigopostal": "4630",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13235,
+    "nombre": "SAN ANTONIO",
+    "codigopostal": "4605",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 16653,
+    "nombre": "SAN ANTONIO",
+    "codigopostal": "4513",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23730,
+    "nombre": "SAN ANTONIO",
+    "codigopostal": "4503",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13334,
+    "nombre": "SAN BERNARDO",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13286,
+    "nombre": "SAN FRANCISCO",
+    "codigopostal": "4655",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13346,
+    "nombre": "SAN FRANCISCO",
+    "codigopostal": "4512",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13086,
+    "nombre": "SAN FRANCISCO DE ALFARCITO",
+    "codigopostal": "4641",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23514,
+    "nombre": "SAN GABRIEL",
+    "codigopostal": "4608",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24059,
+    "nombre": "SAN JAVIER",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13312,
+    "nombre": "SAN JOSE",
+    "codigopostal": "4626",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23756,
+    "nombre": "SAN JOSE DE LA RINCONADA",
+    "codigopostal": "4643",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 16617,
+    "nombre": "SAN JOSE DE MIRAFLORES",
+    "codigopostal": "4640",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13250,
+    "nombre": "SAN JOSE DEL BORDO",
+    "codigopostal": "4500",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13335,
+    "nombre": "SAN JOSE DEL CHA",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13226,
+    "nombre": "SAN JUAN",
+    "codigopostal": "4643",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23944,
+    "nombre": "SAN JUAN",
+    "codigopostal": "4655",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13251,
+    "nombre": "SAN JUAN DE DIOS",
+    "codigopostal": "4501",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23946,
+    "nombre": "SAN JUAN DE OROS",
+    "codigopostal": "4655",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13087,
+    "nombre": "SAN JUAN DE QUILLAGUES",
+    "codigopostal": "4641",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23517,
+    "nombre": "SAN JUANCITO",
+    "codigopostal": "4608",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13287,
+    "nombre": "SAN LEON",
+    "codigopostal": "4655",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23732,
+    "nombre": "SAN LORENZO",
+    "codigopostal": "4514",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13252,
+    "nombre": "SAN LUCAS",
+    "codigopostal": "4500",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13347,
+    "nombre": "SAN LUCAS",
+    "codigopostal": "4513",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23436,
+    "nombre": "SAN PABLO DE REYES",
+    "codigopostal": "4600",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13313,
+    "nombre": "SAN PEDRITO",
+    "codigopostal": "4622",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13227,
+    "nombre": "SAN PEDRO",
+    "codigopostal": "4500",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23566,
+    "nombre": "SAN PEDRO DE IRUYA",
+    "codigopostal": "4633",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13269,
+    "nombre": "SAN RAFAEL",
+    "codigopostal": "4501",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23520,
+    "nombre": "SAN RAFAEL",
+    "codigopostal": "4608",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13171,
+    "nombre": "SAN ROQUE",
+    "codigopostal": "4630",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13099,
+    "nombre": "SAN SALVADOR DE JUJUY",
+    "codigopostal": "4600",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13143,
+    "nombre": "SAN VICENTE",
+    "codigopostal": "4608",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13371,
+    "nombre": "SANSANA",
+    "codigopostal": "4650",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13348,
+    "nombre": "SANTA ANA",
+    "codigopostal": "4631",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13088,
+    "nombre": "SANTA ANA DE LA PUNA",
+    "codigopostal": "4641",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13349,
+    "nombre": "SANTA BARBARA",
+    "codigopostal": "4513",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13288,
+    "nombre": "SANTA CATALINA",
+    "codigopostal": "4655",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13270,
+    "nombre": "SANTA CLARA",
+    "codigopostal": "4501",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24076,
+    "nombre": "SANTA CLARA",
+    "codigopostal": "4513",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23521,
+    "nombre": "SANTA RITA",
+    "codigopostal": "4608",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23918,
+    "nombre": "SANTA RITA",
+    "codigopostal": "4501",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24060,
+    "nombre": "SANTA ROSA TUMBAYA",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24077,
+    "nombre": "SANTA ROSA VALLE GRANDE",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23734,
+    "nombre": "SANTILLO",
+    "codigopostal": "4512",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13144,
+    "nombre": "SANTO DOMINGO",
+    "codigopostal": "4608",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13089,
+    "nombre": "SANTUARIO",
+    "codigopostal": "4640",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 16639,
+    "nombre": "SANTUYOC",
+    "codigopostal": "4616",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23735,
+    "nombre": "SAUZAL",
+    "codigopostal": "4501",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23738,
+    "nombre": "SAUZALITO",
+    "codigopostal": "4512",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13090,
+    "nombre": "SAYATE",
+    "codigopostal": "4640",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13172,
+    "nombre": "SENADOR PEREZ",
+    "codigopostal": "4626",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23739,
+    "nombre": "SEPULTURA",
+    "codigopostal": "4512",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13298,
+    "nombre": "SEY",
+    "codigopostal": "4411",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 16629,
+    "nombre": "SIBERIA",
+    "codigopostal": "4506",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13271,
+    "nombre": "SIETE AGUAS",
+    "codigopostal": "4501",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23967,
+    "nombre": "SIJES",
+    "codigopostal": "4641",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23741,
+    "nombre": "SOCABON",
+    "codigopostal": "4512",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23742,
+    "nombre": "SOLEDAD",
+    "codigopostal": "4512",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24078,
+    "nombre": "SOLEDAD",
+    "codigopostal": "4631",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23483,
+    "nombre": "SORCUYO",
+    "codigopostal": "4640",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23969,
+    "nombre": "SOYSOLAYTE",
+    "codigopostal": "4643",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13372,
+    "nombre": "SURIPUJIO",
+    "codigopostal": "4651",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13299,
+    "nombre": "SUSQUES",
+    "codigopostal": "4641",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24061,
+    "nombre": "SUSUYACO",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13091,
+    "nombre": "TABLADITAS",
+    "codigopostal": "4640",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24079,
+    "nombre": "TABLON",
+    "codigopostal": "4631",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23985,
+    "nombre": "TACTA",
+    "codigopostal": "4622",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13373,
+    "nombre": "TAFNA",
+    "codigopostal": "4650",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24062,
+    "nombre": "TALA GRUSA",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 16654,
+    "nombre": "TALAR",
+    "codigopostal": "4513",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13092,
+    "nombre": "TAMBILLOS",
+    "codigopostal": "4641",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23971,
+    "nombre": "TANQUES",
+    "codigopostal": "4641",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23743,
+    "nombre": "TARIJITA",
+    "codigopostal": "4512",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13173,
+    "nombre": "TEJADAS",
+    "codigopostal": "4634",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13100,
+    "nombre": "TERMAS DE REYES",
+    "codigopostal": "4600",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13336,
+    "nombre": "TESORERO",
+    "codigopostal": "4616",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23437,
+    "nombre": "TESORERO",
+    "codigopostal": "4600",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 16610,
+    "nombre": "TEUCO",
+    "codigopostal": "4641",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13314,
+    "nombre": "TILCARA",
+    "codigopostal": "4624",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13101,
+    "nombre": "TILQUIZA",
+    "codigopostal": "4600",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13289,
+    "nombre": "TIMON CRUZ",
+    "codigopostal": "4655",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23805,
+    "nombre": "TIO MAYO",
+    "codigopostal": "4643",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23947,
+    "nombre": "TIO MAYO",
+    "codigopostal": "4653",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13337,
+    "nombre": "TIRAXI",
+    "codigopostal": "4616",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 16641,
+    "nombre": "TIRAXI CHICO",
+    "codigopostal": "4616",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 16620,
+    "nombre": "TOBA",
+    "codigopostal": "4648",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23744,
+    "nombre": "TOBA",
+    "codigopostal": "4606",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23972,
+    "nombre": "TOCOL",
+    "codigopostal": "4643",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13290,
+    "nombre": "TOQUERO",
+    "codigopostal": "4653",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23745,
+    "nombre": "TOQUILLERA",
+    "codigopostal": "4512",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24080,
+    "nombre": "TORO MUERTO",
+    "codigopostal": "4631",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24063,
+    "nombre": "TOTORITO",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24081,
+    "nombre": "TRANCAS",
+    "codigopostal": "4631",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23747,
+    "nombre": "TREMENTINAL",
+    "codigopostal": "4512",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13174,
+    "nombre": "TRES CRUCES",
+    "codigopostal": "4634",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13338,
+    "nombre": "TRES MORROS",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24064,
+    "nombre": "TRIUNVIRATO",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23748,
+    "nombre": "TUCUMANCITO",
+    "codigopostal": "4512",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23485,
+    "nombre": "TUITE",
+    "codigopostal": "4644",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13339,
+    "nombre": "TUMBAYA",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24065,
+    "nombre": "TUMBAYA GRANDE",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13340,
+    "nombre": "TUNALITO",
+    "codigopostal": "4618",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23973,
+    "nombre": "TURILARI",
+    "codigopostal": "4641",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 16611,
+    "nombre": "TURU TARI",
+    "codigopostal": "4640",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23974,
+    "nombre": "TURU TARI",
+    "codigopostal": "4641",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13093,
+    "nombre": "TUSAQUILLAS",
+    "codigopostal": "4641",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13175,
+    "nombre": "UQUIA",
+    "codigopostal": "4626",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13350,
+    "nombre": "VALLE COLORADO",
+    "codigopostal": "4631",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13351,
+    "nombre": "VALLE GRANDE",
+    "codigopostal": "4513",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13176,
+    "nombre": "VARAS",
+    "codigopostal": "4631",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23525,
+    "nombre": "VENECIAS ARGENTINAS",
+    "codigopostal": "4608",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13177,
+    "nombre": "VETA MINA AGUILAR",
+    "codigopostal": "4634",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23569,
+    "nombre": "VICU",
+    "codigopostal": "4634",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23526,
+    "nombre": "VILLA ARGENTINA",
+    "codigopostal": "4608",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13103,
+    "nombre": "VILLA CIUDAD DE NIEVA",
+    "codigopostal": "4600",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13293,
+    "nombre": "VILLA CORANZULI",
+    "codigopostal": "4643",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13315,
+    "nombre": "VILLA DEL PERCHEL",
+    "codigopostal": "4626",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13105,
+    "nombre": "VILLA GORRITI",
+    "codigopostal": "4600",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23426,
+    "nombre": "VILLA JARDIN DE REYES",
+    "codigopostal": "4600",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13272,
+    "nombre": "VINALITO",
+    "codigopostal": "4518",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13374,
+    "nombre": "VISCACHANI",
+    "codigopostal": "4651",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 24082,
+    "nombre": "VIZACACHAL",
+    "codigopostal": "4631",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13341,
+    "nombre": "VOLCAN",
+    "codigopostal": "4616",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23571,
+    "nombre": "VOLCAN HIGUERA",
+    "codigopostal": "4633",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23573,
+    "nombre": "YACORAITE",
+    "codigopostal": "4634",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13108,
+    "nombre": "YALA",
+    "codigopostal": "4616",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13352,
+    "nombre": "YALA DE MONTE CARMELO",
+    "codigopostal": "4624",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13375,
+    "nombre": "YAVI",
+    "codigopostal": "4651",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13376,
+    "nombre": "YAVI CHICO",
+    "codigopostal": "4644",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23749,
+    "nombre": "YERBA BUENA LEDESMA",
+    "codigopostal": "4622",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23986,
+    "nombre": "YERBA BUENA TILCARA",
+    "codigopostal": "4622",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13291,
+    "nombre": "YOSCABA",
+    "codigopostal": "4653",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 13194,
+    "nombre": "YUTO",
+    "codigopostal": "4518",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  },
+  {
+    "id": 23438,
+    "nombre": "ZAPLA",
+    "codigopostal": "4612",
+    "provincia": {
+      "id": 10,
+      "nombre": "Jujuy"
+    }
+  }
+]

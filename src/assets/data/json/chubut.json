@@ -1,0 +1,2909 @@
+[
+  {
+    "id": 7347,
+    "nombre": "",
+    "codigopostal": "8415",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7440,
+    "nombre": "28 DE JULIO",
+    "codigopostal": "9107",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7592,
+    "nombre": "AGUADA DE LAS TEJAS",
+    "codigopostal": "9121",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7442,
+    "nombre": "AGUADA DEL PITO",
+    "codigopostal": "9121",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7512,
+    "nombre": "ALDEA APELEG",
+    "codigopostal": "9033",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7513,
+    "nombre": "ALDEA BELEIRO",
+    "codigopostal": "9037",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7391,
+    "nombre": "ALDEA ESCOLAR",
+    "codigopostal": "9203",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7477,
+    "nombre": "ALTO DE LAS PLUMAS",
+    "codigopostal": "9101",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7514,
+    "nombre": "ALTO RIO MAYO",
+    "codigopostal": "9037",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7562,
+    "nombre": "ALTO RIO PICO",
+    "codigopostal": "9223",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7515,
+    "nombre": "ALTO RIO SENGUER",
+    "codigopostal": "9033",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7419,
+    "nombre": "ANGOSTURA",
+    "codigopostal": "9105",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7420,
+    "nombre": "ANGOSTURA SEGUNDA",
+    "codigopostal": "9105",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7563,
+    "nombre": "ARENOSO",
+    "codigopostal": "9225",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7516,
+    "nombre": "ARROYO CHALIA",
+    "codigopostal": "9035",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7517,
+    "nombre": "ARROYO GATO",
+    "codigopostal": "9033",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7483,
+    "nombre": "ARROYO GUILAIA",
+    "codigopostal": "9207",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7392,
+    "nombre": "ARROYO PERCY",
+    "codigopostal": "9203",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7393,
+    "nombre": "ARROYO PESCADO",
+    "codigopostal": "9200",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7543,
+    "nombre": "ARROYO QUILLA",
+    "codigopostal": "9020",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7293,
+    "nombre": "ARROYO VERDE",
+    "codigopostal": "8532",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7352,
+    "nombre": "BAHIA BUSTAMANTE",
+    "codigopostal": "9111",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7294,
+    "nombre": "BAHIA CRACHER",
+    "codigopostal": "9120",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7353,
+    "nombre": "BAHIA SOLANO",
+    "codigopostal": "9003",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7593,
+    "nombre": "BAJADA DEL DIABLO",
+    "codigopostal": "9101",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7443,
+    "nombre": "BAJADA MORENO",
+    "codigopostal": "9121",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7296,
+    "nombre": "BAJO BARTOLO",
+    "codigopostal": "9121",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7502,
+    "nombre": "BAJO DE LOS HUESOS",
+    "codigopostal": "9103",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7295,
+    "nombre": "BAJO DEL GUALICHO",
+    "codigopostal": "9121",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7518,
+    "nombre": "BAJO LA CANCHA",
+    "codigopostal": "9031",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7297,
+    "nombre": "BAJO LAS DAMAJUANAS",
+    "codigopostal": "9121",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 21945,
+    "nombre": "BARRIO ASTRA",
+    "codigopostal": "9003",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7503,
+    "nombre": "BASE AERONAVAL ALMIRANTE IRIZA",
+    "codigopostal": "9101",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7421,
+    "nombre": "BETESTA",
+    "codigopostal": "9105",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7422,
+    "nombre": "BOCA DE LA ZANJA",
+    "codigopostal": "9107",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7423,
+    "nombre": "BOCA ZANJA SUD",
+    "codigopostal": "9107",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7424,
+    "nombre": "BRYN BROWN",
+    "codigopostal": "9105",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7425,
+    "nombre": "BRYN GWYN",
+    "codigopostal": "9105",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7544,
+    "nombre": "BUEN PASTO",
+    "codigopostal": "9023",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7323,
+    "nombre": "BUENOS AIRES CHICO",
+    "codigopostal": "9210",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7324,
+    "nombre": "CA",
+    "codigopostal": "9213",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7325,
+    "nombre": "CA",
+    "codigopostal": "9213",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7356,
+    "nombre": "CA",
+    "codigopostal": "9001",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7357,
+    "nombre": "CA",
+    "codigopostal": "9009",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7358,
+    "nombre": "CA",
+    "codigopostal": "9009",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7359,
+    "nombre": "CA",
+    "codigopostal": "9009",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7486,
+    "nombre": "CA",
+    "codigopostal": "9207",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7545,
+    "nombre": "CA",
+    "codigopostal": "9020",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7546,
+    "nombre": "CA",
+    "codigopostal": "9020",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7564,
+    "nombre": "CA",
+    "codigopostal": "9223",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7565,
+    "nombre": "CA",
+    "codigopostal": "9220",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7594,
+    "nombre": "CA",
+    "codigopostal": "9121",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7595,
+    "nombre": "CA",
+    "codigopostal": "9121",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7596,
+    "nombre": "CA",
+    "codigopostal": "9121",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7426,
+    "nombre": "CABA",
+    "codigopostal": "9105",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7478,
+    "nombre": "CABEZA DE BUEY",
+    "codigopostal": "9101",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7380,
+    "nombre": "CABO RASO",
+    "codigopostal": "9111",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 21869,
+    "nombre": "CACHEL",
+    "codigopostal": "9201",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7484,
+    "nombre": "CAJON DE GINEBRA CHICO",
+    "codigopostal": "9201",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7485,
+    "nombre": "CAJON DE GINEBRA GRANDE",
+    "codigopostal": "9201",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 21952,
+    "nombre": "CALETA CORDOVA",
+    "codigopostal": "9003",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7298,
+    "nombre": "CALETA VALDEZ",
+    "codigopostal": "9121",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7381,
+    "nombre": "CAMARONES",
+    "codigopostal": "9111",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7427,
+    "nombre": "CAMPAMENTO VILLEGAS",
+    "codigopostal": "9107",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7444,
+    "nombre": "CARHUE NIYEO",
+    "codigopostal": "9121",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7455,
+    "nombre": "CARRENLEUFU",
+    "codigopostal": "9201",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7504,
+    "nombre": "CASA BLANCA",
+    "codigopostal": "9103",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7566,
+    "nombre": "CASA BLANCA",
+    "codigopostal": "9220",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7597,
+    "nombre": "CATAYCO",
+    "codigopostal": "9120",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7394,
+    "nombre": "CERRO CENTINELA",
+    "codigopostal": "9203",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7487,
+    "nombre": "CERRO CONDOR",
+    "codigopostal": "9207",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7350,
+    "nombre": "CERRO FOFOCAHUEL",
+    "codigopostal": "9213",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7488,
+    "nombre": "CERRO LONCO TRAPIAL",
+    "codigopostal": "9201",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7395,
+    "nombre": "CERRO MALLACO",
+    "codigopostal": "9200",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7567,
+    "nombre": "CERRO NEGRO",
+    "codigopostal": "9223",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7598,
+    "nombre": "CERRO PICHALAO",
+    "codigopostal": "9120",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7326,
+    "nombre": "CERRO RADAL",
+    "codigopostal": "8430",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7445,
+    "nombre": "CERRO SANTA ANA",
+    "codigopostal": "9100",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7599,
+    "nombre": "CHACAY ESTE",
+    "codigopostal": "9121",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7600,
+    "nombre": "CHACAY OESTE",
+    "codigopostal": "9121",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7396,
+    "nombre": "CHACRA DE AUSTIN",
+    "codigopostal": "9200",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7505,
+    "nombre": "CHARQUE CHICO",
+    "codigopostal": "9103",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7601,
+    "nombre": "CHASICO",
+    "codigopostal": "9121",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7327,
+    "nombre": "CHOLILA",
+    "codigopostal": "9217",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7456,
+    "nombre": "COLAN CONHUE",
+    "codigopostal": "9201",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7446,
+    "nombre": "COLELACHE",
+    "codigopostal": "9121",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7547,
+    "nombre": "COLHUE HUAPI",
+    "codigopostal": "9021",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7397,
+    "nombre": "COLONIA 16 DE OCTUBRE",
+    "codigopostal": "9200",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7328,
+    "nombre": "COLONIA CUSHAMEN",
+    "codigopostal": "9213",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7457,
+    "nombre": "COLONIA EPULEF",
+    "codigopostal": "9201",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7548,
+    "nombre": "COLONIA GERMANIA",
+    "codigopostal": "9020",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7362,
+    "nombre": "COMODORO RIVADAVIA",
+    "codigopostal": "9000",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7398,
+    "nombre": "CORCOVADO",
+    "codigopostal": "9201",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7568,
+    "nombre": "CORRALITOS",
+    "codigopostal": "9220",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7329,
+    "nombre": "COSTA CHUBUT",
+    "codigopostal": "9210",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7330,
+    "nombre": "COSTA DEL LEPA",
+    "codigopostal": "9201",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7549,
+    "nombre": "COSTA RIO CHICO",
+    "codigopostal": "9020",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7331,
+    "nombre": "CUSHAMEN",
+    "codigopostal": "9211",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7428,
+    "nombre": "DIQUE FLORENTINO AMEGHINO",
+    "codigopostal": "9101",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7520,
+    "nombre": "DOCTOR RICARDO ROJAS",
+    "codigopostal": "9035",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7429,
+    "nombre": "DOLAVON",
+    "codigopostal": "9107",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7382,
+    "nombre": "DOS POZOS",
+    "codigopostal": "9100",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7430,
+    "nombre": "EBENECER",
+    "codigopostal": "9107",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7602,
+    "nombre": "EL ALAMO",
+    "codigopostal": "9121",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7431,
+    "nombre": "EL ARGENTINO",
+    "codigopostal": "9105",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7399,
+    "nombre": "EL BOQUETE",
+    "codigopostal": "9210",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7332,
+    "nombre": "EL CAJON",
+    "codigopostal": "9217",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7489,
+    "nombre": "EL CALAFATE",
+    "codigopostal": "9201",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7490,
+    "nombre": "EL CANQUEL",
+    "codigopostal": "9207",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7447,
+    "nombre": "EL CHACAY DPTO GASTRE",
+    "codigopostal": "9121",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 20738,
+    "nombre": "EL CHALET",
+    "codigopostal": "9207",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7569,
+    "nombre": "EL CHERQUE",
+    "codigopostal": "9223",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7333,
+    "nombre": "EL COIHUE",
+    "codigopostal": "9211",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7521,
+    "nombre": "EL COITE",
+    "codigopostal": "9033",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7458,
+    "nombre": "EL CRONOMETRO",
+    "codigopostal": "9201",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7459,
+    "nombre": "EL CUCHE",
+    "codigopostal": "9201",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7300,
+    "nombre": "EL DESEMPE",
+    "codigopostal": "9120",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7448,
+    "nombre": "EL ESCORIAL",
+    "codigopostal": "9121",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7334,
+    "nombre": "EL HOYO",
+    "codigopostal": "8431",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7383,
+    "nombre": "EL JAGUEL",
+    "codigopostal": "9007",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7460,
+    "nombre": "EL KAQUEL",
+    "codigopostal": "9201",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7335,
+    "nombre": "EL MAITEN",
+    "codigopostal": "9210",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7336,
+    "nombre": "EL MIRADOR",
+    "codigopostal": "9201",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7479,
+    "nombre": "EL MIRASOL",
+    "codigopostal": "9101",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7461,
+    "nombre": "EL MOLLE",
+    "codigopostal": "9220",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7491,
+    "nombre": "EL PAJARITO",
+    "codigopostal": "9201",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7301,
+    "nombre": "EL PASTIZAL",
+    "codigopostal": "9121",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7302,
+    "nombre": "EL PIQUILLIN",
+    "codigopostal": "9121",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 21854,
+    "nombre": "EL PORTEZUELO",
+    "codigopostal": "9201",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7522,
+    "nombre": "EL PORVENIR",
+    "codigopostal": "9227",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7462,
+    "nombre": "EL POYO",
+    "codigopostal": "9201",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7303,
+    "nombre": "EL QUILIMUAY",
+    "codigopostal": "9121",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7304,
+    "nombre": "EL RUANO",
+    "codigopostal": "9121",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7305,
+    "nombre": "EL SALITRAL",
+    "codigopostal": "9121",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7570,
+    "nombre": "EL SHAMAN",
+    "codigopostal": "9223",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7492,
+    "nombre": "EL SOMBRERO",
+    "codigopostal": "9207",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7523,
+    "nombre": "EL TRIANA",
+    "codigopostal": "9037",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7571,
+    "nombre": "EL TROPEZON",
+    "codigopostal": "9223",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 27795,
+    "nombre": "EL TURBIO",
+    "codigopostal": "9210",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7366,
+    "nombre": "EMPALME A ASTRA",
+    "codigopostal": "9003",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7306,
+    "nombre": "EMPALME PUERTO LOBOS",
+    "codigopostal": "8532",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7550,
+    "nombre": "ENRIQUE HERMITTE",
+    "codigopostal": "9020",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7337,
+    "nombre": "EPUYEN",
+    "codigopostal": "9211",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7400,
+    "nombre": "ESQUEL",
+    "codigopostal": "9200",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7603,
+    "nombre": "ESTANCIA EL MORO",
+    "codigopostal": "9121",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7463,
+    "nombre": "ESTANCIA LA MIMOSA",
+    "codigopostal": "9201",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7586,
+    "nombre": "ESTANCIA NUEVA LUBECKA",
+    "codigopostal": "9227",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7464,
+    "nombre": "ESTANCIA PAMPA CHICA",
+    "codigopostal": "9201",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7524,
+    "nombre": "FACUNDO",
+    "codigopostal": "9031",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7338,
+    "nombre": "FITHEN VERIN",
+    "codigopostal": "9210",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7339,
+    "nombre": "FITIRHUIN",
+    "codigopostal": "9210",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7384,
+    "nombre": "FLORENTINO AMEGHINO",
+    "codigopostal": "9113",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7351,
+    "nombre": "FOFO CAHUEL",
+    "codigopostal": "9213",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 20598,
+    "nombre": "FRONTERA DE RIO PICO",
+    "codigopostal": "9225",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7401,
+    "nombre": "FUTALEUFU",
+    "codigopostal": "9203",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7432,
+    "nombre": "GAIMAN",
+    "codigopostal": "9105",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7604,
+    "nombre": "GAN GAN",
+    "codigopostal": "9121",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7385,
+    "nombre": "GARAYALDE",
+    "codigopostal": "9007",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7449,
+    "nombre": "GASTRE",
+    "codigopostal": "9121",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7433,
+    "nombre": "GLASFRYN",
+    "codigopostal": "9105",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7572,
+    "nombre": "GOBERNADOR COSTA",
+    "codigopostal": "9223",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7340,
+    "nombre": "GUALJAINA",
+    "codigopostal": "9201",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 20785,
+    "nombre": "GUALJAINA",
+    "codigopostal": "9201",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7573,
+    "nombre": "HITO 43",
+    "codigopostal": "9225",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7525,
+    "nombre": "HITO 45",
+    "codigopostal": "9039",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7526,
+    "nombre": "HITO 50",
+    "codigopostal": "9039",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7367,
+    "nombre": "HOLDICH",
+    "codigopostal": "9009",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7341,
+    "nombre": "ING BRUNO J THOMAE",
+    "codigopostal": "9210",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7574,
+    "nombre": "JOSE DE SAN MARTIN",
+    "codigopostal": "9220",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 22005,
+    "nombre": "KILOMETRO 11",
+    "codigopostal": "9000",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7551,
+    "nombre": "KILOMETRO 191",
+    "codigopostal": "9020",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7493,
+    "nombre": "LA BOMBILLA",
+    "codigopostal": "9207",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7527,
+    "nombre": "LA CANCHA",
+    "codigopostal": "9039",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 26405,
+    "nombre": "LA CANCHA",
+    "codigopostal": "9200",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7342,
+    "nombre": "LA CASTELLANA",
+    "codigopostal": "9007",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 21931,
+    "nombre": "LA CASTELLANA",
+    "codigopostal": "9111",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7307,
+    "nombre": "LA CORONA",
+    "codigopostal": "9121",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 22104,
+    "nombre": "LA LANCHA",
+    "codigopostal": "9200",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7529,
+    "nombre": "LA LAURITA",
+    "codigopostal": "9227",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7530,
+    "nombre": "LA NICOLASA",
+    "codigopostal": "9039",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7531,
+    "nombre": "LA PEPITA",
+    "codigopostal": "9033",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7494,
+    "nombre": "LA PRIMAVERA",
+    "codigopostal": "9201",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7308,
+    "nombre": "LA ROSILLA",
+    "codigopostal": "9121",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7369,
+    "nombre": "LA SALAMANCA",
+    "codigopostal": "9007",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7532,
+    "nombre": "LA SIBERIA",
+    "codigopostal": "9039",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7533,
+    "nombre": "LAGO BLANCO",
+    "codigopostal": "9039",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 22112,
+    "nombre": "LAGO CARLOS PELLEGRINI",
+    "codigopostal": "9217",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7534,
+    "nombre": "LAGO FONTANA",
+    "codigopostal": "9033",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7343,
+    "nombre": "LAGO LEZAMA",
+    "codigopostal": "9217",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7552,
+    "nombre": "LAGO MUSTERS",
+    "codigopostal": "9023",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 20601,
+    "nombre": "LAGO PAZ",
+    "codigopostal": "9225",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7344,
+    "nombre": "LAGO PUELO",
+    "codigopostal": "8431",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7402,
+    "nombre": "LAGO RIVADAVIA",
+    "codigopostal": "9217",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7403,
+    "nombre": "LAGO ROSARIO",
+    "codigopostal": "9203",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7404,
+    "nombre": "LAGO VERDE",
+    "codigopostal": "9225",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7575,
+    "nombre": "LAGO VINTTER",
+    "codigopostal": "9225",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7576,
+    "nombre": "LAGUNA BLANCA",
+    "codigopostal": "9220",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7577,
+    "nombre": "LAGUNA DE VACAS",
+    "codigopostal": "9121",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 20582,
+    "nombre": "LAGUNA DE VACAS",
+    "codigopostal": "9121",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7553,
+    "nombre": "LAGUNA DEL MATE",
+    "codigopostal": "9020",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7605,
+    "nombre": "LAGUNA FRIA",
+    "codigopostal": "9121",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7480,
+    "nombre": "LAGUNA GRANDE",
+    "codigopostal": "9107",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7554,
+    "nombre": "LAGUNA PALACIO",
+    "codigopostal": "9020",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 20768,
+    "nombre": "LAGUNA RINCON DEL MORO",
+    "codigopostal": "9207",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7405,
+    "nombre": "LAGUNA TERRAPLEN",
+    "codigopostal": "9200",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7578,
+    "nombre": "LAGUNA VERDE",
+    "codigopostal": "9220",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7450,
+    "nombre": "LAGUNITA SALADA",
+    "codigopostal": "9121",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7465,
+    "nombre": "LANGUI",
+    "codigopostal": "9201",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7309,
+    "nombre": "LARRALDE",
+    "codigopostal": "9121",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7481,
+    "nombre": "LAS CHAPAS",
+    "codigopostal": "9107",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7495,
+    "nombre": "LAS CORTADERAS",
+    "codigopostal": "9207",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7345,
+    "nombre": "LAS GOLONDRINAS",
+    "codigopostal": "8430",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7496,
+    "nombre": "LAS HORQUETAS",
+    "codigopostal": "9207",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7579,
+    "nombre": "LAS MULAS",
+    "codigopostal": "9223",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7580,
+    "nombre": "LAS PAMPAS",
+    "codigopostal": "9225",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7482,
+    "nombre": "LAS PLUMAS",
+    "codigopostal": "9101",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7555,
+    "nombre": "LAS PULGAS",
+    "codigopostal": "9020",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7466,
+    "nombre": "LAS SALINAS",
+    "codigopostal": "9201",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7406,
+    "nombre": "LEGUA 24",
+    "codigopostal": "9203",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7346,
+    "nombre": "LELEQUE",
+    "codigopostal": "9213",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7581,
+    "nombre": "LENZANILLEO",
+    "codigopostal": "9223",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7434,
+    "nombre": "LOMA REDONDA",
+    "codigopostal": "9105",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7310,
+    "nombre": "LORETO",
+    "codigopostal": "9121",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7497,
+    "nombre": "LOS ALTARES",
+    "codigopostal": "9207",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7407,
+    "nombre": "LOS CIPRESES",
+    "codigopostal": "9203",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7582,
+    "nombre": "LOS CORRALITOS",
+    "codigopostal": "9223",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7498,
+    "nombre": "LOS MANANTIALES",
+    "codigopostal": "9207",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7535,
+    "nombre": "LOS TAMARISCOS",
+    "codigopostal": "9031",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7435,
+    "nombre": "MAESTEG",
+    "codigopostal": "9105",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7386,
+    "nombre": "MALASPINA",
+    "codigopostal": "9007",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7467,
+    "nombre": "MALLIN BLANCO",
+    "codigopostal": "9201",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7606,
+    "nombre": "MALLIN GRANDE",
+    "codigopostal": "9121",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7408,
+    "nombre": "MALLIN GRANDE CORCOVADO",
+    "codigopostal": "9121",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7556,
+    "nombre": "MANANTIAL GRANDE",
+    "codigopostal": "9020",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7583,
+    "nombre": "MATA GRANDE",
+    "codigopostal": "9220",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7409,
+    "nombre": "MATUCANA",
+    "codigopostal": "9200",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7410,
+    "nombre": "MAYOCO",
+    "codigopostal": "9200",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7311,
+    "nombre": "MEDANOS",
+    "codigopostal": "9121",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7411,
+    "nombre": "NAHUEL PAN ESTACION FCGR",
+    "codigopostal": "9200",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7584,
+    "nombre": "NIRIGUAO",
+    "codigopostal": "9223",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7585,
+    "nombre": "NIRIGUCE PAMPA",
+    "codigopostal": "9223",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7607,
+    "nombre": "PAINALUF",
+    "codigopostal": "9121",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7468,
+    "nombre": "PAMPA DE AGNIA",
+    "codigopostal": "9201",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7370,
+    "nombre": "PAMPA DEL CASTILLO",
+    "codigopostal": "9000",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7371,
+    "nombre": "PAMPA PELADA",
+    "codigopostal": "9007",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7372,
+    "nombre": "PAMPA SALAMANCA",
+    "codigopostal": "9007",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7469,
+    "nombre": "PAMPA TEPUEL",
+    "codigopostal": "9201",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7412,
+    "nombre": "PARQUE NACIONAL LOS ALERCES",
+    "codigopostal": "9201",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7499,
+    "nombre": "PASO DE INDIOS",
+    "codigopostal": "9207",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7557,
+    "nombre": "PASO DE TORRES",
+    "codigopostal": "9020",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7470,
+    "nombre": "PASO DEL SAPO",
+    "codigopostal": "9201",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7536,
+    "nombre": "PASO MORENO",
+    "codigopostal": "9227",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7538,
+    "nombre": "PASTOS BLANCOS",
+    "codigopostal": "9033",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7373,
+    "nombre": "PICO SALAMANCA",
+    "codigopostal": "9000",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7471,
+    "nombre": "PIEDRA PARADA",
+    "codigopostal": "9201",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7587,
+    "nombre": "PIEDRA SHOTEL",
+    "codigopostal": "9227",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7451,
+    "nombre": "PIRRE MAHUIDA",
+    "codigopostal": "9121",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7452,
+    "nombre": "PLANCUNTRE",
+    "codigopostal": "9121",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7506,
+    "nombre": "PLAYA UNION",
+    "codigopostal": "9103",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7472,
+    "nombre": "POCITOS DE QUICHAURA",
+    "codigopostal": "9201",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7507,
+    "nombre": "PUENTE HENDRE",
+    "codigopostal": "9101",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7312,
+    "nombre": "PUERTO LOBOS",
+    "codigopostal": "8532",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7313,
+    "nombre": "PUERTO MADRYN",
+    "codigopostal": "9120",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7314,
+    "nombre": "PUERTO PIRAMIDES",
+    "codigopostal": "9121",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7315,
+    "nombre": "PUERTO SAN ROMAN",
+    "codigopostal": "9121",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7316,
+    "nombre": "PUNTA BAJOS",
+    "codigopostal": "9121",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7317,
+    "nombre": "PUNTA DELGADA",
+    "codigopostal": "9121",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7508,
+    "nombre": "PUNTA NINFAS",
+    "codigopostal": "9120",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7318,
+    "nombre": "PUNTA NORTE",
+    "codigopostal": "9121",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7319,
+    "nombre": "PUNTA QUIROGA",
+    "codigopostal": "9120",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7588,
+    "nombre": "PUTRACHOIQUE",
+    "codigopostal": "9223",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7374,
+    "nombre": "RADA TILLY",
+    "codigopostal": "9001",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7348,
+    "nombre": "RANQUIL HUAO",
+    "codigopostal": "9213",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7509,
+    "nombre": "RAWSON",
+    "codigopostal": "9103",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7375,
+    "nombre": "RIO CHICO",
+    "codigopostal": "9007",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7413,
+    "nombre": "RIO CORINTO",
+    "codigopostal": "9203",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7539,
+    "nombre": "RIO FRIAS",
+    "codigopostal": "9227",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7540,
+    "nombre": "RIO MAYO",
+    "codigopostal": "9030",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7589,
+    "nombre": "RIO PICO",
+    "codigopostal": "9225",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7388,
+    "nombre": "RUTA 3 KILOMETRO 1646",
+    "codigopostal": "9111",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7387,
+    "nombre": "RUTA 3 KILOMETRO 1711",
+    "codigopostal": "9007",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7453,
+    "nombre": "SACANANA",
+    "codigopostal": "9121",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7320,
+    "nombre": "SALINAS CHICAS",
+    "codigopostal": "9121",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7321,
+    "nombre": "SALINAS GRANDES",
+    "codigopostal": "9121",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7322,
+    "nombre": "SAN JOSE",
+    "codigopostal": "9121",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7558,
+    "nombre": "SARMIENTO",
+    "codigopostal": "9020",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7608,
+    "nombre": "SEPRUCAL",
+    "codigopostal": "9121",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7349,
+    "nombre": "SIEMPRE VIVA",
+    "codigopostal": "9213",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7609,
+    "nombre": "SIERRA CHATA",
+    "codigopostal": "9121",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 22193,
+    "nombre": "SIERRA CHICA",
+    "codigopostal": "9121",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7389,
+    "nombre": "SIERRA COLORADA",
+    "codigopostal": "9007",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7559,
+    "nombre": "SIERRA CORRIENTES",
+    "codigopostal": "9020",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7376,
+    "nombre": "SIERRA CUADRADA",
+    "codigopostal": "9007",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7414,
+    "nombre": "SIERRA DE TECKA",
+    "codigopostal": "9200",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7541,
+    "nombre": "SIERRA NEVADA BUEN PASTO",
+    "codigopostal": "9023",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7500,
+    "nombre": "SIERRA NEVADA PASO DE INDIOS",
+    "codigopostal": "9207",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7377,
+    "nombre": "SIERRA OVERA CHICAS Y GRANDES",
+    "codigopostal": "9007",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7610,
+    "nombre": "SIERRA ROSADA",
+    "codigopostal": "9121",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7560,
+    "nombre": "SIERRA VICTORIA",
+    "codigopostal": "9020",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7510,
+    "nombre": "SOL DE MAYO",
+    "codigopostal": "9103",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7415,
+    "nombre": "SUNICA",
+    "codigopostal": "9200",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7611,
+    "nombre": "TALAGAPA",
+    "codigopostal": "9121",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7454,
+    "nombre": "TAQUETREN",
+    "codigopostal": "9201",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7612,
+    "nombre": "TATUEN",
+    "codigopostal": "9121",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7473,
+    "nombre": "TECKA",
+    "codigopostal": "9201",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7613,
+    "nombre": "TELSEN",
+    "codigopostal": "9121",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7436,
+    "nombre": "TOMA DE LOS CANALES",
+    "codigopostal": "9107",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7501,
+    "nombre": "TORO HOSCO",
+    "codigopostal": "9207",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 25772,
+    "nombre": "TRELEW",
+    "codigopostal": "9100",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7437,
+    "nombre": "TREORKI",
+    "codigopostal": "9105",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7591,
+    "nombre": "TRES PICOS",
+    "codigopostal": "9223",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7416,
+    "nombre": "TREVELIN",
+    "codigopostal": "9203",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7390,
+    "nombre": "UZCUDUN",
+    "codigopostal": "9007",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7439,
+    "nombre": "VALLE DEL RIO CHUBUT",
+    "codigopostal": "9121",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7474,
+    "nombre": "VALLE DEL TECKA",
+    "codigopostal": "9201",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7417,
+    "nombre": "VALLE FRIO",
+    "codigopostal": "9203",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7475,
+    "nombre": "VALLE GARIN",
+    "codigopostal": "9201",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7561,
+    "nombre": "VALLE HERMOSO",
+    "codigopostal": "9020",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7476,
+    "nombre": "VALLE HONDO",
+    "codigopostal": "9221",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7542,
+    "nombre": "VALLE HUEMULES",
+    "codigopostal": "9039",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7438,
+    "nombre": "VALLE LOS MARTIRES",
+    "codigopostal": "9105",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7418,
+    "nombre": "VILLA FUTALAUFQUEN",
+    "codigopostal": "9200",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  },
+  {
+    "id": 7441,
+    "nombre": "VILLA INES",
+    "codigopostal": "9105",
+    "provincia": {
+      "id": 5,
+      "nombre": "Chubut"
+    }
+  }
+]

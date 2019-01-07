@@ -1,0 +1,2981 @@
+[
+  {
+    "id": 5388,
+    "nombre": "",
+    "codigopostal": "8415",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5439,
+    "nombre": "",
+    "codigopostal": "8400",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5203,
+    "nombre": "6 DE OCTUBRE",
+    "codigopostal": "8134",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5473,
+    "nombre": "AGUADA CECILIO",
+    "codigopostal": "8534",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5062,
+    "nombre": "AGUADA DE GUERRA",
+    "codigopostal": "8424",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5299,
+    "nombre": "AGUADA DE LOS PAJARITOS",
+    "codigopostal": "8301",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5063,
+    "nombre": "AGUADA DE PIEDRA",
+    "codigopostal": "8422",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5132,
+    "nombre": "AGUADA DEL LORO",
+    "codigopostal": "8520",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5252,
+    "nombre": "AGUADA GUZMAN",
+    "codigopostal": "8333",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5300,
+    "nombre": "AGUARA",
+    "codigopostal": "8307",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5253,
+    "nombre": "ALANITOS",
+    "codigopostal": "8333",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5301,
+    "nombre": "ALLEN",
+    "codigopostal": "8328",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5065,
+    "nombre": "ANECON CHICO",
+    "codigopostal": "8418",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5066,
+    "nombre": "ANECON GRANDE",
+    "codigopostal": "8416",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5422,
+    "nombre": "ARROYO BLANCO",
+    "codigopostal": "8403",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5423,
+    "nombre": "ARROYO CHACAY",
+    "codigopostal": "8401",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5474,
+    "nombre": "ARROYO DE LA VENTANA",
+    "codigopostal": "8521",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5370,
+    "nombre": "ARROYO LAS MINAS",
+    "codigopostal": "8415",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5475,
+    "nombre": "ARROYO LOS BERROS",
+    "codigopostal": "8521",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5459,
+    "nombre": "ARROYO SALADO",
+    "codigopostal": "8532",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5476,
+    "nombre": "ARROYO TEMBRADO",
+    "codigopostal": "8521",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5460,
+    "nombre": "ARROYO VERDE",
+    "codigopostal": "8521",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5068,
+    "nombre": "ATRAICO",
+    "codigopostal": "8418",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5461,
+    "nombre": "BAJO DEL GUALICHO",
+    "codigopostal": "8520",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5160,
+    "nombre": "BAJO RICO",
+    "codigopostal": "8360",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5133,
+    "nombre": "EL CONDOR",
+    "codigopostal": "8501",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5462,
+    "nombre": "LAS GRUTAS",
+    "codigopostal": "8521",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5255,
+    "nombre": "BARDA COLORADA",
+    "codigopostal": "8333",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5303,
+    "nombre": "BARDA DEL MEDIO",
+    "codigopostal": "8305",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5069,
+    "nombre": "BARRIL NIYEO",
+    "codigopostal": "8422",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 18495,
+    "nombre": "BARRIO LAGUNA",
+    "codigopostal": "8520",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5304,
+    "nombre": "BARRIO NORTE",
+    "codigopostal": "8328",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5161,
+    "nombre": "BENJAMIN ZORRILLA",
+    "codigopostal": "8360",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5228,
+    "nombre": "BOCA DE LA TRAVESIA",
+    "codigopostal": "8505",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5424,
+    "nombre": "CA",
+    "codigopostal": "8416",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5425,
+    "nombre": "CA",
+    "codigopostal": "8417",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5426,
+    "nombre": "CA",
+    "codigopostal": "8412",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5073,
+    "nombre": "CALTRAUNA",
+    "codigopostal": "8424",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5478,
+    "nombre": "CAMPANA MAHUIDA",
+    "codigopostal": "8532",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5256,
+    "nombre": "CANLLEQUIN",
+    "codigopostal": "8417",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5427,
+    "nombre": "CARHUE",
+    "codigopostal": "8412",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5257,
+    "nombre": "CARRI YEGUA",
+    "codigopostal": "8417",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5075,
+    "nombre": "CARRILAUQUEN",
+    "codigopostal": "8418",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5428,
+    "nombre": "CASA QUEMADA",
+    "codigopostal": "8412",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5214,
+    "nombre": "CASCADA LOS CANTAROS",
+    "codigopostal": "8411",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5309,
+    "nombre": "CATRIEL",
+    "codigopostal": "8307",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5076,
+    "nombre": "CERRO ABANICO",
+    "codigopostal": "8424",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5429,
+    "nombre": "CERRO ALTO",
+    "codigopostal": "8403",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5373,
+    "nombre": "CERRO MESA",
+    "codigopostal": "8415",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5258,
+    "nombre": "CERRO POLICIA",
+    "codigopostal": "8333",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5310,
+    "nombre": "CERVANTES",
+    "codigopostal": "8326",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5374,
+    "nombre": "CHACALHUA RUCA",
+    "codigopostal": "8415",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5375,
+    "nombre": "CHACAY HUARRUCA",
+    "codigopostal": "8415",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 18826,
+    "nombre": "CHACRAS DE ALLEN",
+    "codigopostal": "8328",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5077,
+    "nombre": "CHAIFUL",
+    "codigopostal": "8418",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5259,
+    "nombre": "CHASICO",
+    "codigopostal": "8417",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5164,
+    "nombre": "CHELFORO",
+    "codigopostal": "8366",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5377,
+    "nombre": "CHENQUENIYEU",
+    "codigopostal": "8412",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5078,
+    "nombre": "CHICHIHUAO",
+    "codigopostal": "8422",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5311,
+    "nombre": "CHICHINALES",
+    "codigopostal": "8326",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5165,
+    "nombre": "CHIMPAY",
+    "codigopostal": "8364",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5136,
+    "nombre": "CHINA MUERTA",
+    "codigopostal": "8504",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5480,
+    "nombre": "CHIPAUQUIL",
+    "codigopostal": "8536",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5231,
+    "nombre": "CHOCORI",
+    "codigopostal": "8503",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5166,
+    "nombre": "CHOELE CHOEL",
+    "codigopostal": "8360",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5379,
+    "nombre": "CHURQUI",
+    "codigopostal": "8412",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5463,
+    "nombre": "CINCO CHA",
+    "codigopostal": "8520",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5312,
+    "nombre": "CINCO SALTOS",
+    "codigopostal": "8303",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5313,
+    "nombre": "CIPOLLETTI",
+    "codigopostal": "8324",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5079,
+    "nombre": "CLEMENTE ONELLI",
+    "codigopostal": "8416",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 27830,
+    "nombre": "COLAN CONHUE",
+    "codigopostal": "8418",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5080,
+    "nombre": "COLI TORO",
+    "codigopostal": "8418",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5315,
+    "nombre": "COLONIA ALTE GUERRICO",
+    "codigopostal": "8307",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5316,
+    "nombre": "COLONIA EL MANZANO",
+    "codigopostal": "8305",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5232,
+    "nombre": "COLONIA GENERAL FRIAS",
+    "codigopostal": "8501",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5167,
+    "nombre": "COLONIA JOSEFA",
+    "codigopostal": "8363",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 16430,
+    "nombre": "COLONIA JULIA Y ECHARREN",
+    "codigopostal": "8138",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5233,
+    "nombre": "COLONIA LA LUISA",
+    "codigopostal": "8503",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5318,
+    "nombre": "COLONIA REGINA",
+    "codigopostal": "8336",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5319,
+    "nombre": "COLONIA RUSA",
+    "codigopostal": "8332",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5234,
+    "nombre": "COLONIA SAN JUAN",
+    "codigopostal": "8503",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5430,
+    "nombre": "COMALLO",
+    "codigopostal": "8416",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5431,
+    "nombre": "COMALLO ABAJO",
+    "codigopostal": "8416",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5117,
+    "nombre": "COMI CO",
+    "codigopostal": "8424",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5118,
+    "nombre": "CONA NIYEU",
+    "codigopostal": "8521",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5320,
+    "nombre": "CONTRALMIRANTE CORDERO",
+    "codigopostal": "8301",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5321,
+    "nombre": "CONTRALMIRANTE M GUERRICO",
+    "codigopostal": "8328",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5432,
+    "nombre": "COQUELEN",
+    "codigopostal": "8416",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5168,
+    "nombre": "CORONEL BELISLE",
+    "codigopostal": "8364",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5397,
+    "nombre": "CORONEL EUGENIO DEL BUSTO",
+    "codigopostal": "8138",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5235,
+    "nombre": "CORONEL FRANCISCO SOSA",
+    "codigopostal": "8503",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5322,
+    "nombre": "CORONEL JUAN JOSE GOMEZ",
+    "codigopostal": "8333",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5323,
+    "nombre": "CORONEL VIDAL",
+    "codigopostal": "8305",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5380,
+    "nombre": "CORRAL DE LOS PINOS",
+    "codigopostal": "8412",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5433,
+    "nombre": "CORRALITO",
+    "codigopostal": "8403",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5324,
+    "nombre": "COS ZAURES",
+    "codigopostal": "8307",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5207,
+    "nombre": "COSTA DEL RIO AZUL",
+    "codigopostal": "8430",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5434,
+    "nombre": "COSTAS DEL PICHI LEUFU",
+    "codigopostal": "8412",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5325,
+    "nombre": "CUATRO ESQUINAS",
+    "codigopostal": "8324",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 27738,
+    "nombre": "CUBANEA",
+    "codigopostal": "8501",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5326,
+    "nombre": "CUENCA VIDAL",
+    "codigopostal": "8301",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 18622,
+    "nombre": "CUESTA DEL TERNERO",
+    "codigopostal": "9210",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5261,
+    "nombre": "CURA LAUQUEN",
+    "codigopostal": "8417",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5169,
+    "nombre": "DARWIN",
+    "codigopostal": "8364",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5435,
+    "nombre": "DINA HUAPI",
+    "codigopostal": "8402",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5209,
+    "nombre": "EL BOLSON",
+    "codigopostal": "8430",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5262,
+    "nombre": "EL CACIQUE",
+    "codigopostal": "8417",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5082,
+    "nombre": "EL CAIN",
+    "codigopostal": "8422",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5263,
+    "nombre": "EL CAMARURO",
+    "codigopostal": "8417",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5083,
+    "nombre": "EL CHEIFUL",
+    "codigopostal": "8418",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5210,
+    "nombre": "EL CONDOR ESTANCIA",
+    "codigopostal": "8400",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5327,
+    "nombre": "EL CUY",
+    "codigopostal": "8333",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5138,
+    "nombre": "EL DIQUE",
+    "codigopostal": "8500",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5211,
+    "nombre": "EL FOYEL",
+    "codigopostal": "8401",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5264,
+    "nombre": "EL GAUCHO POBRE",
+    "codigopostal": "8417",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5265,
+    "nombre": "EL JARDINERO",
+    "codigopostal": "8417",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5212,
+    "nombre": "EL MANSO",
+    "codigopostal": "8430",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5328,
+    "nombre": "EL MANZANO",
+    "codigopostal": "8328",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5085,
+    "nombre": "EL MOLIGUE",
+    "codigopostal": "8418",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5381,
+    "nombre": "EL PANTANOSO",
+    "codigopostal": "8412",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5236,
+    "nombre": "EL PORVENIR",
+    "codigopostal": "8503",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5481,
+    "nombre": "EL SALADO",
+    "codigopostal": "8536",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5087,
+    "nombre": "EMPALME KILOMETRO 648",
+    "codigopostal": "8418",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5172,
+    "nombre": "ESTANCIA LAS JULIAS",
+    "codigopostal": "8363",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5121,
+    "nombre": "FALCKNER",
+    "codigopostal": "8534",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5329,
+    "nombre": "FERRI",
+    "codigopostal": "8301",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5088,
+    "nombre": "FITA RUIN",
+    "codigopostal": "8418",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5382,
+    "nombre": "FITALANCAO",
+    "codigopostal": "8415",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5383,
+    "nombre": "FITAMICHE",
+    "codigopostal": "8415",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5384,
+    "nombre": "FITATIMEN",
+    "codigopostal": "8415",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5173,
+    "nombre": "FORTIN UNO",
+    "codigopostal": "8360",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5122,
+    "nombre": "GANZU LAUQUEN",
+    "codigopostal": "8424",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5237,
+    "nombre": "GENERAL CONESA",
+    "codigopostal": "8503",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5331,
+    "nombre": "GENERAL ENRIQUE GODOY",
+    "codigopostal": "8336",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5332,
+    "nombre": "GENERAL FERNANDEZ ORO",
+    "codigopostal": "8324",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5139,
+    "nombre": "GENERAL LIBORIO BERNAL",
+    "codigopostal": "8500",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5333,
+    "nombre": "GENERAL ROCA",
+    "codigopostal": "8332",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5142,
+    "nombre": "GUARDIA MITRE",
+    "codigopostal": "8505",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5266,
+    "nombre": "HUA MICHE",
+    "codigopostal": "8417",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5089,
+    "nombre": "HUAN LUAN",
+    "codigopostal": "8418",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5334,
+    "nombre": "INGENIERO HUERGO",
+    "codigopostal": "8334",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5090,
+    "nombre": "INGENIERO JACOBACCI",
+    "codigopostal": "8418",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5091,
+    "nombre": "INGENIERO ZIMMERMANN RESTA",
+    "codigopostal": "8416",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5238,
+    "nombre": "INGENIO SAN LORENZO",
+    "codigopostal": "8503",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5337,
+    "nombre": "IRIS",
+    "codigopostal": "8324",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5174,
+    "nombre": "ISLA CHICA",
+    "codigopostal": "8363",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5175,
+    "nombre": "ISLA GRANDE",
+    "codigopostal": "8361",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5176,
+    "nombre": "JAG",
+    "codigopostal": "8520",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5267,
+    "nombre": "JITA RUSIA",
+    "codigopostal": "8417",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5401,
+    "nombre": "JUAN DE GARAY",
+    "codigopostal": "8138",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5268,
+    "nombre": "KILI MALAL",
+    "codigopostal": "8417",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5340,
+    "nombre": "KILOMETRO 1218",
+    "codigopostal": "8305",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5403,
+    "nombre": "LA ADELA",
+    "codigopostal": "8138",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5341,
+    "nombre": "LA ALIANZA",
+    "codigopostal": "8324",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5269,
+    "nombre": "LA ANGOSTURA",
+    "codigopostal": "8417",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5465,
+    "nombre": "LA BOMBILLA",
+    "codigopostal": "8520",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5239,
+    "nombre": "LA CAROLINA",
+    "codigopostal": "8503",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5270,
+    "nombre": "LA CHILENA",
+    "codigopostal": "8417",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5271,
+    "nombre": "LA CRIOLLITA",
+    "codigopostal": "8417",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5177,
+    "nombre": "LA ELVIRA",
+    "codigopostal": "8360",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5344,
+    "nombre": "LA EMILIA",
+    "codigopostal": "8324",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5345,
+    "nombre": "LA ESMERALDA",
+    "codigopostal": "8324",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5092,
+    "nombre": "LA ESPERANZA",
+    "codigopostal": "8534",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5346,
+    "nombre": "LA ESTANCIA VIEJA",
+    "codigopostal": "8324",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5272,
+    "nombre": "LA ESTRELLA",
+    "codigopostal": "8417",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5273,
+    "nombre": "LA EXCURRA",
+    "codigopostal": "8417",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5240,
+    "nombre": "LA FLECHA",
+    "codigopostal": "8503",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 18675,
+    "nombre": "LA GRANJA",
+    "codigopostal": "8501",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5180,
+    "nombre": "LA JULIA",
+    "codigopostal": "8363",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5144,
+    "nombre": "LA LOBERIA",
+    "codigopostal": "8501",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5348,
+    "nombre": "LA LUCINDA",
+    "codigopostal": "8324",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5410,
+    "nombre": "LA MARIA INES",
+    "codigopostal": "8138",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5145,
+    "nombre": "LA MESETA",
+    "codigopostal": "8500",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5274,
+    "nombre": "LA MIMOSA",
+    "codigopostal": "8417",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5275,
+    "nombre": "LA PORTE",
+    "codigopostal": "8417",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5146,
+    "nombre": "LA PRIMAVERA",
+    "codigopostal": "8520",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5436,
+    "nombre": "LA QUEBRADA",
+    "codigopostal": "8412",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5093,
+    "nombre": "LA RINCONADA",
+    "codigopostal": "8424",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5276,
+    "nombre": "LA RUBIA",
+    "codigopostal": "8417",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5181,
+    "nombre": "LA SARA",
+    "codigopostal": "8360",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5277,
+    "nombre": "LA VENCEDORA",
+    "codigopostal": "8417",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5350,
+    "nombre": "LAGO PELLEGRINI",
+    "codigopostal": "8305",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 27737,
+    "nombre": "LAGUNA BLANCA",
+    "codigopostal": "8417",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5241,
+    "nombre": "LAGUNA CORTES",
+    "codigopostal": "8520",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5183,
+    "nombre": "LAGUNA DE LA PRUEBA",
+    "codigopostal": "8520",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5147,
+    "nombre": "LAGUNA DEL BARRO",
+    "codigopostal": "8514",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5466,
+    "nombre": "LAGUNA DEL MONTE",
+    "codigopostal": "8514",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5213,
+    "nombre": "LAGUNA FRIAS",
+    "codigopostal": "8411",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5215,
+    "nombre": "LAGUNA LOS JUNCOS",
+    "codigopostal": "8400",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5095,
+    "nombre": "LAGUNITA",
+    "codigopostal": "8424",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5184,
+    "nombre": "LAMARQUE",
+    "codigopostal": "8363",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5278,
+    "nombre": "LANQUI",
+    "codigopostal": "8417",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5386,
+    "nombre": "LAS BAYAS",
+    "codigopostal": "8412",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 19254,
+    "nombre": "LAS MAQUINAS",
+    "codigopostal": "8520",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5279,
+    "nombre": "LAS MELLIZAS",
+    "codigopostal": "8417",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 18573,
+    "nombre": "LAS PIEDRAS",
+    "codigopostal": "8134",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5096,
+    "nombre": "LENZANIYEN",
+    "codigopostal": "8424",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5097,
+    "nombre": "LOMA BLANCA",
+    "codigopostal": "8424",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5280,
+    "nombre": "LONCO VACA",
+    "codigopostal": "8417",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5281,
+    "nombre": "LOS COSTEROS",
+    "codigopostal": "8417",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5099,
+    "nombre": "LOS JUNCOS",
+    "codigopostal": "8422",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5100,
+    "nombre": "LOS MANANTIALES",
+    "codigopostal": "8422",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5101,
+    "nombre": "LOS MENUCOS",
+    "codigopostal": "8424",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5185,
+    "nombre": "LOS MOLINOS",
+    "codigopostal": "8360",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5282,
+    "nombre": "LOS PIRINEOS",
+    "codigopostal": "8417",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5283,
+    "nombre": "LOS QUEBRACHOS",
+    "codigopostal": "8417",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5216,
+    "nombre": "LOS REPOLLOS",
+    "codigopostal": "8430",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5352,
+    "nombre": "LOS SAUCES",
+    "codigopostal": "8307",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5186,
+    "nombre": "LUIS BELTRAN",
+    "codigopostal": "8361",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5242,
+    "nombre": "LUIS M ZAGAGLIA",
+    "codigopostal": "8503",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5354,
+    "nombre": "MAINQUE",
+    "codigopostal": "8326",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5217,
+    "nombre": "MALLIN AHOGADO",
+    "codigopostal": "8430",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5387,
+    "nombre": "MAMUEL CHOIQUE",
+    "codigopostal": "8415",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 19258,
+    "nombre": "MANCHA BLANCA",
+    "codigopostal": "8520",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5102,
+    "nombre": "MANCULLIQUE",
+    "codigopostal": "8422",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5103,
+    "nombre": "MAQUINCHAO",
+    "codigopostal": "8422",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5187,
+    "nombre": "MARIA CRISTINA",
+    "codigopostal": "8360",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5148,
+    "nombre": "MATA NEGRA",
+    "codigopostal": "8500",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 18589,
+    "nombre": "MEDANOS NEGROS",
+    "codigopostal": "8134",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5284,
+    "nombre": "MENCUE",
+    "codigopostal": "8417",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5437,
+    "nombre": "MENUCO VACA MUERTA",
+    "codigopostal": "8412",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 18797,
+    "nombre": "MICHI HONOCA",
+    "codigopostal": "8333",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5285,
+    "nombre": "MICHIHUAO",
+    "codigopostal": "8417",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5126,
+    "nombre": "MINISTRO RAMOS MEXIA",
+    "codigopostal": "8534",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5286,
+    "nombre": "MULANILLO",
+    "codigopostal": "8417",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5484,
+    "nombre": "MUSTERS",
+    "codigopostal": "8536",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5485,
+    "nombre": "NAHUEL NIYEU",
+    "codigopostal": "8536",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5287,
+    "nombre": "NAUPA HUEN",
+    "codigopostal": "8313",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5189,
+    "nombre": "NEGRO MUERTO",
+    "codigopostal": "8360",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5438,
+    "nombre": "NENEO RUCA",
+    "codigopostal": "8416",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5105,
+    "nombre": "NILUAN",
+    "codigopostal": "8422",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5243,
+    "nombre": "NUEVA CAROLINA",
+    "codigopostal": "8503",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5150,
+    "nombre": "NUEVO LEON",
+    "codigopostal": "8514",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5107,
+    "nombre": "OJOS DE AGUA EMBARCADERO FCGB",
+    "codigopostal": "8418",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5356,
+    "nombre": "PADRE ALEJANDRO STEFANELLI",
+    "codigopostal": "8332",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5486,
+    "nombre": "PAJA ALTA",
+    "codigopostal": "8536",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5288,
+    "nombre": "PALENQUE NIYEU",
+    "codigopostal": "8417",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5440,
+    "nombre": "PANQUEHUAO",
+    "codigopostal": "8412",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5441,
+    "nombre": "PASO CHACABUCO",
+    "codigopostal": "8401",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5357,
+    "nombre": "PASO CORDOVA",
+    "codigopostal": "8333",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5442,
+    "nombre": "PASO DE LOS MOLLES",
+    "codigopostal": "8412",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5443,
+    "nombre": "PASO DEL LIMAY",
+    "codigopostal": "8403",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5444,
+    "nombre": "PASO FLORES",
+    "codigopostal": "8403",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5190,
+    "nombre": "PASO LEZCANO",
+    "codigopostal": "8361",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5445,
+    "nombre": "PASO MIRANDA",
+    "codigopostal": "8403",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5192,
+    "nombre": "PASO PIEDRA",
+    "codigopostal": "8360",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5358,
+    "nombre": "PE",
+    "codigopostal": "8307",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5467,
+    "nombre": "PERCY H SCOTT",
+    "codigopostal": "8520",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5446,
+    "nombre": "PERITO MORENO",
+    "codigopostal": "8416",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5447,
+    "nombre": "PERITO MORENO ESTACION FCGR",
+    "codigopostal": "8400",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5448,
+    "nombre": "PICHI LEUFU",
+    "codigopostal": "8412",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5449,
+    "nombre": "PICHI LEUFU ABAJO",
+    "codigopostal": "8412",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5450,
+    "nombre": "PICHI LEUFU ARRIBA",
+    "codigopostal": "8412",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5415,
+    "nombre": "PICHI MAHUIDA",
+    "codigopostal": "8138",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5290,
+    "nombre": "PILAHUE",
+    "codigopostal": "8417",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5451,
+    "nombre": "PILCANIYEU",
+    "codigopostal": "8412",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5453,
+    "nombre": "PILQUINIYEU",
+    "codigopostal": "8416",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5452,
+    "nombre": "PILQUINIYEU DEL LIMAY",
+    "codigopostal": "8412",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5291,
+    "nombre": "PLANICIE DE JAGUELITO",
+    "codigopostal": "8333",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5151,
+    "nombre": "PLAYA BONITA",
+    "codigopostal": "8400",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5193,
+    "nombre": "POMONA",
+    "codigopostal": "8363",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5389,
+    "nombre": "PORTEZUELO",
+    "codigopostal": "8415",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 19261,
+    "nombre": "POZO MORO",
+    "codigopostal": "8520",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5468,
+    "nombre": "POZO SALADO",
+    "codigopostal": "8514",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5108,
+    "nombre": "PRAHUANIYEU",
+    "codigopostal": "8424",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5152,
+    "nombre": "PRIMERA ANGOSTURA",
+    "codigopostal": "8505",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5219,
+    "nombre": "PUERTO BLEST",
+    "codigopostal": "8411",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5220,
+    "nombre": "PUERTO OJO DE AGUA",
+    "codigopostal": "8409",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5469,
+    "nombre": "PUERTO SAN ANTONIO ESTE",
+    "codigopostal": "8521",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5223,
+    "nombre": "PUERTO TIGRE ISLA VICTORIA",
+    "codigopostal": "8400",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5194,
+    "nombre": "PUESTO FARIA",
+    "codigopostal": "8360",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5244,
+    "nombre": "PUESTO GAVI",
+    "codigopostal": "8503",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5488,
+    "nombre": "PUNTA DE AGUA",
+    "codigopostal": "8536",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5292,
+    "nombre": "QUEMPU NIYEU",
+    "codigopostal": "8332",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5110,
+    "nombre": "QUETREQUILE",
+    "codigopostal": "8418",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5454,
+    "nombre": "QUINTA PANAL",
+    "codigopostal": "8416",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5455,
+    "nombre": "RAYHUAO",
+    "codigopostal": "8412",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5391,
+    "nombre": "REPOLLOS",
+    "codigopostal": "8415",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5245,
+    "nombre": "RINCON DE GASTRE",
+    "codigopostal": "8503",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5195,
+    "nombre": "RINCONADA",
+    "codigopostal": "8360",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5392,
+    "nombre": "RIO CHICO",
+    "codigopostal": "8415",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5416,
+    "nombre": "RIO COLORADO",
+    "codigopostal": "8138",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 18576,
+    "nombre": "RIO SALADO",
+    "codigopostal": "8134",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5224,
+    "nombre": "RIO VILLEGAS",
+    "codigopostal": "8401",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5113,
+    "nombre": "RUCU LUAN",
+    "codigopostal": "8422",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5470,
+    "nombre": "SACO VIEJO",
+    "codigopostal": "8514",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5196,
+    "nombre": "SALITRAL NEGRO",
+    "codigopostal": "8363",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5471,
+    "nombre": "SAN ANTONIO OESTE",
+    "codigopostal": "8520",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 16388,
+    "nombre": "SAN CARLOS DE BARILOCHE",
+    "codigopostal": "8400",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5155,
+    "nombre": "SAN JAVIER",
+    "codigopostal": "8501",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5362,
+    "nombre": "SAN JORGE",
+    "codigopostal": "8324",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5246,
+    "nombre": "SAN JUAN",
+    "codigopostal": "8503",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5419,
+    "nombre": "SAN LEON",
+    "codigopostal": "8138",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5247,
+    "nombre": "SAN LORENZO",
+    "codigopostal": "8503",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5456,
+    "nombre": "SAN PEDRO",
+    "codigopostal": "8412",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5225,
+    "nombre": "SAN RAMON",
+    "codigopostal": "8416",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5248,
+    "nombre": "SAN SIMON",
+    "codigopostal": "8503",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5294,
+    "nombre": "SANTA ELENA",
+    "codigopostal": "8417",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5198,
+    "nombre": "SANTA GENOVEVA",
+    "codigopostal": "8363",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5199,
+    "nombre": "SANTA GREGORIA",
+    "codigopostal": "8364",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5201,
+    "nombre": "SANTA NICOLASA",
+    "codigopostal": "8364",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5363,
+    "nombre": "SARGENTO VIDAL",
+    "codigopostal": "8305",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5156,
+    "nombre": "SAUCE BLANCO",
+    "codigopostal": "8505",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5202,
+    "nombre": "SAUCE BLANCO",
+    "codigopostal": "8360",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5249,
+    "nombre": "SEGUNDA ANGOSTURA",
+    "codigopostal": "8501",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5128,
+    "nombre": "SIERRA COLORADA",
+    "codigopostal": "8534",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5490,
+    "nombre": "SIERRA DE LA VENTANA",
+    "codigopostal": "8521",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5472,
+    "nombre": "SIERRA GRANDE",
+    "codigopostal": "8532",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5491,
+    "nombre": "SIERRA PAILEMAN",
+    "codigopostal": "8521",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5492,
+    "nombre": "TENIENTE MAZA ESTACION FCGR",
+    "codigopostal": "8534",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5364,
+    "nombre": "TERCERA ZONA",
+    "codigopostal": "8336",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5250,
+    "nombre": "TRAVESIA CASTRO",
+    "codigopostal": "8503",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5131,
+    "nombre": "TRENETA",
+    "codigopostal": "8534",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5457,
+    "nombre": "TRES OJOS DE AGUAS",
+    "codigopostal": "8416",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5296,
+    "nombre": "TRICACO",
+    "codigopostal": "8332",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5114,
+    "nombre": "TROMENIYEU",
+    "codigopostal": "8422",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5251,
+    "nombre": "TTE GRAL EUSTAQUIO FRIAS",
+    "codigopostal": "8501",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 18657,
+    "nombre": "TUNQUELEN",
+    "codigopostal": "8409",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5115,
+    "nombre": "VACA LAUQUEN",
+    "codigopostal": "8422",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5493,
+    "nombre": "VALCHETA",
+    "codigopostal": "8536",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5297,
+    "nombre": "VALLE AZUL",
+    "codigopostal": "8336",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5365,
+    "nombre": "VALLE DE LOS ALAMOS",
+    "codigopostal": "8307",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5158,
+    "nombre": "VIEDMA",
+    "codigopostal": "8500",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5366,
+    "nombre": "VILLA ALBERDI",
+    "codigopostal": "8336",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5458,
+    "nombre": "VILLA LLANQUIN",
+    "codigopostal": "8401",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5494,
+    "nombre": "VILLA MANZANO",
+    "codigopostal": "8308",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5226,
+    "nombre": "VILLA MASCARDI",
+    "codigopostal": "8401",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5367,
+    "nombre": "VILLA REGINA",
+    "codigopostal": "8336",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5227,
+    "nombre": "VILLA TURISMO",
+    "codigopostal": "8430",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5123,
+    "nombre": "YAMINUE",
+    "codigopostal": "8534",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  },
+  {
+    "id": 5116,
+    "nombre": "YUQUINCHE",
+    "codigopostal": "8418",
+    "provincia": {
+      "id": 16,
+      "nombre": "Río Negro"
+    }
+  }
+]
