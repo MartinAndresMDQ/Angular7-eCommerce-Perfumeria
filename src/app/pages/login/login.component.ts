@@ -1,4 +1,4 @@
-import { Component, OnInit, Inject } from '@angular/core';
+import { Component, OnInit, Inject, ChangeDetectorRef } from '@angular/core';
 import { FormBuilder, FormControl, FormGroup, Validators } from '@angular/forms';
 import { Router } from '@angular/router';
 import { AuthService } from 'src/app/shared/services/auth.service';
@@ -18,6 +18,7 @@ export class LoginComponent implements OnInit {
   constructor(
     private formBuilder: FormBuilder,
     @Inject(AuthService) private authService: AuthService,
+    private ref:ChangeDetectorRef,
     private router: Router) {
     this.authService.logout();
   }
@@ -45,6 +46,8 @@ export class LoginComponent implements OnInit {
       (data: firebase.auth.UserCredential) => {
         if (data != null) {
           this.authService.userG = data.user;
+          this.authService.admin = this.authService.isAdmin();
+          this.ref.detectChanges();
           console.log(this.authService.userG)
           this.router.navigate(['/home']);
         }

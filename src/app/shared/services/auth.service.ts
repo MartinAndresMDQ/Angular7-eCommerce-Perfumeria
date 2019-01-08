@@ -18,9 +18,22 @@ export class AuthService {
 
   public user: Observable<firebase.User>;
   public userG: firebase.User = null;
+  public admin: boolean = false;
   calendarItems: any[] = [];
 
   refresh: Subject<any> = new Subject();
+
+  public admins: Array<any> = [
+    { id: 1, email: "martinandres987@gmail.com" }, { id: 2, email: "amilioranza@yahoo.com.ar" }
+  ]
+
+  isAdmin(): boolean {
+    let paso = false
+    if (this.userG && this.admins.findIndex(e => e.email == this.userG.email) != -1)
+      paso = true;
+    return paso
+  }
+
 
   constructor(public afAuth: AngularFireAuth) {
     this.user = afAuth.authState;

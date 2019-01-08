@@ -70,7 +70,7 @@
         </li>
       </ul>
     </li> -->
-    <li ><a [routerLink]="">{{ 'products' | translate }}</a>
+    <li><a [routerLink]="">{{ 'products' | translate }}</a>
       <ul>
         <li><a [routerLink]="'/home/one'">{{ 'fragance-men' | translate }}</a></li>
         <li><a [routerLink]="'/home/one'">{{ 'fragance-women' | translate }}</a></li>
@@ -223,14 +223,15 @@
         </li>
       </ul>
     </li>
-    
-    <li><a [routerLink]="">Administracion</a>
-      <ul>
-        <li><a [routerLink]="'/admin/clientes'">Clientes</a></li>
-        <li><a [routerLink]="'/admin/pedidos'">Pedidos</a></li>
-        <li><a [routerLink]="'/admin/productos'">Productos</a></li>
-        <li><a [routerLink]="'/admin/varios'">Varios</a></li>
-      </ul>
-    </li>
+    <!-- <template > -->
+      <li *ngIf="authService.admin"><a [routerLink]="">Administracion</a>
+        <ul >
+          <li><a [routerLink]="'/admin/clientes'">Clientes</a></li>
+          <li><a [routerLink]="'/admin/pedidos'">Pedidos</a></li>
+          <li><a [routerLink]="'/admin/productos'">Productos</a></li>
+          <li><a [routerLink]="'/admin/varios'">Varios</a></li>
+        </ul>
+      </li>
+    <!-- </template> -->
   </ul>
 </nav>
