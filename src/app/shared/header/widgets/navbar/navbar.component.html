@@ -224,14 +224,14 @@
       </ul>
     </li>
     <!-- <template > -->
-      <li *ngIf="authService.admin"><a [routerLink]="">Administracion</a>
-        <ul >
+    <li *ngIf="authService.admin"><a [routerLink]="'/admin'">Administracion</a>
+      <!-- <ul >
           <li><a [routerLink]="'/admin/clientes'">Clientes</a></li>
           <li><a [routerLink]="'/admin/pedidos'">Pedidos</a></li>
           <li><a [routerLink]="'/admin/productos'">Productos</a></li>
           <li><a [routerLink]="'/admin/varios'">Varios</a></li>
-        </ul>
-      </li>
+        </ul> -->
+    </li>
     <!-- </template> -->
   </ul>
 </nav>
